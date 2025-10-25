@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:29 UTC
-# Version: 2025.1025.1629.36
+# Last modified: 25 Oct 2025 20:23 UTC
+# Version: 2025.1025.2023.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 66360
+# Number of entries: 66357
 #
 local=/0.beer/
 local=/0.club/
@@ -39743,7 +39743,6 @@ local=/meendocash.com/
 local=/meenetiy.com/
 local=/meenoachaihou.com/
 local=/meepwrite.com/
-local=/meerihoh.net/
 local=/meesisheethu.com/
 local=/meesuthogoa.net/
 local=/meet-flirts.com/
@@ -48610,7 +48609,6 @@ local=/pushads.biz/
 local=/pushadvert.bid/
 local=/pushaffiliate.net/
 local=/pushagim.com/
-local=/pushails.com/
 local=/pushamir.com/
 local=/pushance.com/
 local=/pushanert.com/
@@ -65781,7 +65779,6 @@ local=/zeelooshashey.net/
 local=/zeenko.shop/
 local=/zeenm.com/
 local=/zeepartners.com/
-local=/zeeshith.net/
 local=/zeetiptooglais.com/
 local=/zeeza.com/
 local=/zeftoobsoats.com/

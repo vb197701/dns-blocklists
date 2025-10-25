@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:31 UTC
-# Version: 2025.1025.1631.49
+# Last modified: 25 Oct 2025 20:25 UTC
+# Version: 2025.1025.2025.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13994
+# Number of entries: 13993
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13706,7 +13706,6 @@ local=/worldkite.org/
 local=/wos-tech.de/
 local=/wotoba.de/
 local=/woumc.com/
-local=/wovara.shop/
 local=/wowperucken.de/
 local=/wpautopecas.com/
 local=/wps-register.com/

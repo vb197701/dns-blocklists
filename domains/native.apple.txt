@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:53 UTC
-# Version: 2025.1017.2253.13
+# Last modified: 25 Oct 2025 19:04 UTC
+# Version: 2025.1025.1904.10
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 100
+# Number of entries: 102
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -25,6 +25,7 @@ securemetrics.v.aaplimg.com
 securemvt.v.aaplimg.com
 smoot-feedback.v.aaplimg.com
 supportmetrics.v.aaplimg.com
+xp.v.aaplimg.com
 ab.apple.com.akadns.net
 cstat-lb.apple.com.akadns.net
 diagassets-lb.apple.com.akadns.net
@@ -38,6 +39,7 @@ iad-apple.com.akadns.net
 skadnetwork.iad-apple.com.akadns.net
 partiality.itunes-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
+xp-cdn-lb.itunes-apple.com.akadns.net
 searchads.lb-apple.com.akadns.net
 advertising.apple.com
 advp.apple.com

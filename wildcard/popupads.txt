@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:29 UTC
-# Version: 2025.1025.1629.36
+# Last modified: 25 Oct 2025 20:23 UTC
+# Version: 2025.1025.2023.02
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 66360
+# Number of entries: 66357
 #
 *.0.beer
 *.0.club
@@ -39743,7 +39743,6 @@
 *.meenetiy.com
 *.meenoachaihou.com
 *.meepwrite.com
-*.meerihoh.net
 *.meesisheethu.com
 *.meesuthogoa.net
 *.meet-flirts.com
@@ -48610,7 +48609,6 @@
 *.pushadvert.bid
 *.pushaffiliate.net
 *.pushagim.com
-*.pushails.com
 *.pushamir.com
 *.pushance.com
 *.pushanert.com
@@ -65781,7 +65779,6 @@
 *.zeenko.shop
 *.zeenm.com
 *.zeepartners.com
-*.zeeshith.net
 *.zeetiptooglais.com
 *.zeeza.com
 *.zeftoobsoats.com
