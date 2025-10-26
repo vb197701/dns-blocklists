@@ -7,17 +7,20 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Oct 2025 16:47 UTC
-! Version: 2025.1025.1647.05
+! Last modified: 26 Oct 2025 10:25 UTC
+! Version: 2025.1026.1025.28
 ! Syntax: AdBlock
-! Number of entries: 293
+! Number of entries: 337
 !
+||ns.00dani.me^
 ||httpdns.music.163.com^
 ||1and1-dns.de^
 ||233py.com^
 ||doh.360.cn^
+||dot.360.cn^
 ||3dns.eu^
 ||doh.42l.fr^
+||ns2.4netguides.org^
 ||8888.google^
 ||doh.dns.apple.com.v.aaplimg.com^
 ||adl.adfilter.net^
@@ -38,6 +41,9 @@
 ||doh.dns.apple.com^
 ||applied-privacy.net^
 ||doh.appliedprivacy.net^
+||nsec.arnor.org^
+||dohtrial.att.net^
+||doh1.b-cdn.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -61,6 +67,7 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||callies-online.site^
+||doh.captnemo.in^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
 ||canadianshield.cira.ca^
@@ -71,6 +78,7 @@
 ||cloudflare-gateway.com^
 ||api.cloudflareclient.com^
 ||cloudflareresolve.com^
+||ns.nerdytechgeeks.co.za^
 ||sbdns.co.in^
 ||dns.weixin.qq.com.cn^
 ||commons.host^
@@ -78,16 +86,22 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||cubedns.com^
+||ns.data.haus^
 ||httpdns.platform.dbankcloud.com^
 ||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||dns.decloudus.com^
+||doh.defaultroutes.de^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
+||doh.disconnect.app^
+||fdns1.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -109,9 +123,11 @@
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^
+||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
+||dns.dnswarden.com^
 ||doh.beauty^
 ||doh.buzz^
 ||doh.li^
@@ -121,6 +137,7 @@
 ||domain.name^
 ||takhtakh.domyah.net^
 ||dot.pub^
+||ns1.dotls.org^
 ||dotserver.douyucdn.cn^
 ||osefcorp.duckdns.org^
 ||tuandns.duckdns.org^
@@ -128,9 +145,14 @@
 ||dupatruwi22.fun^
 ||eth.link^
 ||opennic1.eth-services.de^
+||rdns.faelix.net^
+||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
+||dot.ffmuc.net^
 ||fidelius.top^
+||ns1.flodns.net^
+||ns2.flodns.net^
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
@@ -152,6 +174,7 @@
 ||mask.icloud.com^
 ||mask-h2.icloud.com^
 ||iij.jp^
+||noads.imbuffering.com^
 ||http-dns.imoim.net^
 ||imperio.top^
 ||apidns.kwd.inkuai.com^
@@ -170,6 +193,7 @@
 ||hdns.ksyun.com^
 ||landerbrauver.ru^
 ||lastentarvike.fi^
+||eu1.dns.lavate.ch^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
@@ -182,27 +206,33 @@
 ||httpdnsmultiapi.meituan.com^
 ||httpdnsmultiapivip.meituan.com^
 ||testaghome.meshkov.info^
+||netcup.mismat.ch^
 ||morbitzer.de^
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||muxyuji.ru^
 ||myadg.ru^
 ||chungocoai.name.vn^
+||nl-dro-w-f-1.nashkan.net^
+||nl-dro-w-p-1.nashkan.net^
 ||dns.aa.net.uk^
 ||ns.net.kg^
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||odvr.nic.cz^
 ||nickcan.xyz^
 ||nicsezcheckfbi.gov^
 ||dns.njal.la^
 ||sink.nolo.ltd^
+||dns.notjakob.com^
 ||ns3.com^
 ||ns3.link^
 ||ntwrkh.pro^
+||ns.nwps.fi^
 ||o1.lt^
 ||one.one.one.one^
 ||tw2.ooroot.com^
@@ -215,11 +245,17 @@
 ||resolver2.opendns.com^
 ||resolver2-fs.opendns.com^
 ||sandbox.opendns.com^
+||ns1.opennameserver.org^
+||ns2.opennameserver.org^
+||ns3.opennameserver.org^
+||ns4.opennameserver.org^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
+||rpz-public-resolver1.rrdns.pch.net^
 ||pluton.plan9-dns.com^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
+||doh.powerdns.org^
 ||sundalandia.pp.ua^
 ||sweden.privacy-dns.pw^
 ||project-evoex.de^
@@ -229,7 +265,9 @@
 ||dns.weixin.qq.com^
 ||paydns.weixin.qq.com^
 ||udns.weixin.qq.com^
+||ns1.qquack.org^
 ||dns.quad9.net^
+||dns-nosec.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
@@ -245,6 +283,7 @@
 ||rumpelsepp.org^
 ||safeservedns.com^
 ||schimtar.com^
+||doh.seby.io^
 ||doh-2.seby.io^
 ||shalenkov.dev^
 ||sitdns.com^
@@ -260,6 +299,8 @@
 ||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
+||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||homenet.telecomitalia.it^
 ||doh.tiar.app^
@@ -273,6 +314,7 @@
 ||sdkconfig.tlivedns.com^
 ||tlz.asia^
 ||toaster.lol^
+||nsc.torgues.net^
 ||tri-dns.net^
 ||tributh.net^
 ||tujenasnaszato.xyz^
@@ -292,6 +334,8 @@
 ||paydns.wechatpay.cn^
 ||dns.weibo.cn^
 ||wikimedia-dns.org^
+||ns2.wuyouss.com^
+||ns3.wuyouss.com^
 ||wyx.cloud^
 ||xenergy.cc^
 ||doh.xfinity.com^

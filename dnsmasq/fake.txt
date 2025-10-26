@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 20:25 UTC
-# Version: 2025.1025.2025.23
+# Last modified: 26 Oct 2025 09:25 UTC
+# Version: 2025.1026.0925.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13993
+# Number of entries: 13988
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1327,7 +1327,6 @@ local=/besseregesunheit.com/
 local=/best-apotheke.online/
 local=/best-bike-outdoor.com/
 local=/best-camping-deals.com/
-local=/best-cheap-pharmacy.com/
 local=/best-deals24.com/
 local=/best-elekt.com/
 local=/best-garden24.de/
@@ -2287,6 +2286,7 @@ local=/chillgod.com/
 local=/chillisy-shop.shop/
 local=/chilllady.com/
 local=/chillup.at/
+local=/china-hifi-audio.com/
 local=/chinesecanadianvoice.ca/
 local=/chooseridge.com/
 local=/chordiom.com/
@@ -2715,6 +2715,7 @@ local=/corona-testkit.shop/
 local=/corporationw.com/
 local=/corralwestboot.com/
 local=/correspondine.com/
+local=/correspondu.com/
 local=/corsaircontrol.pro/
 local=/corteiz.co/
 local=/cosmetic-bulang.shop/
@@ -3597,7 +3598,6 @@ local=/ecofuture-handel24.de/
 local=/ecogisolaire.com/
 local=/ecomaher.com/
 local=/econoechomart.com/
-local=/econoessencemart.com/
 local=/economicp.com/
 local=/economicq.com/
 local=/economix.io/
@@ -6101,7 +6101,6 @@ local=/hot-mystery-deals.xyz/
 local=/hot-shopping.com/
 local=/hotchillies.shop/
 local=/hotel-brand-promotion.com/
-local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
@@ -6212,7 +6211,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -6379,7 +6377,6 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
-local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -7985,7 +7982,6 @@ local=/masonlinda.com/
 local=/masorid.shop/
 local=/masri-trans.de/
 local=/massimolutti.de/
-local=/massive-deals.com/
 local=/masterbaushop.de/
 local=/mastercareerlink.online/
 local=/masterofmalteu.shop/
@@ -8203,6 +8199,7 @@ local=/mercapool.de/
 local=/mercator.direct/
 local=/mercedes-parts-and-more.de/
 local=/mercimunich.de/
+local=/mergpath.com/
 local=/meriaformation.com/
 local=/meridianfinance.pro/
 local=/meritdeteno.com/
@@ -9056,7 +9053,6 @@ local=/northvapeusa.com/
 local=/northwaveoff.com/
 local=/northwavestore.com/
 local=/norvatix.io/
-local=/norwayhotel.net/
 local=/not-bad.shop/
 local=/not-schlosser.at/
 local=/notationi.com/
@@ -11061,7 +11057,6 @@ local=/sensodecken.de/
 local=/sensualsale.com/
 local=/senzza.de/
 local=/separaten.com/
-local=/sepkicks.com/
 local=/seprun.com/
 local=/sepwalk.com/
 local=/serenadeutschland.de/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 08:13 UTC
-# Version: 2025.1025.0813.56
+# Last modified: 26 Oct 2025 09:13 UTC
+# Version: 2025.1026.0913.53
 # Syntax: Domains (without subdomains)
-# Number of entries: 880
+# Number of entries: 888
 #
 l.1mp.ru
 t.1und1.de
@@ -208,6 +208,7 @@ adservice.google.com.np
 adservice.google.com.pe
 adservice.google.com.ph
 adservice.google.com.pk
+adservice.google.com.pr
 adservice.google.com.tr
 adservice.google.com.tw
 adservice.google.com.ua
@@ -292,6 +293,7 @@ suite36.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
 suite40-cf.emarsys.net
+suite41.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
 suite52.emarsys.net
@@ -326,6 +328,7 @@ s11.exacttarget.com
 s12.exacttarget.com
 s13.exacttarget.com
 s4.exacttarget.com
+s5.exacttarget.com
 s50.exacttarget.com
 s51.exacttarget.com
 s6.exacttarget.com
@@ -374,6 +377,7 @@ adservice.google.de
 adservice.google.dk
 adservice.google.es
 adservice.google.fr
+adservice.google.ga
 adservice.google.gr
 adservice.google.hr
 adservice.google.ie
@@ -382,6 +386,7 @@ adservice.google.lt
 adservice.google.nl
 adservice.google.no
 adservice.google.pl
+adservice.google.ps
 adservice.google.ro
 adservice.google.ru
 adservice.google.se
@@ -512,6 +517,7 @@ mkto-ab280067.com
 mkto-ab280126.com
 mkto-ab300154.com
 mkto-ab310115.com
+mkto-ab330062.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab420081.com
@@ -544,6 +550,7 @@ mkto-g0180.com
 mkto-j0126.com
 mkto-lon030291.com
 mkto-lon040152.com
+mkto-lon080006.com
 mkto-lon090082.com
 mkto-lon100059.com
 mkto-mlm10010008.com
@@ -693,6 +700,7 @@ rdevbseab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
 rfn9k5jab.cc.rs6.net
 rfnptk8ab.cc.rs6.net
+rh5utc9ab.cc.rs6.net
 ripon4tab.cc.rs6.net
 rjpz4ucab.cc.rs6.net
 rkgbvycab.cc.rs6.net

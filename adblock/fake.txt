@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Oct 2025 20:25 UTC
-! Version: 2025.1025.2025.23
+! Last modified: 26 Oct 2025 09:25 UTC
+! Version: 2025.1026.0925.17
 ! Syntax: AdBlock
-! Number of entries: 13993
+! Number of entries: 13988
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1328,7 +1328,6 @@
 ||best-apotheke.online^
 ||best-bike-outdoor.com^
 ||best-camping-deals.com^
-||best-cheap-pharmacy.com^
 ||best-deals24.com^
 ||best-elekt.com^
 ||best-garden24.de^
@@ -2288,6 +2287,7 @@
 ||chillisy-shop.shop^
 ||chilllady.com^
 ||chillup.at^
+||china-hifi-audio.com^
 ||chinesecanadianvoice.ca^
 ||chooseridge.com^
 ||chordiom.com^
@@ -2716,6 +2716,7 @@
 ||corporationw.com^
 ||corralwestboot.com^
 ||correspondine.com^
+||correspondu.com^
 ||corsaircontrol.pro^
 ||corteiz.co^
 ||cosmetic-bulang.shop^
@@ -3598,7 +3599,6 @@
 ||ecogisolaire.com^
 ||ecomaher.com^
 ||econoechomart.com^
-||econoessencemart.com^
 ||economicp.com^
 ||economicq.com^
 ||economix.io^
@@ -6102,7 +6102,6 @@
 ||hot-shopping.com^
 ||hotchillies.shop^
 ||hotel-brand-promotion.com^
-||hotel-ds.com^
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
@@ -6213,7 +6212,6 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
-||hyip.com^
 ||hype-handel.de^
 ||hype-hoodies.com^
 ||hypelaced.co^
@@ -6380,7 +6378,6 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
-||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -7986,7 +7983,6 @@
 ||masorid.shop^
 ||masri-trans.de^
 ||massimolutti.de^
-||massive-deals.com^
 ||masterbaushop.de^
 ||mastercareerlink.online^
 ||masterofmalteu.shop^
@@ -8204,6 +8200,7 @@
 ||mercator.direct^
 ||mercedes-parts-and-more.de^
 ||mercimunich.de^
+||mergpath.com^
 ||meriaformation.com^
 ||meridianfinance.pro^
 ||meritdeteno.com^
@@ -9057,7 +9054,6 @@
 ||northwaveoff.com^
 ||northwavestore.com^
 ||norvatix.io^
-||norwayhotel.net^
 ||not-bad.shop^
 ||not-schlosser.at^
 ||notationi.com^
@@ -11062,7 +11058,6 @@
 ||sensualsale.com^
 ||senzza.de^
 ||separaten.com^
-||sepkicks.com^
 ||seprun.com^
 ||sepwalk.com^
 ||serenadeutschland.de^
