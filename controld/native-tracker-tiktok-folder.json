@@ -1919,6 +1919,13 @@
       }
     },
     {
+      "PK": "tnc0-normal-alisg.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tnc0-normal-my.tiktokv.com",
       "action": {
         "do": 0,
@@ -2095,6 +2102,13 @@
     },
     {
       "PK": "tnc19-normal-useast8.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tnc19-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

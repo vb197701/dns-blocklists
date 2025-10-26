@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 08:55 UTC
-# Version: 2025.1024.0855.59
+# Last modified: 26 Oct 2025 19:31 UTC
+# Version: 2025.1026.1931.25
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 340
+# Number of entries: 342
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -280,6 +280,7 @@
 0.0.0.0 rtlog58-normal-useast2a.tiktokv.com
 0.0.0.0 rtlog58-normal-ycru.tiktokv.com
 0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc0-normal-alisg.tiktokv.com
 0.0.0.0 tnc0-normal-my.tiktokv.com
 0.0.0.0 tnc0-normal-sg1.tiktokv.com
 0.0.0.0 tnc0-normal-useast1a.tiktokv.com
@@ -303,6 +304,7 @@
 0.0.0.0 tnc19-normal-no1a.tiktokv.eu
 0.0.0.0 tnc19-normal-useast5.tiktokv.us
 0.0.0.0 tnc19-normal-useast8.tiktokv.us
+0.0.0.0 tnc19-normal-useastred.tiktokv.eu
 0.0.0.0 tnc31-normal-zr-useast1a.tiktokv.com
 0.0.0.0 tnc31-platform-alisg.tiktokv.com
 0.0.0.0 tnc31-platform-useast1a.tiktokv.com

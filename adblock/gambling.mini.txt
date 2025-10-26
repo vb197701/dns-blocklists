@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Oct 2025 10:19 UTC
-! Version: 2025.1026.1019.35
+! Last modified: 26 Oct 2025 22:21 UTC
+! Version: 2025.1026.2221.43
 ! Syntax: AdBlock
-! Number of entries: 43833
+! Number of entries: 43816
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -1221,7 +1221,6 @@
 ||1xbet298347.casino^
 ||1xbet439.casino^
 ||1xbet457.casino^
-||1xbet458.casino^
 ||1xbet52.com^
 ||1xbet53.com^
 ||1xbet54.com^
@@ -2376,7 +2375,6 @@
 ||46bitcasino365.com^
 ||46ebets.com^
 ||46merryph.vip^
-||474casinomilyon.com^
 ||4782bets10.com^
 ||4790.info^
 ||47bitcasino365.com^
@@ -4867,7 +4865,6 @@
 ||aliasbets.xyz^
 ||aliasshare.shop^
 ||alibet.net^
-||alicebluecandle.com^
 ||aliciapatterson.org^
 ||alienabets.xyz^
 ||alightbets.xyz^
@@ -5617,7 +5614,6 @@
 ||arkada57.casino^
 ||arkada600.casino^
 ||arkada602.casino^
-||arkada604.casino^
 ||arkada63.casino^
 ||arkada645.casino^
 ||arkada659.casino^
@@ -6299,7 +6295,6 @@
 ||banda209.casino^
 ||banda248.casino^
 ||banda363.casino^
-||banda395.casino^
 ||banda77.casino^
 ||banda822.casino^
 ||bandacasino.cfd^
@@ -7627,7 +7622,6 @@
 ||betlabelx.com^
 ||betlbl.com^
 ||betlion.ke^
-||betlistcasino.com^
 ||betlive.com^
 ||betlivecasino.com^
 ||betluckmakgame.org^
@@ -9081,7 +9075,6 @@
 ||bmforum.ru^
 ||bmsoto.xyz^
 ||bmsusu.xyz^
-||bmtogel.com^
 ||bmw55casino.net^
 ||bmwee.com^
 ||bnbblackjack.xyz^
@@ -9137,7 +9130,6 @@
 ||bofcasino-casino.nl^
 ||bogartcasino.fi^
 ||bogartcasino.nz^
-||bogartcasino.uk^
 ||bogemarende.xyz^
 ||bogetenang.xyz^
 ||bohidc.com^
@@ -20550,7 +20542,6 @@
 ||goldexcasino-fr.com^
 ||goldexcasino-norway.com^
 ||goldfishcasinosloth.com^
-||goldfishcasinoslotsg.com^
 ||goldfishcasinov.com^
 ||goldfishka.com^
 ||goldfishka.website^
@@ -21543,7 +21534,6 @@
 ||holiganbets1.com^
 ||holiganbets112.com^
 ||holiganbetss-erolss3.net^
-||holiganbetstake.com^
 ||holiganbtcasino.com^
 ||holiganbtgrscasino.com^
 ||hollaafricacasinow.com^
@@ -23058,7 +23048,6 @@
 ||jojo-onlinecasino.com^
 ||jojobet.com^
 ||jojobets953.com^
-||jojobetstake.com^
 ||jojodios.com^
 ||jojoy.io^
 ||jokabet.com^
@@ -24285,7 +24274,6 @@
 ||klpa.xyz^
 ||klra.xyz^
 ||klubperdana.xyz^
-||klukvennyysherbetserialmro.ru^
 ||klwin.casino^
 ||fcpodillya.km.ua^
 ||km1888866b.com^
@@ -24421,7 +24409,6 @@
 ||kometa04.casino^
 ||kometa595.casino^
 ||kometa597.casino^
-||kometa598.casino^
 ||kometacasino-91.buzz^
 ||kometacasino-betting25.top^
 ||kometacasino-bonus22.top^
@@ -24946,7 +24933,6 @@
 ||lazybuguru.lt^
 ||lazywin888.bio^
 ||lbarchik-slots.com^
-||lbharrisfence.com^
 ||lc88bets.com^
 ||lcb.org^
 ||lckybm7.com^
@@ -27473,7 +27459,6 @@
 ||mellstroy124.casino^
 ||mellstroy13.casino^
 ||mellstroy136.casino^
-||mellstroy16.casino^
 ||mellstroy4.casino^
 ||mellstroy41.casino^
 ||mellstroy9.casino^
@@ -33664,7 +33649,6 @@
 ||pusulabet-casino2025.vip^
 ||pusulabet-casinobahis.com^
 ||pusulabets11.vip^
-||pusulabetsgiris.com^
 ||pusulabt-casinobahis.com^
 ||pusulabtcasinobahs.com^
 ||putar-tigerslot168.online^
@@ -43161,7 +43145,6 @@
 ||xcitingslots.com^
 ||xcuz.me^
 ||xdewa.bio^
-||xdviral.com^
 ||xemdagacampuchia.com^
 ||xgamescasino.online^
 ||xgxbets.com^

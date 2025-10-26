@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 10:19 UTC
-# Version: 2025.1026.1019.05
+# Last modified: 26 Oct 2025 22:21 UTC
+# Version: 2025.1026.2221.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 85411
+# Number of entries: 85394
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -1766,7 +1766,6 @@
 *.1xbet430x.casino
 *.1xbet439.casino
 *.1xbet457.casino
-*.1xbet458.casino
 *.1xbet52.com
 *.1xbet53.com
 *.1xbet54.com
@@ -3607,7 +3606,6 @@
 *.472istanbulcasino.com
 *.473istanbulcasino.com
 *.474betsport.com
-*.474casinomilyon.com
 *.474istanbulcasino.com
 *.47596y.com
 *.475istanbulcasino.com
@@ -8088,7 +8086,6 @@
 *.alibets.xyz
 *.alicasino.xyz
 *.alicebets.xyz
-*.alicebluecandle.com
 *.alicecasino.xyz
 *.aliciapatterson.org
 *.alienabets.xyz
@@ -9454,7 +9451,6 @@
 *.arkada57.casino
 *.arkada600.casino
 *.arkada602.casino
-*.arkada604.casino
 *.arkada609.casino
 *.arkada63.casino
 *.arkada645.casino
@@ -10776,7 +10772,6 @@
 *.banda3573.casino
 *.banda363.casino
 *.banda392.casino
-*.banda395.casino
 *.banda501.casino
 *.banda510.casino
 *.banda555.casino
@@ -13230,7 +13225,6 @@
 *.betlabelx.com
 *.betlbl.com
 *.betlion.ke
-*.betlistcasino.com
 *.betlive.com
 *.betlive-casino.net
 *.betlivecasino.com
@@ -16432,7 +16426,6 @@
 *.bmplus.world
 *.bmsoto.xyz
 *.bmsusu.xyz
-*.bmtogel.com
 *.bmw55casino.net
 *.bmw7700.com
 *.bmwee.com
@@ -16539,7 +16532,6 @@
 *.bofcasino39.com
 *.bogartcasino.fi
 *.bogartcasino.nz
-*.bogartcasino.uk
 *.bogemarende.xyz
 *.bogerolex.xyz
 *.bogetenang.xyz
@@ -40137,7 +40129,6 @@
 *.goldfish-casino-slotsz.com
 *.goldfish-ka-casino-play-1.ru
 *.goldfishcasinosloth.com
-*.goldfishcasinoslotsg.com
 *.goldfishcasinoslotsz.com
 *.goldfishcasinov.com
 *.goldfishka.com
@@ -41802,7 +41793,6 @@
 *.holiganbetss-erolss3.net
 *.holiganbetss-grs.net
 *.holiganbetss-grss1.net
-*.holiganbetstake.com
 *.holiganbtcasino.com
 *.holiganbtgrscasino.com
 *.holigancasinomobil.com
@@ -44768,7 +44758,6 @@
 *.jojobets952.com
 *.jojobets953.com
 *.jojobetss.com
-*.jojobetstake.com
 *.jojodios.com
 *.jojoy.io
 *.joka-casino-au.com
@@ -47170,7 +47159,6 @@
 *.klukvennyisherbetsezonlpe.ru
 *.klukvennyisherbetsezonstm.ru
 *.klukvennyisherbetsezonvoa.ru
-*.klukvennyysherbetserialmro.ru
 *.kluxoscasino.com
 *.klv7pokerdom.com
 *.klwin.casino
@@ -47425,7 +47413,6 @@
 *.kometa587.casino
 *.kometa595.casino
 *.kometa597.casino
-*.kometa598.casino
 *.kometacasino.xyz
 *.kometacasino-91.buzz
 *.kometacasino-betting25.top
@@ -48393,7 +48380,6 @@
 *.lazyjonescasino.com
 *.lazywin888.bio
 *.lbarchik-slots.com
-*.lbharrisfence.com
 *.lc88bets.com
 *.lcb.org
 *.lcbet.net
@@ -53265,7 +53251,6 @@
 *.mellstroy13.casino
 *.mellstroy136.casino
 *.mellstroy15.casino
-*.mellstroy16.casino
 *.mellstroy2.casino
 *.mellstroy2025.casino
 *.mellstroy3.casino
@@ -65841,7 +65826,6 @@
 *.pusulabet-casino2025.vip
 *.pusulabet-casinobahis.com
 *.pusulabets11.vip
-*.pusulabetsgiris.com
 *.pusulabetsz.com
 *.pusulabt-casinobahis.com
 *.pusulabtcasinobahs.com
@@ -84150,7 +84134,6 @@
 *.xdewa.bio
 *.xdewa.poker
 *.xdsq.xyz
-*.xdviral.com
 *.xdwtw.com
 *.xecbets.xyz
 *.xeccasino.xyz

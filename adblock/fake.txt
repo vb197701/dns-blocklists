@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Oct 2025 09:25 UTC
-! Version: 2025.1026.0925.17
+! Last modified: 26 Oct 2025 21:25 UTC
+! Version: 2025.1026.2125.09
 ! Syntax: AdBlock
-! Number of entries: 13988
+! Number of entries: 13993
 !
 ||01broker.com^
 ||01crypto.com^
@@ -95,6 +95,7 @@
 ||abigfishing.com^
 ||abilityne.com^
 ||abipartyxxl.de^
+||abm-industrie.com^
 ||abodespot.com^
 ||aboveinvesting.pro^
 ||abrahamr.com^
@@ -4963,6 +4964,7 @@
 ||geargalaxy.de^
 ||gearshifted.com^
 ||gebaeudevorsorge.de^
+||gebra-gartenhandel.de^
 ||gebuhr-tech.de^
 ||gebuyers.com^
 ||gefellerts.de^
@@ -7630,6 +7632,7 @@
 ||lorenz-kurreisen.de^
 ||lorenzettibrasil-vendas.com^
 ||lorenzzeetis.shop^
+||lori24.de^
 ||loricole.shop^
 ||loriellebeauty.de^
 ||lorifygleam.com^
@@ -12593,6 +12596,7 @@
 ||transfertrain.de^
 ||transformeri.com^
 ||transieny.com^
+||transmarketconssrl.com^
 ||transparentk.com^
 ||transparentw.com^
 ||trapple.de^
@@ -13703,6 +13707,7 @@
 ||wotoba.de^
 ||woumc.com^
 ||wowperucken.de^
+||wp-welt-pelletsgmbh.de^
 ||wpautopecas.com^
 ||wps-register.com^
 ||wrestle-site.com^

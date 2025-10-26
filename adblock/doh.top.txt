@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Oct 2025 10:25 UTC
-! Version: 2025.1026.1025.28
+! Last modified: 26 Oct 2025 22:27 UTC
+! Version: 2025.1026.2227.29
 ! Syntax: AdBlock
-! Number of entries: 337
+! Number of entries: 338
 !
 ||ns.00dani.me^
 ||httpdns.music.163.com^
@@ -337,6 +337,7 @@
 ||ns2.wuyouss.com^
 ||ns3.wuyouss.com^
 ||wyx.cloud^
+||xbcpb668.com^
 ||xenergy.cc^
 ||doh.xfinity.com^
 ||doh2.gslb2.xfinity.com^

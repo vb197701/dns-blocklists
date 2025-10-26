@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:46 UTC
-# Version: 2025.1025.1646.26
+# Last modified: 26 Oct 2025 22:27 UTC
+# Version: 2025.1026.2227.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3877
+# Number of entries: 3878
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3760,6 +3760,7 @@
 0.0.0.0 adguard.xandersalarie.com
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 adb-wan.xaoimoon.fr
+0.0.0.0 xbcpb668.com
 0.0.0.0 dns.xcapenet.ru
 0.0.0.0 dns2.xcapenet.ru
 0.0.0.0 doh.xcom.pro

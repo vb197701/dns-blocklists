@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 10:25 UTC
-# Version: 2025.1026.1025.33
+# Last modified: 26 Oct 2025 22:27 UTC
+# Version: 2025.1026.2227.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6224
+# Number of entries: 6225
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -6057,6 +6057,7 @@ local=/x9fnzrtl4x8pynsf.com/
 local=/adguard.xandersalarie.com/
 local=/adb-home.xaoimoon.fr/
 local=/adb-wan.xaoimoon.fr/
+local=/xbcpb668.com/
 local=/dns.xcapenet.ru/
 local=/dns2.xcapenet.ru/
 local=/learn.xcloud.ar/

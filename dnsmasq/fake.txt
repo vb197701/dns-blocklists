@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 09:25 UTC
-# Version: 2025.1026.0925.17
+# Last modified: 26 Oct 2025 21:25 UTC
+# Version: 2025.1026.2125.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13988
+# Number of entries: 13993
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -94,6 +94,7 @@ local=/abigailholman.shop/
 local=/abigfishing.com/
 local=/abilityne.com/
 local=/abipartyxxl.de/
+local=/abm-industrie.com/
 local=/abodespot.com/
 local=/aboveinvesting.pro/
 local=/abrahamr.com/
@@ -4962,6 +4963,7 @@ local=/gearfactory.pro/
 local=/geargalaxy.de/
 local=/gearshifted.com/
 local=/gebaeudevorsorge.de/
+local=/gebra-gartenhandel.de/
 local=/gebuhr-tech.de/
 local=/gebuyers.com/
 local=/gefellerts.de/
@@ -7629,6 +7631,7 @@ local=/loreeskin.de/
 local=/lorenz-kurreisen.de/
 local=/lorenzettibrasil-vendas.com/
 local=/lorenzzeetis.shop/
+local=/lori24.de/
 local=/loricole.shop/
 local=/loriellebeauty.de/
 local=/lorifygleam.com/
@@ -12592,6 +12595,7 @@ local=/transferk.com/
 local=/transfertrain.de/
 local=/transformeri.com/
 local=/transieny.com/
+local=/transmarketconssrl.com/
 local=/transparentk.com/
 local=/transparentw.com/
 local=/trapple.de/
@@ -13702,6 +13706,7 @@ local=/wos-tech.de/
 local=/wotoba.de/
 local=/woumc.com/
 local=/wowperucken.de/
+local=/wp-welt-pelletsgmbh.de/
 local=/wpautopecas.com/
 local=/wps-register.com/
 local=/wrestle-site.com/
