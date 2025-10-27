@@ -47,6 +47,13 @@ g004-sle-us-cmaf-prd-fy.cdn.peacocktv.com
 g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com
 g007-sle-us-cmaf-prd-fy.cdn.peacocktv.com
 g008-sle-us-cmaf-prd-fy.cdn.peacocktv.com
+# https://github.com/hagezi/dns-blocklists/issues/7323#issuecomment-3449230542
+*-ak.cdn.peacocktv.com
+*-cc.cdn.peacocktv.com
+*-cf.cdn.peacocktv.com
+*-fy.cdn.peacocktv.com
+*-mc.cdn.peacocktv.com
+*-qw.cdn.peacocktv.com
 
 # https://github.com/AdguardTeam/AdguardFilters/issues/215044
 count.ing.de

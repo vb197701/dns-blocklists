@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 21:26 UTC
-# Version: 2025.1026.2126.44
+# Last modified: 27 Oct 2025 04:18 UTC
+# Version: 2025.1027.0418.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8702
+# Number of entries: 8701
 #
 local=/0.gp/
 local=/00m.in/
@@ -5618,7 +5618,6 @@ local=/rcknr.io/
 local=/rcl.ink/
 local=/rcld.io/
 local=/rd.gt/
-local=/rd-aa.today/
 local=/rd-client.com/
 local=/rdar.li/
 local=/rdbl.co/

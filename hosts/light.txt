@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 21:59 UTC
-# Version: 2025.1026.2159.53
+# Last modified: 27 Oct 2025 04:44 UTC
+# Version: 2025.1027.0444.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 85256
+# Number of entries: 85282
 #
 0.0.0.0 0000552bb0.shop
 0.0.0.0 0000552bb1.shop
@@ -14026,6 +14026,7 @@
 0.0.0.0 almoneraugite.com
 0.0.0.0 almostmy.com
 0.0.0.0 almstda.tv
+0.0.0.0 alnascharisms.com
 0.0.0.0 aloatchuraimti.net
 0.0.0.0 alocdn.com
 0.0.0.0 js.alocdn.com
@@ -34326,6 +34327,7 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -34805,6 +34807,7 @@
 0.0.0.0 prod.cobaltgroup.com
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 cobaltsottawa.com
+0.0.0.0 cobbierwhelmed.com
 0.0.0.0 cobbysz.top
 0.0.0.0 cobwebcomprehension.com
 0.0.0.0 cobyrose.com
@@ -37857,7 +37860,6 @@
 0.0.0.0 dashbaord-hyperliquid.xyz
 0.0.0.0 dashboard-plasma.to
 0.0.0.0 dashboard-secure-trezor.com
-0.0.0.0 dashboard-vodinfo.com
 0.0.0.0 dashboardproducts.info
 0.0.0.0 www.dashboardproducts.info
 0.0.0.0 metrics.dashdramas.com
@@ -39691,6 +39693,7 @@
 0.0.0.0 diodeflews.cfd
 0.0.0.0 asnio.dior.com
 0.0.0.0 ambassadors.diorinsider.com
+0.0.0.0 diorpascher.fr
 0.0.0.0 dioxidedigamy.shop
 0.0.0.0 dipan.com
 0.0.0.0 diplomaticamazingbazaar.com
@@ -47475,6 +47478,9 @@
 0.0.0.0 telemetry.formlabs.com
 0.0.0.0 analytics.forms.app
 0.0.0.0 analytics.formstack.com
+0.0.0.0 formulaire-prime.fr
+0.0.0.0 formule-pack-prime.fr
+0.0.0.0 formule-renew-prime.fr
 0.0.0.0 formulearchin.com
 0.0.0.0 fornanultee.com
 0.0.0.0 fornyelse-sundhed-dk.com
@@ -49121,6 +49127,7 @@
 0.0.0.0 ghostsinstance.com
 0.0.0.0 ghpdixnhnrxt.com
 0.0.0.0 ghtanothingfrui.org
+0.0.0.0 ghuet.xyz
 0.0.0.0 ghzbeyhx.com
 0.0.0.0 admin.giaminhmedia.vn
 0.0.0.0 giampaolidolciaria.cfd
@@ -51129,8 +51136,11 @@
 0.0.0.0 vi.hhkld.com
 0.0.0.0 hhll.app
 0.0.0.0 m.hhll.app
+0.0.0.0 hhpascher.fr
+0.0.0.0 hhreplique.fr
 0.0.0.0 hhtwx.space
 0.0.0.0 hhuobnajd.com
+0.0.0.0 hhvente.fr
 0.0.0.0 hi-amazon.com
 0.0.0.0 hiaiabc.com
 0.0.0.0 abroad-sdk-push.hiaiabc.com
@@ -53162,7 +53172,6 @@
 0.0.0.0 ingbumzrkmac.com
 0.0.0.0 analytics01.resources.ingdirect.es
 0.0.0.0 analytics02.resources.ingdirect.es
-0.0.0.0 ingdirect-disvinculardispositivos.com
 0.0.0.0 ingest-lr.com
 0.0.0.0 cdn.ingest-lr.com
 0.0.0.0 r.ingest-lr.com
@@ -55166,6 +55175,7 @@
 0.0.0.0 keenpulseupdate.pro
 0.0.0.0 keenquill.com
 0.0.0.0 keensalmon.org
+0.0.0.0 keensfrance.fr
 0.0.0.0 t.keepitpumpin.io
 0.0.0.0 125.t.keepitpumpin.io
 0.0.0.0 126.t.keepitpumpin.io
@@ -55264,6 +55274,7 @@
 0.0.0.0 adsystemservice.kib.hu
 0.0.0.0 kibavantom.shop
 0.0.0.0 jdgtgb.kicker.de
+0.0.0.0 kickersfrance.fr
 0.0.0.0 kickfire.com
 0.0.0.0 api.kickfire.com
 0.0.0.0 twin-iq.kickfire.com
@@ -55863,6 +55874,7 @@
 0.0.0.0 ulog2-us.kwaipros.com
 0.0.0.0 api.kwaizt.com
 0.0.0.0 open.kwaizt.com
+0.0.0.0 kwayventeprivee.fr
 0.0.0.0 kwcmrfb.cn
 0.0.0.0 stat.kwikmotion.com
 0.0.0.0 kwizbot.io
@@ -58648,7 +58660,6 @@
 0.0.0.0 menews.org
 0.0.0.0 aiq-in.menshealth.com
 0.0.0.0 td.menshealth.com
-0.0.0.0 mensuallys-new.com
 0.0.0.0 analytics.menswearhouse.com
 0.0.0.0 gtm.menti.com
 0.0.0.0 mention-me.email
@@ -62295,6 +62306,8 @@
 0.0.0.0 nothingimportant.pro
 0.0.0.0 nothingpetwring.com
 0.0.0.0 notice-office.com
+0.0.0.0 notif-achat-prime.fr
+0.0.0.0 notif-renew-prime.fr
 0.0.0.0 notifhub.com
 0.0.0.0 push.notifhub.com
 0.0.0.0 s3.notifhub.com
@@ -64610,6 +64623,7 @@
 0.0.0.0 oyo4d.com
 0.0.0.0 analytics.oyorooms.com
 0.0.0.0 oystermesonyx.qpon
+0.0.0.0 ozanalfas.com
 0.0.0.0 ozarkmissay.cfd
 0.0.0.0 ozauchuchephuro.com
 0.0.0.0 ozkwcvtpxoxnh.site
@@ -64715,6 +64729,7 @@
 0.0.0.0 log.pacer.cc
 0.0.0.0 pacesconcise.com
 0.0.0.0 pacificpoker.com
+0.0.0.0 pack-formule-prime.fr
 0.0.0.0 metrics.packback.co
 0.0.0.0 packerta.com
 0.0.0.0 packsoffward.shop
@@ -66627,6 +66642,7 @@
 0.0.0.0 logging.practicevelocity.com
 0.0.0.0 events.practo.com
 0.0.0.0 prad-finspire.net
+0.0.0.0 pradapascher.fr
 0.0.0.0 pradfinspire.com
 0.0.0.0 a.prado.co
 0.0.0.0 adserver.prado.co
@@ -68387,6 +68403,7 @@
 0.0.0.0 clickadu.qwerty24.net
 0.0.0.0 qwertypay.com
 0.0.0.0 qwikln.com
+0.0.0.0 qwlbvlyeqlvoj.top
 0.0.0.0 qwpjtmwidhjijk.com
 0.0.0.0 qwqnvhnqepymjaduaxih.com
 0.0.0.0 www.qwqnvhnqepymjaduaxih.com
@@ -69096,6 +69113,7 @@
 0.0.0.0 relais-aide-colis.com
 0.0.0.0 relais-fr-pickups.com
 0.0.0.0 relance-livraison.com
+0.0.0.0 relance-prime.fr
 0.0.0.0 relangean.com
 0.0.0.0 relap.io
 0.0.0.0 relappro.com
@@ -69197,6 +69215,8 @@
 0.0.0.0 analytics.renderbetter.net
 0.0.0.0 posthog.renderz.app
 0.0.0.0 rendfy.com
+0.0.0.0 renew-formule-prime.fr
+0.0.0.0 renew-notif-prime.fr
 0.0.0.0 renhertfo.com
 0.0.0.0 rennstrudel.qpon
 0.0.0.0 renrenkanpian.com
@@ -69219,6 +69239,7 @@
 0.0.0.0 pcuud.replacements.com
 0.0.0.0 replayapp.io
 0.0.0.0 replaybird.com
+0.0.0.0 repliquedior.fr
 0.0.0.0 data.replo.app
 0.0.0.0 reply--google.com
 0.0.0.0 replyconnexionstatus.com
@@ -72076,6 +72097,7 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 f164.sheltonherald.com
 0.0.0.0 shempaurdou.net
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shendhydra.com
 0.0.0.0 shengfleming.com
@@ -72330,6 +72352,7 @@
 0.0.0.0 analytics.sidekicker.ai
 0.0.0.0 siderain.com
 0.0.0.0 sidesteamroll.com
+0.0.0.0 siegebpce.fr
 0.0.0.0 siekis.com
 0.0.0.0 sgtm.sw.siemens.com
 0.0.0.0 ste.siemens-healthineers.cloud
@@ -73044,6 +73067,7 @@
 0.0.0.0 analytics.sketchup.com
 0.0.0.0 skidrowcrack.com
 0.0.0.0 px.skiechottar.shop
+0.0.0.0 skiepslzeer.shop
 0.0.0.0 skigavdigmu.com
 0.0.0.0 skillcentre.info
 0.0.0.0 skillcharging.com
@@ -77096,6 +77120,7 @@
 0.0.0.0 tigerbrluck.com
 0.0.0.0 tigerking.world
 0.0.0.0 analytics.tigocloud.net
+0.0.0.0 tigogtpts.top
 0.0.0.0 tihealth.com
 0.0.0.0 cdn.tihealth.com
 0.0.0.0 tracking-pixel-prod.tihealth.com
@@ -83361,6 +83386,7 @@
 0.0.0.0 x7-online.fr
 0.0.0.0 x7i0.com
 0.0.0.0 x81p4z.ru
+0.0.0.0 x9425yhqyzqfrpnp8my1rb2xw4.cfd
 0.0.0.0 x9fnzrtl4x8pynsf.com
 0.0.0.0 applytics.x9fnzrtl4x8pynsf.com
 0.0.0.0 downloads.x9fnzrtl4x8pynsf.com
@@ -84537,7 +84563,6 @@
 0.0.0.0 sgtm.yubico.com
 0.0.0.0 yuceinvixapp.com
 0.0.0.0 yudvl.org
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
@@ -85236,6 +85261,7 @@
 0.0.0.0 zutcjnjjv.com
 0.0.0.0 zuzajdvinaz.com
 0.0.0.0 zvideo-live.com
+0.0.0.0 zvvajeommbwmb.top
 0.0.0.0 zvwhrc.com
 0.0.0.0 zvzmzrawlvlle.top
 0.0.0.0 zwcmwvklhkfhh.website

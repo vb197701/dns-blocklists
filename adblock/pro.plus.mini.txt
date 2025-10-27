@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Oct 2025 22:10 UTC
-! Version: 2025.1026.2210.28
+! Last modified: 27 Oct 2025 04:54 UTC
+! Version: 2025.1027.0454.24
 ! Syntax: AdBlock
-! Number of entries: 66166
+! Number of entries: 66141
 !
 ||tracker.guguan.000.pe^
 ||0000552bb0.shop^
@@ -1131,6 +1131,7 @@
 ||stat-r3.1internet.tv^
 ||stat-r4.1internet.tv^
 ||stat4.1internet.tv^
+||1kiaxb3kl.com^
 ||1kxun.mobi^
 ||1lan.tv^
 ||data.pendo.ui.1life.com^
@@ -2206,6 +2207,7 @@
 ||3ca44039310251.beer^
 ||3ca5e0f3e1022.beer^
 ||3cad435c21024.beer^
+||3cbxqifhd.com^
 ||3ccf8263f1023.beer^
 ||3cdn.net^
 ||3cf53167c1020.beer^
@@ -8858,6 +8860,7 @@
 ||almoneraugite.com^
 ||almostmy.com^
 ||almstda.tv^
+||alnascharisms.com^
 ||aloatchuraimti.net^
 ||alocdn.com^
 ||alofehu.top^
@@ -17666,6 +17669,7 @@
 ||cntxcdm.com^
 ||cnvlink.com^
 ||cnvr.net^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -18247,6 +18251,7 @@
 ||cobaltnitra.com^
 ||cobaltsottawa.com^
 ||cobbaavvc.top^
+||cobbierwhelmed.com^
 ||cobbysz.top^
 ||cobertura-offciall.com^
 ||app.cobrowser.com^
@@ -20950,7 +20955,6 @@
 ||dashboard-plasma.to^
 ||dashboard-secure-trezor.com^
 ||dashboard-visor.com^
-||dashboard-vodinfo.com^
 ||dashboardproducts.info^
 ||dashcams-fl.com^
 ||dashcams-ny.com^
@@ -28861,6 +28865,7 @@
 ||ghpdixnhnrxt.com^
 ||ghtanothingfrui.org^
 ||ghtinc.com^
+||ghuet.xyz^
 ||ghzbeyhx.com^
 ||tag.gi-solutionsgroup.com^
 ||admin.giaminhmedia.vn^
@@ -31813,6 +31818,7 @@
 ||hscta.net^
 ||hsdocslis.com^
 ||perf.hsforms.com^
+||share-na2.hsforms.com^
 ||hsgdyq.com^
 ||hsjkius.cfd^
 ||hsjpqusfppyjf.site^
@@ -32969,7 +32975,6 @@
 ||ingbumzrkmac.com^
 ||analytics01.resources.ingdirect.es^
 ||analytics02.resources.ingdirect.es^
-||ingdirect-disvinculardispositivos.com^
 ||ingenio.com^
 ||ingenioustechnologies.com^
 ||ingest-lr.com^
@@ -38631,7 +38636,6 @@
 ||stats.menochi.su^
 ||aiq-in.menshealth.com^
 ||td.menshealth.com^
-||mensuallys-new.com^
 ||analytics.menswearhouse.com^
 ||gtm.menti.com^
 ||gtm.mentimeter.com^
@@ -45353,6 +45357,7 @@
 ||oystermesonyx.qpon^
 ||log.oyulhlkshop.com^
 ||oyysx.com^
+||ozanalfas.com^
 ||ozarkmissay.cfd^
 ||blue.ozarksfirst.com^
 ||ozatasu.top^
@@ -45971,42 +45976,20 @@
 ||peaceau.org^
 ||peachy18.com^
 ||peacocks-mail.com^
-||g001-sle-us-cmaf-prd-ak.cdn.peacocktv.com^
-||g001-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g001-sle-us-cmaf-prd-mc.cdn.peacocktv.com^
-||g001-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a123.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a127.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a169.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a185.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a193.cdn.peacocktv.com^
 ||g001-vod-us-cmaf-prd-ak-a242.cdn.peacocktv.com^
-||g001-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
-||g001-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g001-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
-||g002-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g002-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^
 ||g002-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com^
 ||g002-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com^
-||g002-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
-||g002-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g002-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
-||g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com^
-||g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g003-sle-us-cmaf-prd-mc.cdn.peacocktv.com^
-||g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g003-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^
 ||g003-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com^
 ||g003-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com^
-||g003-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
-||g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
-||g004-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g004-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g004-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com^
 ||g004-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com^
-||g004-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g004-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
 ||g005-sf-us-cmaf-prd-ak-a106.cdn.peacocktv.com^
 ||g005-sf-us-cmaf-prd-ak-a120.cdn.peacocktv.com^
 ||g005-sf-us-cmaf-prd-ak-a133.cdn.peacocktv.com^
@@ -46051,25 +46034,12 @@
 ||g005-sf-us-cmaf-prd-ak-a371.cdn.peacocktv.com^
 ||g005-sf-us-cmaf-prd-ak-a384.cdn.peacocktv.com^
 ||g005-sf-us-cmaf-prd-ak-a392.cdn.peacocktv.com^
-||g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g006-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g006-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^
 ||g006-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com^
 ||g006-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com^
-||g006-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
-||g006-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g006-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
-||g007-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
-||g007-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g007-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
-||g008-sle-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g008-vod-us-cmaf-prd-ak.cdn.peacocktv.com^
 ||g008-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com^
 ||g008-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com^
 ||g008-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com^
-||g008-vod-us-cmaf-prd-cc.cdn.peacocktv.com^
-||g008-vod-us-cmaf-prd-cf.cdn.peacocktv.com^
-||g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com^
 ||sentry-cliapps.ottcds.peacocktv.com^
 ||peacyx.com^
 ||geoip.peakdigital.cloud^
@@ -46460,6 +46430,7 @@
 ||mobilelog.ws.pho.to^
 ||phoangaisool.com^
 ||phoawhoax.com^
+||phod.ru^
 ||phoenix-widget.com^
 ||phomoach.net^
 ||phone-analytics.com^
@@ -49551,6 +49522,7 @@
 ||qwertypay.com^
 ||qwikln.com^
 ||qwilr.com^
+||qwlbvlyeqlvoj.top^
 ||qwo231sdx.club^
 ||qwpeg.com^
 ||qwpjtmwidhjijk.com^
@@ -53105,6 +53077,7 @@
 ||f164.sheltonherald.com^
 ||shemedia.com^
 ||shempaurdou.net^
+||shemrec.cc^
 ||shenajou.com^
 ||shendhydra.com^
 ||shengfleming.com^
@@ -53704,6 +53677,7 @@
 ||promo.skf.com^
 ||skidrowcrack.com^
 ||skiechottar.shop^
+||skiepslzeer.shop^
 ||skigavdigmu.com^
 ||skillcentre.info^
 ||skillcharging.com^
@@ -57788,6 +57762,7 @@
 ||tigerscurities.com^
 ||tigertext.com^
 ||analytics.tigocloud.net^
+||tigogtpts.top^
 ||tihealth.com^
 ||tii.la^
 ||tii-telegram.com^
@@ -59642,7 +59617,6 @@
 ||tvtelemetrie.com^
 ||tvtelemetrie.de^
 ||events.tvtime.com^
-||stats.tvtime.com^
 ||tvtrack.us^
 ||tvysfykatd.com^
 ||tvzhkzjyqadkp.com^
@@ -64067,6 +64041,7 @@
 ||x7i0.com^
 ||x8.club^
 ||x81p4z.ru^
+||x9425yhqyzqfrpnp8my1rb2xw4.cfd^
 ||x9fnzrtl4x8pynsf.com^
 ||x9k4f2q.ru^
 ||x9ug9mr3.top^
@@ -65315,7 +65290,6 @@
 ||yuga.ru^
 ||yugbveou.top^
 ||yugukj.com^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
@@ -66124,6 +66098,7 @@
 ||zvideo-live.com^
 ||zvubmrarbdevx.live^
 ||report.zvuk.com^
+||zvvajeommbwmb.top^
 ||zvwhrc.com^
 ||zvzmzrawlvlle.top^
 ||stats.zwave-js.io^

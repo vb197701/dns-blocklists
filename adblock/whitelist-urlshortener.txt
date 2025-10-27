@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 26 Oct 2025 21:26 UTC
-! Version: 2025.1026.2126.44
+! Last modified: 27 Oct 2025 04:18 UTC
+! Version: 2025.1027.0418.32
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -5454,7 +5454,6 @@
 @@||rcknr.io^
 @@||rcld.io^
 @@||rd.gt^
-@@||rd-aa.today^
 @@||rd-client.com^
 @@||rdar.li^
 @@||rdbl.co^

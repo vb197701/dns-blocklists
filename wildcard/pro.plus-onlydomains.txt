@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 22:05 UTC
-# Version: 2025.1026.2205.12
+# Last modified: 27 Oct 2025 04:49 UTC
+# Version: 2025.1027.0449.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 205191
+# Number of entries: 205086
 #
 0.beer
 0.club
@@ -5802,6 +5802,7 @@ stat4.1internet.tv
 1kdailyprofit.biz
 1kdailyprofit.co
 1keytools.com
+1kiaxb3kl.com
 1kindesign.com
 analytics.1klima.com
 1kmn6zp54t.cyou
@@ -8516,6 +8517,7 @@ metrics.3cat.cat
 smetrics.3cat.cat
 3cb7fefe61010.beer
 3cb9b57efc.com
+3cbxqifhd.com
 3cc17e09e4f0.top
 3cc6cc.xyz
 3ccf8263f1023.beer
@@ -12498,7 +12500,6 @@ c57bd95239.75cbb85265.com
 767574.top
 7676.com
 767ad47421022.beer
-76842.me
 768b67a9b552.top
 768d84d1b10251.beer
 768e7f3194.com
@@ -13732,10 +13733,7 @@ analytics.86.ru
 860256.xyz
 86043854.xyz
 8606e770abc0.top
-1337ul.8609.cc
-908.8609.cc
-985.8609.cc
-988.8609.cc
+8609.cc
 860c0513b10251.beer
 86118af2210241.beer
 86124673.xyz
@@ -14662,11 +14660,7 @@ cabd7480b0.93f886b93e.com
 940ead84e1017.beer
 94116bf0f943c11b.com
 94123.shop
-495.9415.cc
-904.9415.cc
-914.9415.cc
-926.9415.cc
-928.9415.cc
+9415.cc
 941a6cfd74cab52b1d17a3e092756e86.me
 941f495451024.beer
 9421d59b1d.com
@@ -22495,7 +22489,6 @@ aimediagroup.com
 aimerce.ai
 tracking.aimetric.net
 aimextractpunk.com
-aimfocusy.icu
 aimfortnite.com
 aimging.com
 trk.aimiautomation.com
@@ -24394,6 +24387,7 @@ almostsugar.com
 almsshroudy.shop
 almstda.tv
 almuhanadgroup.com
+alnascharisms.com
 alnathmeetly.com
 alnbf8trk.com
 st.alneingloat.com
@@ -28866,6 +28860,7 @@ aravavisionapp.com
 arawafundex.net
 arawakarmies.shop
 arawbitradex.net
+umami.arazu.io
 arb-ex.com
 arb2024.com
 arbachakov.ru
@@ -34989,8 +34984,7 @@ bcqnp7tgnxopee.cfd
 bcre002.me
 bcrke.com
 bcsgsrv.com
-dciclc.bctnodv.top
-dcivlv.bctnodv.top
+bctnodv.top
 bctuafpdwarbm.site
 bcuchargers.com
 bcugzudit.com
@@ -47081,7 +47075,6 @@ checkoutnetflix.com
 checkpage.org
 sentry-prod-relay.iaas.checkpoint.com
 telemetry.iaas.checkpoint.com
-checkprocess.net
 checkreferrer.io
 checkru.net
 results.checkshield.net
@@ -47166,7 +47159,6 @@ members.chello.nl
 smetrics.chelseafc.com
 chelseaimprovement.com
 chemdrug.net
-chemeclo.com
 chemicaldaughterstrictly.guru
 chemicalssmuglyuntying.com
 chemiclk.com
@@ -47715,7 +47707,6 @@ chromebrowser.ru
 chromedata.com
 chromegoogle.cn
 chromehearts.world
-chromeinstall.xyz
 chromeupdates.com
 logs.chromium.org
 chromnius.com
@@ -51766,9 +51757,7 @@ stats.cms-experts.org
 statistik.cms21.de
 cmsat.space
 decp.cmscore.cz
-276eefe2165e.cmsdurbv.top
-a38f0f2b74c4.cmsdurbv.top
-b84c7e3bdff5.cmsdurbv.top
+cmsdurbv.top
 cmseowhdakwbjdoqbzkae.xyz
 cmsixedw.com
 cmsnakjewa.xyz
@@ -51849,10 +51838,7 @@ cnd-motionmedia.de
 cnd-telegram.com
 cnd8.com
 cndgr.buzz
-526c5dc94e12.cndsdsva.top
-530076989109.cndsdsva.top
-5d58890195ae.cndsdsva.top
-e49e0b120ad5.cndsdsva.top
+cndsdsva.top
 cndw.top
 cnecthub.com
 cnesnnavxumlh.online
@@ -51960,8 +51946,7 @@ cnwafglwlbcro.life
 metamask.cnwallet.im
 cnwebperformance.biz
 cnwuamf.top
-dciclc.cnwucnf.top
-dcivlv.cnwucnf.top
+cnwucnf.top
 cnyojprieezzh.store
 cnzixiang.com
 cnzz.biz
@@ -53870,6 +53855,7 @@ cobaltoverture.com
 cobaltsanctionyodel.com
 cobaltsottawa.com
 cobbaavvc.top
+cobbierwhelmed.com
 cobblercohog.com
 cobblestonemediagroup.com
 cobbysz.top
@@ -54863,6 +54849,7 @@ ads.buscape.com.mx
 metrics.businessinteriors.com.au
 smetrics.businessinteriors.com.au
 ads.businessnews.com.tn
+matomo.businesstoday.com.tw
 admsapi.businessweekly.com.tw
 metrics.buyersedge.com.au
 smetrics.buyersedge.com.au
@@ -60625,8 +60612,7 @@ cvaszoes.cfd
 cvaszoev.cfd
 cvaszoez.cfd
 cvc-cloud-uob.work
-dciclc.cvcnmtf.top
-dcivlv.cvcnmtf.top
+cvcnmtf.top
 cvdbvcrpzjrgv.website
 cvdinc.com
 cvds2trk.com
@@ -61892,7 +61878,6 @@ api.dancedogwhisper.com
 danceklub.com
 dancelotsindependently.com
 danceofsuccess.com
-dancerpol.life
 dancespiend.top
 dancevalidator.io
 dandanlove.com
@@ -62182,7 +62167,6 @@ dashboard-plasma.app
 dashboard-plasma.to
 dashboard-secure-trezor.com
 dashboard-visor.com
-dashboard-vodinfo.com
 dashboardproducts.info
 tracker.dashbot.io
 dashcams-fl.com
@@ -71303,8 +71287,7 @@ ectedithconsuk.com
 ectenepenury.com
 ecteneunroven.shop
 ectivolurout.com
-dciclc.ectnodw.top
-dcivlv.ectnodw.top
+ectnodw.top
 ectozoaquagga.top
 ectsofcukorpor.com
 ectuklyeconen.com
@@ -75413,7 +75396,6 @@ eu-3-id5-sync.com
 eu-4-id5-sync.com
 eu-adcenter.net
 api.eu-game-sdk.com
-eu-hermes.com
 eu-io.info
 eu-onsale.com
 eu-paket.com
@@ -85642,7 +85624,6 @@ gbtrack.link
 gbucket.ch
 gbumh1.click
 data-f8fea2d99e.gbv.de
-gbwhatsapkdownload.com
 gbxzsit.run
 gbyarr-ma-ndrrj.sbs
 gbztputcfgp.com
@@ -86219,7 +86200,11 @@ geoparker.net
 geoplugin.net
 geopolitica.ru
 geoproapp.com
+analytics.geops.de
+matomo1.prod.hz.geops.io
+sentry1.prod.hz.geops.io
 plausible.geops.io
+sentry.geops.de
 tracker.geops.ch
 tracking-rhum.georacing.com
 georama.com
@@ -86914,6 +86899,7 @@ ghtinc.com
 web-analytic.ghtk.vn
 ghtkqp.info
 ghtzqkwm.sbs
+ghuet.xyz
 ghulvjn.info
 ghumurako.shop
 ghurrytacoma.com
@@ -88737,7 +88723,6 @@ goldenluck.jp
 goldenmeadowroad.com
 goldenmeadowsq.cfd
 goldenpalace.com
-goldenpandacasinobonus.fr
 goldenpandacasinodeposit.fr
 goldenpandacasinopromocode.fr
 goldenpandas.fr
@@ -91044,7 +91029,6 @@ grownwrecking.com
 growone.sg
 growoutlier.com
 growplow.events
-growsalesfigures.com
 growsearch.in
 growseserried.com
 growsoundmeoffice.info
@@ -94817,7 +94801,6 @@ highmarkbitspire-app.com
 highmarkbitspireapp.com
 highmetrics.com
 highmight.pro
-highmobile-info.com
 highnessagriculture.com
 highnessdemon.com
 highnoses.cyou
@@ -96958,6 +96941,7 @@ hseaf.org
 hsecondu.cyou
 hsens.shop
 perf.hsforms.com
+share-na2.hsforms.com
 survey-eu1.hsforms.com
 hsgdyq.com
 analytics.hsh.it
@@ -97046,6 +97030,7 @@ ht3s5i.com
 htagpa.tech
 htajztellrgmu.space
 metrics.htc.com
+mx2.htc.net
 smetrics.htc.com
 htcwyzu.bar
 htdixisbyvulc.store
@@ -97654,8 +97639,7 @@ hvanah.com
 hvannredmdtvn.com
 log.hvapi.com
 marketing.hvcb.org
-dciclc.hvcnmtu.top
-dcivlv.hvcnmtu.top
+hvcnmtu.top
 hvd-store.com
 hvddxj.icu
 hvdyelfrzlzfj.store
@@ -100951,7 +100935,6 @@ metrics.ingdirect.es
 analytics01.resources.ingdirect.es
 analytics02.resources.ingdirect.es
 smetrics.ingdirect.it
-ingdirect-disvinculardispositivos.com
 data-3277c56f96.ingenieur.de
 data-5a9f6e282a.ingenieur.de
 data-3277c56f96.ingenieurstage.de
@@ -101472,6 +101455,7 @@ instagram-api.ru
 instagram-sifre-yenile.com
 instagram-together.kr
 instagram-video.download
+instagrambios.com
 instagrem.com
 instahack.me
 engine.instaheadshots.com
@@ -102181,6 +102165,7 @@ invariableapathy.com
 invasiondiscipleburglary.com
 inveilfunds.com
 plausible.invelity.com
+invellia.digital
 invellio.digital
 invellix.com
 invellon.com
@@ -102473,7 +102458,6 @@ stats.iop.org
 iopiopiop.net
 iople.com
 ioptimizor.app
-ioq-wahst5pp.com
 ioqdsyklgsuhc.website
 ioqjdhad765.com
 ioqzfmlumdesr.store
@@ -103504,8 +103488,7 @@ sgtm.ivanti.com
 tracker.ivao.aero
 ivarome.top
 ivastudio.ai
-dciclc.ivcnmto.top
-dcivlv.ivcnmto.top
+ivcnmto.top
 ivcsmrt.com
 ivegase.top
 ivemjdir-g.top
@@ -104694,6 +104677,7 @@ jealousyforeword.com
 jeanneinnocenceagitated.com
 jeannenowhere.com
 jeanneodds.com
+analytics.jeanpaulgaultier.com
 jeans-store.cz
 1.jeasyui.net
 matomo.jeaye.com
@@ -104773,11 +104757,8 @@ hp.jenni.ai
 jennifersoft.com
 jenniferspivak.com
 gkera.jennikayne.com
-max.jenny4.fun
-wew.jenny4.fun
-wmx.jenny4.fun
+jenny4.fun
 wnw.jenny4.com
-wow.jenny4.fun
 news.jennydanny.com
 jennyvisits.com
 jenoga.xyz
@@ -106654,8 +106635,7 @@ juyacwujaednv.com
 juywkhbpmswmq.website
 juzaugleed.com
 tmi.jv-telcoid.es
-dciclc.jvcnmta.top
-dcivlv.jvcnmta.top
+jvcnmta.top
 jvebyd.com
 jviot.com
 jvlrcbfxijxgk.store
@@ -107530,7 +107510,8 @@ kcmstredk.com
 kcnoeqivvzana.online
 kcnuwvwi.com
 kcokamid.top
-kcolb.site
+js.kcolb.site
+mngr.kcolb.site
 kcolbda.com
 kcpwdcbwkmrvsy.net
 kcqbrwygxixdh.site
@@ -107621,7 +107602,6 @@ keap-link014.com
 keap-link015.com
 keap-link016.com
 keap-link020.com
-keassbohrer.com
 keavy.xyz
 keberosteri.com
 kebi1.top
@@ -110193,8 +110173,7 @@ kvbdk.xyz
 kvbjaur.biz
 kvbojuxkwvcfk.global
 kvcd7w375h.ru
-dciclc.kvcnmtd.top
-dcivlv.kvcnmtd.top
+kvcnmtd.top
 kvcon.de
 kvcoswgiqcg.com
 kvcqxyq1098.vip
@@ -111443,8 +111422,7 @@ lcontrols4.ru
 lcptjbn.com
 lcrswz.com
 lcskincarecenter.com
-dciclc.lctnodl.top
-dcivlv.lctnodl.top
+lctnodl.top
 lcuaerlknisgy.space
 lcvwdn.icu
 sgtm.lcw.com
@@ -112124,6 +112102,7 @@ leoncasino-en-ligne.fr
 analytics.of.leonclassroom.com
 ad.leongaming.com
 leongtoenlapiel.com
+matomo.leonhard-weiss.com
 leonodikeu9sj10.com
 utiq.leonoticias.com
 leontra-crestai.com
@@ -112665,7 +112644,6 @@ licensebuttons.net
 licenseelegance.com
 tracker.licensemag.com
 licertle.co
-lichbongda24h.com
 data.lichenqx.com
 plausible.lichenventures.com
 gtm.lichtblick.de
@@ -116294,7 +116272,6 @@ luxovatex-app.net
 luxprofit.net
 luxq8.com
 luxrbx.icu
-luxtrust-webassist.com
 luxuceros.com
 luxup.ru
 luxup2.ru
@@ -116371,7 +116348,6 @@ lvojjaymerabr.top
 lvqianbao8.com
 webanalytics.lvr.de
 lvrc.jp
-lvrh-wahtsapp.com
 cdl.lvsafe.io
 1.lvshi567.com
 plausible.cr.lvtd.dev
@@ -117508,7 +117484,6 @@ maliit.org
 malikiresids.com
 malinacasino777.fr
 malinacasinoapp.fr
-malinacasinobonus.fr
 malinacasinofrance.fr
 malinesplo.com
 maliyecezalar.com
@@ -120329,7 +120304,6 @@ matomo.menshealth.de
 td.menshealth.com
 hcjpbc.mensjournal.com
 mensualbathtub.click
-mensuallys-new.com
 analytics.menswearhouse.com
 mentafkd.top
 mentalhealthrights.ca
@@ -127519,7 +127493,6 @@ neatbadger.com
 neatclouded.digital
 neatenscarfed.com
 neathygienesmash.com
-neatmorning.icu
 neatrule.com
 neatshade.com
 neatsignal.pro
@@ -132030,8 +132003,7 @@ octillion.tech
 octillion.tv
 octinvemb.com
 web-conforama-trackingapi-live.octipas-emerch.net
-dciclc.octnodk.top
-dcivlv.octnodk.top
+octnodk.top
 moose.octo.app
 octo-pus.net
 octo25.me
@@ -132166,6 +132138,7 @@ odsc.com
 odswiezkonto.com
 odsyms15.com
 odtrtadl.com
+odtvcokzaof.com
 oduauledfalmc.online
 odufinu.top
 odupayu.top
@@ -135904,7 +135877,6 @@ optimedias.com
 optimhu.com
 optimierung-der-website.de
 optimigzy.top
-optimisationplus.click
 optimise.net
 optimisemedia.com
 optimistic-grade.pro
@@ -137263,6 +137235,7 @@ openx.angelsgroup.org.uk
 c.apserver.org.ua
 www.artsyrose.org.uk
 t.auditedmedia.org.au
+aushsi.org.au
 bajeczki.org.pl
 adv.baovemoitruong.org.vn
 bdt.org.br
@@ -138626,6 +138599,7 @@ oz-yypkhuwo.rocks
 ozacipu.top
 ozajuvo.top
 ozaki-office.com
+ozanalfas.com
 ozanazi.top
 utiq.ozap.com
 wads.ozap.com
@@ -138717,6 +138691,7 @@ p-stn.net
 p-td.com
 p-usjawrfp.global
 p0.com
+p02h.biz
 p0cket1ove.jp
 p0ker.club
 p0rte.site
@@ -138991,6 +138966,7 @@ blastairdropclaims.pages.dev
 blck.pages.dev
 blockcheck.pages.dev
 blockchecker-8ka.pages.dev
+blockchecker5.pages.dev
 c0nt4ct-me.pages.dev
 campaign-insights-analytics-hub.pages.dev
 campaign-tracking-observer-hub.pages.dev
@@ -139824,7 +139800,6 @@ partnermax.de
 partnerofficeconsultingcapital.shop
 partners-show.com
 partners-tds.com
-partnerschaft-telekom-de.com
 partnersexdoll.com
 partnerskie-programmy.net
 tracker.partnersmelbet.ru
@@ -140609,12 +140584,6 @@ peachunio.shop
 peachy18.com
 peachystore.cz
 peacocks-mail.com
-g001-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g001-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g001-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g001-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g001-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g001-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a100.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a101.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a102.cdn.peacocktv.com
@@ -140848,16 +140817,6 @@ g001-vod-us-cmaf-prd-ak-a387.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a388.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a391.cdn.peacocktv.com
 g001-vod-us-cmaf-prd-ak-a392.cdn.peacocktv.com
-g001-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g001-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g001-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g001-vod-us-cmaf-prd-qw.cdn.peacocktv.com
-g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g002-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g002-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g002-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g002-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g002-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a121.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a164.cdn.peacocktv.com
@@ -140875,16 +140834,6 @@ g002-vod-us-cmaf-prd-ak-a296.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a309.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a357.cdn.peacocktv.com
 g002-vod-us-cmaf-prd-ak-a379.cdn.peacocktv.com
-g002-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g002-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g002-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g002-vod-us-cmaf-prd-qw.cdn.peacocktv.com
-g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g003-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g003-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g003-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a100.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a101.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a102.cdn.peacocktv.com
@@ -141178,24 +141127,10 @@ g003-vod-us-cmaf-prd-ak-a389.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a390.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a391.cdn.peacocktv.com
 g003-vod-us-cmaf-prd-ak-a392.cdn.peacocktv.com
-g003-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g003-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g003-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g003-vod-us-cmaf-prd-qw.cdn.peacocktv.com
-g004-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g004-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g004-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g004-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g004-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g004-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g004-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com
 g004-vod-us-cmaf-prd-ak-a213.cdn.peacocktv.com
 g004-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com
 g004-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com
-g004-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g004-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g004-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g004-vod-us-cmaf-prd-qw.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a100.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a101.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a102.cdn.peacocktv.com
@@ -141486,12 +141421,6 @@ g005-sf-us-cmaf-prd-ak-a389.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a390.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a391.cdn.peacocktv.com
 g005-sf-us-cmaf-prd-ak-a392.cdn.peacocktv.com
-g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g006-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g006-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g006-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g006-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g006-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a107.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a114.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a122.cdn.peacocktv.com
@@ -141509,25 +141438,9 @@ g006-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a285.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a336.cdn.peacocktv.com
 g006-vod-us-cmaf-prd-ak-a338.cdn.peacocktv.com
-g006-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g006-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g006-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g006-vod-us-cmaf-prd-qw.cdn.peacocktv.com
-g007-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g007-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g007-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g007-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g007-vod-us-cmaf-prd-ak-a213.cdn.peacocktv.com
 g007-vod-us-cmaf-prd-ak-a215.cdn.peacocktv.com
 g007-vod-us-cmaf-prd-ak-a273.cdn.peacocktv.com
-g007-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g007-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g008-sle-us-cmaf-prd-ak.cdn.peacocktv.com
-g008-sle-us-cmaf-prd-cc.cdn.peacocktv.com
-g008-sle-us-cmaf-prd-cf.cdn.peacocktv.com
-g008-sle-us-cmaf-prd-mc.cdn.peacocktv.com
-g008-sle-us-cmaf-prd-qw.cdn.peacocktv.com
-g008-vod-us-cmaf-prd-ak.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a102.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a108.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a114.cdn.peacocktv.com
@@ -141578,10 +141491,6 @@ g008-vod-us-cmaf-prd-ak-a365.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a369.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a376.cdn.peacocktv.com
 g008-vod-us-cmaf-prd-ak-a381.cdn.peacocktv.com
-g008-vod-us-cmaf-prd-cc.cdn.peacocktv.com
-g008-vod-us-cmaf-prd-cf.cdn.peacocktv.com
-g008-vod-us-cmaf-prd-fy.cdn.peacocktv.com
-g008-vod-us-cmaf-prd-qw.cdn.peacocktv.com
 sentry-cliapps.ottcds.peacocktv.com
 mt.ssai.peacocktv.com
 peacooked.com
@@ -142917,7 +142826,9 @@ fa.phobicaraban.com
 rm.phocalsuperb.shop
 me.phoceanoyez.com
 phockukoagu.net
+phod.ru
 xh.phodamning.com
+phodhithp.com
 smetrics.phoenix.edu
 phoenix-office-space.com
 phoenix-widget.com
@@ -145400,7 +145311,6 @@ polcard.top
 xk.poldertourer.com
 poldqo.com
 pole-portfelvista-app.com
-polend-dancer.life
 polene-paris-store.fr
 polenxirion.cfd
 stats.polenztal.eu
@@ -147236,7 +147146,6 @@ prismeanalytics.com
 prisonniacins.com
 prisonplanet.com
 prisspongid.qpon
-pristid.bet
 pristine-creative.com
 pristinecanyon.com
 pristinegale.com
@@ -150250,8 +150159,7 @@ qcrhnkxm.com
 qcrsp.biz
 qcsgr.buzz
 qctcu.com
-dciclc.qctnody.top
-dcivlv.qctnody.top
+qctnody.top
 qctop.com
 qcumzumfiturg.store
 qcuoyo.icu
@@ -151922,6 +151830,7 @@ qwilr.com
 qwintum.online
 live.qwirlz.com
 qwjxcvdzrafum.club
+qwlbvlyeqlvoj.top
 qwlgr.buzz
 qwlmacbmwmtum.online
 qwo231sdx.club
@@ -161266,8 +161175,7 @@ sctaylor.com
 sctclick2.com
 sp.sctimes.com
 sctmku.biz
-dciclc.sctnodb.top
-dcivlv.sctnodb.top
+sctnodb.top
 beacon.engr.scu.edu
 scubaenterdane.com
 scucit.com
@@ -161916,7 +161824,6 @@ stat.seedwebs.com
 smetrics.seeeliquisevidence.com
 seefiouewvgfl.space
 seegallantlyin.org
-seegax.cc
 seehewasde.org
 seehits.com
 seehuseveeps.com
@@ -162713,7 +162620,6 @@ service-domain.xyz
 service-livraisons-colis.com
 service-peageautoroute.com
 service-police.fr
-service-public-gouv.com
 service-publique-validation-facture-encours.com
 service-suivie-colis.com
 landings.service3.ir
@@ -163584,9 +163490,7 @@ shemalesofhentai.com
 eo.shemdipolar.shop
 shemedia.com
 shempaurdou.net
-bnrs.shemrec.cc
-proll.shemrec.cc
-pundr.shemrec.cc
+shemrec.cc
 shenajou.com
 shenbingask.com
 a.shenchuang.com
@@ -164680,7 +164584,6 @@ mms.silive.com
 silkcaseplunge.com
 silkceasedkidney.com
 silkcommonlyhesitate.guru
-silkenwindhounds.org
 silkertophphi.space
 silklanguish.com
 silkmantanbark.qpon
@@ -165441,6 +165344,7 @@ ads.skidspar.se
 analytics.skidvader.nu
 skiechottar.shop
 iy.skieghavernus.top
+skiepslzeer.shop
 skigavdigmu.com
 skilfulsaturatematters.com
 sentry.wbd.skillbox.pro
@@ -171103,6 +171007,7 @@ strangineersa.com
 strangineersalyl.org
 strangleentice.com
 strangleslogan.com
+stranio.com
 analytics.strapi.io
 tracking.strapsco.com
 straspol.pro
@@ -174780,8 +174685,7 @@ i.tct-rom.com
 tct-teye.com
 tctm.co
 tctm.xyz
-dciclc.tctnodi.top
-dcivlv.tctnodi.top
+tctnodi.top
 tctrbtdxbscuw.site
 tcvfg.club
 tcvlrtqsfqkbo.store
@@ -175538,7 +175442,6 @@ teiegcsdzd.club
 teiegcsdzd.top
 teiegcsdzd.wiki
 teiegcsdzd.work
-teiegepjou.asia
 teiegepjou.club
 teiegepjou.fit
 teiegepjou.wiki
@@ -176797,6 +176700,7 @@ test1productions.com
 test324234.org
 test4.com
 testadmiral.com
+testadog.com
 stats.testbericht.de
 tracker.testbook.com
 testbooksolutions.com
@@ -177234,6 +177138,7 @@ theaida.net
 reg.theaisummit.com
 theallenbachgroup.com
 sgtm.thealphamen.nl
+theamazon.vip
 theandersonco.com
 theanimationai.com
 theannoyingsite.com
@@ -178528,6 +178433,7 @@ panther.tigil.rs
 wombat.tigil.fr
 tigno.app
 analytics.tigocloud.net
+tigogtpts.top
 tigragroup.com
 tigrinevikings.world
 barbarus.fly.storage.tigris.dev
@@ -179401,7 +179307,6 @@ tj4rdg.bond
 tj4rxr.ru
 tjaard11.xyz
 tjbhhjgc.com
-tjbj-wahtsapp.com
 tjblhg.cn
 smetrics.tjekdinpuls.dk
 tjekscores.dk
@@ -179540,7 +179445,6 @@ tldbwee.com
 tldrbox.top
 tldrbox.ws
 tldrnet.top
-tldrsnap.com
 tldrsnaps.com
 tldw.me
 tle.ru
@@ -183189,6 +183093,7 @@ yctjw54slxrwwlh.trybawaryjny.pl
 tryce.com
 trycelery.com
 trychameleon.com
+sentry.trychatgpt.ru
 load.analytics.trycornbread.com
 trydeliveryadvance.info
 trydeliveryfunding.info
@@ -183366,7 +183271,6 @@ matomo.ttg.at
 ttgeqks1296.vip
 ttges.icu
 ttgmjfgldgv9ed10.com
-tthj-wahtsapp.com
 tthmagfsrbkax.net
 tthrirgud.com
 tthrxis.com
@@ -184021,7 +183925,6 @@ pixel.tvstitch.com
 tvtelemetrie.com
 tvtelemetrie.de
 events.tvtime.com
-stats.tvtime.com
 tvtimes.net
 tags.tvtoday.de
 tvtoss.com
@@ -184798,8 +184701,7 @@ ad.ucsd.edu
 sgtm.ucsd.edu
 ucsnddigmtwoe.space
 uctek.fr
-dciclc.uctnodt.top
-dcivlv.uctnodt.top
+uctnodt.top
 ucuhyu.com
 ucujevu.top
 ucukem.com
@@ -187519,7 +187421,6 @@ usoracu.top
 usosev.com
 usouokopeukasrs.org
 inres.uspech.sk
-uspsliteblue-gov.com
 usptotmupdates.com
 usqrhpdor.com
 usqsliponsale.com
@@ -190700,10 +190601,7 @@ vippvvkelinel.sbs
 vipriver28.net
 vipsearch.guru
 vipsevgilim.com
-cw32brt.vipspotflirts.life
-gwqpmrg.vipspotflirts.life
-k8cpmrdll.vipspotflirts.life
-vipttt.tv
+vipspotflirts.life
 cnt.viptube.com
 analytics.vipulnaik.com
 vipvs.com
@@ -192310,7 +192208,6 @@ vsusla.cfd
 vsxlvgcqkulnu.net
 vsxmeznlfjxgr.online
 vsykigidqigxu.online
-vszpinfo.com
 ads.hdfs.vt.edu
 stat.vt.edu
 plausible.cloud.vtti.vt.edu
@@ -193639,8 +193536,7 @@ wct.link
 wct-1.com
 wct-2.com
 wctc.net
-dciclc.wctnode.top
-dcivlv.wctnode.top
+wctnode.top
 wcuggkuxfgutu.today
 wcuxkyjwndqxj.top
 u999.wcvb.com
@@ -195255,7 +195151,6 @@ whats-xyf.vip
 whats-xyq.vip
 whats-xys.vip
 whats-xyu.vip
-whats-zvz.vip
 whatsaop-wvs.com
 sonar-iad.cdn.whatsapp.net
 crashlogs.whatsapp.net
@@ -198531,6 +198426,7 @@ x7r3mk6ldr.com
 x8.club
 x81p4z.ru
 x88av87.lol
+x9425yhqyzqfrpnp8my1rb2xw4.cfd
 x998.com
 x9fnzrtl4x8pynsf.com
 x9i3.com
@@ -198924,9 +198820,7 @@ xgks.com
 xgnrtinmuczbe.website
 xgogi.com
 xgolyqyfjuuwn.online
-1048877cc998.xgoxwcldkz.top
-680ad07504ce.xgoxwcldkz.top
-f971bc9f9ae8.xgoxwcldkz.top
+xgoxwcldkz.top
 xgozhrjmwwgxf.site
 xgr5.com
 xgraph.net
@@ -202377,7 +202271,8 @@ sgtm.yuh.com
 yuhgsar.com
 yuhonor.top
 yuhuads.com
-yuhuan.cc
+59557com.yuhuan.cc
+wwwtk1976com.yuhuan.cc
 yui06111shga.com
 yui06120shga.com
 yui06121shga.com
@@ -204954,6 +204849,7 @@ zvubmrarbdevx.live
 report.zvuk.com
 zvuktop.xyz
 zvvajeommbajz.top
+zvvajeommbwmb.top
 zvvsjz.top
 data-4fa18eb5e3.zvw.de
 zvwhrc.com
@@ -205022,8 +204918,7 @@ zxgjrlpmaqyek.website
 zxinihfgkdpfb.space
 zxiws.cn
 zxk72.com
-2774c5d7b48b.zxmenhmo.top
-bb6b7391a692.zxmenhmo.top
+zxmenhmo.top
 zxnmbtdwlyafw.website
 zxnymrendoxms.space
 zxoedq.com
