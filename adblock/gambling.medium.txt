@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Oct 2025 10:23 UTC
-! Version: 2025.1027.1023.51
+! Last modified: 27 Oct 2025 22:21 UTC
+! Version: 2025.1027.2221.41
 ! Syntax: AdBlock
-! Number of entries: 83984
+! Number of entries: 83972
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -208,7 +208,6 @@
 ||100casino-bonus.com^
 ||100casinochile.com^
 ||100casinoslots.ru^
-||100jili-casino.com^
 ||100shorething.com^
 ||100tsars.com^
 ||100x.casino^
@@ -3659,7 +3658,6 @@
 ||49betss.com^
 ||49bitcasino365.com^
 ||49fridayroll64.com^
-||49jili-casino.com^
 ||49slotsdj-42.com^
 ||49slotsgo.info^
 ||4aaslots.com^
@@ -5091,7 +5089,6 @@
 ||77ppbetslot.com^
 ||77rbets.com^
 ||77sbets.com^
-||77slotgacor.org^
 ||77slotsdj-81.com^
 ||77sscasino.com^
 ||77uubets.com^
@@ -7948,6 +7945,7 @@
 ||alevcasino324.com^
 ||alevcasino351.com^
 ||alevcasino408.com^
+||alevcasino481.com^
 ||alevcasino525.com^
 ||alevcasino526.com^
 ||alevcasino531.com^
@@ -13514,7 +13512,6 @@
 ||betsamuro.tech^
 ||betsandbeer.com^
 ||betsandreas-uz.com^
-||betsandspins.com^
 ||betsanoi.info^
 ||betsanois.club^
 ||betsanois.online^
@@ -32518,7 +32515,6 @@
 ||dbbetslot.com^
 ||dbl4d.com^
 ||dblackjack.xyz^
-||dbossescasinobonus777.fr^
 ||dbpoker.com^
 ||dbx-casino.com^
 ||dbx-casino1.com^
@@ -33284,7 +33280,6 @@
 ||dolan33.com^
 ||dolaradasatu.xyz^
 ||dolarplay.xyz^
-||dolartoto.net^
 ||dole96.com^
 ||dolfwin.com^
 ||dolfwincasinos.com^
@@ -37299,6 +37294,7 @@
 ||friendscluster.us^
 ||friendsofwildernessroad.org^
 ||frigidbets.xyz^
+||froggybet.io^
 ||frogs.bet^
 ||frontierco.xyz^
 ||frontlist.xyz^
@@ -41724,7 +41720,6 @@
 ||hyperino.com^
 ||hyperlabbets.com^
 ||hyperslot88.bio^
-||hyperslots.net^
 ||hyslotlite.xyz^
 ||hyslots.com^
 ||hyssc.top^
@@ -44184,7 +44179,6 @@
 ||jokacasino.world^
 ||jokacasino-aus.com^
 ||jokaclubvip.net^
-||jokavipcasino.net^
 ||jokaviproom1.com^
 ||joker.win^
 ||joker-123.online^
@@ -48823,7 +48817,6 @@
 ||lgmars.xyz^
 ||lgo98sgp.com^
 ||lgobet.org^
-||lgocs3.com^
 ||lgoking89.com^
 ||lgoliverie.xyz^
 ||lgosuper22.com^
@@ -51760,7 +51753,6 @@
 ||mavibetsgiris.com^
 ||mawarhijau.website^
 ||mawarslotsolo.com^
-||mawartoto88.org^
 ||max-lex-casino1.ru^
 ||max2025.casino^
 ||max56-casino.com^
@@ -57942,7 +57934,6 @@
 ||onlinecasinogit.com^
 ||onlinecasinoglanz.com^
 ||onlinecasinogo.com^
-||onlinecasinogokken.net^
 ||onlinecasinogree.com^
 ||onlinecasinoground.nl^
 ||onlinecasinogroups.com^
@@ -69449,7 +69440,6 @@
 ||sigma.poker^
 ||sigma.world^
 ||sigma-slot.xyz^
-||sigmagammarho.org^
 ||sigmaslotbest.site^
 ||signalbets.world^
 ||signaturemgmgrand.com^
@@ -72846,7 +72836,6 @@
 ||ss77bets.com^
 ||ss77menang.com^
 ||ss88.space^
-||ssbet77-casino.com^
 ||ssbet77cc.com^
 ||ssbets.xyz^
 ||ssbetstorerpc.net^
@@ -81580,7 +81569,6 @@
 ||winamaxcasino.net^
 ||winamaxcasino.org^
 ||winariuscasino.click^
-||winatonlineblackjack.com^
 ||winaura-casino.click^
 ||winawin.com^
 ||winawincasino.ca^

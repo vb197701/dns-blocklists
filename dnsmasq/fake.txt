@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 09:25 UTC
-# Version: 2025.1027.0925.18
+# Last modified: 27 Oct 2025 21:25 UTC
+# Version: 2025.1027.2125.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14007
+# Number of entries: 14011
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5270,6 +5270,7 @@ local=/de.goldsea.es/
 local=/shop.goldsea.es/
 local=/goldsicher.net/
 local=/goldstollen.de/
+local=/goldstoneindica.shop/
 local=/golfapparelsale.com/
 local=/golfersgalore.com/
 local=/golffachhandel.eu/
@@ -6622,6 +6623,7 @@ local=/jeulia.de/
 local=/jewellery-palace.com/
 local=/jewelrycherish.com/
 local=/jewelryclaire.com/
+local=/jewelrynovainc.com/
 local=/jggli26v.shop/
 local=/jgregoryfineart.com/
 local=/jiangekj.xyz/
@@ -9276,6 +9278,7 @@ local=/onegentle.com/
 local=/oneglobal-advr.com/
 local=/oneschuhe.de/
 local=/oneslfnomea.net/
+local=/onestopdrip.shop/
 local=/onetteches.de/
 local=/onetwotrade.com/
 local=/onex-corporation.com/
@@ -13865,6 +13868,7 @@ local=/youkukestylus.com/
 local=/youngbf.com/
 local=/youngla-danmark.com/
 local=/yourgiftshopping.com/
+local=/yourhomeessences.com/
 local=/yourmre.com/
 local=/yourzencoach.co/
 local=/youtradefx.com/

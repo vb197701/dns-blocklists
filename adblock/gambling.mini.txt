@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Oct 2025 10:24 UTC
-! Version: 2025.1027.1024.24
+! Last modified: 27 Oct 2025 22:22 UTC
+! Version: 2025.1027.2222.11
 ! Syntax: AdBlock
-! Number of entries: 42534
+! Number of entries: 42521
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -119,7 +119,6 @@
 ||100bonuscasino.com^
 ||100casino-bonus.com^
 ||100casinoslots.ru^
-||100jili-casino.com^
 ||100shorething.com^
 ||100tsars.com^
 ||1010-bets.com^
@@ -2326,7 +2325,6 @@
 ||49betbets.com^
 ||49betss.com^
 ||49fridayroll64.com^
-||49jili-casino.com^
 ||49slotsdj-42.com^
 ||49slotsgo.info^
 ||4aaslots.com^
@@ -3067,7 +3065,6 @@
 ||77ph1.cc^
 ||77pixbetslot.com^
 ||77pixbetslots.com^
-||77slotgacor.org^
 ||77slotsdj-81.com^
 ||77uubets.com^
 ||77win.bar^
@@ -7527,7 +7524,6 @@
 ||betsamuro.site^
 ||betsamuro.tech^
 ||betsandreas-uz.com^
-||betsandspins.com^
 ||betsanois.club^
 ||betsanois.online^
 ||betsapi.com^
@@ -15626,7 +15622,6 @@
 ||db-bet81459.top^
 ||dbbets.xyz^
 ||dblackjack.xyz^
-||dbossescasinobonus777.fr^
 ||dbpoker.com^
 ||dcasinos.xyz^
 ||dcbets.xyz^
@@ -16100,7 +16095,6 @@
 ||dolan33.com^
 ||dolaradasatu.xyz^
 ||dolarplay.xyz^
-||dolartoto.net^
 ||dolfwin.com^
 ||dolfwincasinos.com^
 ||dollarbarslots.biz^
@@ -18328,6 +18322,7 @@
 ||friendsbets.xyz^
 ||friendscasino.ru^
 ||frigidbets.xyz^
+||froggybet.io^
 ||frogs.bet^
 ||frontierco.xyz^
 ||frostbets.xyz^
@@ -21012,7 +21007,6 @@
 ||hypercasino.com^
 ||hyperino.com^
 ||hyperslot88.bio^
-||hyperslots.net^
 ||i-ggbet.com^
 ||i-taruta.com^
 ||i-wild-casino.pl^
@@ -22273,7 +22267,6 @@
 ||jokacasino.win^
 ||jokacasino.world^
 ||jokaclubvip.net^
-||jokavipcasino.net^
 ||jokaviproom1.com^
 ||joker.win^
 ||joker-win.casino^
@@ -24636,7 +24629,6 @@
 ||lgcasino.org^
 ||lgcnews.com^
 ||lgmars.xyz^
-||lgocs3.com^
 ||lgoking89.com^
 ||lgs78.com^
 ||lgs97.com^
@@ -26201,7 +26193,6 @@
 ||maverick.casino^
 ||maverickgames.com^
 ||mavibetsgiris.com^
-||mawartoto88.org^
 ||max-lex-casino1.ru^
 ||max2025.casino^
 ||max77slot.pro^
@@ -29257,7 +29248,6 @@
 ||onlinecasinogids.com^
 ||onlinecasinogit.com^
 ||onlinecasinogo.com^
-||onlinecasinogokken.net^
 ||onlinecasinoground.nl^
 ||onlinecasinogroups.com^
 ||onlinecasinoguide.com^
@@ -35021,7 +35011,6 @@
 ||sige77.org^
 ||sigma.world^
 ||sigma-slot.xyz^
-||sigmagammarho.org^
 ||sigmaslotbest.site^
 ||signaturemgmgrand.com^
 ||signorbet-casino.com^
@@ -36618,7 +36607,6 @@
 ||sritotokkv.com^
 ||ss777bets.com^
 ||ss77bets.com^
-||ssbet77-casino.com^
 ||ssbet77cc.com^
 ||sscautos.com^
 ||ssi168vip5.com^
@@ -41311,7 +41299,6 @@
 ||winamax-casino.org^
 ||winamaxcasino.net^
 ||winariuscasino.click^
-||winatonlineblackjack.com^
 ||winawin.com^
 ||winawincasinok.com^
 ||winbay.casino^

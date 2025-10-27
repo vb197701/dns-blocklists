@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 10:24 UTC
-# Version: 2025.1027.1024.47
+# Last modified: 27 Oct 2025 22:22 UTC
+# Version: 2025.1027.2222.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11177
+# Number of entries: 11188
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1076,6 +1076,7 @@ local=/batflixmovies.club/
 local=/batmanstream.cc/
 local=/batmanstream.info/
 local=/batmanstream.online/
+local=/batmanstream.vip/
 local=/batmanstream.watch/
 local=/bayernstream.com/
 local=/bayfiles.com/
@@ -3397,6 +3398,7 @@ local=/filmesviatorrents.gratis/
 local=/filmex.to/
 local=/filmezando.net/
 local=/filmfans.org/
+local=/filmfare.fr/
 local=/filmfix.se/
 local=/filmgo.live/
 local=/filmgratuit.cc/
@@ -3602,6 +3604,7 @@ local=/flashfilms-hd.com/
 local=/flashfilms-hd.top/
 local=/flashnetbd.com/
 local=/flashtorrents.org/
+local=/flemmix.mom/
 local=/flemmix.sbs/
 local=/flenix.net/
 local=/flextorrents.com/
@@ -4397,8 +4400,10 @@ local=/hdfreaks.cc/
 local=/hdfull.lv/
 local=/hdhome.org/
 local=/hdhub4u.family/
+local=/hdhub4u.gd/
 local=/hdhub4u.gifts/
 local=/hdhub4u.menu/
+local=/hdhub4u.pictures/
 local=/hdlivemovies.com/
 local=/hdm.to/
 local=/hdmatch.club/
@@ -5291,6 +5296,7 @@ local=/kinogo.inc/
 local=/kinogo.no/
 local=/kinogo.online/
 local=/kinogo.pink/
+local=/kinogo.rest/
 local=/kinogo.uk/
 local=/kinogo-720.net/
 local=/kinogo-cx.biz/
@@ -5739,6 +5745,7 @@ local=/lucida.to/
 local=/luciferdonghua.in/
 local=/luckymodapk.com/
 local=/luckypatchers.com/
+local=/lukesitturn.com/
 local=/lulu.st/
 local=/lulustream.com/
 local=/luluvid.com/
@@ -8750,6 +8757,7 @@ local=/streamingcommunityz.info/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.li/
 local=/streamingcommunityz.me/
+local=/streamingcommunityz.tv/
 local=/streamingdivx.ch/
 local=/streaminggratuit.cc/
 local=/streaminggratuit.rip/
@@ -8877,6 +8885,7 @@ local=/swatchseries.ru/
 local=/swatchseries.to/
 local=/swebits.org/
 local=/sweet-paris.com/
+local=/sweetvideo.site/
 local=/swefilmer.to/
 local=/swetracker.org/
 local=/swetv.org/
@@ -9748,6 +9757,7 @@ local=/uakino.me/
 local=/uakino-bay.net/
 local=/uakino-lu.com/
 local=/uakinogo.com/
+local=/uakinogo.online/
 local=/uapkpro.com/
 local=/uaserial.club/
 local=/uaserial.tv/
@@ -10735,6 +10745,7 @@ local=/wiretarget.com/
 local=/ccn5050.wixsite.com/
 local=/fixeget983.wixsite.com/
 local=/warez.wizardtech.net/
+local=/wizja.cc/
 local=/wjunction.com/
 local=/wjungle.net/
 local=/wncbg.com/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 10:30 UTC
-# Version: 2025.1027.1030.13
+# Last modified: 27 Oct 2025 22:27 UTC
+# Version: 2025.1027.2227.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6137
+# Number of entries: 6139
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3949,6 +3949,7 @@ local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
 local=/proxy.outred.dev/
 local=/overplay.net/
+local=/oversecure.ltd/
 local=/vps-1f675aa1.vps.ovh.us/
 local=/vps-33e5a7f3.vps.ovh.us/
 local=/ovpn.com/
@@ -4831,6 +4832,7 @@ local=/ofer.ox.sjtech.org/
 local=/iproyal.sjv.io/
 local=/skibidislicers.xyz/
 local=/plex.skin57.de/
+local=/skipdns.link/
 local=/skipns.com/
 local=/dns.skrep.eu/
 local=/dns.skrep.in/

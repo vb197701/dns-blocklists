@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761560640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761603720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Oct 2025 10:24 UTC
-; Version: 2025.1027.1024.47
+; Last modified: 27 Oct 2025 22:22 UTC
+; Version: 2025.1027.2222.32
 ; Syntax: RPZ
-; Number of entries: 22354
+; Number of entries: 22376
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1584,6 +1584,8 @@ vmovee.cc CNAME .
 *.vmovee.cc CNAME .
 vumoo.cc CNAME .
 *.vumoo.cc CNAME .
+wizja.cc CNAME .
+*.wizja.cc CNAME .
 x265movies.cc CNAME .
 *.x265movies.cc CNAME .
 xtreme.cc CNAME .
@@ -5340,6 +5342,8 @@ luckymodapk.com CNAME .
 *.luckymodapk.com CNAME .
 luckypatchers.com CNAME .
 *.luckypatchers.com CNAME .
+lukesitturn.com CNAME .
+*.lukesitturn.com CNAME .
 lulustream.com CNAME .
 *.lulustream.com CNAME .
 luluvid.com CNAME .
@@ -9230,6 +9234,8 @@ sd-161673.dedibox.fr CNAME .
 *.sd-161673.dedibox.fr CNAME .
 emuplay.fr CNAME .
 *.emuplay.fr CNAME .
+filmfare.fr CNAME .
+*.filmfare.fr CNAME .
 filmstreamcomplet.fr CNAME .
 *.filmstreamcomplet.fr CNAME .
 naruto.a.free.fr CNAME .
@@ -9498,6 +9504,8 @@ fmovies.gd CNAME .
 *.fmovies.gd CNAME .
 tracker.gmi.gd CNAME .
 *.tracker.gmi.gd CNAME .
+hdhub4u.gd CNAME .
+*.hdhub4u.gd CNAME .
 ezis-amarftp.rf.gd CNAME .
 *.ezis-amarftp.rf.gd CNAME .
 thepiratebay.gd CNAME .
@@ -12292,6 +12300,8 @@ vegamovies.moi CNAME .
 *.vegamovies.moi CNAME .
 123movies.mom CNAME .
 *.123movies.mom CNAME .
+flemmix.mom CNAME .
+*.flemmix.mom CNAME .
 guardaserietv.mom CNAME .
 *.guardaserietv.mom CNAME .
 ilgeniodellostreaming.mom CNAME .
@@ -14866,6 +14876,8 @@ turcasbrasil.online CNAME .
 *.turcasbrasil.online CNAME .
 tv-livestream.online CNAME .
 *.tv-livestream.online CNAME .
+uakinogo.online CNAME .
+*.uakinogo.online CNAME .
 ugda.online CNAME .
 *.ugda.online CNAME .
 unbl0ck.online CNAME .
@@ -16800,6 +16812,8 @@ torrentz2.pics CNAME .
 *.torrentz2.pics CNAME .
 vegamovies.pics CNAME .
 *.vegamovies.pics CNAME .
+hdhub4u.pictures CNAME .
+*.hdhub4u.pictures CNAME .
 ilgeniodellostreaming.pictures CNAME .
 *.ilgeniodellostreaming.pictures CNAME .
 altadefinizione.pink CNAME .
@@ -17562,6 +17576,8 @@ filmpertutti.rest CNAME .
 *.filmpertutti.rest CNAME .
 hdmovie2.rest CNAME .
 *.hdmovie2.rest CNAME .
+kinogo.rest CNAME .
+*.kinogo.rest CNAME .
 nocensor.rest CNAME .
 *.nocensor.rest CNAME .
 streamingcommunity.rest CNAME .
@@ -18740,6 +18756,8 @@ sunhaze44.site CNAME .
 *.sunhaze44.site CNAME .
 sunnymovies.site CNAME .
 *.sunnymovies.site CNAME .
+sweetvideo.site CNAME .
+*.sweetvideo.site CNAME .
 thepibay.site CNAME .
 *.thepibay.site CNAME .
 timstreams.site CNAME .
@@ -20766,6 +20784,8 @@ stream-oase.tv CNAME .
 *.stream-oase.tv CNAME .
 streamingcommunity.tv CNAME .
 *.streamingcommunity.tv CNAME .
+streamingcommunityz.tv CNAME .
+*.streamingcommunityz.tv CNAME .
 streamm4u.tv CNAME .
 *.streamm4u.tv CNAME .
 streamsthunder.tv CNAME .
@@ -21302,6 +21322,8 @@ ashdi.vip CNAME .
 *.ashdi.vip CNAME .
 babytorrent.vip CNAME .
 *.babytorrent.vip CNAME .
+batmanstream.vip CNAME .
+*.batmanstream.vip CNAME .
 bmovies.vip CNAME .
 *.bmovies.vip CNAME .
 cb01.vip CNAME .
