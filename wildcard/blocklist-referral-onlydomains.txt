@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 09:13 UTC
-# Version: 2025.1026.0913.53
+# Last modified: 27 Oct 2025 09:14 UTC
+# Version: 2025.1027.0914.17
 # Syntax: Domains (without subdomains)
-# Number of entries: 888
+# Number of entries: 889
 #
 l.1mp.ru
 t.1und1.de
@@ -256,6 +256,7 @@ click.discord.com
 referrer.disqus.com
 click.dji.com
 postsign.docusign.com
+klclick.dollarshaveclub.com
 c2827.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com

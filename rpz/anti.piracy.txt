@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761409680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761560640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Oct 2025 16:28 UTC
-; Version: 2025.1025.1628.36
+; Last modified: 27 Oct 2025 10:24 UTC
+; Version: 2025.1027.1024.47
 ; Syntax: RPZ
 ; Number of entries: 22354
 ;
@@ -20248,8 +20248,6 @@ share.xfapi.top CNAME .
 *.share.xfapi.top CNAME .
 tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
-tracker.xn--djrq4gl4hvoi.top CNAME .
-*.tracker.xn--djrq4gl4hvoi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
 tr3.ysagin.top CNAME .
@@ -22014,6 +22012,8 @@ blunter.xyz CNAME .
 *.blunter.xyz CNAME .
 blutopia.xyz CNAME .
 *.blutopia.xyz CNAME .
+booter.xyz CNAME .
+*.booter.xyz CNAME .
 t.btcland.xyz CNAME .
 *.t.btcland.xyz CNAME .
 btorrent.xyz CNAME .

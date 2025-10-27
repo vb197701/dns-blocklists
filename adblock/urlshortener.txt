@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Oct 2025 04:18 UTC
-! Version: 2025.1027.0418.32
+! Last modified: 27 Oct 2025 09:26 UTC
+! Version: 2025.1027.0926.56
 ! Syntax: AdBlock
-! Number of entries: 8701
+! Number of entries: 8702
 !
 ||0.gp^
 ||00m.in^
@@ -8604,6 +8604,7 @@
 ||zecz.ec^
 ||zeek.ir^
 ||zeep.ly^
+||short.zeeraa.net^
 ||zenlinkit.com^
 ||zensus.io^
 ||zenurl.in^

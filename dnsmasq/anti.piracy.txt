@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Oct 2025 16:28 UTC
-# Version: 2025.1025.1628.36
+# Last modified: 27 Oct 2025 10:24 UTC
+# Version: 2025.1027.1024.47
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11177
 #
@@ -1441,6 +1441,7 @@ local=/booter.eu/
 local=/booter.ninja/
 local=/booter.org/
 local=/booter.sx/
+local=/booter.xyz/
 local=/bootlegs.su/
 local=/bootylounge.org/
 local=/bootyou.net/
@@ -10836,7 +10837,6 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
-local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

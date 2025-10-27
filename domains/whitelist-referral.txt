@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 09:13 UTC
-# Version: 2025.1026.0913.53
+# Last modified: 27 Oct 2025 09:14 UTC
+# Version: 2025.1027.0914.17
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1110
+# Number of entries: 1113
 #
 l.1mp.ru
 t.1und1.de
@@ -188,6 +188,7 @@ seu2.cleverreach.com
 315021.seu2.cleverreach.com
 341722.seu2.cleverreach.com
 344934.seu2.cleverreach.com
+382058.seu2.cleverreach.com
 393666.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 click-trk.com
@@ -302,6 +303,7 @@ click.discord.com
 referrer.disqus.com
 click.dji.com
 postsign.docusign.com
+klclick.dollarshaveclub.com
 c2827.dotomi.com
 casale-match.dotomi.com
 cj.dotomi.com
@@ -544,6 +546,7 @@ click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
+142290803.sites.hscoscdn-eu1.net
 143334866.sites.hscoscdn-eu1.net
 27102898.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 04:18 UTC
-# Version: 2025.1027.0418.32
+# Last modified: 27 Oct 2025 09:26 UTC
+# Version: 2025.1027.0926.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8701
+# Number of entries: 8702
 #
 local=/0.gp/
 local=/00m.in/
@@ -8603,6 +8603,7 @@ local=/zdsk.co/
 local=/zecz.ec/
 local=/zeek.ir/
 local=/zeep.ly/
+local=/short.zeeraa.net/
 local=/zenlinkit.com/
 local=/zensus.io/
 local=/zenurl.in/
