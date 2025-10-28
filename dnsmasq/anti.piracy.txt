@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 10:22 UTC
-# Version: 2025.1028.1022.37
+# Last modified: 28 Oct 2025 22:23 UTC
+# Version: 2025.1028.2223.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11196
+# Number of entries: 11194
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -224,7 +224,6 @@ local=/250412.xyz/
 local=/266528.xyz/
 local=/2anime.xyz/
 local=/2bbit.com/
-local=/2bcalvi.com/
 local=/2ddl.it/
 local=/2ddl.ws/
 local=/2embed.cc/
@@ -1986,7 +1985,6 @@ local=/tracker.loli.co.nz/
 local=/tracker1.loli.co.nz/
 local=/master-torrents-tracker.co.cc/
 local=/mega.co.nz/
-local=/mkvcinemascom.co.in/
 local=/tracker1.bt.moack.co.kr/
 local=/nhltorrents.co.uk/
 local=/nibl.co.uk/

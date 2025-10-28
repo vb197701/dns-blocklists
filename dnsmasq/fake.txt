@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 09:25 UTC
-# Version: 2025.1028.0925.25
+# Last modified: 28 Oct 2025 21:25 UTC
+# Version: 2025.1028.2125.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14055
+# Number of entries: 14062
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -886,6 +886,7 @@ local=/autofxbroker.com/
 local=/autoglobalshipping.com/
 local=/autohausberg-gmbh.de/
 local=/autohausbismuth.de/
+local=/autoingenieurbereich.com/
 local=/autoled.tech/
 local=/autolinie.de/
 local=/automaticl.com/
@@ -1184,6 +1185,7 @@ local=/bbqaccessoriessale.com/
 local=/bc-rheine.de/
 local=/bcgroups-lond.com/
 local=/bcm-shop.de/
+local=/bcpstores.shop/
 local=/bcseagles.net/
 local=/bdaten.de/
 local=/bds-coffee.de/
@@ -2910,6 +2912,7 @@ local=/daheim-gut.ch/
 local=/dailog.de/
 local=/daily-jewelry123.com/
 local=/daily-option.com/
+local=/dailydroppedprice.com/
 local=/dailyjoy.shop/
 local=/dailyrosy.com/
 local=/dailysmilezone.com/
@@ -8100,6 +8103,7 @@ local=/mediamarkt-de.com/
 local=/mediaplus.shop/
 local=/mediatech-shop.com/
 local=/medicalandbeautycare.com/
+local=/medicalonlines.com/
 local=/medicamententreparticulier.com/
 local=/medicaregermany.de/
 local=/medicineronline.net/
@@ -9501,6 +9505,7 @@ local=/ottopar.cc/
 local=/ottot.shop/
 local=/ottowhale.com/
 local=/ottozillco.de/
+local=/oudoor-camping-sale.com/
 local=/ouistiprixeur.shop/
 local=/our-deals.de/
 local=/ouraltis.de/
@@ -10487,6 +10492,7 @@ local=/remstone.eu/
 local=/renado.de/
 local=/renatainformatica.com/
 local=/rennkurbelde.com/
+local=/rennradberater.com/
 local=/rennradergravel.com/
 local=/rennraderprada.com/
 local=/rennradgeschaft.com/
@@ -10931,6 +10937,7 @@ local=/saunaenergie.de/
 local=/savagexfentyde.com/
 local=/hessnatur.saveeu.shop/
 local=/savela.de/
+local=/savemarthub.com/
 local=/savesprintmart.com/
 local=/savvynix.com/
 local=/sawbehind.com/

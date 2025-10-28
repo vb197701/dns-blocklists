@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761646920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761690180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Oct 2025 10:22 UTC
-; Version: 2025.1028.1022.15
+; Last modified: 28 Oct 2025 22:23 UTC
+; Version: 2025.1028.2223.18
 ; Syntax: RPZ
-; Number of entries: 82536
+; Number of entries: 82528
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -50836,8 +50836,6 @@ lucky31.fr CNAME .
 *.lucky31.fr CNAME .
 lumoslots.fr CNAME .
 *.lumoslots.fr CNAME .
-madcasinobonuscode365.fr CNAME .
-*.madcasinobonuscode365.fr CNAME .
 magiccasino.fr CNAME .
 *.magiccasino.fr CNAME .
 mapsme.fr CNAME .
@@ -50868,8 +50866,6 @@ nv-casino-fr.fr CNAME .
 *.nv-casino-fr.fr CNAME .
 olybet.fr CNAME .
 *.olybet.fr CNAME .
-onlinepartypoker.fr CNAME .
-*.onlinepartypoker.fr CNAME .
 pandido-casino.fr CNAME .
 *.pandido-casino.fr CNAME .
 pariez-malin.fr CNAME .
@@ -62454,8 +62450,6 @@ dukepoliticalreview.org CNAME .
 *.dukepoliticalreview.org CNAME .
 dutaslot138.org CNAME .
 *.dutaslot138.org CNAME .
-dvtoto.org CNAME .
-*.dvtoto.org CNAME .
 dwv99.org CNAME .
 *.dwv99.org CNAME .
 eac2024.org CNAME .
@@ -68290,6 +68284,8 @@ zerkalo-leonbets-s9rs.sbs CNAME .
 *.zerkalo-leonbets-s9rs.sbs CNAME .
 vulkancasino.science CNAME .
 *.vulkancasino.science CNAME .
+888sport.se CNAME .
+*.888sport.se CNAME .
 arbetsmarknadsdata.se CNAME .
 *.arbetsmarknadsdata.se CNAME .
 atg.se CNAME .
@@ -68646,8 +68642,6 @@ gulamerah.shop CNAME .
 *.gulamerah.shop CNAME .
 gwaslots.shop CNAME .
 *.gwaslots.shop CNAME .
-halwani.shop CNAME .
-*.halwani.shop CNAME .
 i9slotsgh5api.shop CNAME .
 *.i9slotsgh5api.shop CNAME .
 ismaqueen.shop CNAME .
@@ -70888,8 +70882,6 @@ xoso6600.today CNAME .
 *.3dicecasino.top CNAME .
 4dampgelek.top CNAME .
 *.4dampgelek.top CNAME .
-5438xz.top CNAME .
-*.5438xz.top CNAME .
 66kbet55z.top CNAME .
 *.66kbet55z.top CNAME .
 66kbet88h.top CNAME .

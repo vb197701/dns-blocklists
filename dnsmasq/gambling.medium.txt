@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 10:21 UTC
-# Version: 2025.1028.1021.44
+# Last modified: 28 Oct 2025 22:22 UTC
+# Version: 2025.1028.2222.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 82690
+# Number of entries: 82687
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -3845,7 +3845,6 @@ local=/540istanbulcasino.com/
 local=/541istanbulcasino.com/
 local=/542istanbulcasino.com/
 local=/5430t.com/
-local=/5438xz.top/
 local=/543betslot.com/
 local=/543istanbulcasino.com/
 local=/544istanbulcasino.com/
@@ -5967,6 +5966,7 @@ local=/888sport.de/
 local=/888sport.dk/
 local=/888sport.es/
 local=/888sport.it/
+local=/888sport.se/
 local=/888sport-casino.com/
 local=/888sport-casino.net/
 local=/888sport-casino.org/
@@ -33323,7 +33323,6 @@ local=/dvslots777.com/
 local=/dvslotscs.com/
 local=/dvslotsmp.com/
 local=/dvslotsoi.com/
-local=/dvtoto.org/
 local=/dwbband.xyz/
 local=/dwcsbets.com/
 local=/dwi188.net/
@@ -39949,7 +39948,6 @@ local=/halototoindo.xyz/
 local=/halototoslot.foundation/
 local=/halototoslot.xyz/
 local=/haluz2.net/
-local=/halwani.shop/
 local=/hamassat.com/
 local=/hamburgpromedia.com/
 local=/hamcasinos.com/
@@ -49898,7 +49896,6 @@ local=/madcasino8.top/
 local=/madcasino88.top/
 local=/madcasino888.top/
 local=/madcasino9.top/
-local=/madcasinobonuscode365.fr/
 local=/madcasinoenligne.com/
 local=/madcasinoo.net/
 local=/madcasinoofficial.uk/
@@ -57281,7 +57278,6 @@ local=/onlinemalaysiancasino.com/
 local=/onlinemicrogamingcasino.net/
 local=/onlinenetticasino.com/
 local=/onlineokpoker.live/
-local=/onlinepartypoker.fr/
 local=/onlineplaytechcasinos.com/
 local=/onlinepoker.cash/
 local=/onlinepoker.com/
@@ -82298,6 +82294,7 @@ local=/zeus-slots.cfd/
 local=/zeus-slots.site/
 local=/zeus-slots.website/
 local=/zeus-slots.win/
+local=/zeusbolawheel.site/
 local=/zeuscasino24.bet/
 local=/zeuscasinovip.com/
 local=/zeusfans.xyz/

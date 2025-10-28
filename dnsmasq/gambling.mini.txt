@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 10:22 UTC
-# Version: 2025.1028.1022.15
+# Last modified: 28 Oct 2025 22:23 UTC
+# Version: 2025.1028.2223.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 41268
+# Number of entries: 41264
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -2375,7 +2375,6 @@ local=/535betbets.com/
 local=/536betcasino.com/
 local=/53pgaa.com/
 local=/53z8.com/
-local=/5438xz.top/
 local=/543betslot.com/
 local=/547bets10.com/
 local=/548betbets.com/
@@ -3546,6 +3545,7 @@ local=/888sport.de/
 local=/888sport.dk/
 local=/888sport.es/
 local=/888sport.it/
+local=/888sport.se/
 local=/888sport-casino.net/
 local=/888sports-casino.com/
 local=/888starz.bet/
@@ -15955,7 +15955,6 @@ local=/dv-lottery.net/
 local=/dvdvslots.xyz/
 local=/dvslots1l.com/
 local=/dvslotsmp.com/
-local=/dvtoto.org/
 local=/dwtjitu.com/
 local=/dwv99.org/
 local=/dwv99cold.com/
@@ -19581,7 +19580,6 @@ local=/halokapt.xyz/
 local=/halototoindo.xyz/
 local=/halototoslot.xyz/
 local=/haluz2.net/
-local=/halwani.shop/
 local=/hamcasinos.com/
 local=/hanabetslot.com/
 local=/hanabi188.bio/
@@ -24766,7 +24764,6 @@ local=/madcasino1.online/
 local=/madcasino1.ru/
 local=/madcasino23.io/
 local=/madcasino7.io/
-local=/madcasinobonuscode365.fr/
 local=/madcasinoenligne.com/
 local=/madcasinoofficial.uk/
 local=/made4bets.com/
@@ -28426,7 +28423,6 @@ local=/onlinekazino.lv/
 local=/onlinemalaysiancasino.com/
 local=/onlinemicrogamingcasino.net/
 local=/onlinenetticasino.com/
-local=/onlinepartypoker.fr/
 local=/onlineplaytechcasinos.com/
 local=/onlinepoker.com/
 local=/onlinepokerencasino.nl/

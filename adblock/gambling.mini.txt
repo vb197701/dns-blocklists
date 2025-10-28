@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Oct 2025 10:22 UTC
-! Version: 2025.1028.1022.15
+! Last modified: 28 Oct 2025 22:23 UTC
+! Version: 2025.1028.2223.18
 ! Syntax: AdBlock
-! Number of entries: 41268
+! Number of entries: 41264
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -2376,7 +2376,6 @@
 ||536betcasino.com^
 ||53pgaa.com^
 ||53z8.com^
-||5438xz.top^
 ||543betslot.com^
 ||547bets10.com^
 ||548betbets.com^
@@ -3547,6 +3546,7 @@
 ||888sport.dk^
 ||888sport.es^
 ||888sport.it^
+||888sport.se^
 ||888sport-casino.net^
 ||888sports-casino.com^
 ||888starz.bet^
@@ -15956,7 +15956,6 @@
 ||dvdvslots.xyz^
 ||dvslots1l.com^
 ||dvslotsmp.com^
-||dvtoto.org^
 ||dwtjitu.com^
 ||dwv99.org^
 ||dwv99cold.com^
@@ -19582,7 +19581,6 @@
 ||halototoindo.xyz^
 ||halototoslot.xyz^
 ||haluz2.net^
-||halwani.shop^
 ||hamcasinos.com^
 ||hanabetslot.com^
 ||hanabi188.bio^
@@ -24767,7 +24765,6 @@
 ||madcasino1.ru^
 ||madcasino23.io^
 ||madcasino7.io^
-||madcasinobonuscode365.fr^
 ||madcasinoenligne.com^
 ||madcasinoofficial.uk^
 ||made4bets.com^
@@ -28427,7 +28424,6 @@
 ||onlinemalaysiancasino.com^
 ||onlinemicrogamingcasino.net^
 ||onlinenetticasino.com^
-||onlinepartypoker.fr^
 ||onlineplaytechcasinos.com^
 ||onlinepoker.com^
 ||onlinepokerencasino.nl^

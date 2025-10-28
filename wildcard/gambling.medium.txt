@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 10:21 UTC
-# Version: 2025.1028.1021.44
+# Last modified: 28 Oct 2025 22:22 UTC
+# Version: 2025.1028.2222.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 82690
+# Number of entries: 82687
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -3845,7 +3845,6 @@
 *.541istanbulcasino.com
 *.542istanbulcasino.com
 *.5430t.com
-*.5438xz.top
 *.543betslot.com
 *.543istanbulcasino.com
 *.544istanbulcasino.com
@@ -5967,6 +5966,7 @@
 *.888sport.dk
 *.888sport.es
 *.888sport.it
+*.888sport.se
 *.888sport-casino.com
 *.888sport-casino.net
 *.888sport-casino.org
@@ -33323,7 +33323,6 @@
 *.dvslotscs.com
 *.dvslotsmp.com
 *.dvslotsoi.com
-*.dvtoto.org
 *.dwbband.xyz
 *.dwcsbets.com
 *.dwi188.net
@@ -39949,7 +39948,6 @@
 *.halototoslot.foundation
 *.halototoslot.xyz
 *.haluz2.net
-*.halwani.shop
 *.hamassat.com
 *.hamburgpromedia.com
 *.hamcasinos.com
@@ -49898,7 +49896,6 @@
 *.madcasino88.top
 *.madcasino888.top
 *.madcasino9.top
-*.madcasinobonuscode365.fr
 *.madcasinoenligne.com
 *.madcasinoo.net
 *.madcasinoofficial.uk
@@ -57281,7 +57278,6 @@
 *.onlinemicrogamingcasino.net
 *.onlinenetticasino.com
 *.onlineokpoker.live
-*.onlinepartypoker.fr
 *.onlineplaytechcasinos.com
 *.onlinepoker.cash
 *.onlinepoker.com
@@ -82298,6 +82294,7 @@
 *.zeus-slots.site
 *.zeus-slots.website
 *.zeus-slots.win
+*.zeusbolawheel.site
 *.zeuscasino24.bet
 *.zeuscasinovip.com
 *.zeusfans.xyz

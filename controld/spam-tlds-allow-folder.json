@@ -421,6 +421,13 @@
       }
     },
     {
+      "PK": "bierbaum.pub",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bigtimerush.store",
       "action": {
         "do": 1,
@@ -2640,6 +2647,13 @@
       }
     },
     {
+      "PK": "mavie.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "maxwellcat.world",
       "action": {
         "do": 1,
@@ -4804,6 +4818,13 @@
     },
     {
       "PK": "voe.sx",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "voi.bar",
       "action": {
         "do": 1,
         "status": 1
