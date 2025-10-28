@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761603720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761646920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Oct 2025 22:22 UTC
-; Version: 2025.1027.2222.32
+; Last modified: 28 Oct 2025 10:22 UTC
+; Version: 2025.1028.1022.37
 ; Syntax: RPZ
-; Number of entries: 22376
+; Number of entries: 22392
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -232,6 +232,8 @@ losmovies.app CNAME .
 *.losmovies.app CNAME .
 macked.app CNAME .
 *.macked.app CNAME .
+mkvcinemas.app CNAME .
+*.mkvcinemas.app CNAME .
 myinsta.app CNAME .
 *.myinsta.app CNAME .
 bingemaster.netlify.app CNAME .
@@ -690,6 +692,8 @@ ilgeniodellostreaming.bet CNAME .
 *.ilgeniodellostreaming.bet CNAME .
 kinox.bet CNAME .
 *.kinox.bet CNAME .
+mkvcinemas.bet CNAME .
+*.mkvcinemas.bet CNAME .
 streamingcommunity.bet CNAME .
 *.streamingcommunity.bet CNAME .
 tantifilm.bet CNAME .
@@ -3824,8 +3828,6 @@ ddlspot.com CNAME .
 *.ddlspot.com CNAME .
 ddnbd.com CNAME .
 *.ddnbd.com CNAME .
-echostar.ddnsfree.com CNAME .
-*.echostar.ddnsfree.com CNAME .
 ddos-ip.com CNAME .
 *.ddos-ip.com CNAME .
 ddosbreak.com CNAME .
@@ -5642,6 +5644,8 @@ moviesbark.com CNAME .
 *.moviesbark.com CNAME .
 moviesdvdr.com CNAME .
 *.moviesdvdr.com CNAME .
+moviesflixcc.com CNAME .
+*.moviesflixcc.com CNAME .
 moviesfoundonline.com CNAME .
 *.moviesfoundonline.com CNAME .
 movieswbb.com CNAME .
@@ -6332,6 +6336,8 @@ put-locker.com CNAME .
 *.put-locker.com CNAME .
 putlocker.com CNAME .
 *.putlocker.com CNAME .
+putlocker19.com CNAME .
+*.putlocker19.com CNAME .
 putlocker9.com CNAME .
 *.putlocker9.com CNAME .
 putlockerfilms.com CNAME .
@@ -9092,6 +9098,8 @@ guardaserietv.fit CNAME .
 *.guardaserietv.fit CNAME .
 hdmovie2.fit CNAME .
 *.hdmovie2.fit CNAME .
+mkvcinemas.fit CNAME .
+*.mkvcinemas.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
 streamingcommunity.fit CNAME .
@@ -9956,6 +9964,8 @@ apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
 apkpure.co.in CNAME .
 *.apkpure.co.in CNAME .
+mkvcinemascom.co.in CNAME .
+*.mkvcinemascom.co.in CNAME .
 comix-load.in CNAME .
 *.comix-load.in CNAME .
 crystal-warez.in CNAME .
@@ -10958,6 +10968,8 @@ vegamovies.ke CNAME .
 *.vegamovies.ke CNAME .
 rapidleech2011.eu.ki CNAME .
 *.rapidleech2011.eu.ki CNAME .
+mkvcinemas.kids CNAME .
+*.mkvcinemas.kids CNAME .
 vegamovies.kids CNAME .
 *.vegamovies.kids CNAME .
 1cinevood.kim CNAME .
@@ -11518,6 +11530,8 @@ ipv6.rer.lol CNAME .
 *.ipv6.rer.lol CNAME .
 skytorrents.lol CNAME .
 *.skytorrents.lol CNAME .
+solarmovies-sc.lol CNAME .
+*.solarmovies-sc.lol CNAME .
 streamingcommunity.lol CNAME .
 *.streamingcommunity.lol CNAME .
 sudo-flix.lol CNAME .
@@ -12042,6 +12056,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -18994,6 +19010,8 @@ kleanstorage.store CNAME .
 *.kleanstorage.store CNAME .
 lookmovie.store CNAME .
 *.lookmovie.store CNAME .
+mkvcinemas.store CNAME .
+*.mkvcinemas.store CNAME .
 moviecluphd.store CNAME .
 *.moviecluphd.store CNAME .
 movt70.store CNAME .
@@ -21152,8 +21170,6 @@ watchmoviesfree.us CNAME .
 *.watchmoviesfree.us CNAME .
 zipcomics.us CNAME .
 *.zipcomics.us CNAME .
-t.al.uy CNAME .
-*.t.al.uy CNAME .
 vegamovies.uy CNAME .
 *.vegamovies.uy CNAME .
 vegamovies.uz CNAME .

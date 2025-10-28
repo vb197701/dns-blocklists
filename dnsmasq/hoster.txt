@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 09:34 UTC
-# Version: 2025.1024.0934.27
+# Last modified: 28 Oct 2025 09:52 UTC
+# Version: 2025.1028.0952.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1378
+# Number of entries: 1379
 #
 local=/000a.de/
 local=/000space.com/
@@ -1316,6 +1316,7 @@ local=/webself.net/
 local=/webselfsite.net/
 local=/webservis.ru/
 local=/website.at/
+local=/website.com/
 local=/website.org/
 local=/website-home.ws/
 local=/website2.me/

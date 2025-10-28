@@ -5348,6 +5348,13 @@
       }
     },
     {
+      "PK": "saepay.plus",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "safe.pharmacy",
       "action": {
         "do": 1,

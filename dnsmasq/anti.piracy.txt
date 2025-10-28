@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 22:22 UTC
-# Version: 2025.1027.2222.32
+# Last modified: 28 Oct 2025 10:22 UTC
+# Version: 2025.1028.1022.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11188
+# Number of entries: 11196
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -444,7 +444,6 @@ local=/aiw.bz/
 local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
 local=/aklivetv.com/
-local=/t.al.uy/
 local=/alabout.com/
 local=/alagoz.beer/
 local=/tracker.alaskantf.com/
@@ -1987,6 +1986,7 @@ local=/tracker.loli.co.nz/
 local=/tracker1.loli.co.nz/
 local=/master-torrents-tracker.co.cc/
 local=/mega.co.nz/
+local=/mkvcinemascom.co.in/
 local=/tracker1.bt.moack.co.kr/
 local=/nhltorrents.co.uk/
 local=/nibl.co.uk/
@@ -2393,7 +2393,6 @@ local=/ddnbd.com/
 local=/ddnbd.fun/
 local=/asiatorrent.ddns.net/
 local=/houniao.ddns.net/
-local=/echostar.ddnsfree.com/
 local=/ddos.city/
 local=/ddos.kr/
 local=/ddos.tools/
@@ -6069,15 +6068,20 @@ local=/mkfs.ru/
 local=/mkvanime.mov/
 local=/mkvcage.com/
 local=/mkvcage.ws/
+local=/mkvcinemas.app/
+local=/mkvcinemas.bet/
 local=/mkvcinemas.cat/
 local=/mkvcinemas.date/
+local=/mkvcinemas.fit/
 local=/mkvcinemas.gift/
 local=/mkvcinemas.haus/
+local=/mkvcinemas.kids/
 local=/mkvcinemas.kim/
 local=/mkvcinemas.kiwi/
 local=/mkvcinemas.men/
 local=/mkvcinemas.prof/
 local=/mkvcinemas.red/
+local=/mkvcinemas.store/
 local=/mkvcinemas.tw/
 local=/mkvdrama.org/
 local=/mkvking.me/
@@ -6267,6 +6271,7 @@ local=/moviesdvdr.co/
 local=/moviesdvdr.com/
 local=/movieseriestv.net/
 local=/movieserver.net/
+local=/moviesflixcc.com/
 local=/moviesfoundonline.com/
 local=/moviesite.hu/
 local=/moviesjoy.is/
@@ -7568,6 +7573,7 @@ local=/putlocker123.io/
 local=/putlocker123.me/
 local=/putlocker123.to/
 local=/putlocker123.video/
+local=/putlocker19.com/
 local=/putlocker2021.net/
 local=/putlocker5movies.site/
 local=/putlocker9.cc/
@@ -8424,6 +8430,7 @@ local=/solarmovieru.com/
 local=/solarmovies.cc/
 local=/solarmovies.co/
 local=/solarmovies.win/
+local=/solarmovies-sc.lol/
 local=/solarmoviez.ru/
 local=/solarmoviez.to/
 local=/solidsoftwaretools.com/
@@ -8894,6 +8901,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
