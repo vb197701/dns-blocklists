@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761733380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761776820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 10:23 UTC
-; Version: 2025.1029.1023.22
+; Last modified: 29 Oct 2025 22:27 UTC
+; Version: 2025.1029.2227.42
 ; Syntax: RPZ
-; Number of entries: 81208
+; Number of entries: 81198
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2600,8 +2600,6 @@ championcasino.biz CNAME .
 *.championcasino.biz CNAME .
 ckbet.biz CNAME .
 *.ckbet.biz CNAME .
-cyclesoflife.biz CNAME .
-*.cyclesoflife.biz CNAME .
 dollarbarslots.biz CNAME .
 *.dollarbarslots.biz CNAME .
 e-invest.biz CNAME .
@@ -2670,8 +2668,6 @@ msdos.biz CNAME .
 *.msdos.biz CNAME .
 neraka88.biz CNAME .
 *.neraka88.biz CNAME .
-nyacasinospel.biz CNAME .
-*.nyacasinospel.biz CNAME .
 collector-cps-live.omnitrend.biz CNAME .
 *.collector-cps-live.omnitrend.biz CNAME .
 orangegrove.biz CNAME .
@@ -22990,8 +22986,6 @@ chinookwindscasinot.com CNAME .
 *.chinookwindscasinot.com CNAME .
 chinookwindscasinox.com CNAME .
 *.chinookwindscasinox.com CNAME .
-chipmunkbags.com CNAME .
-*.chipmunkbags.com CNAME .
 chipnwin.com CNAME .
 *.chipnwin.com CNAME .
 chipy.com CNAME .
@@ -31966,8 +31960,6 @@ linetogel0251.com CNAME .
 *.linetogel0251.com CNAME .
 linetogelofficial2.com CNAME .
 *.linetogelofficial2.com CNAME .
-lingkaranrakyat.com CNAME .
-*.lingkaranrakyat.com CNAME .
 lingtogel777a.com CNAME .
 *.lingtogel777a.com CNAME .
 lingtoto77.com CNAME .
@@ -31984,6 +31976,10 @@ linkcasinoonline.com CNAME .
 *.linkcasinoonline.com CNAME .
 linken1j.com CNAME .
 *.linken1j.com CNAME .
+linkpucuk007.com CNAME .
+*.linkpucuk007.com CNAME .
+linkpucuk009.com CNAME .
+*.linkpucuk009.com CNAME .
 linkslotserverluar.com CNAME .
 *.linkslotserverluar.com CNAME .
 linksuzuki4d.com CNAME .
@@ -33114,6 +33110,8 @@ make-shots.com CNAME .
 *.make-shots.com CNAME .
 makeinlaw.com CNAME .
 *.makeinlaw.com CNAME .
+makeorganizelifeamp.com CNAME .
+*.makeorganizelifeamp.com CNAME .
 maladewalottery.com CNAME .
 *.maladewalottery.com CNAME .
 malangasautomotive.com CNAME .
@@ -38972,6 +38970,8 @@ pokiesman.com CNAME .
 *.pokiesman.com CNAME .
 pokiespins.com CNAME .
 *.pokiespins.com CNAME .
+polagacorkaos110.com CNAME .
+*.polagacorkaos110.com CNAME .
 poland-verdecasino.com CNAME .
 *.poland-verdecasino.com CNAME .
 polaslotlive.com CNAME .
@@ -39204,6 +39204,8 @@ prediksicairbos789.com CNAME .
 *.prediksicairbos789.com CNAME .
 prediksigestun.com CNAME .
 *.prediksigestun.com CNAME .
+prediksihoshita.com CNAME .
+*.prediksihoshita.com CNAME .
 prediksijuara.com CNAME .
 *.prediksijuara.com CNAME .
 prediksilexus.com CNAME .
@@ -46892,8 +46894,6 @@ whitelotuscasino.com CNAME .
 *.whitelotuscasino.com CNAME .
 whiteorchidslots.com CNAME .
 *.whiteorchidslots.com CNAME .
-whobetswins.com CNAME .
-*.whobetswins.com CNAME .
 wibjackpotcasino.com CNAME .
 *.wibjackpotcasino.com CNAME .
 wickedbet.com CNAME .
@@ -57566,8 +57566,6 @@ horseracingvideos.net CNAME .
 *.horseracingvideos.net CNAME .
 hotbetpoker.net CNAME .
 *.hotbetpoker.net CNAME .
-hotcasinobonuses.net CNAME .
-*.hotcasinobonuses.net CNAME .
 hotlootcasino.net CNAME .
 *.hotlootcasino.net CNAME .
 hotwin-casino.net CNAME .
@@ -57726,8 +57724,6 @@ gwfd.katawee.net CNAME .
 *.gwfd.katawee.net CNAME .
 qk3x72.katawee.net CNAME .
 *.qk3x72.katawee.net CNAME .
-kayarayaslot.net CNAME .
-*.kayarayaslot.net CNAME .
 kazinoazov.net CNAME .
 *.kazinoazov.net CNAME .
 kdslotsir.net CNAME .
@@ -58590,8 +58586,6 @@ slotsdjcasino.net CNAME .
 *.slotsdjcasino.net CNAME .
 slotsgood.net CNAME .
 *.slotsgood.net CNAME .
-slotsidr.net CNAME .
-*.slotsidr.net CNAME .
 slotsraja.net CNAME .
 *.slotsraja.net CNAME .
 slotzocasino.net CNAME .
@@ -60514,8 +60508,6 @@ melhorestacasinos.online CNAME .
 *.melhorestacasinos.online CNAME .
 melllstroycasino.online CNAME .
 *.melllstroycasino.online CNAME .
-menang123wise.online CNAME .
-*.menang123wise.online CNAME .
 merryvikingslots.online CNAME .
 *.merryvikingslots.online CNAME .
 mersinonmain.online CNAME .
@@ -67792,8 +67784,6 @@ privatedarknetmarkets.shop CNAME .
 *.privatedarknetmarkets.shop CNAME .
 privatedarkwebmarkets.shop CNAME .
 *.privatedarkwebmarkets.shop CNAME .
-pulsatanpapotongan.shop CNAME .
-*.pulsatanpapotongan.shop CNAME .
 pureparadise.shop CNAME .
 *.pureparadise.shop CNAME .
 qqpkrcasino.shop CNAME .
@@ -69352,8 +69342,6 @@ xoso6600.today CNAME .
 *.1win-casino-site3.top CNAME .
 1win-casino-uz.top CNAME .
 *.1win-casino-uz.top CNAME .
-1win-poker.top CNAME .
-*.1win-poker.top CNAME .
 1xbet-02.top CNAME .
 *.1xbet-02.top CNAME .
 1xbet-078666.top CNAME .
@@ -76030,6 +76018,8 @@ donbet.win CNAME .
 *.donbet.win CNAME .
 es-chilli-slots.win CNAME .
 *.es-chilli-slots.win CNAME .
+fixedmatches.win CNAME .
+*.fixedmatches.win CNAME .
 galaxynocasino.win CNAME .
 *.galaxynocasino.win CNAME .
 game-casino.win CNAME .

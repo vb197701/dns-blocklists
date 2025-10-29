@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 19:31 UTC
-# Version: 2025.1026.1931.25
+# Last modified: 29 Oct 2025 12:07 UTC
+# Version: 2025.1029.1207.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 340
+# Number of entries: 360
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -50,6 +50,25 @@ local=/xlog.byteoversea.com/
 local=/xlog-o.byteoversea.com/
 local=/xlog-va.byteoversea.com/
 local=/xlog-va-useast2a.byteoversea.com/
+local=/log-boot.capcutapi.com/
+local=/log-sg.capcutapi.com/
+local=/log16-normal.capcutapi.com/
+local=/log16-normal-sg.capcutapi.com/
+local=/log16-normal-us-ttp.capcutapi.us/
+local=/log32-normal.capcutapi.com/
+local=/log32-normal-sg.capcutapi.com/
+local=/mcs.capcutapi.us/
+local=/mcs-normal-sg.capcutapi.com/
+local=/mcs16-normal-us-ttp.capcutapi.us/
+local=/mon.capcutapi.us/
+local=/mon-boot.capcutapi.com/
+local=/mon-sg.capcutapi.com/
+local=/mon16-normal-sg.capcutapi.com/
+local=/mon16-normal-us-ttp.capcutapi.us/
+local=/mon32-normal-sg.capcutapi.com/
+local=/pc-mon-boot.capcutapi.com/
+local=/pc-mon-normal-sg.capcutapi.com/
+local=/pc-mon16-normal-us-ttp.capcutapi.us/
 local=/tnc-boot.capcutapi.com/
 local=/tnc-sg.capcutapi.com/
 local=/tnc-va.capcutapi.com/
@@ -129,6 +148,7 @@ local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
 local=/ad-instantpage.tiktokv.us/
+local=/ad-instantpage-ru.tiktokv.com/
 local=/ad-instantpage-sg.tiktokv.com/
 local=/ad-instantpage-ttp2.tiktokv.eu/
 local=/ad-instantpage-ttp2.tiktokv.us/

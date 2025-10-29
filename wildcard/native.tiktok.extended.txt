@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Oct 2025 19:32 UTC
-# Version: 2025.1026.1932.20
+# Last modified: 29 Oct 2025 12:09 UTC
+# Version: 2025.1029.1209.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 428
+# Number of entries: 452
 #
 *.frontier.byteoversea.com
 *.gplog-sg.byteoversea.com
@@ -50,6 +50,29 @@
 *.xlog-o.byteoversea.com
 *.xlog-va.byteoversea.com
 *.xlog-va-useast2a.byteoversea.com
+*.log-boot.capcutapi.com
+*.log-sg.capcutapi.com
+*.log16-normal.capcutapi.com
+*.log16-normal-sg.capcutapi.com
+*.log16-normal-us-ttp.capcutapi.us
+*.log32-normal.capcutapi.com
+*.log32-normal-sg.capcutapi.com
+*.mcs.capcutapi.us
+*.mcs-normal-sg.capcutapi.com
+*.mcs16-normal-us-ttp.capcutapi.us
+*.mon.capcutapi.us
+*.mon-boot.capcutapi.com
+*.mon-sg.capcutapi.com
+*.mon16-normal-sg.capcutapi.com
+*.mon16-normal-us-ttp.capcutapi.us
+*.mon32-normal-sg.capcutapi.com
+*.mssdk.capcutapi.us
+*.mssdk-boot.capcutapi.com
+*.mssdk-sg.capcutapi.com
+*.mssdk16-normal-us-ttp.capcutapi.us
+*.pc-mon-boot.capcutapi.com
+*.pc-mon-normal-sg.capcutapi.com
+*.pc-mon16-normal-us-ttp.capcutapi.us
 *.tnc-boot.capcutapi.com
 *.tnc-sg.capcutapi.com
 *.tnc-va.capcutapi.com
@@ -134,6 +157,7 @@
 *.ad.tiktokv.com
 *.ad.tiktokv.us
 *.ad-instantpage.tiktokv.us
+*.ad-instantpage-ru.tiktokv.com
 *.ad-instantpage-sg.tiktokv.com
 *.ad-instantpage-ttp2.tiktokv.eu
 *.ad-instantpage-ttp2.tiktokv.us

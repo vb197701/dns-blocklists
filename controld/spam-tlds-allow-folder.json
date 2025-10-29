@@ -2458,6 +2458,13 @@
       }
     },
     {
+      "PK": "libstc.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "life.church",
       "action": {
         "do": 1,

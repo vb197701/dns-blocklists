@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Oct 2025 10:23 UTC
-! Version: 2025.1029.1023.22
+! Last modified: 29 Oct 2025 22:27 UTC
+! Version: 2025.1029.2227.42
 ! Syntax: AdBlock
-! Number of entries: 40604
+! Number of entries: 40599
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -575,7 +575,6 @@
 ||1win-dengi.casino^
 ||1win-fun.casino^
 ||1win-officialsite-casino.online^
-||1win-poker.top^
 ||1win79.casino^
 ||1winbet.ng^
 ||1wincasino.best^
@@ -12743,7 +12742,6 @@
 ||chinookwindscasino.com^
 ||chinookwindscasinot.com^
 ||chinookwindscasinox.com^
-||chipmunkbags.com^
 ||chipnwin.com^
 ||chips.gg^
 ||chipstars.bet^
@@ -14553,7 +14551,6 @@
 ||cyberspinscasinol.com^
 ||cyclebets.xyz^
 ||cyclesbets.xyz^
-||cyclesoflife.biz^
 ||cyclicbets.xyz^
 ||cygnetbets.xyz^
 ||cypher.casino^
@@ -16776,6 +16773,7 @@
 ||fixedmatch.bet^
 ||fixedmatch.site^
 ||fixedmatch365.bet^
+||fixedmatches.win^
 ||fixislot88.net^
 ||fixpermatawin.xyz^
 ||fizzslots.com^
@@ -19714,7 +19712,6 @@
 ||hotbetpoker.net^
 ||hotbetpoker.org^
 ||hotblackjack.com^
-||hotcasinobonuses.net^
 ||hotchillibellscasino.com^
 ||hotcoin.com^
 ||hotcuchot.com^
@@ -21678,7 +21675,6 @@
 ||kawin77kk.com^
 ||kawinlagi.xyz^
 ||kayacasinoply.com^
-||kayarayaslot.net^
 ||kayaslot99.com^
 ||kazakhstanfairgambling.com^
 ||kazancasino79.com^
@@ -23426,7 +23422,6 @@
 ||linetogel0251.com^
 ||linetogel88.org^
 ||linetogelofficial2.com^
-||lingkaranrakyat.com^
 ||lingtogel777a.com^
 ||lingtoto77.com^
 ||link-kudabet.xyz^
@@ -23452,6 +23447,8 @@
 ||linklegitoto.xyz^
 ||linklltoto.xyz^
 ||linkmainlotre.xyz^
+||linkpucuk007.com^
+||linkpucuk009.com^
 ||linkpusatlotre.xyz^
 ||linkscasino.info^
 ||linkslotserverluar.com^
@@ -24577,6 +24574,7 @@
 ||makaobet.com^
 ||make-shots.com^
 ||makeinlaw.com^
+||makeorganizelifeamp.com^
 ||makthavare.se^
 ||maladewalottery.com^
 ||malangasautomotive.com^
@@ -25314,7 +25312,6 @@
 ||menace.com^
 ||menacekingcasino.uk^
 ||menageriemusic.com^
-||menang123wise.online^
 ||menangqris.xyz^
 ||menangwin88.net^
 ||menangyuk.site^
@@ -27247,7 +27244,6 @@
 ||nya-casino.net^
 ||nya-casino.win^
 ||nyacasino.ca^
-||nyacasinospel.biz^
 ||nyaproductreviewer.com^
 ||nyartistscircle.org^
 ||nye-danskecasinoer.com^
@@ -30661,6 +30657,7 @@
 ||polaajib.fun^
 ||polabagus.xyz^
 ||poladewaku.pro^
+||polagacorkaos110.com^
 ||polaindia.xyz^
 ||polajp.lol^
 ||polalivealam.xyz^
@@ -30861,6 +30858,7 @@
 ||prediksififgrup.info^
 ||prediksigacorkebun.xyz^
 ||prediksigestun.com^
+||prediksihoshita.com^
 ||prediksijuara.com^
 ||prediksikebun.xyz^
 ||prediksikitagroup.bio^
@@ -31030,7 +31028,6 @@
 ||pulpower.com^
 ||pulsa88new.lol^
 ||pulsarslots.com^
-||pulsatanpapotongan.shop^
 ||pulsatiba.com^
 ||pulsz.com^
 ||pulszbingo.com^
@@ -33975,7 +33972,6 @@
 ||slotshub38.com^
 ||slotshubw.com^
 ||slotsi.com^
-||slotsidr.net^
 ||slotsimo.com^
 ||slotsisland-gb.uk^
 ||slotsite.com^
@@ -39254,7 +39250,6 @@
 ||whitelotuscasino.com^
 ||whiteorchidslots.com^
 ||whitepoker.us^
-||whobetswins.com^
 ||whycasino-5amp.ru^
 ||wi88.win^
 ||wibjackpotcasino.com^

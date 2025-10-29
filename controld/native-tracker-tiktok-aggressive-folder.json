@@ -22,6 +22,13 @@
       }
     },
     {
+      "PK": "ad-instantpage-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage-sg.tiktokv.com",
       "action": {
         "do": 0,
@@ -603,6 +610,13 @@
       }
     },
     {
+      "PK": "log16-normal.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log16-normal-c-useast1a.tiktokv.com",
       "action": {
         "do": 0,
@@ -632,6 +646,13 @@
     },
     {
       "PK": "log16-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log16-normal-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -681,6 +702,13 @@
     },
     {
       "PK": "log16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log16-normal-us-ttp.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -862,7 +890,21 @@
       }
     },
     {
+      "PK": "log32-normal.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log32-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log32-normal-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -995,6 +1037,13 @@
       }
     },
     {
+      "PK": "log-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log.byteoversea.com",
       "action": {
         "do": 0,
@@ -1038,6 +1087,13 @@
     },
     {
       "PK": "log-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "log-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1135,7 +1191,21 @@
       }
     },
     {
+      "PK": "mcs16-normal-us-ttp.capcutapi.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mcs16-normal-ycru.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mcs.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1157,6 +1227,13 @@
     },
     {
       "PK": "mcs-ie.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mcs-normal-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1352,6 +1429,13 @@
       }
     },
     {
+      "PK": "mon16-normal-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon16-normal.tiktokv.com",
       "action": {
         "do": 0,
@@ -1388,6 +1472,13 @@
     },
     {
       "PK": "mon16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon16-normal-us-ttp.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1492,6 +1583,13 @@
       }
     },
     {
+      "PK": "mon32-normal-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon32-normal.tiktokv.com",
       "action": {
         "do": 0,
@@ -1513,6 +1611,13 @@
       }
     },
     {
+      "PK": "mon-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-boot.tiktokv.com",
       "action": {
         "do": 0,
@@ -1528,6 +1633,13 @@
     },
     {
       "PK": "mon.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1563,6 +1675,13 @@
     },
     {
       "PK": "mon-ru.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1640,6 +1759,13 @@
     },
     {
       "PK": "mssdk16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk16-normal-us-ttp.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1814,7 +1940,21 @@
       }
     },
     {
+      "PK": "mssdk-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk-bu.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk.capcutapi.us",
       "action": {
         "do": 0,
         "status": 1
@@ -1885,6 +2025,13 @@
     },
     {
       "PK": "mssdk-sg.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1997,6 +2144,27 @@
     },
     {
       "PK": "pangolin.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon16-normal-us-ttp.capcutapi.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-normal-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1

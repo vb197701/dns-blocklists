@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Oct 2025 10:22 UTC
-! Version: 2025.1029.1022.51
+! Last modified: 29 Oct 2025 22:27 UTC
+! Version: 2025.1029.2227.12
 ! Syntax: AdBlock
-! Number of entries: 82176
+! Number of entries: 82178
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -1078,7 +1078,6 @@
 ||1win-officialsite-casino.online^
 ||1win-officialsite-casino-nxcn.buzz^
 ||1win-online-casino.net^
-||1win-poker.top^
 ||1win007.com^
 ||1win204.casino^
 ||1win206.casino^
@@ -15694,7 +15693,9 @@
 ||boatrightendodontics.com^
 ||boauto.store^
 ||bobabet-login.xyz^
+||bobapolsek.com^
 ||bobashopfremont.com^
+||bobatoto077.com^
 ||bobatutu.com^
 ||bobbets.xyz^
 ||bobby-casino-australia.com^
@@ -27278,7 +27279,6 @@
 ||chinookwindscasinot.com^
 ||chinookwindscasinox.com^
 ||chinookwindscasinoy.com^
-||chipmunkbags.com^
 ||chipnwin.com^
 ||chipperbets.xyz^
 ||chips.gg^
@@ -31124,7 +31124,6 @@
 ||cybetcasino.best^
 ||cyclebets.xyz^
 ||cyclesbets.xyz^
-||cyclesoflife.biz^
 ||cyclicbets.xyz^
 ||cygnetbets.xyz^
 ||cyj-dblivecasino.com^
@@ -35293,6 +35292,7 @@
 ||fixedmatch.bet^
 ||fixedmatch.site^
 ||fixedmatch365.bet^
+||fixedmatches.win^
 ||fixislot88.net^
 ||fixislote.xyz^
 ||fixpermatawin.xyz^
@@ -40509,7 +40509,6 @@
 ||hotblackjack.com^
 ||hotcasino.uk^
 ||hotcasino.xyz^
-||hotcasinobonuses.net^
 ||hotchillibellscasino.com^
 ||hotcoin.com^
 ||hotcuchot.com^
@@ -44246,6 +44245,7 @@
 ||kanuuna.com^
 ||kaosking.com^
 ||kaospokers.id^
+||kaosteach.com^
 ||kapakforme.xyz^
 ||kapal4d.vip^
 ||kapalagiaja.xyz^
@@ -44365,7 +44365,6 @@
 ||kawinlagi.xyz^
 ||kayacasinoply.com^
 ||kayapremiumcasino730.com^
-||kayarayaslot.net^
 ||kayaslot99.com^
 ||kazakhstanfairgambling.com^
 ||kazakstan-casino.com^
@@ -47908,7 +47907,6 @@
 ||linetogel88.org^
 ||linetogelofficial2.com^
 ||linewilayah.xyz^
-||lingkaranrakyat.com^
 ||linglogin.com^
 ||lingmainbos.com^
 ||lingtogel777a.com^
@@ -47967,6 +47965,8 @@
 ||linknomorsatu.xyz^
 ||linkoppakita.com^
 ||linkpentolbet.xyz^
+||linkpucuk007.com^
+||linkpucuk009.com^
 ||linkpusatlotre.xyz^
 ||linkrajaslot88b.com^
 ||linkrtprejeki808.online^
@@ -49974,6 +49974,7 @@
 ||makebets.xyz^
 ||makeinlaw.com^
 ||makemeoncasino.com^
+||makeorganizelifeamp.com^
 ||makerbets.xyz^
 ||makeslotsvibe.live^
 ||makispincasino.org^
@@ -51506,7 +51507,6 @@
 ||menacecasino.org^
 ||menacekingcasino.uk^
 ||menageriemusic.com^
-||menang123wise.online^
 ||menang138.fun^
 ||menang77.com^
 ||menangqris.xyz^
@@ -55713,7 +55713,6 @@
 ||nya-casino.win^
 ||nyacasino.ca^
 ||nyacasino.win^
-||nyacasinospel.biz^
 ||nyaizeus.xyz^
 ||nyala999.net^
 ||nyan-poker.com^
@@ -60929,6 +60928,7 @@
 ||plinocasinoup.store^
 ||plnslotmewah.xyz^
 ||plodding-poker.icu^
+||ploy-pm.org^
 ||plugtodesign.com^
 ||plus-188betsports.com^
 ||plus777.fun^
@@ -62729,6 +62729,7 @@
 ||polabonanza.xyz^
 ||poladewaku.pro^
 ||polaeze.xyz^
+||polagacorkaos110.com^
 ||polagame.com^
 ||polagudang.online^
 ||polaindia.xyz^
@@ -63073,6 +63074,7 @@
 ||prediksigacorkebun.xyz^
 ||prediksigestun.com^
 ||prediksiguru.pro^
+||prediksihoshita.com^
 ||prediksijitu.store^
 ||prediksijuara.com^
 ||prediksikebun.xyz^
@@ -63411,7 +63413,6 @@
 ||pulsa858pas.xyz^
 ||pulsa88new.lol^
 ||pulsarslots.com^
-||pulsatanpapotongan.shop^
 ||pulsatiba.com^
 ||pulse-insight.com^
 ||pulsz.com^
@@ -64577,6 +64578,7 @@
 ||ratuqqonline.xyz^
 ||ratuvip-jagoan.xyz^
 ||rauzier-hyperphoto.com^
+||ravee88.com^
 ||raw.casino^
 ||raxcasino100.com^
 ||raxcasino101.com^
@@ -66623,6 +66625,7 @@
 ||rtpoca.xyz^
 ||rtpocatotoku.xyz^
 ||rtpoddi.xyz^
+||rtpojkoreo.com^
 ||rtpokelotre.xyz^
 ||rtporder4d.site^
 ||rtporis.com^
@@ -68345,6 +68348,7 @@
 ||skrillcasinos.nz^
 ||skrillcasinost.com^
 ||skupoker.online^
+||skwindto.com^
 ||sky-crown-casino-australia.com^
 ||sky-vegas.casino^
 ||sky123situs.xyz^
@@ -69311,7 +69315,6 @@
 ||slotsi.com^
 ||slotsia.xyz^
 ||slotsias.com^
-||slotsidr.net^
 ||slotsimo.com^
 ||slotsingamer.xyz^
 ||slotsisland-gb.uk^
@@ -79549,7 +79552,6 @@
 ||whiterabbit-casino.com^
 ||whitewolfarchery.com^
 ||whobets.xyz^
-||whobetswins.com^
 ||wholesale-cart.com^
 ||whoopasspoker.us^
 ||whop.poker^

@@ -2962,6 +2962,13 @@
       }
     },
     {
+      "PK": "sctrack.sendcloud.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sdk.us.xtremepush.com",
       "action": {
         "do": 1,
@@ -3340,6 +3347,13 @@
       }
     },
     {
+      "PK": "track2.sendcloud.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "track.addtocart.today",
       "action": {
         "do": 1,
@@ -3649,6 +3663,13 @@
     },
     {
       "PK": "track.seadform.net",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track.*.sendlayer.net",
       "action": {
         "do": 1,
         "status": 1

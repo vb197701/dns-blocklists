@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 09:13 UTC
-# Version: 2025.1029.0913.58
+# Last modified: 29 Oct 2025 21:19 UTC
+# Version: 2025.1029.2119.26
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1124
+# Number of entries: 1128
 #
 l.1mp.ru
 t.1und1.de
@@ -289,6 +289,7 @@ track.customer.io
 track-eu.customer.io
 track-sdk.customer.io
 track-sdk-eu.customer.io
+trk-eu.customer.io
 e.customeriomail.com
 track.cybersafezones.com
 link.dana.id
@@ -944,7 +945,10 @@ recommender-eu.scarabresearch.com
 track.seadform.net
 secure-hotel-tracker.com
 click.e.sees.com
+sctrack.sendcloud.net
+track2.sendcloud.net
 ct.sendgrid.net
+track.m2.sendlayer.net
 app.sephora.com
 shareasale.com
 shareasale-analytics.com

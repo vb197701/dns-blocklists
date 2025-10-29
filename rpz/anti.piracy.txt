@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761733380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761776880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 10:23 UTC
-; Version: 2025.1029.1023.44
+; Last modified: 29 Oct 2025 22:28 UTC
+; Version: 2025.1029.2228.03
 ; Syntax: RPZ
-; Number of entries: 22390
+; Number of entries: 22406
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8296,6 +8296,8 @@ filmpertutti.cyou CNAME .
 *.filmpertutti.cyou CNAME .
 hdmovie2.cyou CNAME .
 *.hdmovie2.cyou CNAME .
+netmirror.cyou CNAME .
+*.netmirror.cyou CNAME .
 thepb.cyou CNAME .
 *.thepb.cyou CNAME .
 hd-cztorrent.cz CNAME .
@@ -8892,6 +8894,8 @@ myfeed2all.eu CNAME .
 *.myfeed2all.eu CNAME .
 myp2px.eu CNAME .
 *.myp2px.eu CNAME .
+netmirror.eu CNAME .
+*.netmirror.eu CNAME .
 nod32key.eu CNAME .
 *.nod32key.eu CNAME .
 nyaa.eu CNAME .
@@ -9544,6 +9548,8 @@ filmstreaming.gg CNAME .
 *.filmstreaming.gg CNAME .
 french-stream.gg CNAME .
 *.french-stream.gg CNAME .
+netmirror.gg CNAME .
+*.netmirror.gg CNAME .
 nulls.gg CNAME .
 *.nulls.gg CNAME .
 rarbg.gg CNAME .
@@ -9732,6 +9738,8 @@ hds-streaming.homes CNAME .
 *.hds-streaming.homes CNAME .
 kinox.homes CNAME .
 *.kinox.homes CNAME .
+netmirror.homes CNAME .
+*.netmirror.homes CNAME .
 tantifilm.homes CNAME .
 *.tantifilm.homes CNAME .
 hdmovie2.horse CNAME .
@@ -14270,6 +14278,8 @@ vide0.net CNAME .
 *.vide0.net CNAME .
 vidembed.net CNAME .
 *.vidembed.net CNAME .
+videqs.net CNAME .
+*.videqs.net CNAME .
 videzz.net CNAME .
 *.videzz.net CNAME .
 vidmate.net CNAME .
@@ -17592,6 +17602,8 @@ hdmovie2.rest CNAME .
 *.hdmovie2.rest CNAME .
 kinogo.rest CNAME .
 *.kinogo.rest CNAME .
+netmirror.rest CNAME .
+*.netmirror.rest CNAME .
 nocensor.rest CNAME .
 *.nocensor.rest CNAME .
 streamingcommunity.rest CNAME .
@@ -18360,6 +18372,8 @@ ilgeniodellostreaming.sbs CNAME .
 *.ilgeniodellostreaming.sbs CNAME .
 movies123.sbs CNAME .
 *.movies123.sbs CNAME .
+netmirror.sbs CNAME .
+*.netmirror.sbs CNAME .
 piratesbay.sbs CNAME .
 *.piratesbay.sbs CNAME .
 tantifilm.sbs CNAME .
@@ -22042,6 +22056,8 @@ badshahuploads.xyz CNAME .
 *.badshahuploads.xyz CNAME .
 bayofpirates.xyz CNAME .
 *.bayofpirates.xyz CNAME .
+biu47.xyz CNAME .
+*.biu47.xyz CNAME .
 tracker.blackunicorn.xyz CNAME .
 *.tracker.blackunicorn.xyz CNAME .
 blunter.xyz CNAME .

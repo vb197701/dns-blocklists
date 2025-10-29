@@ -3402,6 +3402,13 @@
       }
     },
     {
+      "PK": "libstc.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.life",
       "action": {
         "do": 0,
