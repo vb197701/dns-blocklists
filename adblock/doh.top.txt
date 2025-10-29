@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Oct 2025 10:28 UTC
-! Version: 2025.1028.1028.36
+! Last modified: 29 Oct 2025 10:29 UTC
+! Version: 2025.1029.1029.21
 ! Syntax: AdBlock
-! Number of entries: 380
+! Number of entries: 368
 !
 ||ns.00dani.me^
 ||httpdns.music.163.com^
@@ -20,10 +20,8 @@
 ||233py.com^
 ||doh.360.cn^
 ||3dns.eu^
-||doh.42l.fr^
 ||ns2.4netguides.org^
 ||8888.google^
-||doh.dns.apple.com.v.aaplimg.com^
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
@@ -46,8 +44,6 @@
 ||doh.appliedprivacy.net^
 ||nsec.arnor.org^
 ||dns.artikel10.org^
-||dohtrial.att.net^
-||doh1.b-cdn.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -102,11 +98,9 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -154,7 +148,6 @@
 ||edgy-dns.com^
 ||eth.link^
 ||opennic1.eth-services.de^
-||rdns.faelix.net^
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
@@ -167,7 +160,6 @@
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||moph.go.th^
 ||dns.google.com^
@@ -209,7 +201,6 @@
 ||hdns.ksyun.com^
 ||landerbrauver.ru^
 ||lastentarvike.fi^
-||eu1.dns.lavate.ch^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
@@ -278,6 +269,7 @@
 ||sundalandia.pp.ua^
 ||sweden.privacy-dns.pw^
 ||project-evoex.de^
+||publicdnsserver.com^
 ||puredns.org^
 ||dns.qq.com^
 ||httpdns.kg.qq.com^
@@ -286,7 +278,6 @@
 ||udns.weixin.qq.com^
 ||ns1.qquack.org^
 ||dns.quad9.net^
-||dns-nosec.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
@@ -304,7 +295,6 @@
 ||dns1.ryan-palmer.com^
 ||safeservedns.com^
 ||schimtar.com^
-||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||shalenkov.dev^
@@ -322,8 +312,6 @@
 ||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
-||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||homenet.telecomitalia.it^

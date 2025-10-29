@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 09:14 UTC
-# Version: 2025.1028.0914.10
+# Last modified: 29 Oct 2025 09:13 UTC
+# Version: 2025.1029.0913.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1118
+# Number of entries: 1124
 #
 l.1mp.ru
 t.1und1.de
@@ -167,6 +167,7 @@ seu.cleverreach.com
 17509.seu.cleverreach.com
 31289.seu.cleverreach.com
 seu1.cleverreach.com
+52586.seu1.cleverreach.com
 57361.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
@@ -370,6 +371,7 @@ suite60.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
 suite7.emarsys.net
+suite8.emarsys.net
 suite9.emarsys.net
 emjcd.com
 t.en25.com
@@ -755,6 +757,7 @@ mkto-ab560009.com
 mkto-ab560068.com
 mkto-ab570110.com
 mkto-ab580004.com
+mkto-ab620045.com
 mkto-ab640193.com
 mkto-ab650097.com
 mkto-ab660121.com
@@ -777,6 +780,7 @@ mkto-nld1040186.com
 mkto-p0016.com
 mkto-sj010104.com
 mkto-sj010128.com
+mkto-sj020238.com
 mkto-sj030214.com
 mkto-sj040252.com
 mkto-sj070259.com
@@ -793,6 +797,7 @@ mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj250145.com
 mkto-sj270080.com
+mkto-sj270148.com
 mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
@@ -1124,6 +1129,7 @@ redirect.appmetrica.yandex.ru
 3.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.com
+4622212.redirect.appmetrica.yandex.com
 clck.yandex.ru
 t.yesware.com
 tracker.yoncamarket.com

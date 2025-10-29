@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Oct 2025 10:29 UTC
-# Version: 2025.1027.1029.41
+# Last modified: 29 Oct 2025 10:28 UTC
+# Version: 2025.1029.1028.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3401
+# Number of entries: 3402
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2631,6 +2631,7 @@ local=/httpdns.kg.qq.com/
 local=/dns.weixin.qq.com/
 local=/paydns.weixin.qq.com/
 local=/udns.weixin.qq.com/
+local=/qqmcfw.tech/
 local=/ns1.qquack.org/
 local=/log.qrsoft.ru/
 local=/dns.qrtz.club/

@@ -3676,6 +3676,13 @@
       }
     },
     {
+      "PK": "rapha.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "rapidcdn.cc",
       "action": {
         "do": 1,

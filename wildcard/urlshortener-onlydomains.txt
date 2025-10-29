@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Oct 2025 09:27 UTC
-# Version: 2025.1028.0927.09
+# Last modified: 29 Oct 2025 09:26 UTC
+# Version: 2025.1029.0926.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 8813
+# Number of entries: 8847
 #
 0.gp
 00m.in
@@ -408,6 +408,7 @@ abbreurl.com
 abbriv.com
 abbriv.info
 abbriv.net
+abbriv.org
 abbrr.com
 abc.li
 abc11.tv
@@ -788,6 +789,7 @@ atharori.net
 athe.re
 athena168.vip
 athm.cn
+atlantisgit.com
 atm.tk
 atmilb.com
 atmlb.com
@@ -844,6 +846,7 @@ ayt.fr
 ayuk.link
 azali.fr
 azc.cc
+azhfoom.com
 azipurl.app
 azipurl.com
 azl.one
@@ -941,6 +944,7 @@ beepurl.com
 beif.us
 beingtek.com
 belink.me
+belinksnip.com
 belinkurl.blog
 bely.pw
 benco.io
@@ -962,6 +966,7 @@ go.betnacional.bet.br
 bet200.win
 betaloop.io
 betaxfree.net
+betbtn.link
 beteshis.com
 beth.games
 bettercov.org
@@ -998,6 +1003,7 @@ binancetransactionf077171f1gl1od17ro1asecure.life
 binbucks.com
 binged.it
 bio.link
+vai.bio.br
 bio-links.ru
 bioandlink.com
 biobee.io
@@ -1555,6 +1561,7 @@ cliquebit.com
 cliqueclt.com
 clix.kr
 clixsor.com
+clixtrac.com
 clk.asia
 clk.bz
 clk.sh
@@ -1673,6 +1680,7 @@ mpfi.com.ph
 nabio.com.br
 natura.com.vc
 salesadvisor.nazriproton.com.my
+red1.com.br
 short.com.vn
 shortlink.com.au
 shortlinks.com.tr
@@ -1973,6 +1981,7 @@ deloi.tt
 delta.live
 demcon24.com
 asset.deme-group.com
+demoxpress.xyz
 dems.me
 denki.bio
 depedzn.net
@@ -2161,6 +2170,7 @@ dvta.net
 p.dw.com
 dwarfurl.com
 dwdl.link
+dwro.info
 dwz.kr
 dwz.mk
 dwz.nz
@@ -2227,6 +2237,7 @@ ecra.se
 ed.gr
 ed.tc
 edch.me
+edfiz.com
 edgs.co
 edh.kr
 go.edh.tw
@@ -2436,6 +2447,7 @@ fce.gg
 fck.lt
 lnk.fd-serv.com
 fee.vn
+link.feeturre.com
 feji.io
 fenditorosiatoter.life
 fenomen.live
@@ -2649,6 +2661,7 @@ geml.me
 gempixel.com
 gemy.link
 gen.cat
+links.geneasens.com
 generateurl.help
 geni.us
 geniuslink.com
@@ -2990,6 +3003,7 @@ hiroqr.com
 hirummy.life
 hisc.app
 histori.ca
+hisweb.site
 analytics.hitsmedia.org
 dl.hitxgh.com
 hivy.net
@@ -3297,6 +3311,7 @@ ipm.mo
 iqiyi.cn
 iql.ink
 ir.cx
+irbaz.ir
 irng.ca
 irohi.com
 is.am
@@ -3443,6 +3458,7 @@ joo.nz
 joomconnect.com
 u.joor.net
 jos.bio
+link.josephjacobs.org
 joshbut.llc
 joskale.me
 joturl.com
@@ -3517,6 +3533,7 @@ keepo.io
 kem.lu
 kerang.life
 keraskale.me
+keremozgit.org
 kes.re
 keyli.me
 kf.org
@@ -3575,6 +3592,7 @@ klic.click
 klickhier.at
 klik.best
 klik.gg
+klik.now
 klik.top
 klik-ini.one
 kliks.info
@@ -4191,6 +4209,7 @@ lohud.us
 loip.cc
 loki.at
 short.lokuads.com
+lolipoly.com
 lompat.xyz
 l.lonca.co
 lonerwolf.co
@@ -4666,6 +4685,7 @@ multi.tips
 multishorturl.com
 mumy.me
 munbyn.biz
+munchbet.live
 murl.com
 murl.gg
 t.musixmatch.com
@@ -5372,6 +5392,7 @@ pocolink.com
 pod.fo
 poeurl.com
 pofy.co
+pogle.pl
 poie.ma
 pointpay.live
 pojonews.co
@@ -5744,6 +5765,7 @@ redir.is
 redir.me
 redirect.bio
 redirectly.app
+redirectly.link
 redirectools.com
 redirects.ca
 redirigere.com
@@ -5779,6 +5801,7 @@ relink.host
 relink.pt
 reloptix.app
 rem.ax
+remakelink.com
 pay.remesita.com
 remundo.app
 renew.ge
@@ -5816,6 +5839,7 @@ rhub.in
 rickroll.it
 ricn.cc
 lk.riki.team
+s.rin.media
 ringcentr.al
 riot.com
 rip.city
@@ -5857,6 +5881,7 @@ rosibee.com
 rotf.lol
 rouletteonline.live
 rounash.com
+routecontent.com
 rows.com
 rozhl.as
 rpf.io
@@ -6009,6 +6034,7 @@ scanquickly.com
 scanulator.com
 scbet88vvip.org
 scbetgacorr.org
+scd.tips
 kutt.schantli.cloud
 sched.co
 schellenberg.ca
@@ -6214,6 +6240,7 @@ shorte.pro
 shorte.st
 shorteasily.com
 shortedge.pro
+shortedurl.com
 shorten.asia
 shorten.ee
 shorten.fyi
@@ -6505,6 +6532,7 @@ u.shxj.pw
 shy.si
 shycmedi.com
 shylnk.com
+sia.re
 sibly.ir
 sicax.net
 sicepat.link
@@ -6793,6 +6821,7 @@ srink.in
 srnk.us
 srrink.com
 srtl.io
+srtl.one
 srtnr.co
 srturl.xyz
 sruuuqg.bond
@@ -6803,6 +6832,7 @@ ss88.my
 ssa.li
 ssagnjumbory.com
 ssagnonfexy.com
+ssb.ltd
 ssff.cl
 ssl.gs
 ssl-check-links.info
@@ -7386,6 +7416,7 @@ trbs.link
 trck.biz
 trck.gg
 trck.me
+trenddynamo.com
 trendingvideo.live
 treszki.com
 trezurl.ir
@@ -7862,6 +7893,7 @@ urltiger.li
 urltin.com
 urltiny.cc
 urltiny.one
+urltiny.xyz
 urltools.com
 urltoshort.com
 urltrax.com
@@ -8433,6 +8465,7 @@ wptrckr.com
 wq.lt
 wqclfb.top
 wqfabu.top
+wqiseo.com
 wraply.io
 wrctr.co
 wrd.cm
@@ -8659,6 +8692,7 @@ yous.ee
 url.yousufraissi.xyz
 youtubeopener.app
 ysear.ch
+yt.cool
 yt.vu
 yts.nu
 ytube.io
