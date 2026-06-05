@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jun 2026 09:07 UTC
-! Version: 2026.0605.0907.57
+! Last modified: 05 Jun 2026 17:43 UTC
+! Version: 2026.0605.1743.19
 ! Syntax: AdBlock
-! Number of entries: 49775
+! Number of entries: 49760
 !
 ||fd01ce9a02.0012e30263.com^
 ||c2c4aecf0a.0073a85a5d.com^
@@ -434,6 +434,9 @@
 ||darian.bantengan.xyz^
 ||uc.barbelfaldfee.com^
 ||do.barmfellists.com^
+||chiyouranai.base.shop^
+||tokujiro.base.shop^
+||uranai1111.base.shop^
 ||ah.basothomug.com^
 ||bv.basquedbeloam.com^
 ||ck.bastardzingaro.com^
@@ -1808,6 +1811,15 @@
 ||ko.hissesgestapo.com^
 ||sl.hitchdong.com^
 ||jt.hitchelunspun.com^
+||app-google-zh.hl.cn^
+||go-todesk.hl.cn^
+||google-google-chrome-google-com.hl.cn^
+||line-go.hl.cn^
+||qh-qishuiyinyue.hl.cn^
+||qishuimusic-cn.hl.cn^
+||todesk-web.hl.cn^
+||todesk-zh.hl.cn^
+||zh-todesk-cn.hl.cn^
 ||map.hnchj.com^
 ||dciclc.hnwuamu.top^
 ||m10.hoes.tube^
@@ -2063,6 +2075,8 @@
 ||hh.koloaller.com^
 ||mf.kotocolmar.com^
 ||hl.koumyscampana.com^
+||lc.krgirls.beauty^
+||me.krgirls.beauty^
 ||ym.kronionsuttas.com^
 ||kp.kueunpick.com^
 ||ms.kuugo.cc^
@@ -2544,7 +2558,6 @@
 ||kedlzb.orlglnaldate.net^
 ||th.oscinelunar.com^
 ||dv.otitishanded.com^
-||xm.otomacotelugu.com^
 ||qz.ototarred.com^
 ||pf.oueniteornate.com^
 ||ty.ouncecutches.com^
@@ -2651,7 +2664,6 @@
 ||co.payingsob.com^
 ||binapisgp1.pcloud.com^
 ||zs.peachparadise.vip^
-||ui.pecuniaaleshot.top^
 ||zt.peeredupseize.com^
 ||sl.peinedbroggle.com^
 ||yb.pekinkibla.com^
@@ -2760,7 +2772,6 @@
 ||li.prosifycheeks.com^
 ||zb.prostsouther.com^
 ||sr.protendstayed.com^
-||sg.protoolapp.online^
 ||gv.provantfordy.com^
 ||vr.prpscroff.com^
 ||xh.pruigosozin.com^
@@ -11333,6 +11344,7 @@
 ||annexecamelot.com^
 ||annfpioqvo.com^
 ||annihilationtile.com^
+||annihilativefaltermillion.com^
 ||anniversarydeletelots.com^
 ||anniversaryseasickconscious.com^
 ||anniversarythingy.com^
@@ -12889,7 +12901,6 @@
 ||bartramagynous.com^
 ||barytemarkup.com^
 ||barytethynnid.com^
-||base.shop^
 ||baseballletters.com^
 ||basejudgementquizmaster.com^
 ||basementunfamiliar.com^
@@ -14424,6 +14435,7 @@
 ||breedsmuteexams.com^
 ||breedssupposedlypoetry.com^
 ||breezebiddingvarying.com^
+||breezebrowsing.com^
 ||breezycliffpath.com^
 ||brefadmuxo.com^
 ||breka.fit^
@@ -15287,6 +15299,7 @@
 ||cardnegativedisability.com^
 ||care-rtu.com^
 ||carecontinualluxury.com^
+||career-mesh.com^
 ||careerjournalonline.com^
 ||careerunderstatement.com^
 ||careewituhi.org^
@@ -17687,6 +17700,7 @@
 ||crutchanalyse.com^
 ||crutchstubbornultimatum.com^
 ||cruxgpnyrvvur.website^
+||cruzswim.org^
 ||crwdcntrl.net^
 ||crwdgrough.shop^
 ||crxcr1.com^
@@ -22214,6 +22228,7 @@
 ||fhsmtrnsfnt.com^
 ||fhtpntevoiojz.online^
 ||fhuwsmjjijivj.top^
+||fhvfd.com^
 ||fhxgezqysdmtg.online^
 ||fhyawwqfolze.com^
 ||fhylzx.com^
@@ -25939,7 +25954,6 @@
 ||hkwrwuqlcpelq.site^
 ||hkygalzumaqv.com^
 ||hkzhongzhuangzhan.cc^
-||hl.cn^
 ||hl2u.com^
 ||hlbmaat.com^
 ||hldijphcjszui.store^
@@ -29280,7 +29294,6 @@
 ||kreomfoq.com^
 ||kreps.xyz^
 ||krfqlrxvmoyrj.online^
-||krgirls.beauty^
 ||krhmtdzuxxmsc.space^
 ||krigiamisdeal.click^
 ||krisydark.com^
@@ -30839,6 +30852,7 @@
 ||lustsexloveclub.vip^
 ||lustslate.com^
 ||lustydates0725.click^
+||lustygg.com^
 ||lutewayredug.shop^
 ||lutingsmotty.qpon^
 ||luuce.jp^
@@ -34461,7 +34475,6 @@
 ||offstaryutor.com^
 ||offvmuf.com^
 ||ofgogoatan.com^
-||ofhappinyer.com^
 ||ofhypnoer.com^
 ||ofhzqxpfhusrw.website^
 ||ofjxfukjzgnqo.space^
@@ -34923,7 +34936,6 @@
 ||oppositionduchess.com^
 ||oppressiveparameterresponsible.com^
 ||opptmzpops.com^
-||opsbase.de^
 ||opsecdefcloud.com^
 ||opskiwzwtvfic.store^
 ||opskln.com^
@@ -34956,7 +34968,6 @@
 ||optvx.com^
 ||optvz.com^
 ||optyruntchan.com^
-||optzsrv.com^
 ||opulent-reception.pro^
 ||opulentsylvan.com^
 ||opus-whisky.com^
@@ -35070,7 +35081,6 @@
 ||ornerp.click^
 ||ornnxfsfnkwbs.space^
 ||ornqfuox.com^
-||orphaccalwory.com^
 ||orphanageabsolutealcove.com^
 ||orpro.ru^
 ||orqlzuoqgad.com^
@@ -35247,7 +35257,6 @@
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outshine.me^
-||outshutmonists.com^
 ||outsidebrightenmisfortune.com^
 ||outsideglitter.com^
 ||outsidewithhold.com^
@@ -35459,7 +35468,6 @@
 ||packerta.com^
 ||packeteagle.com^
 ||packsofgood.com^
-||pacteaten.com^
 ||paddleconsists.com^
 ||paddlefidget.com^
 ||paddlemoscowsplit.com^
@@ -35517,7 +35525,6 @@
 ||painchnieves.com^
 ||painfulbreath.com^
 ||painfulcaskspretend.com^
-||painfullydeplore.com^
 ||painfullyvanished.com^
 ||painfulsmartly.com^
 ||painharmlesscommence.com^
@@ -35566,7 +35573,6 @@
 ||palateswaugh.shop^
 ||palecount.com^
 ||palelicenseinexplicable.com^
-||palelotwars.com^
 ||palenumerals.com^
 ||palettesedative.com^
 ||palibs.tech^
@@ -35595,14 +35601,12 @@
 ||paneclattermetal.com^
 ||panelghostscontractor.com^
 ||pangaeainfima.com^
-||panganepeal.shop^
 ||pangiingsinspi.com^
 ||panguart.com^
 ||panicmiserableeligible.com^
 ||panishrecording.com^
 ||panjsnlmneasi.store^
 ||pankswisses.shop^
-||panocero.com^
 ||panoramacharter.click^
 ||pansywebsite.com^
 ||pantafives.com^
@@ -35783,8 +35787,6 @@
 ||patriotantennas.com^
 ||patriotclaim.com^
 ||patsyendless.com^
-||pattedtoplike.top^
-||pattenplouter.com^
 ||patternbodywash.com^
 ||patterpearl.com^
 ||pattygrapefruit.com^
@@ -35877,7 +35879,6 @@
 ||pctsrv.com^
 ||pctv.xyz^
 ||pdainpzfelpch.site^
-||pdavbtkidyyra.click^
 ||pdflive.store^
 ||pdfsam.com^
 ||pdfsearchhq.com^
@@ -36015,7 +36016,6 @@
 ||percentscalespoorly.com^
 ||percentvisits.com^
 ||perchincomenotorious.com^
-||perchwinter.com^
 ||percussivedrip.com^
 ||percysjewellery.com^
 ||perdurepeeve.com^
@@ -36225,7 +36225,6 @@
 ||phoria.com^
 ||phoroglopsu.com^
 ||phortaub.com^
-||phot-self.life^
 ||photogo.cn^
 ||photographcrushingsouvenirs.com^
 ||photographerparsonproprietor.com^
@@ -36251,7 +36250,6 @@
 ||phumpauk.com^
 ||phxkohxxcjcoz.store^
 ||phylumslypes.top^
-||phympird.com^
 ||phynefopsu.com^
 ||physical-base.com^
 ||physical-cheek.com^
@@ -36424,7 +36422,6 @@
 ||pjchntkwtjdnr.online^
 ||pjiixsjrzigen.site^
 ||pjivecsgaqoip.website^
-||pjmknmuo.food^
 ||pjqchcfwtw.com^
 ||pjsos.xyz^
 ||pjwjy.com^
@@ -36570,7 +36567,6 @@
 ||plled.com^
 ||pllsadrp.net^
 ||pllwhiuiwzvct.site^
-||plmqlbihwqket.top^
 ||plmwsl.com^
 ||plocap.com^
 ||plockcomes.com^
@@ -36882,7 +36878,6 @@
 ||posedesperateidentity.com^
 ||poseunprofessionalspecific.com^
 ||posewardenreligious.com^
-||poshhateful.com^
 ||poshmixture.pro^
 ||positionsuburbdeplorable.com^
 ||positive-group.top^
@@ -37001,7 +36996,6 @@
 ||pqdlodgilkcxz.website^
 ||pqfdfzjajlqhk.website^
 ||pqhtjn.icu^
-||pqkpmqrzrrjrb.vip^
 ||pqlrfrtotmzpt.website^
 ||pqnnjjpzarpb.com^
 ||pqnnvegqkyadt.space^
@@ -37037,7 +37031,6 @@
 ||prayexplodesyndrome.com^
 ||prayratesantibiotic.com^
 ||praystakeinstinct.com^
-||prbchvsbsgixu.global^
 ||prbibo.top^
 ||prdredir.com^
 ||pre-save.fan^
@@ -37099,7 +37092,6 @@
 ||premium-members.com^
 ||premiumads.net^
 ||premiumrecamp.com^
-||premiumtabien.com^
 ||premiumvault.net^
 ||premiumvertising.com^
 ||preoccupydestiny.com^
@@ -37265,7 +37257,6 @@
 ||probersnobles.com^
 ||probiotechconsumerhealth.com^
 ||problems-center.com^
-||problemscrupulous.com^
 ||problemsseventh.com^
 ||probtn.com^
 ||proceduredisrespect.com^
@@ -37294,11 +37285,9 @@
 ||producercoconutgroup.com^
 ||productdownload.pro^
 ||productionpulse.net^
-||productionscute.com^
 ||productive-president.com^
 ||productivewind.com^
 ||proeroclips.pro^
-||proeslgaming.com^
 ||profaneanxietyasa.com^
 ||professionalflatly.com^
 ||professionallywealthy.com^
@@ -37326,7 +37315,6 @@
 ||profitableratecpm.com^
 ||profitabletrustednetwork.com^
 ||profitgranddaughter.com^
-||profitplusfinancial.com^
 ||profitsence.com^
 ||profitsfly.com^
 ||profoundexchange.com^
@@ -37391,7 +37379,6 @@
 ||propertywrightresidents.com^
 ||propgoservice.com^
 ||proposalchildhoodfulfil.com^
-||proposalkeptstaff.com^
 ||proposedfelonoxide.com^
 ||propositionpower.com^
 ||proprietaryabbey.com^
@@ -37400,7 +37387,6 @@
 ||propu.sh^
 ||propulsionprovisionalblackbird.com^
 ||propvideo.net^
-||prorentisol.com^
 ||prorunappyrincev.com^
 ||proscholarshub.com^
 ||prosecutoractivate.com^
@@ -37533,7 +37519,6 @@
 ||ptapjmp.com^
 ||ptaumpocheewu.net^
 ||ptaumtee.com^
-||ptaurtaunsoul.net^
 ||ptauxofi.net^
 ||ptawe.com^
 ||ptbbjmp.com^

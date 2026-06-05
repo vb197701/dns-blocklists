@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780653600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780681980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 10:00 UTC
-; Version: 2026.0605.1000.57
+; Last modified: 05 Jun 2026 17:53 UTC
+; Version: 2026.0605.1753.27
 ; Syntax: RPZ
-; Number of entries: 47106
+; Number of entries: 47074
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1162,8 +1162,6 @@ multicanaishd.bio CNAME .
 *.multicanaishd.bio CNAME .
 mycima.bio CNAME .
 *.mycima.bio CNAME .
-pelisflix20.bio CNAME .
-*.pelisflix20.bio CNAME .
 seriesflix.bio CNAME .
 *.seriesflix.bio CNAME .
 soap2dayto.bio CNAME .
@@ -2214,8 +2212,6 @@ filmapik.cash CNAME .
 *.filmapik.cash CNAME .
 mycima.cash CNAME .
 *.mycima.cash CNAME .
-piratebay.cash CNAME .
-*.piratebay.cash CNAME .
 streamingcommunity.cash CNAME .
 *.streamingcommunity.cash CNAME .
 altadefinizione.casino CNAME .
@@ -11884,8 +11880,6 @@ index.plan9.de CNAME .
 *.index.plan9.de CNAME .
 forum.pocketnavigation.de CNAME .
 *.forum.pocketnavigation.de CNAME .
-pornux.de CNAME .
-*.pornux.de CNAME .
 predb.de CNAME .
 *.predb.de CNAME .
 mail.realliferpg.de CNAME .
@@ -12256,8 +12250,6 @@ hdmovie2.email CNAME .
 *.hdmovie2.email CNAME .
 movies123.email CNAME .
 *.movies123.email CNAME .
-pelisflix2.email CNAME .
-*.pelisflix2.email CNAME .
 prmovies.email CNAME .
 *.prmovies.email CNAME .
 streamingcommunityz.email CNAME .
@@ -13264,34 +13256,18 @@ nomat.fun CNAME .
 *.nomat.fun CNAME .
 obmani-menya-lordfilm.fun CNAME .
 *.obmani-menya-lordfilm.fun CNAME .
-osnovaniye-lordfilm.fun CNAME .
-*.osnovaniye-lordfilm.fun CNAME .
 otpechatki-lordfilm.fun CNAME .
 *.otpechatki-lordfilm.fun CNAME .
 pamyat-ubiytsy-lordfilm.fun CNAME .
 *.pamyat-ubiytsy-lordfilm.fun CNAME .
-parkiizony-otdykha-lordfilm.fun CNAME .
-*.parkiizony-otdykha-lordfilm.fun CNAME .
 pelisflix200.fun CNAME .
 *.pelisflix200.fun CNAME .
-pesochnyy-chelovek-lordfilm.fun CNAME .
-*.pesochnyy-chelovek-lordfilm.fun CNAME .
 piratbit.fun CNAME .
 *.piratbit.fun CNAME .
-platonicheskiye-otnosheniya-lordfilm.fun CNAME .
-*.platonicheskiye-otnosheniya-lordfilm.fun CNAME .
-plyazhnyy-otel-lordfilm.fun CNAME .
-*.plyazhnyy-otel-lordfilm.fun CNAME .
-pokerfeis-lordfilm.fun CNAME .
-*.pokerfeis-lordfilm.fun CNAME .
-pokoleniyeq-lordfilm.fun CNAME .
-*.pokoleniyeq-lordfilm.fun CNAME .
 posledniy-byk-lordfilm.fun CNAME .
 *.posledniy-byk-lordfilm.fun CNAME .
 postuchisv-dver-lordfilm.fun CNAME .
 *.postuchisv-dver-lordfilm.fun CNAME .
-pozolochennyy-vek-lordfilm.fun CNAME .
-*.pozolochennyy-vek-lordfilm.fun CNAME .
 rassvet-lordfilm.fun CNAME .
 *.rassvet-lordfilm.fun CNAME .
 ray-lordfilm.fun CNAME .
@@ -13602,8 +13578,6 @@ cb01.giving CNAME .
 *.cb01.giving CNAME .
 eurostreaming.giving CNAME .
 *.eurostreaming.giving CNAME .
-prmovies.giving CNAME .
-*.prmovies.giving CNAME .
 vegamovies.giving CNAME .
 *.vegamovies.giving CNAME .
 annas-archive.gl CNAME .
@@ -16276,8 +16250,6 @@ nossoplayeronlinehd.ink CNAME .
 *.nossoplayeronlinehd.ink CNAME .
 pahe.ink CNAME .
 *.pahe.ink CNAME .
-pelisflix20.ink CNAME .
-*.pelisflix20.ink CNAME .
 pirate-proxy.ink CNAME .
 *.pirate-proxy.ink CNAME .
 pirateproxy.ink CNAME .
@@ -33260,8 +33232,6 @@ nulledfree.pw CNAME .
 *.nulledfree.pw CNAME .
 tr.nyacat.pw CNAME .
 *.tr.nyacat.pw CNAME .
-pelisflix20.pw CNAME .
-*.pelisflix20.pw CNAME .
 predb.pw CNAME .
 *.predb.pw CNAME .
 proxygalaxy.pw CNAME .
@@ -40642,8 +40612,6 @@ idope.se CNAME .
 *.idope.se CNAME .
 movieuniverse.se CNAME .
 *.movieuniverse.se CNAME .
-onionplay.se CNAME .
-*.onionplay.se CNAME .
 tracker.opentracker.se CNAME .
 *.tracker.opentracker.se CNAME .
 pelis24.se CNAME .

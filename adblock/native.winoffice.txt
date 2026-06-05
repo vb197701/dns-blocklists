@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Jun 2026 18:46 UTC
-! Version: 2026.0602.1846.54
+! Last modified: 05 Jun 2026 18:01 UTC
+! Version: 2026.0605.1801.23
 ! Syntax: AdBlock
 ! Number of entries: 383
 !
@@ -364,6 +364,7 @@
 ||citrixanalyticseh.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
@@ -375,7 +376,6 @@
 ||citrixtelemetryeheu-alias.servicebus.windows.net^
 ||ehtelemetrystaging-alias.servicebus.windows.net^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
-||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||licensingtelemetry-prod.servicebus.windows.net^
 ||nexxtv-events.servicebus.windows.net^

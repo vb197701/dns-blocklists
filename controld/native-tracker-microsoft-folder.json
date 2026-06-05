@@ -603,6 +603,13 @@
       }
     },
     {
+      "PK": "citrixanalyticseh3.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "citrixanalyticseh-alias.servicebus.windows.net",
       "action": {
         "do": 0,
@@ -1213,13 +1220,6 @@
     },
     {
       "PK": "hk-tracker.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hme-live-loganalytics-namespace.servicebus.windows.net",
       "action": {
         "do": 0,
         "status": 1

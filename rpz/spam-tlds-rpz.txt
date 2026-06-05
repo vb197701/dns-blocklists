@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780601220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780680840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -14,10 +14,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Jun 2026 19:27 UTC
-; Version: 2026.0604.1927.02
+; Last modified: 05 Jun 2026 17:34 UTC
+; Version: 2026.0605.1734.32
 ; Syntax: RPZ
-; Number of latin TLDs: 130/294
+; Number of latin TLDs: 129/294
 ;
 *.actor CNAME .
 *.apartments CNAME .
@@ -130,7 +130,6 @@ $TTL 3600
 *.tel CNAME .
 *.tienda CNAME .
 *.tires CNAME .
-*.tokyo CNAME .
 *.trading CNAME .
 *.us.com CNAME .
 *.us.kg CNAME .

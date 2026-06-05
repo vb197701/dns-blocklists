@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jun 2026 10:07 UTC
-! Version: 2026.0605.1007.56
+! Last modified: 05 Jun 2026 17:52 UTC
+! Version: 2026.0605.1752.04
 ! Syntax: AdBlock
-! Number of entries: 17051
+! Number of entries: 17028
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -5226,14 +5226,11 @@
 ||prep.ela.okoloko.one.pl^
 ||one.one.one.one^
 ||math.facts.someone.one.pl^
-||goguardian-is-ass.oneuniversity.info^
-||mango38e8riehei.oneuniversity.info^
 ||contact.onlinechildcareclass.com^
 ||overcloaked.onlinechildcareclass.com^
 ||adns.onlinetools.rocks^
 ||adguard.onlyfriends.info^
 ||d.onlyjsmylord.org^
-||canva.onnemaa.ee^
 ||info.onnemaa.ee^
 ||learn-vcsa.onnemaa.ee^
 ||learnvcsa.onnemaa.ee^
@@ -5258,7 +5255,6 @@
 ||kr1.ooroot.com^
 ||kr2.ooroot.com^
 ||sg2.ooroot.com^
-||diegocuy.opeian.com^
 ||resolver4.dns.openinternet.io^
 ||ns1.opennameserver.org^
 ||ns2.opennameserver.org^
@@ -5280,23 +5276,13 @@
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
 ||proxy.ordentlichbreit.de^
-||mathiaspo.aarogyamnepal.org.np^
 ||securely.abbotsfordhallforhire.org.au^
-||securult.breach.activesearch.org.au^
-||500-cigarettes.activesearch.org.au^
-||edu.activesearch.org.au^
-||fernisgoat.activesearch.org.au^
-||securlysettings.activesearch.org.au^
-||stemforlife.activesearch.org.au^
-||drivingtest.antrak.org.tr^
 ||trains.antrak.org.tr^
-||wiki-graphicpoint.antrak.org.tr^
 ||noads.api.org.pl^
 ||ixl.shh.dont.tell.apocalypto.org.uk^
 ||harshsmellsliketoes.fundacioncidea.org.ar^
 ||jacobcheeseman.fundacioncidea.org.ar^
 ||dead.hsk.org.np^
-||vcsabolt.navatandham.org.np^
 ||cn-kuailian.org.cn^
 ||dnsprivacy.org.uk^
 ||kuailianworld.org.cn^
@@ -5341,7 +5327,6 @@
 ||dns.pacificmonster.com^
 ||drive.google.com.pacl.us^
 ||dns.paesa.es^
-||garlandisd.pagangeek.net^
 ||world.real.pagano.ch^
 ||bd2b0c9e.intermath.pages.dev^
 ||astroid-go-static.pages.dev^
@@ -5446,7 +5431,6 @@
 ||dns.periactes.com^
 ||dns0.permafrostmiami.com^
 ||dns.pernika.net^
-||homework.maths.percentages.perona.cl^
 ||darya.persiannit.net^
 ||dns.pesaventofilippo.com^
 ||adguard.peterge.de^
@@ -5471,7 +5455,6 @@
 ||dns.pizzari.me^
 ||67dircen67.pjabbari.com^
 ||doh.plaawan.uk^
-||hydra.plan9-ns1.com^
 ||door.plasmadancer.ru^
 ||www.bhghhfhgffghfjh.152-53-136-204.plesk.page^
 ||sdtfghjbnm.152-53-136-204.plesk.page^
@@ -5532,7 +5515,6 @@
 ||proxyapi.pot8o.dev^
 ||pwriuja.potmix.cc^
 ||jakesucksadgeodash.potomacriversafetycommittee.org^
-||tourguide.potomacriversafetycommittee.org^
 ||dns.powerbs.net^
 ||doh.powerdns.org^
 ||v2202508297531378155.powersrv.de^
@@ -5609,7 +5591,6 @@
 ||nana.utopia.psgl.cl^
 ||dukbyte.psgl.cl^
 ||scienceiethebeest.com.psicologicemos.com^
-||plmoknijbuhvyg.psicologicemos.com^
 ||classes.psychology48.com^
 ||health.psychology48.com^
 ||science.psychoticgerbil.com^
@@ -13448,7 +13429,6 @@
 ||onedns.net^
 ||onelight.cc^
 ||oneproxy.biz^
-||oneproxy.xyz^
 ||onestreaming.org^
 ||onesy.top^
 ||onevpn.com^
@@ -13583,7 +13563,6 @@
 ||pango-cloud.com^
 ||pango-paas.co^
 ||pangolinvpn.com^
-||panhvhg.xyz^
 ||pankvyh.xyz^
 ||panmill.xyz^
 ||panskeet.xyz^
@@ -13644,7 +13623,6 @@
 ||peadg.com^
 ||peekproxy.com^
 ||peekvpn.online^
-||peer2profit.app^
 ||peer2profit.in^
 ||peets.pro^
 ||peltrax.ru^
@@ -13701,7 +13679,6 @@
 ||pingbeehive.com^
 ||pingbi.xyz^
 ||pingmybee.net^
-||pingproxy.com^
 ||pingvpn.com^
 ||pinweb.info^
 ||piplvpn.com^

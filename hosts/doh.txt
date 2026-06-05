@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 10:07 UTC
-# Version: 2026.0605.1007.01
+# Last modified: 05 Jun 2026 17:50 UTC
+# Version: 2026.0605.1750.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3863
+# Number of entries: 3862
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2922,7 +2922,6 @@
 0.0.0.0 helios.plan9-dns.com
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
-0.0.0.0 hydra.plan9-ns1.com
 0.0.0.0 door.plasmadancer.ru
 0.0.0.0 secure-dns.pleumkungz.com
 0.0.0.0 thanos.pleumkungz.com

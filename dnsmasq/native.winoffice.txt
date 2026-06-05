@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 18:46 UTC
-# Version: 2026.0602.1846.54
+# Last modified: 05 Jun 2026 18:01 UTC
+# Version: 2026.0605.1801.23
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 383
 #
@@ -363,6 +363,7 @@ local=/analyticsehnwe.servicebus.windows.net/
 local=/citrixanalyticseh.servicebus.windows.net/
 local=/citrixanalyticseh-alias.servicebus.windows.net/
 local=/citrixanalyticseh2-alias.servicebus.windows.net/
+local=/citrixanalyticseh3.servicebus.windows.net/
 local=/citrixanalyticseh3-alias.servicebus.windows.net/
 local=/citrixanalyticsehaps.servicebus.windows.net/
 local=/citrixanalyticsehaps-alias.servicebus.windows.net/
@@ -374,7 +375,6 @@ local=/citrixtelemetryeheu.servicebus.windows.net/
 local=/citrixtelemetryeheu-alias.servicebus.windows.net/
 local=/ehtelemetrystaging-alias.servicebus.windows.net/
 local=/ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net/
-local=/hme-live-loganalytics-namespace.servicebus.windows.net/
 local=/hme-uat-loganalytics-namespace.servicebus.windows.net/
 local=/licensingtelemetry-prod.servicebus.windows.net/
 local=/nexxtv-events.servicebus.windows.net/

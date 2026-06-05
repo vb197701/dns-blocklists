@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jun 2026 09:10 UTC
-! Version: 2026.0605.0910.47
+! Last modified: 05 Jun 2026 18:08 UTC
+! Version: 2026.0605.1808.58
 ! Syntax: AdBlock
-! Number of entries: 15753
+! Number of entries: 15742
 !
 ||trader.212group.de^
 ||eu.2bagsvalley.cn^
@@ -477,7 +477,6 @@
 ||upecho.pcmachine.shop^
 ||cs.penoxal.com^
 ||cz.penoxal.com^
-||onlinepills.phhoaccrx.com^
 ||schluesseldienst.platz-1.at^
 ||media-markt.plumberstore.in^
 ||user.portal-zone.org^
@@ -1389,6 +1388,7 @@
 ||ariatfactoryoutlet.com^
 ||ariatshopdeutschland.de^
 ||arila.de^
+||arin-solar.ch^
 ||aristick.de^
 ||arithmeticn.com^
 ||arkalogistic.top^
@@ -1451,6 +1451,7 @@
 ||ashibellebeauty.com^
 ||ashvillecustomsaunas.com^
 ||asiaingeschaft.com^
+||asics-sale.de^
 ||asics-schweiz.com^
 ||asicsale.com^
 ||asicsat.at^
@@ -2863,6 +2864,7 @@
 ||casaeternaluz.com^
 ||casagomart.com^
 ||casaivora.com^
+||casamarkt.de^
 ||cascosoffroad.com^
 ||caseetepen.com^
 ||cashmerancing.com^
@@ -4862,6 +4864,7 @@
 ||fahrradhandel-koumagnon.de^
 ||fahrradhandel-kramer.de^
 ||fahrradhandel-krause.de^
+||fahrradhandel-lehmann.de^
 ||fahrradhandel-martin.de^
 ||fahrradhandel-meier.de^
 ||fahrradhandel-schulze.de^
@@ -6677,6 +6680,7 @@
 ||heizungblitz.de^
 ||heizungersatzteile.com^
 ||heizungfachhandel.com^
+||heizungs-solar-webshop.de^
 ||heizungselement.com^
 ||heizungselementshop.com^
 ||heizungsinsel.de^
@@ -8108,6 +8112,7 @@
 ||koodakde.shop^
 ||kora-store.de^
 ||korata.com^
+||korfys.shop^
 ||kortova.com^
 ||korumde.com^
 ||korummainlinebait.com^
@@ -10108,6 +10113,7 @@
 ||niederlandeshop.de^
 ||nifyanifest.com^
 ||nig.com^
+||nightskyshop.de^
 ||niholss.store^
 ||nikeairvapormax.us^
 ||nikeinsuomi.com^
@@ -10396,7 +10402,6 @@
 ||offerstylehome.com^
 ||offertopshop.com^
 ||officeboxonline.com^
-||officesuppliedirect.com^
 ||officeway.net^
 ||officialdtspharmacy.shop^
 ||officialdubaichocolate.shop^
@@ -10404,7 +10409,6 @@
 ||officialrenewritualsupplement.shop^
 ||officialyeti.com^
 ||offihubstore.com^
-||offizielleprodukte.shop^
 ||offizieller-iq-test.com^
 ||offretroattire.com^
 ||offshorecheapmeds.com^
@@ -10432,7 +10436,6 @@
 ||oils-natural.cc^
 ||oils-natural.eu^
 ||oiltrex.de^
-||oilvinegarmarket.shop^
 ||oins.shop^
 ||ojoro-tech.de^
 ||okatode.com^
@@ -10511,7 +10514,6 @@
 ||onitsuka-tiger.de^
 ||onitsukatiger.at^
 ||onitsukatigerschweiz.com^
-||onitsukatigervogue.com^
 ||onkel-nolte.de^
 ||onkmusic.com^
 ||online-apotek.no^
@@ -10530,7 +10532,6 @@
 ||online-indiespiele.de^
 ||online-jobs.pro^
 ||online-kreditangebot.com^
-||online-monlnverlfricationsarciving837817188292.com^
 ||online-ph.com^
 ||online-pharmacy365.com^
 ||online-pills.com^
@@ -10547,6 +10548,7 @@
 ||onlinebedroom.com^
 ||onlinebeleuchtung.com^
 ||onlinebluberri.com^
+||onlinebonuscasino-de.de^
 ||onlinebusinessdorf.de^
 ||onlinecasinodeutschliste.de^
 ||onlinecasinoparis.com^
@@ -10566,8 +10568,6 @@
 ||onlinelearningquality.org^
 ||onlinelekarna24.com^
 ||onlineleki.com^
-||onlinemarketshopping.com^
-||onlinemedshelp.com^
 ||onlinemusikinstrumente.com^
 ||onlineoffers24hrs.com^
 ||onlineoupresencial.com^
@@ -10579,10 +10579,8 @@
 ||onlinepharmz.com^
 ||onlinereorg.com^
 ||onlineshop77.de^
-||onlineshoppingbags.com^
 ||onlineteddy.com^
 ||onlinetopgarden.com^
-||onlineugyintezes-fizetendo.com^
 ||onlinewerkzeugzubehor.com^
 ||only-baby.de^
 ||onlyaya.com^
@@ -10602,7 +10600,6 @@
 ||onsaleapparels.com^
 ||onsalecarparts.com^
 ||onschuhe.net^
-||onschuhe.shop^
 ||onschuhefabrikverkaufschweiz.com^
 ||onschuhen.shop^
 ||onschuheoutlet.at^
@@ -10704,7 +10701,6 @@
 ||osiris-deutschland.de^
 ||osirisfi.com^
 ||osirisshoes.de^
-||osirissuomi.com^
 ||oskarzebedeus.com^
 ||osmodeutschland.de^
 ||ospharma.com^
@@ -10750,7 +10746,6 @@
 ||outdoor-testsieger-gartenschlauch-5gruende.de^
 ||outdoor-testsieger-vergleich-gartenschlauch.de^
 ||outdoor-venturesllc.com^
-||outdoorausruestung.com^
 ||outdoorbillig.com^
 ||outdoorcabelas.com^
 ||outdoorerfahrung.com^
@@ -10896,13 +10891,11 @@
 ||parisinpink.com^
 ||parkdesignhome.com^
 ||parkside-uk.com^
-||parksldezmeu.com^
 ||paroma.at^
 ||parpalett.com^
 ||part-time-work-de.online^
 ||partbelong.com^
 ||partydekorabatt.com^
-||pascoadocacau.com^
 ||pasoraseasons.de^
 ||pasqu.com^
 ||passendenschuhe.com^
@@ -11050,7 +11043,6 @@
 ||pferdepflegewelt.com^
 ||pflanzbedarfsladen.com^
 ||pflanzen-de.com^
-||pflanzsinn.com^
 ||pflegeprofi-shop.com^
 ||pflegeschonheit.com^
 ||pfotengarten.de^
@@ -11116,7 +11108,6 @@
 ||physicalg.com^
 ||physichope.com^
 ||physicisti.com^
-||phytrix1.com^
 ||pianidicotturascontato.com^
 ||pibok.de^
 ||piccu.org^
@@ -11171,7 +11162,6 @@
 ||pizza-blitz-bestellen.de^
 ||pk.toys^
 ||placement-action.com^
-||placetoshoppe.com^
 ||placidco.com^
 ||placidena.com^
 ||planeoboden.com^
@@ -11179,7 +11169,6 @@
 ||planetoption.net^
 ||plants-stores.com^
 ||plantsch24.de^
-||plantshopp.de^
 ||plantsmartkit.com^
 ||plasice.xyz^
 ||plasmarkt.com^
@@ -11197,7 +11186,6 @@
 ||playful-design.com^
 ||playfulx.com^
 ||playgamingheaven77.top^
-||playphonstore.com^
 ||playrush.de^
 ||playstationstore.shop^
 ||playtronia.com^
@@ -11261,7 +11249,6 @@
 ||ponsetionsale.com^
 ||poodlestoresaigon.com^
 ||pool-shop-de.com^
-||pool-uniswap.com^
 ||pooladmins.com^
 ||poolbay.de^
 ||poolchlorrabatt.com^
@@ -11380,7 +11367,6 @@
 ||prevalentw.com^
 ||priceaiclub.com^
 ||priceannihilator.com^
-||priceslash.shop^
 ||pridesaunaclub.com^
 ||primada.de^
 ||primalekarna.com^
@@ -11414,7 +11400,6 @@
 ||prinzmode-berlin.de^
 ||prisabeauty.com^
 ||priseria.com^
-||prismirror.shop^
 ||private-wine.com^
 ||pro-ben.de^
 ||pro-binary.com^
@@ -12046,6 +12031,7 @@
 ||roeck-performance.at^
 ||rohdeschuhewerksverkauf.com^
 ||rohn-shop.com^
+||rohoelzuender.de^
 ||rohrreinigung-rothschild.de^
 ||rohrreinigungshilfe.at^
 ||rohrsanierungen24.de^
@@ -12991,6 +12977,7 @@
 ||solarlion.de^
 ||solarmasterspowur.com^
 ||solarmatchs.online^
+||solarnachweis.de^
 ||solarpanelshartfordct.com^
 ||solarpanelspalmbayfl.com^
 ||solarplatten24.de^
@@ -13083,6 +13070,7 @@
 ||spar-allianz.de^
 ||spar-markt.de^
 ||sparfuchs.shop^
+||sparkamerad.de^
 ||sparkgenesisai.com^
 ||sparmarie24.de^
 ||sparprime.com^
@@ -15258,6 +15246,7 @@
 ||wertexmarkt.de^
 ||wertglanzedelmetall.de^
 ||wertpuls.de^
+||weserstore.de^
 ||west-tek.com^
 ||westcoastmarketing-sales.com^
 ||westen-berg.de^

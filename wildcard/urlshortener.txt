@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 09:12 UTC
-# Version: 2026.0605.0912.48
+# Last modified: 05 Jun 2026 17:52 UTC
+# Version: 2026.0605.1752.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9844
+# Number of entries: 9842
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -558,7 +558,6 @@
 *.url-server-75g5.onrender.com
 *.sh.oo.gd
 *.n.opn.tl
-*.url.optidiscover.com
 *.url.fti.or.th
 *.user.spring8.or.jp
 *.s.wiz.or.id
@@ -6291,7 +6290,6 @@
 *.pkg.pw
 *.pkv.li
 *.pkvg.link
-*.plabtainment.com
 *.placesunknown.art
 *.pladollmo.com
 *.plannery.app

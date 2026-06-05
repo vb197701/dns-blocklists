@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780654020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780681920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 10:07 UTC
-; Version: 2026.0605.1007.56
+; Last modified: 05 Jun 2026 17:52 UTC
+; Version: 2026.0605.1752.04
 ; Syntax: RPZ
-; Number of entries: 34102
+; Number of entries: 34056
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -303,8 +303,6 @@ onlinevpn.app CNAME .
 *.onlinevpn.app CNAME .
 pawns.app CNAME .
 *.pawns.app CNAME .
-peer2profit.app CNAME .
-*.peer2profit.app CNAME .
 peremen.app CNAME .
 *.peremen.app CNAME .
 planetvpn.app CNAME .
@@ -797,18 +795,6 @@ skill.mass.mcdonnell.id.au CNAME .
 *.skill.mass.mcdonnell.id.au CNAME .
 securely.abbotsfordhallforhire.org.au CNAME .
 *.securely.abbotsfordhallforhire.org.au CNAME .
-500-cigarettes.activesearch.org.au CNAME .
-*.500-cigarettes.activesearch.org.au CNAME .
-securult.breach.activesearch.org.au CNAME .
-*.securult.breach.activesearch.org.au CNAME .
-edu.activesearch.org.au CNAME .
-*.edu.activesearch.org.au CNAME .
-fernisgoat.activesearch.org.au CNAME .
-*.fernisgoat.activesearch.org.au CNAME .
-securlysettings.activesearch.org.au CNAME .
-*.securlysettings.activesearch.org.au CNAME .
-stemforlife.activesearch.org.au CNAME .
-*.stemforlife.activesearch.org.au CNAME .
 xfer.au CNAME .
 *.xfer.au CNAME .
 gultrjaus.autos CNAME .
@@ -2549,8 +2535,6 @@ bolt.ovaa.cl CNAME .
 *.bolt.ovaa.cl CNAME .
 ixl.com.papillon.cl CNAME .
 *.ixl.com.papillon.cl CNAME .
-homework.maths.percentages.perona.cl CNAME .
-*.homework.maths.percentages.perona.cl CNAME .
 lightalgebra.pro-house.cl CNAME .
 *.lightalgebra.pro-house.cl CNAME .
 virtualchem.pro-house.cl CNAME .
@@ -12149,8 +12133,6 @@ kr2.ooroot.com CNAME .
 *.kr2.ooroot.com CNAME .
 sg2.ooroot.com CNAME .
 *.sg2.ooroot.com CNAME .
-diegocuy.opeian.com CNAME .
-*.diegocuy.opeian.com CNAME .
 openaccessnode.com CNAME .
 *.openaccessnode.com CNAME .
 opendns.com CNAME .
@@ -12369,8 +12351,6 @@ dns.pieterdherde.com CNAME .
 *.dns.pieterdherde.com CNAME .
 pingbeehive.com CNAME .
 *.pingbeehive.com CNAME .
-pingproxy.com CNAME .
-*.pingproxy.com CNAME .
 pingvpn.com CNAME .
 *.pingvpn.com CNAME .
 piplvpn.com CNAME .
@@ -12395,8 +12375,6 @@ plainproxies.com CNAME .
 *.plainproxies.com CNAME .
 plan9-dns.com CNAME .
 *.plan9-dns.com CNAME .
-hydra.plan9-ns1.com CNAME .
-*.hydra.plan9-ns1.com CNAME .
 planet-config.com CNAME .
 *.planet-config.com CNAME .
 planet-vpn-ru.com CNAME .
@@ -12715,8 +12693,6 @@ science.psamson.com CNAME .
 *.science.psamson.com CNAME .
 scienceiethebeest.com.psicologicemos.com CNAME .
 *.scienceiethebeest.com.psicologicemos.com CNAME .
-plmoknijbuhvyg.psicologicemos.com CNAME .
-*.plmoknijbuhvyg.psicologicemos.com CNAME .
 psifa.com CNAME .
 *.psifa.com CNAME .
 psiphon3.com CNAME .
@@ -16809,8 +16785,6 @@ shadow.localization.ee CNAME .
 *.shadow.localization.ee CNAME .
 sixsveen2927e8iddj.localization.ee CNAME .
 *.sixsveen2927e8iddj.localization.ee CNAME .
-canva.onnemaa.ee CNAME .
-*.canva.onnemaa.ee CNAME .
 info.onnemaa.ee CNAME .
 *.info.onnemaa.ee CNAME .
 learn-vcsa.onnemaa.ee CNAME .
@@ -18745,10 +18719,6 @@ dns.olpploiopkuyhiopsfrt.info CNAME .
 *.dns.olpploiopkuyhiopsfrt.info CNAME .
 onconnect.info CNAME .
 *.onconnect.info CNAME .
-goguardian-is-ass.oneuniversity.info CNAME .
-*.goguardian-is-ass.oneuniversity.info CNAME .
-mango38e8riehei.oneuniversity.info CNAME .
-*.mango38e8riehei.oneuniversity.info CNAME .
 onlinetutorials.info CNAME .
 *.onlinetutorials.info CNAME .
 adguard.onlyfriends.info CNAME .
@@ -24519,8 +24489,6 @@ packetriot.net CNAME .
 *.packetriot.net CNAME .
 padermail.net CNAME .
 *.padermail.net CNAME .
-garlandisd.pagangeek.net CNAME .
-*.garlandisd.pagangeek.net CNAME .
 dns.paliska.net CNAME .
 *.dns.paliska.net CNAME .
 papaproxy.net CNAME .
@@ -25589,12 +25557,8 @@ room-32-toys.woodcraftgallery.com.np CNAME .
 *.room-32-toys.woodcraftgallery.com.np CNAME .
 room-32-toys-2.woodcraftgallery.com.np CNAME .
 *.room-32-toys-2.woodcraftgallery.com.np CNAME .
-mathiaspo.aarogyamnepal.org.np CNAME .
-*.mathiaspo.aarogyamnepal.org.np CNAME .
 dead.hsk.org.np CNAME .
 *.dead.hsk.org.np CNAME .
-vcsabolt.navatandham.org.np CNAME .
-*.vcsabolt.navatandham.org.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 pms-ssd1.bot.nu CNAME .
@@ -27595,8 +27559,6 @@ media.logic.postie.org CNAME .
 *.media.logic.postie.org CNAME .
 jakesucksadgeodash.potomacriversafetycommittee.org CNAME .
 *.jakesucksadgeodash.potomacriversafetycommittee.org CNAME .
-tourguide.potomacriversafetycommittee.org CNAME .
-*.tourguide.potomacriversafetycommittee.org CNAME .
 doh.powerdns.org CNAME .
 *.doh.powerdns.org CNAME .
 pproxy.org CNAME .
@@ -31751,12 +31713,8 @@ dns.polatarasan.com.tr CNAME .
 *.dns.polatarasan.com.tr CNAME .
 train.write.erdem.name.tr CNAME .
 *.train.write.erdem.name.tr CNAME .
-drivingtest.antrak.org.tr CNAME .
-*.drivingtest.antrak.org.tr CNAME .
 trains.antrak.org.tr CNAME .
 *.trains.antrak.org.tr CNAME .
-wiki-graphicpoint.antrak.org.tr CNAME .
-*.wiki-graphicpoint.antrak.org.tr CNAME .
 bebrenok.trade CNAME .
 *.bebrenok.trade CNAME .
 bebrev.trade CNAME .
@@ -33559,16 +33517,12 @@ offshoreview.xyz CNAME .
 *.offshoreview.xyz CNAME .
 ogonvpn.xyz CNAME .
 *.ogonvpn.xyz CNAME .
-oneproxy.xyz CNAME .
-*.oneproxy.xyz CNAME .
 orinexa.xyz CNAME .
 *.orinexa.xyz CNAME .
 pandaexpert.xyz CNAME .
 *.pandaexpert.xyz CNAME .
 panforest.xyz CNAME .
 *.panforest.xyz CNAME .
-panhvhg.xyz CNAME .
-*.panhvhg.xyz CNAME .
 pankvyh.xyz CNAME .
 *.pankvyh.xyz CNAME .
 panmill.xyz CNAME .

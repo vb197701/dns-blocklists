@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 09:12 UTC
-# Version: 2026.0605.0912.48
+# Last modified: 05 Jun 2026 17:52 UTC
+# Version: 2026.0605.1752.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9844
+# Number of entries: 9842
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -558,7 +558,6 @@ local=/goto.onestream.live/
 local=/url-server-75g5.onrender.com/
 local=/sh.oo.gd/
 local=/n.opn.tl/
-local=/url.optidiscover.com/
 local=/url.fti.or.th/
 local=/user.spring8.or.jp/
 local=/s.wiz.or.id/
@@ -6291,7 +6290,6 @@ local=/pke.to/
 local=/pkg.pw/
 local=/pkv.li/
 local=/pkvg.link/
-local=/plabtainment.com/
 local=/placesunknown.art/
 local=/pladollmo.com/
 local=/plannery.app/

@@ -5972,6 +5972,13 @@
       }
     },
     {
+      "PK": "tmaeno.tokyo",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "tmdb.club",
       "action": {
         "do": 1,

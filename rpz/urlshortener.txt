@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780650720 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780681920 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 09:12 UTC
-; Version: 2026.0605.0912.48
+; Last modified: 05 Jun 2026 17:52 UTC
+; Version: 2026.0605.1752.55
 ; Syntax: RPZ
-; Number of entries: 19688
+; Number of entries: 19684
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5673,8 +5673,6 @@ oporajitashop.com CNAME .
 *.oporajitashop.com CNAME .
 opportunityonlinebusiness.com CNAME .
 *.opportunityonlinebusiness.com CNAME .
-url.optidiscover.com CNAME .
-*.url.optidiscover.com CNAME .
 opzai.com CNAME .
 *.opzai.com CNAME .
 ordekhost.com CNAME .
@@ -5785,8 +5783,6 @@ link.pixelida.com CNAME .
 *.link.pixelida.com CNAME .
 pixoqr.com CNAME .
 *.pixoqr.com CNAME .
-plabtainment.com CNAME .
-*.plabtainment.com CNAME .
 pladollmo.com CNAME .
 *.pladollmo.com CNAME .
 playsolaire.com CNAME .
