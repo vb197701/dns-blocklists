@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 17:53 UTC
-# Version: 2026.0605.1753.27
+# Last modified: 06 Jun 2026 08:04 UTC
+# Version: 2026.0606.0804.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 23537
+# Number of entries: 23559
 #
 *.hichemtigsetorgy.0fees.net
 *.tracker.0x7c0.com
@@ -1018,7 +1018,6 @@
 *.bt.rer.lol
 *.ipv4.rer.lol
 *.ipv6.rer.lol
-*.tracker.rescuecrew7.com
 *.torrent.resonatingmedia.com
 *.cdn.retget.ru
 *.pybittrack.retiolus.net
@@ -1141,6 +1140,7 @@
 *.tracker.totheglory.im
 *.forum.touki.ru
 *.open.touki.ru
+*.tracker.trackarr.org
 *.udp.trackarr.org
 *.bvarf.tracker.sh
 *.nyaa.tracker.wf
@@ -1371,7 +1371,6 @@
 *.0123movie.online
 *.0123movie.stream
 *.0123movie.ws
-*.0123movies.biz
 *.0123movies.com
 *.0123movies.events
 *.0123movies.fit
@@ -1534,7 +1533,6 @@
 *.123movies.work
 *.123movies-2.online
 *.123movies-4k.com
-*.123movies-app.com
 *.123movies-app.net
 *.123movies-app.xyz
 *.123movies-hd.com
@@ -1674,6 +1672,7 @@
 *.123moviess.gdn
 *.123moviess.net
 *.123moviess.top
+*.123moviessla.com
 *.123moviesstore.com
 *.123moviest.org
 *.123moviesto.click
@@ -1687,6 +1686,7 @@
 *.123movieswatch.online
 *.123movieswww.com
 *.123moviesx.watch
+*.123moviesxhd.com
 *.123moviesz.bz
 *.123moviesz.link
 *.123moviesz.nl
@@ -1748,6 +1748,7 @@
 *.1jour1film0526b.site
 *.1jour1film0526c.site
 *.1jour1film0626.site
+*.1jour1film0626b.site
 *.1jour1film0725b.site
 *.1jour1film2026.site
 *.1kif.com
@@ -2454,6 +2455,7 @@
 *.altadefinizioneuno.my
 *.altadefinizionex.buzz
 *.altadefinizionex.click
+*.altadefinizionex.fun
 *.altadefinizionex.my
 *.altadefinizionex.site
 *.altadefinizionex.skin
@@ -3793,7 +3795,10 @@
 *.cb01net.asia
 *.cb01net.bond
 *.cb01net.click
+*.cb01net.com
+*.cb01net.download
 *.cb01net.lol
+*.cb01net.net
 *.cb01net.online
 *.cb01net.pics
 *.cb01new.bio
@@ -4021,6 +4026,7 @@
 *.cineblog001.site
 *.cineblog001.skin
 *.cineblog001.stream
+*.cineblog001.surf
 *.cineblog001.today
 *.cineblog001.vip
 *.cineblog01.agency
@@ -4415,6 +4421,7 @@
 *.crackloader.com
 *.crackmykey.com
 *.crackmymac.com
+*.cracknbastreams.com
 *.cracknest.com
 *.cracknet.net
 *.cracknews.com
@@ -4878,6 +4885,7 @@
 *.dizipal1245.com
 *.dizipal127.com
 *.dizipal1401.com
+*.dizipal1402.com
 *.dizipal152.net
 *.dizipal152.org
 *.dizipal1521.com
@@ -5010,6 +5018,7 @@
 *.dizipal934.com
 *.dizipal936.com
 *.dizipal991.com
+*.dizipal992.com
 *.dizipaladresi.com
 *.dizipalfilmizle.org
 *.dizipalg.com
@@ -5043,6 +5052,7 @@
 *.dizipaltv.live
 *.dizipalw.com
 *.dizipalx.com
+*.dizipaly2.com
 *.djangoo-lordfilm.ru
 *.djconway.com
 *.djleak.com
@@ -5180,6 +5190,7 @@
 *.dood.boo
 *.dood.bz
 *.dood.camp
+*.dood.cards
 *.dood.cfd
 *.dood.chat
 *.dood.cm
@@ -6473,6 +6484,7 @@
 *.fmovies.cab
 *.fmovies.co
 *.fmovies.fo
+*.fmovies.fyi
 *.fmovies.gd
 *.fmovies.hn
 *.fmovies.life
@@ -6520,6 +6532,7 @@
 *.fmovies3.fit
 *.fmovies3.lol
 *.fmovies3.online
+*.fmoviesa.com
 *.fmoviesafe.com
 *.fmoviesc.org
 *.fmoviescab.com
@@ -7613,6 +7626,7 @@
 *.hdfilme321.buzz
 *.hdfilmesonlinegratis.com
 *.hdfilmestorrent.top
+*.hdfilmestream.net
 *.hdfilmifullizlesene.com
 *.hdfilmizle.now
 *.hdfilmizle22.com
@@ -7921,6 +7935,7 @@
 *.hdmovieshare.com
 *.hdmovieshd.com
 *.hdmovieshd2.com
+*.hdmovieshindi.com
 *.hdmovieshub.click
 *.hdmovieshub.nl
 *.hdmovieshub.uno
@@ -7936,6 +7951,7 @@
 *.hdmoviespro.xyz
 *.hdmoviesrack.com
 *.hdmoviesrulz.com
+*.hdmoviesstock.com
 *.hdmoviesstore.com
 *.hdmoviestar.com
 *.hdmoviesverse.xyz
@@ -9717,6 +9733,7 @@
 *.lookmovie.site
 *.lookmovie.studio
 *.lookmovie.top
+*.lookmovie.tube
 *.lookmovie.website
 *.lookmovie-official.com
 *.lookmovie-tube.cyou
@@ -9851,6 +9868,7 @@
 *.lordfilm-green.online
 *.lordfilm-grotesk.ru
 *.lordfilm-grw.ru
+*.lordfilm-hd.net
 *.lordfilm-hd26.icu
 *.lordfilm-hd26q.icu
 *.lordfilm-hd8.top
@@ -10124,6 +10142,7 @@
 *.lordfilm646.ru
 *.lordfilm675.lat
 *.lordfilm675t.icu
+*.lordfilm676.sbs
 *.lordfilm6v2nw.icu
 *.lordfilm7.art
 *.lordfilm715.top
@@ -11779,6 +11798,7 @@
 *.lordfilmicsac7.lat
 *.lordfilmicsac8.lat
 *.lordfilmicsac9.lat
+*.lordfilmicsacc25.lat
 *.lordfilmicsad1.lat
 *.lordfilmicsad2.lat
 *.lordfilmicsad3.lat
@@ -12778,6 +12798,7 @@
 *.lordfilmnw.monster
 *.lordfilmnwl.one
 *.lordfilmnwm.lat
+*.lordfilmnwn.live
 *.lordfilmnws.life
 *.lordfilmnx.monster
 *.lordfilmnxe.ru
@@ -13710,15 +13731,21 @@
 *.lordfilmspp.lol
 *.lordfilmspr.lat
 *.lordfilmspr.life
+*.lordfilmsprocket.sbs
 *.lordfilmspt.lat
 *.lordfilmspu.vu
 *.lordfilmspv.lat
 *.lordfilmspx.lat
 *.lordfilmspz.lol
+*.lordfilmsqc.lat
 *.lordfilmsqe.lat
 *.lordfilmsqf.icu
+*.lordfilmsqf.lat
 *.lordfilmsqi.lat
+*.lordfilmsqj.lat
+*.lordfilmsqn.lat
 *.lordfilmsqo.lat
+*.lordfilmsqp.lat
 *.lordfilmsqq.one
 *.lordfilmsqs.lol
 *.lordfilmsquid.lol
@@ -14469,6 +14496,7 @@
 *.lordfilmwte.vu
 *.lordfilmwth.life
 *.lordfilmwto.one
+*.lordfilmwtp.live
 *.lordfilmwtq.lat
 *.lordfilmwu.monster
 *.lordfilmwug.life
@@ -15952,6 +15980,7 @@
 *.movierulz3.net
 *.movierulzclub.com
 *.movierulzdownload.com
+*.movierulzflix.com
 *.movierulzhd.family
 *.movierulzhd.gold
 *.movierulzhd.life
@@ -17810,6 +17839,7 @@
 *.prmovies.study
 *.prmovies.top
 *.prmovies.tv
+*.prmovies1.trade
 *.pro-evolution.org
 *.pro-windows.net
 *.proaudiotorrents.org
@@ -17964,7 +17994,6 @@
 *.putlocker.io
 *.putlocker.is
 *.putlocker.kz
-*.putlocker.ma
 *.putlocker.me
 *.putlocker.ninja
 *.putlocker.onl
@@ -17979,7 +18008,6 @@
 *.putlocker.watch
 *.putlocker-9.co
 *.putlocker-gy.cyou
-*.putlocker-hd.is
 *.putlocker-hd.tv
 *.putlocker-hd.xyz
 *.putlocker-m.com
@@ -18005,7 +18033,6 @@
 *.putlockerfree.net
 *.putlockerfree24.com
 *.putlockerfull.xyz
-*.putlockergo.co
 *.putlockerhd.biz
 *.putlockerhd.co
 *.putlockerhd.io
@@ -18021,7 +18048,6 @@
 *.putlockerr.me
 *.putlockerr.net
 *.putlockerr.site
-*.putlockers.ag
 *.putlockers.am
 *.putlockers.art
 *.putlockers.bz
@@ -18029,7 +18055,6 @@
 *.putlockers.cr
 *.putlockers.fm
 *.putlockers.guru
-*.putlockers.is
 *.putlockers.la
 *.putlockers.mn
 *.putlockers.movie
@@ -18170,7 +18195,6 @@
 *.rapuncel-novaya-istoriya-lordfilm3.ru
 *.rapuncel-zaputannaya-istoriya-lordfilm3.ru
 *.rapunceli-lordfilm.ru
-*.rarbg.buzz
 *.rarbg.cc
 *.rarbg.gg
 *.rarbg.is
@@ -18227,7 +18251,6 @@
 *.rassledovania-merdokka-lordfilm.ru
 *.rassledovaniya-merdoka-lordfilm3.ru
 *.rassledovanua-merdoka-lordfilms.ru
-*.rassvet-lordfilm.fun
 *.rassvet-mertvecov-lordfilm.ru
 *.ratatuj-lordfilm3.ru
 *.ratatuui-lordfilm.ru
@@ -18401,13 +18424,11 @@
 *.robokop-lordfilm3.ru
 *.robookop-lordfilm.ru
 *.roboott-lordfilms.ru
-*.roboty-lordfilm.fun
 *.roboty-lordfilm3.ru
 *.rochestergroove.com
 *.rockiy-lordfilm.ru
 *.rockmods.net
 *.rodelaonlinebd.com
-*.rodina-lordfilm.fun
 *.rognarek-lordfilm3.ru
 *.rojadirecta.es
 *.rojadirecta.eu
@@ -18537,7 +18558,6 @@
 *.safe123movies.top
 *.safepeer.info
 *.saga-sumerkisi-lordfilm.ru
-*.sagao-forsaytakh-lordfilm.fun
 *.saidit.net
 *.saiko.vip
 *.saiyanarena.com
@@ -18578,7 +18598,6 @@
 *.sax-educationn-lordfilm.ru
 *.sax-educations-lordfilm.ru
 *.sbenny.com
-*.sbmods.in
 *.sbnetworkbd.com
 *.scary-movie-lordfilm.lat
 *.scary-movie-lordfilm.lol
@@ -18664,7 +18683,6 @@
 *.seks-lordfilms.ru
 *.seksualnaya-zhizn-studentok-lordfilm3.ru
 *.seksualnaya-zhizn-studentook-lordfilm.ru
-*.seksv-drugomgorode-lordfilm.fun
 *.selcuksportshdc78e4a78c6.xyz
 *.selezen.club
 *.selezen.net
@@ -18705,7 +18723,6 @@
 *.serialstart.com
 *.serialsurf.com
 *.serialsws.org
-*.serialy-lordfilm.fun
 *.serialylordfilm.online
 *.serialylordfilm.ru
 *.serialz.to
@@ -18757,7 +18774,6 @@
 *.seriesflix.boats
 *.seriesflix.bond
 *.seriesflix.cam
-*.seriesflix.cfd
 *.seriesflix.city
 *.seriesflix.click
 *.seriesflix.co
@@ -18778,7 +18794,6 @@
 *.seriesflix.org
 *.seriesflix.pro
 *.seriesflix.rest
-*.seriesflix.sbs
 *.seriesflix.skin
 *.seriesflix.taxi
 *.seriesflix.team
@@ -18795,6 +18810,7 @@
 *.seriesflixbr.online
 *.seriesflixhd.buzz
 *.seriesflixhd.net
+*.seriesflixhub.biz
 *.seriesflixplay.art
 *.seriesflixplay.com
 *.seriesflixtv2.fit
@@ -18890,7 +18906,6 @@
 *.sharlocks-lordfilm.ru
 *.shawty.club
 *.shchenyachij-patrul-lordfilm3.ru
-*.shchit-lordfilm.fun
 *.shd247.live
 *.shd247.pro
 *.sherlock-holmesi-lordfilm.ru
@@ -18910,15 +18925,12 @@
 *.shifr-lordfilm.ru
 *.shikimori.one
 *.shimory.com
-*.shitts-krik-lordfilm.fun
 *.shitts-krik-lordfilm3.ru
 *.shkola-dorama-lordfilms.ru
 *.shkolnye-duhi-lordfilm.lol
 *.shnflac.net
 *.shokweb.com
 *.shopdoc.ru
-*.shopwarezone.com
-*.shopwarezonehq.com
 *.shortstagex.com
 *.shou-vosmi-lordfilm3.ru
 *.showbox.media
@@ -18989,7 +19001,6 @@
 *.sittingonclouds.net
 *.siyahmelek.pro
 *.sjcrack.com
-*.skarlet-gertsog-lordfilm.fun
 *.skazochnyj-patrul-lordfilm3.ru
 *.skidrow-games.com
 *.skidrowcodex.net
@@ -19004,7 +19015,6 @@
 *.skitaltsy-lordfilm.lol
 *.sklifosovskiy-lordfilm.buzz
 *.sklifosovsky-lordfilm.ru
-*.skoraya-pomosh-lordfilm.fun
 *.skoraya-pomoshch-lordfilm.buzz
 *.skorpion-lordfilm3.ru
 *.skorpioon-lordfilms.ru
@@ -19032,8 +19042,6 @@
 *.skymovieshd.credit
 *.skymovieshd.cv
 *.skymovieshd.diy
-*.skymovieshd.earth
-*.skymovieshd.fast
 *.skymovieshd.free
 *.skymovieshd.guru
 *.skymovieshd.house
@@ -19061,7 +19069,6 @@
 *.sled-lordfilm.ru
 *.sledopyt-lordfilm.fun
 *.sleek.to
-*.slepaya-zona-lordfilm.fun
 *.slidemovies.org
 *.slider.kz
 *.slime403heq.com
@@ -19124,7 +19131,6 @@
 *.snapvideo.app
 *.snarf-it.org
 *.sneedex.moe
-*.snegopad-lordfilm.fun
 *.snoudeen-lordfilm.ru
 *.snow-whites-lordfilm.ru
 *.snowblink22.pro
@@ -19316,6 +19322,7 @@
 *.solarmovies-ms.cyou
 *.solarmovies-sc.lol
 *.solarmovies-win.cyou
+*.solarmoviessc.org
 *.solarmovietv.uk
 *.solarmoviewatch.com
 *.solarmoviez.ru
@@ -20112,18 +20119,29 @@
 *.suesupriano.com
 *.suitsi-lordfilm.ru
 *.suitsu-lordfilm.ru
+*.sultansportv0179.com
 *.sultansportv0350.com
 *.sultansportv0360.com
 *.sultansportv0370.com
 *.sultansportv0470.com
 *.sultansportv0670.com
 *.sultansportv0720.com
+*.sultansportv0729.com
 *.sultansportv0730.com
+*.sultansportv0739.com
 *.sultansportv0740.com
+*.sultansportv0749.com
 *.sultansportv0770.com
+*.sultansportv0779.com
 *.sultansportv0780.com
+*.sultansportv0789.com
 *.sultansportv0790.com
+*.sultansportv0799.com
 *.sultansportv0810.com
+*.sultansportv1960.com
+*.sultansportv1970.com
+*.sultansportv1980.com
+*.sultansportv1990.com
 *.sumerechnie-ohotnikii-lordfilm.ru
 *.sumerechnye-ohotniki-lordfilm3.ru
 *.sumerki-lordfilm3.ru
@@ -20570,6 +20588,7 @@
 *.the-young-popis-lordfilm.ru
 *.the-zomb.com
 *.the123movies.eu
+*.the1movies.com
 *.the5movierulz.com
 *.theaudiobookbay.com
 *.thebay.tv
@@ -21274,6 +21293,7 @@
 *.torrentseeker.com
 *.torrentsgalaxy.com
 *.torrentsgames.org
+*.torrentshaw.com
 *.torrentsites.com
 *.torrentsmd.com
 *.torrentsmd.eu
@@ -22626,6 +22646,7 @@
 *.wareziens.net
 *.warezik.eu
 *.warezkeeper.com
+*.warezko.com
 *.warezlander.com
 *.warezlk.com
 *.warezload.net
@@ -22959,6 +22980,7 @@
 *.xalaflix.site
 *.xalaflix.tax
 *.xalaflix.uk
+*.xalaflix.website
 *.xalaflix-fr.cv
 *.xalaflix-iptv.fr
 *.xalaflix-to.click

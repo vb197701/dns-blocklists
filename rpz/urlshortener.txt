@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780681920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780729500 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 17:52 UTC
-; Version: 2026.0605.1752.55
+; Last modified: 06 Jun 2026 07:05 UTC
+; Version: 2026.0606.0705.35
 ; Syntax: RPZ
-; Number of entries: 19684
+; Number of entries: 19654
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -201,8 +201,6 @@ pplx.ai CNAME .
 *.pplx.ai CNAME .
 qrcode.ai CNAME .
 *.qrcode.ai CNAME .
-qti.ai CNAME .
-*.qti.ai CNAME .
 go.sembly.ai CNAME .
 *.go.sembly.ai CNAME .
 shrtlink.ai CNAME .
@@ -1739,8 +1737,6 @@ shortly.cc CNAME .
 *.shortly.cc CNAME .
 shortner.cc CNAME .
 *.shortner.cc CNAME .
-shrinkme.cc CNAME .
-*.shrinkme.cc CNAME .
 shrtr.cc CNAME .
 *.shrtr.cc CNAME .
 skyurl.cc CNAME .
@@ -6255,8 +6251,6 @@ short-belink.com CNAME .
 *.short-belink.com CNAME .
 short-bio.com CNAME .
 *.short-bio.com CNAME .
-short-fact.com CNAME .
-*.short-fact.com CNAME .
 short2cut.com CNAME .
 *.short2cut.com CNAME .
 shortaro.com CNAME .
@@ -6269,20 +6263,14 @@ shortbees.com CNAME .
 *.shortbees.com CNAME .
 shortclick.com CNAME .
 *.shortclick.com CNAME .
-shortcuturl.com CNAME .
-*.shortcuturl.com CNAME .
 shortduck.com CNAME .
 *.shortduck.com CNAME .
 shorteasy.com CNAME .
 *.shorteasy.com CNAME .
-shortedurl.com CNAME .
-*.shortedurl.com CNAME .
 shorten-url.com CNAME .
 *.shorten-url.com CNAME .
 shortenedlinks.com CNAME .
 *.shortenedlinks.com CNAME .
-app.shorteneo.com CNAME .
-*.app.shorteneo.com CNAME .
 shortener-url.com CNAME .
 *.shortener-url.com CNAME .
 shortenercs.com CNAME .
@@ -10005,8 +9993,6 @@ shortr.in CNAME .
 *.shortr.in CNAME .
 shrinkforearn.in CNAME .
 *.shrinkforearn.in CNAME .
-shrinkme.in CNAME .
-*.shrinkme.in CNAME .
 shrt.in CNAME .
 *.shrt.in CNAME .
 shurl.in CNAME .
@@ -12795,10 +12781,6 @@ sicepat.link CNAME .
 *.sicepat.link CNAME .
 sidji.link CNAME .
 *.sidji.link CNAME .
-simpleurl.link CNAME .
-*.simpleurl.link CNAME .
-singkatin.link CNAME .
-*.singkatin.link CNAME .
 sinkto.link CNAME .
 *.sinkto.link CNAME .
 sla.link CNAME .
@@ -15551,8 +15533,6 @@ u.mda.nu CNAME .
 *.u.mda.nu CNAME .
 prt.nu CNAME .
 *.prt.nu CNAME .
-shortly.nu CNAME .
-*.shortly.nu CNAME .
 shrtm.nu CNAME .
 *.shrtm.nu CNAME .
 smlr.nu CNAME .
@@ -16093,8 +16073,6 @@ qrgenerator.org CNAME .
 *.qrgenerator.org CNAME .
 qrto.org CNAME .
 *.qrto.org CNAME .
-qu-ax.org CNAME .
-*.qu-ax.org CNAME .
 r-txt.org CNAME .
 *.r-txt.org CNAME .
 r0e.org CNAME .
@@ -16259,8 +16237,6 @@ ndm.ovh CNAME .
 *.ndm.ovh CNAME .
 oft.ovh CNAME .
 *.oft.ovh CNAME .
-quickshrink.ovh CNAME .
-*.quickshrink.ovh CNAME .
 r2c.ovh CNAME .
 *.r2c.ovh CNAME .
 rds.ovh CNAME .
@@ -17033,8 +17009,6 @@ nnna.ru CNAME .
 *.nnna.ru CNAME .
 oqp.ru CNAME .
 *.oqp.ru CNAME .
-py6.ru CNAME .
-*.py6.ru CNAME .
 qbn.ru CNAME .
 *.qbn.ru CNAME .
 qptr.ru CNAME .
@@ -18731,8 +18705,6 @@ psys.uk CNAME .
 *.psys.uk CNAME .
 qrly.uk CNAME .
 *.qrly.uk CNAME .
-shorti.uk CNAME .
-*.shorti.uk CNAME .
 shortlink.uk CNAME .
 *.shortlink.uk CNAME .
 tnflink.uk CNAME .
@@ -18977,8 +18949,6 @@ shorturls.us CNAME .
 *.shorturls.us CNAME .
 shoturl.us CNAME .
 *.shoturl.us CNAME .
-shrcr.us CNAME .
-*.shrcr.us CNAME .
 shrinkme.us CNAME .
 *.shrinkme.us CNAME .
 shrinkurl.us CNAME .

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jun 2026 17:52 UTC
-! Version: 2026.0605.1752.55
+! Last modified: 06 Jun 2026 07:05 UTC
+! Version: 2026.0606.0705.35
 ! Syntax: AdBlock
-! Number of entries: 9842
+! Number of entries: 9827
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -675,7 +675,6 @@
 ||u.seva.id^
 ||tts.sh.ph^
 ||go.shell.com^
-||app.shorteneo.com^
 ||go.shr.lc^
 ||u.shxj.pw^
 ||social.sigmaequipment.com^
@@ -6466,7 +6465,6 @@
 ||pxu.co^
 ||pxxbet.promo^
 ||py.md^
-||py6.ru^
 ||pygy.co^
 ||pym.se^
 ||pymd.org^
@@ -6587,10 +6585,8 @@
 ||qrx.im^
 ||qry.kr^
 ||qs1.it^
-||qti.ai^
 ||qtr.sh^
 ||qty3e.pro^
-||qu-ax.org^
 ||quainator.com^
 ||quamiller.com^
 ||quee.link^
@@ -6603,7 +6599,6 @@
 ||quickcode.digital^
 ||quicklinkpro.io^
 ||quickqr.be^
-||quickshrink.ovh^
 ||quicky.digital^
 ||quicurl.com^
 ||quik.im^
@@ -7183,7 +7178,6 @@
 ||short.to^
 ||short-belink.com^
 ||short-bio.com^
-||short-fact.com^
 ||short-gg.org^
 ||short-it.cc^
 ||short-link.co^
@@ -7212,7 +7206,6 @@
 ||shortcm.li^
 ||shortco.net^
 ||shortcut.ac^
-||shortcuturl.com^
 ||shortduck.com^
 ||shorte.bio^
 ||shorte.ink^
@@ -7222,7 +7215,6 @@
 ||shortearner.in^
 ||shorteasy.com^
 ||shortedge.pro^
-||shortedurl.com^
 ||shorten.asia^
 ||shorten.ee^
 ||shorten.fyi^
@@ -7280,7 +7272,6 @@
 ||shortfree.link^
 ||shortgo.me^
 ||shorti.me^
-||shorti.uk^
 ||shortico.in^
 ||shortie.io^
 ||shortify.pro^
@@ -7333,7 +7324,6 @@
 ||shortly.click^
 ||shortly.cyou^
 ||shortly.im^
-||shortly.nu^
 ||shortly.ro^
 ||shortly.sx^
 ||shortlyfi.com^
@@ -7442,7 +7432,6 @@
 ||shpze.com^
 ||shr.gg^
 ||shr.li^
-||shrcr.us^
 ||shre.ink^
 ||shrink.gg^
 ||shrink.pe^
@@ -7456,10 +7445,8 @@
 ||shrinkin.xyz^
 ||shrinklinx.com^
 ||shrinkme.app^
-||shrinkme.cc^
 ||shrinkme.click^
 ||shrinkme.dev^
-||shrinkme.in^
 ||shrinkme.info^
 ||shrinkme.ink^
 ||shrinkme.io^
@@ -7569,14 +7556,12 @@
 ||simgr.id^
 ||simonclaussen.com^
 ||simp.ly^
-||simpleurl.link^
 ||simpleurl.tech^
 ||simpltrk.com^
 ||simurl.com^
 ||sina.lt^
 ||sincere.ly^
 ||sindo.me^
-||singkatin.link^
 ||sini.la^
 ||sinkto.link^
 ||sinourl.tw^

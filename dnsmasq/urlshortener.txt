@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 17:52 UTC
-# Version: 2026.0605.1752.55
+# Last modified: 06 Jun 2026 07:05 UTC
+# Version: 2026.0606.0705.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9842
+# Number of entries: 9827
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -674,7 +674,6 @@ local=/to.servers.com/
 local=/u.seva.id/
 local=/tts.sh.ph/
 local=/go.shell.com/
-local=/app.shorteneo.com/
 local=/go.shr.lc/
 local=/u.shxj.pw/
 local=/social.sigmaequipment.com/
@@ -6465,7 +6464,6 @@ local=/pxs.cl/
 local=/pxu.co/
 local=/pxxbet.promo/
 local=/py.md/
-local=/py6.ru/
 local=/pygy.co/
 local=/pym.se/
 local=/pymd.org/
@@ -6586,10 +6584,8 @@ local=/qrurl.us/
 local=/qrx.im/
 local=/qry.kr/
 local=/qs1.it/
-local=/qti.ai/
 local=/qtr.sh/
 local=/qty3e.pro/
-local=/qu-ax.org/
 local=/quainator.com/
 local=/quamiller.com/
 local=/quee.link/
@@ -6602,7 +6598,6 @@ local=/quickchart.io/
 local=/quickcode.digital/
 local=/quicklinkpro.io/
 local=/quickqr.be/
-local=/quickshrink.ovh/
 local=/quicky.digital/
 local=/quicurl.com/
 local=/quik.im/
@@ -7182,7 +7177,6 @@ local=/short.tips/
 local=/short.to/
 local=/short-belink.com/
 local=/short-bio.com/
-local=/short-fact.com/
 local=/short-gg.org/
 local=/short-it.cc/
 local=/short-link.co/
@@ -7211,7 +7205,6 @@ local=/shortclient.top/
 local=/shortcm.li/
 local=/shortco.net/
 local=/shortcut.ac/
-local=/shortcuturl.com/
 local=/shortduck.com/
 local=/shorte.bio/
 local=/shorte.ink/
@@ -7221,7 +7214,6 @@ local=/shortearn.to/
 local=/shortearner.in/
 local=/shorteasy.com/
 local=/shortedge.pro/
-local=/shortedurl.com/
 local=/shorten.asia/
 local=/shorten.ee/
 local=/shorten.fyi/
@@ -7279,7 +7271,6 @@ local=/shortfake.com/
 local=/shortfree.link/
 local=/shortgo.me/
 local=/shorti.me/
-local=/shorti.uk/
 local=/shortico.in/
 local=/shortie.io/
 local=/shortify.pro/
@@ -7332,7 +7323,6 @@ local=/shortly.cc/
 local=/shortly.click/
 local=/shortly.cyou/
 local=/shortly.im/
-local=/shortly.nu/
 local=/shortly.ro/
 local=/shortly.sx/
 local=/shortlyfi.com/
@@ -7441,7 +7431,6 @@ local=/shp.ee/
 local=/shpze.com/
 local=/shr.gg/
 local=/shr.li/
-local=/shrcr.us/
 local=/shre.ink/
 local=/shrink.gg/
 local=/shrink.pe/
@@ -7455,10 +7444,8 @@ local=/shrinkify.com/
 local=/shrinkin.xyz/
 local=/shrinklinx.com/
 local=/shrinkme.app/
-local=/shrinkme.cc/
 local=/shrinkme.click/
 local=/shrinkme.dev/
-local=/shrinkme.in/
 local=/shrinkme.info/
 local=/shrinkme.ink/
 local=/shrinkme.io/
@@ -7568,14 +7555,12 @@ local=/simatso.site/
 local=/simgr.id/
 local=/simonclaussen.com/
 local=/simp.ly/
-local=/simpleurl.link/
 local=/simpleurl.tech/
 local=/simpltrk.com/
 local=/simurl.com/
 local=/sina.lt/
 local=/sincere.ly/
 local=/sindo.me/
-local=/singkatin.link/
 local=/sini.la/
 local=/sinkto.link/
 local=/sinourl.tw/

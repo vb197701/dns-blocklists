@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780681920 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780733520 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 17:52 UTC
-; Version: 2026.0605.1752.04
+; Last modified: 06 Jun 2026 08:12 UTC
+; Version: 2026.0606.0812.08
 ; Syntax: RPZ
-; Number of entries: 34056
+; Number of entries: 34010
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -2029,8 +2029,6 @@ shalenkov.cc CNAME .
 *.shalenkov.cc CNAME .
 shscypxw.cc CNAME .
 *.shscypxw.cc CNAME .
-bring-your-own.sinewave.cc CNAME .
-*.bring-your-own.sinewave.cc CNAME .
 sitx2.cc CNAME .
 *.sitx2.cc CNAME .
 dns.sledge.cc CNAME .
@@ -12789,8 +12787,6 @@ qfipsntg.com CNAME .
 *.qfipsntg.com CNAME .
 qingaqwt.com CNAME .
 *.qingaqwt.com CNAME .
-qkjyowzo.com CNAME .
-*.qkjyowzo.com CNAME .
 qlmrze.com CNAME .
 *.qlmrze.com CNAME .
 qntfrkbz.com CNAME .
@@ -12881,8 +12877,6 @@ radmin-vpn.com CNAME .
 *.radmin-vpn.com CNAME .
 check.ragpets.com CNAME .
 *.check.ragpets.com CNAME .
-looking.rainbowcup.com CNAME .
-*.looking.rainbowcup.com CNAME .
 raininglondon.com CNAME .
 *.raininglondon.com CNAME .
 rajgdpqu.com CNAME .
@@ -12921,8 +12915,6 @@ learn.readymindit.com CNAME .
 *.learn.readymindit.com CNAME .
 research.readymindit.com CNAME .
 *.research.readymindit.com CNAME .
-waguri.real3m.com CNAME .
-*.waguri.real3m.com CNAME .
 realityvpn.com CNAME .
 *.realityvpn.com CNAME .
 reallysmart2.com CNAME .
@@ -13159,8 +13151,6 @@ dns.sct-pro.com CNAME .
 *.dns.sct-pro.com CNAME .
 scugoge.com CNAME .
 *.scugoge.com CNAME .
-sdhtqxiy.com CNAME .
-*.sdhtqxiy.com CNAME .
 facts.teach.sdm-tv.com CNAME .
 *.facts.teach.sdm-tv.com CNAME .
 sdxnblze.com CNAME .
@@ -13233,8 +13223,6 @@ server3233.com CNAME .
 *.server3233.com CNAME .
 serverhoya.com CNAME .
 *.serverhoya.com CNAME .
-ikeepgooning.serverpit.com CNAME .
-*.ikeepgooning.serverpit.com CNAME .
 assets-prod-a230.s3.serverwild.com CNAME .
 *.assets-prod-a230.s3.serverwild.com CNAME .
 serviseapi.com CNAME .
@@ -13385,8 +13373,6 @@ studyingsofun.smathis.com CNAME .
 *.studyingsofun.smathis.com CNAME .
 sudeepapini.smathis.com CNAME .
 *.sudeepapini.smathis.com CNAME .
-waguri.snapframework.com CNAME .
-*.waguri.snapframework.com CNAME .
 snapillustrates.com CNAME .
 *.snapillustrates.com CNAME .
 snipermixer.com CNAME .
@@ -17859,8 +17845,6 @@ chillenglish.spot.hk CNAME .
 *.chillenglish.spot.hk CNAME .
 adguard.yare.hk CNAME .
 *.adguard.yare.hk CNAME .
-blob.ro0t.hm CNAME .
-*.blob.ro0t.hm CNAME .
 bebra.hn CNAME .
 *.bebra.hn CNAME .
 vanyavpn.hn CNAME .
@@ -19389,14 +19373,6 @@ quasar.ezlearning.qzz.io CNAME .
 *.quasar.ezlearning.qzz.io CNAME .
 kams.kii.qzz.io CNAME .
 *.kams.kii.qzz.io CNAME .
-onthe.ksf.qzz.io CNAME .
-*.onthe.ksf.qzz.io CNAME .
-prx.ksf.qzz.io CNAME .
-*.prx.ksf.qzz.io CNAME .
-sat.ksf.qzz.io CNAME .
-*.sat.ksf.qzz.io CNAME .
-we-are.ksf.qzz.io CNAME .
-*.we-are.ksf.qzz.io CNAME .
 zouter.zhang3118.qzz.io CNAME .
 *.zouter.zhang3118.qzz.io CNAME .
 realvpn.io CNAME .
@@ -19671,10 +19647,6 @@ ryanprojects.ir CNAME .
 *.ryanprojects.ir CNAME .
 dns.sbstructure.ir CNAME .
 *.dns.sbstructure.ir CNAME .
-serverh1ub.ir CNAME .
-*.serverh1ub.ir CNAME .
-serverp1anel.ir CNAME .
-*.serverp1anel.ir CNAME .
 www-8.shaammy.ir CNAME .
 *.www-8.shaammy.ir CNAME .
 shakhle.ir CNAME .
@@ -19685,8 +19657,6 @@ free.shecan.ir CNAME .
 *.free.shecan.ir CNAME .
 pro.shecan.ir CNAME .
 *.pro.shecan.ir CNAME .
-sibitc.ir CNAME .
-*.sibitc.ir CNAME .
 timevip.ir CNAME .
 *.timevip.ir CNAME .
 unity4world.ir CNAME .
@@ -19945,8 +19915,6 @@ great.big.poo.li CNAME .
 *.great.big.poo.li CNAME .
 ididabig.poo.li CNAME .
 *.ididabig.poo.li CNAME .
-reidhtml.rude.li CNAME .
-*.reidhtml.rude.li CNAME .
 soltsio.rude.li CNAME .
 *.soltsio.rude.li CNAME .
 proxy.schel.li CNAME .
@@ -24671,8 +24639,6 @@ dns.homenet.saschagaspar.net CNAME .
 *.dns.homenet.saschagaspar.net CNAME .
 dns.scarx.net CNAME .
 *.dns.scarx.net CNAME .
-schoolooks.net CNAME .
-*.schoolooks.net CNAME .
 canceroutbreaks.screenclip.net CNAME .
 *.canceroutbreaks.screenclip.net CNAME .
 clever.screenclip.net CNAME .
@@ -24771,8 +24737,6 @@ myprivityvpn.softether.net CNAME .
 *.myprivityvpn.softether.net CNAME .
 solidproxy.net CNAME .
 *.solidproxy.net CNAME .
-algebra.somgelida.net CNAME .
-*.algebra.somgelida.net CNAME .
 adguard.spaceindex.net CNAME .
 *.adguard.spaceindex.net CNAME .
 ilovemath.spacetechnology.net CNAME .
@@ -26061,16 +26025,12 @@ protznet.online CNAME .
 *.protznet.online CNAME .
 psiphonvpn.online CNAME .
 *.psiphonvpn.online CNAME .
-pvcozadopa50e.online CNAME .
-*.pvcozadopa50e.online CNAME .
 pw7t90o9kvccsjp2pjxgzessp.online CNAME .
 *.pw7t90o9kvccsjp2pjxgzessp.online CNAME .
 qbcqn17eijd2ow6cun.online CNAME .
 *.qbcqn17eijd2ow6cun.online CNAME .
 qdpswfk9.online CNAME .
 *.qdpswfk9.online CNAME .
-qt8grzqktbipoye.online CNAME .
-*.qt8grzqktbipoye.online CNAME .
 qy4jow5snndan.online CNAME .
 *.qy4jow5snndan.online CNAME .
 r6oemdos.online CNAME .
@@ -26095,8 +26055,6 @@ scjzrku6zui5o9.online CNAME .
 *.scjzrku6zui5o9.online CNAME .
 sedlink.online CNAME .
 *.sedlink.online CNAME .
-sfa2kddffd9nlvf3vjg7a.online CNAME .
-*.sfa2kddffd9nlvf3vjg7a.online CNAME .
 sflpc7kc.online CNAME .
 *.sflpc7kc.online CNAME .
 sgwzoch.online CNAME .
@@ -32787,8 +32745,6 @@ hakoda.wtf CNAME .
 *.hakoda.wtf CNAME .
 ja3dery.oops.wtf CNAME .
 *.ja3dery.oops.wtf CNAME .
-shemadefuckingbeans.wtf CNAME .
-*.shemadefuckingbeans.wtf CNAME .
 wof.wtf CNAME .
 *.wof.wtf CNAME .
 gog.xena.wtf CNAME .
@@ -33631,8 +33587,6 @@ sms-is-so-pretty.renaceracs.xyz CNAME .
 *.sms-is-so-pretty.renaceracs.xyz CNAME .
 wassup-guys-sms.renaceracs.xyz CNAME .
 *.wassup-guys-sms.renaceracs.xyz CNAME .
-rinki.xyz CNAME .
-*.rinki.xyz CNAME .
 rivrs.xyz CNAME .
 *.rivrs.xyz CNAME .
 roadlakeescape.xyz CNAME .
