@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780829040 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780836300 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 10:44 UTC
-; Version: 2026.0607.1044.38
+; Last modified: 07 Jun 2026 12:45 UTC
+; Version: 2026.0607.1245.02
 ; Syntax: RPZ
-; Number of entries: 47542
+; Number of entries: 47544
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -13426,6 +13426,8 @@ unblocked-games.games CNAME .
 *.1tamilblasters.garden CNAME .
 9kmovies.garden CNAME .
 *.9kmovies.garden CNAME .
+altadefinizionegratis.garden CNAME .
+*.altadefinizionegratis.garden CNAME .
 coflix.garden CNAME .
 *.coflix.garden CNAME .
 eurostreamings.garden CNAME .
