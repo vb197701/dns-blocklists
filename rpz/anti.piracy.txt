@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780818960 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780829040 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 07:56 UTC
-; Version: 2026.0607.0756.34
+; Last modified: 07 Jun 2026 10:44 UTC
+; Version: 2026.0607.1044.38
 ; Syntax: RPZ
-; Number of entries: 47588
+; Number of entries: 47542
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -11570,118 +11570,72 @@ lookmovietv.cyou CNAME .
 *.lookmovietv.cyou CNAME .
 lordfilm2026.cyou CNAME .
 *.lordfilm2026.cyou CNAME .
-lordfilma.cyou CNAME .
-*.lordfilma.cyou CNAME .
 lordfilmahp.cyou CNAME .
 *.lordfilmahp.cyou CNAME .
 lordfilmaqp.cyou CNAME .
 *.lordfilmaqp.cyou CNAME .
-lordfilmb.cyou CNAME .
-*.lordfilmb.cyou CNAME .
 lordfilmber.cyou CNAME .
 *.lordfilmber.cyou CNAME .
 lordfilmbkn.cyou CNAME .
 *.lordfilmbkn.cyou CNAME .
-lordfilmc.cyou CNAME .
-*.lordfilmc.cyou CNAME .
 lordfilmcks.cyou CNAME .
 *.lordfilmcks.cyou CNAME .
 lordfilmcyx.cyou CNAME .
 *.lordfilmcyx.cyou CNAME .
-lordfilmd.cyou CNAME .
-*.lordfilmd.cyou CNAME .
 lordfilmdgg.cyou CNAME .
 *.lordfilmdgg.cyou CNAME .
-lordfilme.cyou CNAME .
-*.lordfilme.cyou CNAME .
 lordfilmeua.cyou CNAME .
 *.lordfilmeua.cyou CNAME .
-lordfilmf.cyou CNAME .
-*.lordfilmf.cyou CNAME .
 lordfilmfcx.cyou CNAME .
 *.lordfilmfcx.cyou CNAME .
-lordfilmg.cyou CNAME .
-*.lordfilmg.cyou CNAME .
 lordfilmgxp.cyou CNAME .
 *.lordfilmgxp.cyou CNAME .
-lordfilmh.cyou CNAME .
-*.lordfilmh.cyou CNAME .
 lordfilmhgx.cyou CNAME .
 *.lordfilmhgx.cyou CNAME .
 lordfilmhkm.cyou CNAME .
 *.lordfilmhkm.cyou CNAME .
-lordfilmj.cyou CNAME .
-*.lordfilmj.cyou CNAME .
 lordfilmjsq.cyou CNAME .
 *.lordfilmjsq.cyou CNAME .
-lordfilmk.cyou CNAME .
-*.lordfilmk.cyou CNAME .
-lordfilml.cyou CNAME .
-*.lordfilml.cyou CNAME .
 lordfilmlwy.cyou CNAME .
 *.lordfilmlwy.cyou CNAME .
-lordfilmm.cyou CNAME .
-*.lordfilmm.cyou CNAME .
-lordfilmn.cyou CNAME .
-*.lordfilmn.cyou CNAME .
 lordfilmntc.cyou CNAME .
 *.lordfilmntc.cyou CNAME .
-lordfilmo.cyou CNAME .
-*.lordfilmo.cyou CNAME .
 lordfilmoig.cyou CNAME .
 *.lordfilmoig.cyou CNAME .
 lordfilmoin.cyou CNAME .
 *.lordfilmoin.cyou CNAME .
-lordfilmp.cyou CNAME .
-*.lordfilmp.cyou CNAME .
 lordfilmpff.cyou CNAME .
 *.lordfilmpff.cyou CNAME .
 lordfilmpth.cyou CNAME .
 *.lordfilmpth.cyou CNAME .
 lordfilmpvr.cyou CNAME .
 *.lordfilmpvr.cyou CNAME .
-lordfilmq.cyou CNAME .
-*.lordfilmq.cyou CNAME .
 lordfilmqrv.cyou CNAME .
 *.lordfilmqrv.cyou CNAME .
 lordfilmqum.cyou CNAME .
 *.lordfilmqum.cyou CNAME .
-lordfilmr.cyou CNAME .
-*.lordfilmr.cyou CNAME .
 lordfilmrpl.cyou CNAME .
 *.lordfilmrpl.cyou CNAME .
 lordfilmsaz.cyou CNAME .
 *.lordfilmsaz.cyou CNAME .
-lordfilmt.cyou CNAME .
-*.lordfilmt.cyou CNAME .
 lordfilmteg.cyou CNAME .
 *.lordfilmteg.cyou CNAME .
 lordfilmtil.cyou CNAME .
 *.lordfilmtil.cyou CNAME .
-lordfilmu.cyou CNAME .
-*.lordfilmu.cyou CNAME .
 lordfilmuax.cyou CNAME .
 *.lordfilmuax.cyou CNAME .
 lordfilmuix.cyou CNAME .
 *.lordfilmuix.cyou CNAME .
 lordfilmukd.cyou CNAME .
 *.lordfilmukd.cyou CNAME .
-lordfilmv.cyou CNAME .
-*.lordfilmv.cyou CNAME .
 lordfilmvdx.cyou CNAME .
 *.lordfilmvdx.cyou CNAME .
 lordfilmviq.cyou CNAME .
 *.lordfilmviq.cyou CNAME .
 lordfilmvjv.cyou CNAME .
 *.lordfilmvjv.cyou CNAME .
-lordfilmw.cyou CNAME .
-*.lordfilmw.cyou CNAME .
 lordfilmwqn.cyou CNAME .
 *.lordfilmwqn.cyou CNAME .
-lordfilmx.cyou CNAME .
-*.lordfilmx.cyou CNAME .
-lordfilmz.cyou CNAME .
-*.lordfilmz.cyou CNAME .
 lordfilmzwl.cyou CNAME .
 *.lordfilmzwl.cyou CNAME .
 losmovies-mx.cyou CNAME .

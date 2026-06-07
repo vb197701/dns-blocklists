@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 08:03 UTC
-# Version: 2026.0607.0803.03
+# Last modified: 07 Jun 2026 10:46 UTC
+# Version: 2026.0607.1046.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 16917
+# Number of entries: 16916
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -6211,7 +6211,6 @@
 *.us-proxy.startpage.com
 *.us1-browse.startpage.com
 *.us2-browse.startpage.com
-*.us3-browse.startpage.com
 *.dns.startupstack.tech
 *.idea.graph.statboss.com
 *.adguard.stealbit.com
