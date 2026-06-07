@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780681800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780819320 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 17:50 UTC
-; Version: 2026.0605.1750.51
+; Last modified: 07 Jun 2026 08:02 UTC
+; Version: 2026.0607.0802.01
 ; Syntax: RPZ
-; Number of entries: 6826
+; Number of entries: 6814
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1841,8 +1841,6 @@ dns.yameenassotally.com CNAME .
 *.dns.yameenassotally.com CNAME .
 agh-hetzner.yasirafique.com CNAME .
 *.agh-hetzner.yasirafique.com CNAME .
-sg.yepdns.com CNAME .
-*.sg.yepdns.com CNAME .
 adguard.youler.com CNAME .
 *.adguard.youler.com CNAME .
 yovbak.com CNAME .
@@ -2869,8 +2867,6 @@ dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
 dns.jsd.web.id CNAME .
 *.dns.jsd.web.id CNAME .
-server.padil.web.id CNAME .
-*.server.padil.web.id CNAME .
 panser.web.id CNAME .
 *.panser.web.id CNAME .
 doh.this.web.id CNAME .
@@ -4279,8 +4275,6 @@ adguard.tetnet.net CNAME .
 *.adguard.tetnet.net CNAME .
 dns.thegoodsource.net CNAME .
 *.dns.thegoodsource.net CNAME .
-adguard.tigrex.net CNAME .
-*.adguard.tigrex.net CNAME .
 timedns.net CNAME .
 *.timedns.net CNAME .
 agathe.tobkar.net CNAME .
@@ -4333,8 +4327,6 @@ adguard.yavuztutcu.net CNAME .
 *.adguard.yavuztutcu.net CNAME .
 adguardhome.yavuztutcu.net CNAME .
 *.adguardhome.yavuztutcu.net CNAME .
-yeralin.net CNAME .
-*.yeralin.net CNAME .
 dns.yuu-g.net CNAME .
 *.dns.yuu-g.net CNAME .
 dns.yuyz.net CNAME .
@@ -5065,8 +5057,6 @@ dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
 dns.enzomtp.party CNAME .
 *.dns.enzomtp.party CNAME .
-dns.stresslab.party CNAME .
-*.dns.stresslab.party CNAME .
 doh.kel.pe CNAME .
 *.doh.kel.pe CNAME .
 adguardhome.softcloud.pe CNAME .
@@ -5931,8 +5921,6 @@ agha.sunryu.site CNAME .
 *.agha.sunryu.site CNAME .
 tecdrive.site CNAME .
 *.tecdrive.site CNAME .
-vuivn.site CNAME .
-*.vuivn.site CNAME .
 dns.levonet.sk CNAME .
 *.dns.levonet.sk CNAME .
 dns.p3k.sk CNAME .

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jun 2026 07:05 UTC
-! Version: 2026.0606.0705.35
+! Last modified: 07 Jun 2026 07:00 UTC
+! Version: 2026.0607.0700.42
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -7772,7 +7772,6 @@
 @@||starz.tv^
 @@||statistics4u.net^
 @@||stdl.eu^
-@@||steammodule.com^
 @@||stearns.co^
 @@||stedi.link^
 @@||steelcut.io^
@@ -7929,7 +7928,6 @@
 @@||taedy.com^
 @@||tagbuilder.io^
 @@||taggpro.me^
-@@||tagli.net^
 @@||tagly.us^
 @@||tahmil.net^
 @@||tailurl.com^
@@ -8155,7 +8153,6 @@
 @@||tiny-links.com^
 @@||tiny-links.net^
 @@||tiny-url.me^
-@@||tiny123.com^
 @@||tiny1z.com^
 @@||tinyard.co^
 @@||tinyarro.ws^
@@ -8453,11 +8450,9 @@
 @@||ttr.ir^
 @@||ttrewards.com^
 @@||tts.sh^
-@@||ttt.name^
 @@||ttt.onl^
 @@||tu4.me^
 @@||tuasy.com^
-@@||tuch.club^
 @@||tuch.marketing^
 @@||tuckers.link^
 @@||tufts.au^
@@ -8576,7 +8571,6 @@
 @@||ukoeln.de^
 @@||ul.rs^
 @@||ul.to^
-@@||ul3.ir^
 @@||uldox.com^
 @@||ulnk.app^
 @@||ultimateaderaser.com^
@@ -8743,7 +8737,6 @@
 @@||urlers.com^
 @@||urles.us^
 @@||urless.com^
-@@||urlexpander.org^
 @@||urlf.cc^
 @@||urlfile.xyz^
 @@||urlflea.com^
@@ -8914,7 +8907,6 @@
 @@||usglife.com^
 @@||usheethe.com^
 @@||ushort.my^
-@@||ushort.xyz^
 @@||usite.jp^
 @@||usreviewers.com^
 @@||ut9.cc^
@@ -8931,7 +8923,6 @@
 @@||uucc.cc^
 @@||uurl.at^
 @@||uurl.icu^
-@@||uuu.gl^
 @@||uuz.cc^
 @@||uvv.im^
 @@||uwat.ca^
@@ -8954,7 +8945,6 @@
 @@||v2links.com^
 @@||v3d.net^
 @@||v68.io^
-@@||v7c.cn^
 @@||va.lk^
 @@||vaca.sh^
 @@||vaddev.de^
@@ -9049,7 +9039,6 @@
 @@||vipslot4d.site^
 @@||viraatlabs.com^
 @@||viralblade.com^
-@@||viralme.me^
 @@||viraln.co^
 @@||viralpep.com^
 @@||virl.com^
@@ -9371,7 +9360,6 @@
 @@||x2l.ir^
 @@||x2t.com^
 @@||x2y.me^
-@@||x5n.cn^
 @@||x7.lv^
 @@||x89.us^
 @@||xaddr.com^
@@ -9450,7 +9438,6 @@
 @@||xth.me^
 @@||xtr.bz^
 @@||xtre.me^
-@@||xua.me^
 @@||xub.me^
 @@||xuc88.club^
 @@||xuo.us^
@@ -9647,7 +9634,6 @@
 @@||zipurl.net^
 @@||zipy.me^
 @@||zipzy.in^
-@@||zisoj.cyou^
 @@||ziturl.com^
 @@||zixso.com^
 @@||ziypto.com^
@@ -9709,7 +9695,6 @@
 @@||zurb.us^
 @@||zurins.uk^
 @@||zurl.co^
-@@||zurl.es^
 @@||zurl.info^
 @@||zurl.ir^
 @@||zurl.ws^

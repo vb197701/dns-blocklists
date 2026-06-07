@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Jun 2026 08:12 UTC
-! Version: 2026.0606.0812.08
+! Last modified: 07 Jun 2026 08:03 UTC
+! Version: 2026.0607.0803.03
 ! Syntax: AdBlock
-! Number of entries: 17005
+! Number of entries: 16917
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -6228,7 +6228,6 @@
 ||adguard.stoian.top^
 ||dns.stormycloud.org^
 ||adguard.strafer.dk^
-||coolsubdomain.strangersduo.com^
 ||alice.armani.strangled.net^
 ||dwaekkiluvschngbin.com.strangled.net^
 ||endis.org.discord.strangled.net^
@@ -6237,16 +6236,12 @@
 ||1234589turtlepotato.strangled.net^
 ||67818-bro.strangled.net^
 ||abukar.strangled.net^
-||braisisgay.strangled.net^
 ||creativemathfun.strangled.net^
-||holasoydavid.strangled.net^
 ||imgonnaticklefrank.strangled.net^
 ||risdpublicdomain.strangled.net^
 ||robertthefrost.strangled.net^
-||rolypoly.strangled.net^
 ||sixsevwnmanfosude.strangled.net^
 ||squidward.strangled.net^
-||studyalgebra.strangled.net^
 ||wspbaddies.strangled.net^
 ||zhapeslearning.strangled.net^
 ||konnektor.stratipharm.de^
@@ -6254,7 +6249,6 @@
 ||cdn.streamr.com^
 ||dns.streamsmoke.com^
 ||dns.streamvine.app^
-||dns.stresslab.party^
 ||vpn.stroialliance.com^
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
@@ -6354,14 +6348,6 @@
 ||frog.szvy.win^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||domain.tablero-anmac.ar^
-||educational-sock.tablero-anmac.ar^
-||furryfemappreciationlgbtlove.tablero-anmac.ar^
-||junomyfurryprotogenbutcalculator.tablero-anmac.ar^
-||justiceforcosmopoliticiancellarspiderthatwascrushedbyjameson.tablero-anmac.ar^
-||nope.tablero-anmac.ar^
-||sneakersotoolefurryfanwiki.tablero-anmac.ar^
-||study.tablero-anmac.ar^
 ||d0.tada.ly^
 ||dn5.talesam.org^
 ||www.iloveto.talk4fun.net^
@@ -6378,10 +6364,8 @@
 ||dns0.tardishost.ru^
 ||dns1.tardishost.ru^
 ||adguard.taufner.net^
-||discussion.tawktawk.info^
 ||dns.tb4.me^
 ||httpdns.danuoyi.tbcache.com^
-||92.38.177.16.dyn.tcadmin.net^
 ||babybee.tcogpcal.org^
 ||khajujawegifwqaiugwa.tcp64.de^
 ||tcpghe.tcp64.de^
@@ -6399,7 +6383,6 @@
 ||llc.techmaxasia.com^
 ||sainttech.techmaxasia.com^
 ||dns1.techniverse.net^
-||vapor.techno.pics^
 ||doh.technochat.in^
 ||essay.gov.technologybriefingcenter.com^
 ||dns.technologycage.com^
@@ -6439,7 +6422,6 @@
 ||foil.thanatos.com^
 ||math.thanatos.com^
 ||voidnettty.thanatos.com^
-||typingpractice.theantzfarm.space^
 ||unplatonicallydiybt.theantzfarm.space^
 ||www.3.theartieschaffer.com^
 ||www.94.theartieschaffer.com^
@@ -6507,21 +6489,14 @@
 ||wg.thienhv.com^
 ||graph.train.thinkgarden.com^
 ||doh.thio.me^
-||67hub.thisoldrack.us^
 ||dns.thiz.top^
 ||dns.thore.cloud^
-||jus.tice-industries.com^
 ||topic.know.ticpu.net^
 ||fdfhgbv.ticsur.cl^
 ||femboys.tierlistsforspotify.party^
-||adguard.tigrex.net^
-||education.timbalemail.com^
 ||dns.timboeh.me^
 ||ad.timefine.org^
 ||httpsingsnode.timegear.site^
-||moremore.timekeeper.ro^
-||overload.timekeeper.ro^
-||resubmit.timekeeper.ro^
 ||adb.timnichollsphotography.com^
 ||dns1.timothy-dev.com^
 ||adguard.timoz.fr^
@@ -6575,10 +6550,8 @@
 ||resolv1.trash.net^
 ||resolv2.trash.net^
 ||resolv3.trash.net^
-||ffd.travelpage.biz^
 ||ns.trcnet.fi^
 ||adguard.treexhd.me^
-||myapps.classlink.trelease.net^
 ||consumervpn.trendmicro.com^
 ||geovpn.trendmicro.com^
 ||adguard.trevorpease.me^
@@ -6608,7 +6581,6 @@
 ||adguard.tver-tech.ru^
 ||blackattacker.tvjumbleanswers.com^
 ||dadinoissus.tvjumbleanswers.com^
-||fortunaissigma.tvjumbleanswers.com^
 ||friedchimkensaurus.tvjumbleanswers.com^
 ||itscauseiamblack.tvjumbleanswers.com^
 ||littlepiggies571s.tvjumbleanswers.com^
@@ -6623,15 +6595,11 @@
 ||230704953-learn-maths-starters.twilightparadox.com^
 ||278765434574.twilightparadox.com^
 ||alearluvsruby.twilightparadox.com^
-||betterthefrogiesarcade.twilightparadox.com^
 ||dagsonbanana.twilightparadox.com^
 ||djsnsnsnsnn.twilightparadox.com^
-||fireworksedu.twilightparadox.com^
 ||goofygang.twilightparadox.com^
 ||gtjschool.twilightparadox.com^
-||ifudontlikepoptartsugay.twilightparadox.com^
 ||ifyournotfirstyourlast.twilightparadox.com^
-||ihavenextlevelgamerskills.twilightparadox.com^
 ||iliasbetweaking.twilightparadox.com^
 ||ismaelsstinkytimmytufknuckles.twilightparadox.com^
 ||ismellywiththebigbelly.twilightparadox.com^
@@ -6651,7 +6619,6 @@
 ||v1.ufamax.eu^
 ||vless-service.ufodns.com^
 ||study.howto.ugo.si^
-||mathhelp.ugo.si^
 ||blokuj.ujwie.co^
 ||nitter.ujwie.co^
 ||webproxy.uk.com^
@@ -6664,7 +6631,6 @@
 ||doh.umbrella.com^
 ||anycast.uncensoreddns.dk^
 ||unicast.uncensoreddns.dk^
-||lets.just.undo.it^
 ||block.undo.cl^
 ||cheesepizza.undo.it^
 ||diddywasinnocent.undo.it^
@@ -6695,7 +6661,6 @@
 ||mcore.us.to^
 ||webproxy.us.com^
 ||dns.usualposts.xyz^
-||multi.utilicell.com^
 ||coolguy.uzhi.ru^
 ||algebra-math.v119.com^
 ||clever-math.v119.com^
@@ -6709,22 +6674,11 @@
 ||www-proxy.valentiin.com^
 ||doh.valscosmos.com^
 ||dns.vancrafter.click^
-||altf4.vandrekalenderen.dk^
-||apple1.vandrekalenderen.dk^
-||fast.vandrekalenderen.dk^
-||frefe.vandrekalenderen.dk^
-||iukh.vandrekalenderen.dk^
-||nationalgeographgichistory.vandrekalenderen.dk^
-||plane.vandrekalenderen.dk^
-||ramen.vandrekalenderen.dk^
-||wasd.vandrekalenderen.dk^
-||whereisaplacetoseeingloridaearth.vandrekalenderen.dk^
 ||adguard.vape.ong^
 ||tor.vasi.li^
 ||dns.vault81.de^
 ||dontgoonyoufuckingdegenerates.vaultnoir.com^
 ||ibribeillegals.vaultnoir.com^
-||waguri.vawars.com^
 ||server01.vboekel.nl^
 ||dns.vectorsigma.ru^
 ||adguard.vegann.space^
@@ -6797,9 +6751,7 @@
 ||sampanei.viar3d.com^
 ||tubmledxeni.viar3d.com^
 ||ad.viet.date^
-||dns.vietdns.net^
 ||dns.vietdns.vn^
-||kids.vietdns.net^
 ||kids.vietdns.vn^
 ||tls.vietguards.cloud^
 ||adsl.viettel.vn^
@@ -6816,7 +6768,6 @@
 ||dns.vinokurov.tk^
 ||dns.vip-kingstore.xyz^
 ||z.vipit.one^
-||learningapp.virtopia.org^
 ||alina.virttec.net^
 ||dns.virtual-qr.ir^
 ||graph.solve.virtualinhouselawyer.com^
@@ -6824,12 +6775,9 @@
 ||adventurously.vitrinanorte.cl^
 ||dns.vk09.ru^
 ||hunger.vlad.md^
-||idontlikecookiesbrowniesarebettterngl.vlad.md^
-||theworldisfallingapartinmeteors.vlad.md^
 ||dns.vlo.cc^
 ||dns.vmisch.tech^
 ||dns.vod11.xyz^
-||tutoring.services.voievodate.ro^
 ||httpdns.volcengineapi.com^
 ||dns.volsap.ovh^
 ||vpn0109.voodonline.fr^
@@ -6846,10 +6794,8 @@
 ||center.k12.mo.us.vr.lt^
 ||web.vserver.app^
 ||www.securly.com.vslui.net^
-||373737eueu7383jd.vulpes.pub^
 ||45.32.17.58.vultrusercontent.com^
 ||solution.w10.life^
-||www-proxy.w2mpu72.pro^
 ||dns.w3ctag.org^
 ||bh.wael.name^
 ||dns.wael.name^
@@ -6859,7 +6805,6 @@
 ||megumin.is.my.waifu.cz^
 ||yunyun.is.my.waifu.cz^
 ||44c.wakemeup.ru^
-||baldwinprepbyjerrydaniels.wakemeup.ru^
 ||damianlikesjulie.wakemeup.ru^
 ||kailovefurries.wakemeup.ru^
 ||dns.walker.id^
@@ -6892,15 +6837,9 @@
 ||skibidirizztoilet.hantulaut.web.id^
 ||how.learn.harimurti.web.id^
 ||dns.jsd.web.id^
-||server.padil.web.id^
 ||endis1.railway.web.id^
 ||fern1ifdst6sdgu345ewdfgdgy54esdrhty3cooperd.railway.web.id^
 ||gavinnovercloaked.railway.web.id^
-||selenite10.railway.web.id^
-||selenite11.railway.web.id^
-||selenite12.railway.web.id^
-||selenite13.railway.web.id^
-||selenite14.railway.web.id^
 ||ferniiiiiiiii1.rainbowcreative.web.id^
 ||ferniiiiiiiii2.rainbowcreative.web.id^
 ||ferniiiiiiiii3.rainbowcreative.web.id^
@@ -6926,7 +6865,6 @@
 ||dns.webfork.in^
 ||my9f7732e9a.webhop.me^
 ||doh.webnmail.de^
-||google.webrathea.org^
 ||justdoinghomework.webredirect.org^
 ||scienceclasswork.webredirect.org^
 ||scientist.webredirect.org^
@@ -6943,7 +6881,6 @@
 ||ava.zael.king.wechchile.cl^
 ||blooket-2026-happynewyears.wechchile.cl^
 ||inthenight2077-2026.wechchile.cl^
-||securly-is-confusing.wechchile.cl^
 ||1d02o93u1092d0.weebly.com^
 ||resov.wehao.net^
 ||dns.weibo.cn^
@@ -7075,7 +7012,6 @@
 ||endis.ydns.eu^
 ||poobungus.ydns.eu^
 ||rammer3-haihu-bynyanko.ydns.eu^
-||sg.yepdns.com^
 ||adguard.ygd.lol^
 ||edge-intl.ygjs.org^
 ||ns6.ygy.ru^
@@ -7124,11 +7060,9 @@
 ||dns.zemows.industries^
 ||doh.zephyrus.id^
 ||brainpop.zeptoinitiative.org^
-||closetome.zeptoinitiative.org^
 ||drive.zeptoinitiative.org^
 ||education.zeptoinitiative.org^
 ||imcrine.zeptoinitiative.org^
-||learn.zeptoinitiative.org^
 ||madebynathan.zeptoinitiative.org^
 ||madebynathan1.zeptoinitiative.org^
 ||mastergotmeworkin.zeptoinitiative.org^
@@ -14960,17 +14894,16 @@
 ||subclsnet.com^
 ||sulink.life^
 ||summitag.org^
+||suniproxy.com^
 ||sunnygyl.com^
 ||sunsett.cc^
 ||sunsett.icu^
 ||sunvpn.net^
 ||super-vpn.info^
 ||super123.org^
-||super123proxy.com^
 ||superapi.cz^
 ||superbproxy.com^
 ||superconnect.dev^
-||supercoolcomputersandstuff.win^
 ||superfreevpn.com^
 ||supergisfire.com^
 ||supergreenstuff.com^
@@ -14984,7 +14917,6 @@
 ||supervpn.best^
 ||supervpn.cc^
 ||supervpn.dev^
-||supervpn.help^
 ||supervpn.homes^
 ||supervpn.im^
 ||supervpn.lat^
@@ -15069,7 +15001,6 @@
 ||szvy.xyz^
 ||szyrzyk.pl^
 ||t-dz.com^
-||t2hd3gctgprggas.online^
 ||taarique.shop^
 ||tabijibiyori.org^
 ||tablebook92.com^
@@ -15163,16 +15094,13 @@
 ||theproxy.cc^
 ||theproxy.club^
 ||theproxy.dev^
-||theproxy.ink^
 ||theproxy.io^
 ||theproxy.lol^
 ||theproxy.red^
 ||theproxy.vip^
-||theproxy.work^
 ||theproxy2.biz^
 ||theproxy2.com^
 ||theproxya.org^
-||theproxyer.com^
 ||theproxyguide.com^
 ||theproxyultra.com^
 ||therabbitvpn.com^
@@ -15218,7 +15146,6 @@
 ||timedns.net^
 ||timeout8.uk^
 ||timetohide.me^
-||timevip.ir^
 ||timevpns.com^
 ||timmes.nl^
 ||timurpoyraz.com^
@@ -15330,7 +15257,6 @@
 ||tproxy.ink^
 ||tproxy.mom^
 ||tproxyru.live^
-||tpymainx01.ru^
 ||tq8izzzrqtktkdoarptl3u.online^
 ||tqqzrbjd.com^
 ||tqwrf6t2g.space^
@@ -15381,7 +15307,6 @@
 ||trutri.org^
 ||truvexia.ru^
 ||truvium.xyz^
-||trxnfor.com^
 ||try-this.ru^
 ||tryfairy.xyz^
 ||trygoujiapp.com^
@@ -15631,7 +15556,6 @@
 ||unifiedvpn.com^
 ||unil.click^
 ||uniqueduty.com^
-||unity4world.ir^
 ||universitylookup.org^
 ||universityproxy.net^
 ||unknownproxy.com^
@@ -15715,7 +15639,6 @@
 ||uuuuuuuuu.uk^
 ||uvpn.me^
 ||uwqjkirj.com^
-||uxbrftcf.com^
 ||uymgg1.com^
 ||uzrzhcyx.com^
 ||v.recipes^
@@ -16100,7 +16023,6 @@
 ||vpnkeys.me^
 ||vpnkeys.mom^
 ||vpnkeys.org^
-||vpnlabs.site^
 ||vpnland.com^
 ||vpnlaunch.com^
 ||vpnliebao.com^
@@ -16170,7 +16092,6 @@
 ||vpnpro.com^
 ||vpnpro.quest^
 ||vpnproxy.app^
-||vpnproxy.pw^
 ||vpnproxy.site^
 ||vpnproxymaster.app^
 ||vpnproxymaster.com^
@@ -16259,7 +16180,6 @@
 ||vtbimdkh.com^
 ||vthiawvu.com^
 ||vthrnrwrbtq2n1xpjt5d.online^
-||vuivn.site^
 ||vul-trio.ru^
 ||vultrio.ru^
 ||vundekra.com^
@@ -16360,7 +16280,6 @@
 ||wevz3b.xyz^
 ||wez.fr^
 ||wfdfyjd.com^
-||wgcwwk1ksso0rb9kkn6.online^
 ||wgetcloud.info^
 ||wgetcloud.ltd^
 ||wgetcloud.org^
@@ -16499,7 +16418,6 @@
 ||xaykmfn.cn^
 ||xbaxiba.org^
 ||xbcpb668.com^
-||xbgkzcvnfjkjh7ccggvniet.online^
 ||xbox-dns.ru^
 ||xbsj5632.website^
 ||xbsjssr.online^
@@ -16606,7 +16524,6 @@
 ||xn--kbtz2zn3ab56c.com^
 ||xn--mes358aby2apfg.com^
 ||xn--mest5a943ag8x.com^
-||xn--mesz5hn9e3rh.com^
 ||xn--nexitally-459pk42i.com^
 ||xn--prome-h02iv96g.com^
 ||xn--rss276g.net^
@@ -16701,7 +16618,6 @@
 ||yaltro.ru^
 ||yangfan73.net^
 ||yangfanhome.com^
-||yangfanhome.net^
 ||yangfanyun.homes^
 ||yangfanyun.net^
 ||yangfanyunbest.net^
@@ -16734,7 +16650,6 @@
 ||yep.top^
 ||yepfast.cc^
 ||yeqavten.com^
-||yeralin.net^
 ||yes-taro.ru^
 ||yestaro.ru^
 ||yexmorio.ru^
@@ -16847,7 +16762,6 @@
 ||z2l8ae5mv83sgzkutimxp.online^
 ||z3d9.com^
 ||z4qczlf.online^
-||z4se8uea.online^
 ||zabolotskikh.dev^
 ||zaborona.help^
 ||zadmin.dev^
@@ -16925,7 +16839,6 @@
 ||zenxnet.com^
 ||zeptirox.com^
 ||zerava.ru^
-||zerfaucet.space^
 ||zerivox.xyz^
 ||zerlix.xyz^
 ||zernavo.ru^
@@ -16992,7 +16905,6 @@
 ||zqxgfbtj.com^
 ||zrackrmr.com^
 ||zscalertwo.net^
-||zskniqat.com^
 ||zspeed-cdn.com^
 ||zt.al^
 ||ztpvqxcr.cc^

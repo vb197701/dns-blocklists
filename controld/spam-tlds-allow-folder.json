@@ -841,6 +841,13 @@
       }
     },
     {
+      "PK": "catboy.best",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cdn.fun",
       "action": {
         "do": 1,

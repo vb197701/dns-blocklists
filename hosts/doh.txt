@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 17:50 UTC
-# Version: 2026.0605.1750.51
+# Last modified: 07 Jun 2026 08:02 UTC
+# Version: 2026.0607.0802.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3862
+# Number of entries: 3854
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3353,7 +3353,6 @@
 0.0.0.0 adguard.streamlas.fr
 0.0.0.0 dns.streamsmoke.com
 0.0.0.0 dns.streamvine.app
-0.0.0.0 dns.stresslab.party
 0.0.0.0 www.vpn.stroialliance.com
 0.0.0.0 dns.struchkov.dev
 0.0.0.0 structoriumwings.ru
@@ -3476,7 +3475,6 @@
 0.0.0.0 jp.tiar.app
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiarap.org
-0.0.0.0 adguard.tigrex.net
 0.0.0.0 tigrons.ru
 0.0.0.0 dns.timboeh.me
 0.0.0.0 timedns.net
@@ -3651,9 +3649,6 @@
 0.0.0.0 vpnhellings.nl
 0.0.0.0 www.vpnhellings.nl
 0.0.0.0 dns.vps.pw
-0.0.0.0 vuivn.site
-0.0.0.0 ns1.vuivn.site
-0.0.0.0 ns2.vuivn.site
 0.0.0.0 45.32.17.58.vultrusercontent.com
 0.0.0.0 solution.w10.life
 0.0.0.0 dns.w3ctag.org
@@ -3681,7 +3676,6 @@
 0.0.0.0 dns.engineer.web.id
 0.0.0.0 h4g3z1-doh.web.app
 0.0.0.0 dns.jsd.web.id
-0.0.0.0 server.padil.web.id
 0.0.0.0 panser.web.id
 0.0.0.0 doh.this.web.id
 0.0.0.0 web-rated.ie
@@ -3798,8 +3792,6 @@
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 biba.ydns.eu
-0.0.0.0 sg.yepdns.com
-0.0.0.0 yeralin.net
 0.0.0.0 adguard.ygd.lol
 0.0.0.0 ns6.ygy.ru
 0.0.0.0 dns.yingroad.top

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 17:50 UTC
-# Version: 2026.0605.1750.51
+# Last modified: 07 Jun 2026 08:02 UTC
+# Version: 2026.0607.0802.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3862
+# Number of entries: 3854
 #
 ss.0001.xyz
 003153.xyz
@@ -3353,7 +3353,6 @@ dns.strassmair.org
 adguard.streamlas.fr
 dns.streamsmoke.com
 dns.streamvine.app
-dns.stresslab.party
 www.vpn.stroialliance.com
 dns.struchkov.dev
 structoriumwings.ru
@@ -3476,7 +3475,6 @@ dot.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-adguard.tigrex.net
 tigrons.ru
 dns.timboeh.me
 timedns.net
@@ -3651,9 +3649,6 @@ killads.vpms.xyz
 vpnhellings.nl
 www.vpnhellings.nl
 dns.vps.pw
-vuivn.site
-ns1.vuivn.site
-ns2.vuivn.site
 45.32.17.58.vultrusercontent.com
 solution.w10.life
 dns.w3ctag.org
@@ -3681,7 +3676,6 @@ dns6.web.id
 dns.engineer.web.id
 h4g3z1-doh.web.app
 dns.jsd.web.id
-server.padil.web.id
 panser.web.id
 doh.this.web.id
 web-rated.ie
@@ -3798,8 +3792,6 @@ adguardhome.yavuztutcu.net
 ychen.cf
 ychen.gq
 biba.ydns.eu
-sg.yepdns.com
-yeralin.net
 adguard.ygd.lol
 ns6.ygy.ru
 dns.yingroad.top

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780729500 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780815600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Jun 2026 07:05 UTC
-; Version: 2026.0606.0705.35
+; Last modified: 07 Jun 2026 07:00 UTC
+; Version: 2026.0607.0700.42
 ; Syntax: RPZ
-; Number of entries: 19654
+; Number of entries: 19624
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2135,8 +2135,6 @@ oplink.club CNAME .
 *.oplink.club CNAME .
 sms.club CNAME .
 *.sms.club CNAME .
-tuch.club CNAME .
-*.tuch.club CNAME .
 xuc88.club CNAME .
 *.xuc88.club CNAME .
 blbrd.cm CNAME .
@@ -2239,12 +2237,8 @@ url.cn CNAME .
 *.url.cn CNAME .
 urlify.cn CNAME .
 *.urlify.cn CNAME .
-v7c.cn CNAME .
-*.v7c.cn CNAME .
 ws91.cn CNAME .
 *.ws91.cn CNAME .
-x5n.cn CNAME .
-*.x5n.cn CNAME .
 z5h.cn CNAME .
 *.z5h.cn CNAME .
 0se.co CNAME .
@@ -6627,8 +6621,6 @@ startingroup.com CNAME .
 *.startingroup.com CNAME .
 starturl.com CNAME .
 *.starturl.com CNAME .
-steammodule.com CNAME .
-*.steammodule.com CNAME .
 io.steelcutaudio.com CNAME .
 *.io.steelcutaudio.com CNAME .
 steemhunt.com CNAME .
@@ -6871,8 +6863,6 @@ tiny-l.com CNAME .
 *.tiny-l.com CNAME .
 tiny-links.com CNAME .
 *.tiny-links.com CNAME .
-tiny123.com CNAME .
-*.tiny123.com CNAME .
 tiny1z.com CNAME .
 *.tiny1z.com CNAME .
 tinybro.com CNAME .
@@ -7813,8 +7803,6 @@ linkmu.cyou CNAME .
 *.linkmu.cyou CNAME .
 shortly.cyou CNAME .
 *.shortly.cyou CNAME .
-zisoj.cyou CNAME .
-*.zisoj.cyou CNAME .
 1url.cz CNAME .
 *.1url.cz CNAME .
 6b.cz CNAME .
@@ -8457,8 +8445,6 @@ yourwish.es CNAME .
 *.yourwish.es CNAME .
 zpag.es CNAME .
 *.zpag.es CNAME .
-zurl.es CNAME .
-*.zurl.es CNAME .
 link.et CNAME .
 *.link.et CNAME .
 0ln.eu CNAME .
@@ -9095,8 +9081,6 @@ oxelt.gl CNAME .
 *.oxelt.gl CNAME .
 qoo.gl CNAME .
 *.qoo.gl CNAME .
-uuu.gl CNAME .
-*.uuu.gl CNAME .
 wa.gl CNAME .
 *.wa.gl CNAME .
 wl.gl CNAME .
@@ -11313,8 +11297,6 @@ tribn.ir CNAME .
 *.tribn.ir CNAME .
 ttr.ir CNAME .
 *.ttr.ir CNAME .
-ul3.ir CNAME .
-*.ul3.ir CNAME .
 uzip.ir CNAME .
 *.uzip.ir CNAME .
 wats.ir CNAME .
@@ -14351,8 +14333,6 @@ viaalto.me CNAME .
 *.viaalto.me CNAME .
 vigit.me CNAME .
 *.vigit.me CNAME .
-viralme.me CNAME .
-*.viralme.me CNAME .
 vnxy.me CNAME .
 *.vnxy.me CNAME .
 vof.me CNAME .
@@ -14407,8 +14387,6 @@ xth.me CNAME .
 *.xth.me CNAME .
 xtre.me CNAME .
 *.xtre.me CNAME .
-xua.me CNAME .
-*.xua.me CNAME .
 xub.me CNAME .
 *.xub.me CNAME .
 xxlink.me CNAME .
@@ -14715,8 +14693,6 @@ huma.na CNAME .
 *.huma.na CNAME .
 puri.na CNAME .
 *.puri.na CNAME .
-ttt.name CNAME .
-*.ttt.name CNAME .
 piti.nc CNAME .
 *.piti.nc CNAME .
 redsto.ne CNAME .
@@ -15235,8 +15211,6 @@ sub2unlock.net CNAME .
 *.sub2unlock.net CNAME .
 sycelu.net CNAME .
 *.sycelu.net CNAME .
-tagli.net CNAME .
-*.tagli.net CNAME .
 tahmil.net CNAME .
 *.tahmil.net CNAME .
 tapurl.net CNAME .
@@ -16171,8 +16145,6 @@ url5.org CNAME .
 *.url5.org CNAME .
 urldirect21-1.org CNAME .
 *.urldirect21-1.org CNAME .
-urlexpander.org CNAME .
-*.urlexpander.org CNAME .
 urlshortner.org CNAME .
 *.urlshortner.org CNAME .
 urlx.org CNAME .
@@ -19635,8 +19607,6 @@ urlshort.xyz CNAME .
 *.urlshort.xyz CNAME .
 urltiny.xyz CNAME .
 *.urltiny.xyz CNAME .
-ushort.xyz CNAME .
-*.ushort.xyz CNAME .
 vtru.xyz CNAME .
 *.vtru.xyz CNAME .
 url.webof.xyz CNAME .

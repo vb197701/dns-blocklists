@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Jun 2026 17:51 UTC
-! Version: 2026.0605.1751.26
+! Last modified: 07 Jun 2026 08:02 UTC
+! Version: 2026.0607.0802.32
 ! Syntax: AdBlock
-! Number of entries: 3329
+! Number of entries: 3323
 !
 ||ss.0001.xyz^
 ||ns.00dani.me^
@@ -2478,7 +2478,6 @@
 ||adguard.streamlas.fr^
 ||dns.streamsmoke.com^
 ||dns.streamvine.app^
-||dns.stresslab.party^
 ||www.vpn.stroialliance.com^
 ||dns.struchkov.dev^
 ||dns.stud.cloud^
@@ -2582,7 +2581,6 @@
 ||jp.tiar.app^
 ||doh.tiarap.org^
 ||jp.tiarap.org^
-||adguard.tigrex.net^
 ||dns.timboeh.me^
 ||ad.timefine.org^
 ||adb.timnichollsphotography.com^
@@ -2717,7 +2715,6 @@
 ||dns.wdnts.eu^
 ||dns.engineer.web.id^
 ||dns.jsd.web.id^
-||server.padil.web.id^
 ||doh.this.web.id^
 ||h4g3z1-doh.top.web.app^
 ||dns6.web.id^
@@ -2797,7 +2794,6 @@
 ||adguard.yavuztutcu.net^
 ||adguardhome.yavuztutcu.net^
 ||biba.ydns.eu^
-||sg.yepdns.com^
 ||adguard.ygd.lol^
 ||ns6.ygy.ru^
 ||dns.yingroad.top^
@@ -3299,7 +3295,6 @@
 ||vladpro.ru^
 ||vorlif.org^
 ||vpnhellings.nl^
-||vuivn.site^
 ||wallpap.eu^
 ||wantaquddin.com^
 ||waydnes.ru^
@@ -3326,7 +3321,6 @@
 ||xorbiadns.com^
 ||ychen.cf^
 ||ychen.gq^
-||yeralin.net^
 ||your-dns.run^
 ||yovbak.com^
 ||ys4.de^

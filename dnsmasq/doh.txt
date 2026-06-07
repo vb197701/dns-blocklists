@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 17:50 UTC
-# Version: 2026.0605.1750.51
+# Last modified: 07 Jun 2026 08:02 UTC
+# Version: 2026.0607.0802.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3413
+# Number of entries: 3407
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2543,7 +2543,6 @@ local=/adguard.strafer.dk/
 local=/adguard.streamlas.fr/
 local=/dns.streamsmoke.com/
 local=/dns.streamvine.app/
-local=/dns.stresslab.party/
 local=/www.vpn.stroialliance.com/
 local=/dns.struchkov.dev/
 local=/dns.stud.cloud/
@@ -2647,7 +2646,6 @@ local=/dot.tiar.app/
 local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
-local=/adguard.tigrex.net/
 local=/dns.timboeh.me/
 local=/ad.timefine.org/
 local=/adb.timnichollsphotography.com/
@@ -2783,7 +2781,6 @@ local=/domeq.waw.pl/
 local=/dns.wdnts.eu/
 local=/dns.engineer.web.id/
 local=/dns.jsd.web.id/
-local=/server.padil.web.id/
 local=/doh.this.web.id/
 local=/dns6.web.id/
 local=/h4g3z1-doh.web.app/
@@ -2868,7 +2865,6 @@ local=/dns.yatima.tv/
 local=/adguard.yavuztutcu.net/
 local=/adguardhome.yavuztutcu.net/
 local=/biba.ydns.eu/
-local=/sg.yepdns.com/
 local=/adguard.ygd.lol/
 local=/ns6.ygy.ru/
 local=/dns.yingroad.top/
@@ -3382,7 +3378,6 @@ local=/villalazza.stream/
 local=/vladpro.ru/
 local=/vorlif.org/
 local=/vpnhellings.nl/
-local=/vuivn.site/
 local=/wallpap.eu/
 local=/wantaquddin.com/
 local=/waydnes.ru/
@@ -3409,7 +3404,6 @@ local=/xn--durhre-yxa.de/
 local=/xorbiadns.com/
 local=/ychen.cf/
 local=/ychen.gq/
-local=/yeralin.net/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/ys4.de/

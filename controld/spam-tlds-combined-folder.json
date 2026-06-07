@@ -1085,6 +1085,13 @@
       }
     },
     {
+      "PK": "catboy.best",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cc",
       "action": {
         "do": 0,

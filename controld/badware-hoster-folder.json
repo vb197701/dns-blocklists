@@ -29,6 +29,13 @@
       }
     },
     {
+      "PK": "000nethost.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "000webhost.com",
       "action": {
         "do": 0,
@@ -1317,6 +1324,13 @@
       }
     },
     {
+      "PK": "blogspot.com.br",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogspot.com.es",
       "action": {
         "do": 0,
@@ -1948,6 +1962,13 @@
     },
     {
       "PK": "ct8.pl",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ctempurl.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3039,7 +3060,21 @@
       }
     },
     {
+      "PK": "gamer.gd",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "gaming.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gerentebr.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3333,6 +3368,13 @@
       }
     },
     {
+      "PK": "html-5.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hu.gp",
       "action": {
         "do": 0,
@@ -3376,6 +3418,13 @@
     },
     {
       "PK": "ibiz.cc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "iblogger.org",
       "action": {
         "do": 0,
         "status": 1
@@ -3481,6 +3530,13 @@
     },
     {
       "PK": "inbox24.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "infinityfree.me",
       "action": {
         "do": 0,
         "status": 1
@@ -3607,6 +3663,20 @@
     },
     {
       "PK": "is-best.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "is-great.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "is-great.org",
       "action": {
         "do": 0,
         "status": 1
@@ -4166,6 +4236,13 @@
       }
     },
     {
+      "PK": "my-board.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "my-place.us",
       "action": {
         "do": 0,
@@ -4223,6 +4300,13 @@
     },
     {
       "PK": "mycpanel.rs",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mydiscussion.net",
       "action": {
         "do": 0,
         "status": 1
@@ -4565,6 +4649,13 @@
       }
     },
     {
+      "PK": "onlineweb.shop",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "onlinewebshop.net",
       "action": {
         "do": 0,
@@ -4775,6 +4866,13 @@
       }
     },
     {
+      "PK": "pl-oferta-id2387942371.top",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "pl.de",
       "action": {
         "do": 0,
@@ -4929,6 +5027,13 @@
       }
     },
     {
+      "PK": "rapidshare.se",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "re2.de",
       "action": {
         "do": 0,
@@ -4937,6 +5042,20 @@
     },
     {
       "PK": "reco.ws",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "regruhosting.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "reodev.com",
       "action": {
         "do": 0,
         "status": 1
@@ -5049,6 +5168,13 @@
     },
     {
       "PK": "securebankinggroup.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "secureonline.store",
       "action": {
         "do": 0,
         "status": 1
@@ -5237,6 +5363,13 @@
       }
     },
     {
+      "PK": "sophiashantidaniel.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "space.lc",
       "action": {
         "do": 0,
@@ -5412,6 +5545,13 @@
       }
     },
     {
+      "PK": "tehno-politen.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tempisite.com",
       "action": {
         "do": 0,
@@ -5427,6 +5567,13 @@
     },
     {
       "PK": "temporary.site",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tentbuildingservices.eu",
       "action": {
         "do": 0,
         "status": 1
@@ -5581,6 +5728,13 @@
     },
     {
       "PK": "tw1.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "twc1.net",
       "action": {
         "do": 0,
         "status": 1
