@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jun 2026 17:37 UTC
-! Version: 2026.0607.1737.12
+! Last modified: 07 Jun 2026 19:17 UTC
+! Version: 2026.0607.1917.45
 ! Syntax: AdBlock
-! Number of entries: 58023
+! Number of entries: 58095
 !
 ||www.00fun.com^
 ||www.010081.com^
@@ -5715,6 +5715,7 @@
 ||ggc.cmvideo.cn^
 ||stat.cncenter.cz^
 ||cnb.cnews.ru^
+||statistics.cnmqh.com^
 ||webcert.cnmstl.net^
 ||zion-telemetry.api.cnn.io^
 ||zion-telemetry-nonprod.api.cnn.io^
@@ -6752,6 +6753,7 @@
 ||unicainstrumentacao.com.br^
 ||upeex.com.br^
 ||uploaddeimagens.com.br^
+||use-sougou.com.cn^
 ||venta-automotores1993.com.ar^
 ||vjp-sogou.com.cn^
 ||vjp-wps.com.cn^
@@ -17740,7 +17742,6 @@
 ||14063.xyz^
 ||14072.xyz^
 ||14092.xyz^
-||14101.xyz^
 ||14106.xyz^
 ||14110.xyz^
 ||14113.xyz^
@@ -17774,19 +17775,14 @@
 ||152media.cloud^
 ||152media.com^
 ||15336.uk^
-||15345.xyz^
-||15355.xyz^
 ||1552449629b703ce.top^
 ||155760.vip^
-||15638.xyz^
 ||15738.xyz^
 ||15745.vip^
 ||15763.xyz^
 ||15798.xyz^
 ||15843.qpon^
-||15863.xyz^
 ||1587f0216f91.top^
-||15924.xyz^
 ||159a74319eda.top^
 ||15bjh.top^
 ||15db785545844195.com^
@@ -17845,6 +17841,7 @@
 ||16321.xyz^
 ||16323.xyz^
 ||16327.xyz^
+||16344.xyz^
 ||16353.xyz^
 ||16358.qpon^
 ||163628482-wszystkie.shop^
@@ -17895,18 +17892,26 @@
 ||170908b6cf06.top^
 ||17097201.com^
 ||171328482-wszystkie.shop^
+||17172.xyz^
+||17175.xyz^
+||17179.xyz^
+||17184.xyz^
+||17190.xyz^
+||17193.xyz^
+||17202.xyz^
 ||17205.xyz^
 ||17206.xyz^
+||17208.xyz^
 ||17209.xyz^
 ||17210.xyz^
 ||17211.xyz^
+||17217.xyz^
 ||17298.xyz^
 ||17311.xyz^
 ||17330.xyz^
 ||17338.xyz^
 ||17366.xyz^
 ||17382.xyz^
-||17412.xyz^
 ||17554.xyz^
 ||1764f6629bce76e2.top^
 ||1772y.com^
@@ -18035,7 +18040,6 @@
 ||1dmp.io^
 ||1e2d855ca12d.top^
 ||1e5336d809dbf092.com^
-||1e8915597b70956d.com^
 ||1e93lqg1eb8gj7r65i.cfd^
 ||1ea6121c76093633.com^
 ||1eb2.cc^
@@ -18246,7 +18250,6 @@
 ||2345daohang.com^
 ||234d1a5efe471134bc39ee68b175e4b6c671ada98e3c39e53eea04b4.com^
 ||2362.ren^
-||23917d7fd5463379.com^
 ||23canistakisiparisler.cloud^
 ||23hje.top^
 ||23hjr.top^
@@ -18271,7 +18274,6 @@
 ||2465april2024.com^
 ||2467april2024.com^
 ||2469april2024.com^
-||246e83e60ccc9715.com^
 ||246itv6t75xnbf.rest^
 ||246mj.top^
 ||247-inc.net^
@@ -18440,6 +18442,7 @@
 ||29vjh.top^
 ||29vxj.top^
 ||29wjx.top^
+||29xfw.top^
 ||29xjf.top^
 ||29xjg.top^
 ||29xjj.top^
@@ -18570,6 +18573,7 @@
 ||31jxr.top^
 ||31qjx.top^
 ||31rjh.top^
+||31xfu.top^
 ||31xjr.top^
 ||320a7eb695f5.top^
 ||321withgraph.com^
@@ -23765,7 +23769,6 @@
 ||attendingpets.com^
 ||attentionantecedentsuperb.com^
 ||attestdivine.com^
-||attfibercheck.com^
 ||atthhnv.com^
 ||atti.com^
 ||atticdek.com^
@@ -23871,6 +23874,7 @@
 ||auth-bnpparibas.com^
 ||auth-bpostal.com^
 ||auth-system-java.com^
+||auth-we.xyz^
 ||authanalysis.com^
 ||authentic-criticism.com^
 ||authenticate-login.com^
@@ -27284,6 +27288,7 @@
 ||cladoortho.cyou^
 ||cladp.com^
 ||claghemaxc.com^
+||claim-alert-esl.xyz^
 ||claim-flarenetwork.live^
 ||claimedmoney.com^
 ||claimedpasquil.cyou^
@@ -27597,7 +27602,6 @@
 ||cnshcncjs3.vip^
 ||cnt.my^
 ||cntxcdm.com^
-||cnvalores.icu^
 ||cnvlink.com^
 ||cnwucnf.top^
 ||cnzixiang.com^
@@ -29267,6 +29271,7 @@
 ||dibsemey.com^
 ||dicecandies.com^
 ||dicersburnets.cfd^
+||dickies-soldes.fr^
 ||diclotrans.com^
 ||dicnkachuzca.com^
 ||dicoldiseb.cyou^
@@ -29436,6 +29441,7 @@
 ||direct5712522.pro^
 ||direct5712564.pro^
 ||direct5716545.pro^
+||direct5716666.pro^
 ||direct5716689.pro^
 ||direct5716856.pro^
 ||direct5718545.pro^
@@ -29961,6 +29967,7 @@
 ||dpcgcrmay.com^
 ||dpde.lat^
 ||dpdvx.com^
+||dpg48.top^
 ||dpidqeyalnpgn.online^
 ||dpl11.top^
 ||dpmsrv.com^
@@ -30145,6 +30152,11 @@
 ||dsfnqgusr.com^
 ||dsfondues.cyou^
 ||dsftcd.com^
+||dsg12.top^
+||dsg23.top^
+||dsg41.top^
+||dsg50.top^
+||dsg74.top^
 ||dsgvgw.com^
 ||dsgwoa.com^
 ||dsgwqe.com^
@@ -30898,6 +30910,7 @@
 ||elkanadi.com^
 ||elkony.xyz^
 ||ellipticaltrack.com^
+||ellisgroupofma.info^
 ||elmd4259.vip^
 ||eln3ax.com^
 ||elnk90.com^
@@ -31226,6 +31239,7 @@
 ||eskgruntfalkheelv.top^
 ||eskimi.com^
 ||eskventbruntfalk.top^
+||esl-org-claims1.lat^
 ||esloignbolsons.shop^
 ||eslowa.casa^
 ||esm1.net^
@@ -31643,10 +31657,12 @@
 ||f25ea6260260ba0f.cc^
 ||f25jx.top^
 ||f27i.top^
+||f29i.top^
 ||f29jx.top^
 ||f29y.top^
 ||f2a42bd09db5fb35.com^
 ||f2e744ee22768364.com^
+||f30r.vip^
 ||f31f4654ace1ed94.cc^
 ||f32hj.top^
 ||f3320e58110a.top^
@@ -31656,6 +31672,8 @@
 ||f42680b2b5039629.cc^
 ||f42hj.top^
 ||f4558b27f30b460c.top^
+||f48cz.top^
+||f49cx.top^
 ||f4cd8a8bf0.com^
 ||f4e409d1e614afb0.com^
 ||f4jx.top^
@@ -31892,6 +31910,8 @@
 ||fbuil.click^
 ||fbulmykkqnp.com^
 ||fc2acd6d1875.top^
+||fc49g.top^
+||fc49v.top^
 ||fc51sp.cc^
 ||fc598.cc^
 ||fc65de9dd2b3.top^
@@ -32763,8 +32783,6 @@
 ||frap.site^
 ||frapohl.de^
 ||fraud-claims-esl.xyz^
-||fraud-claims-esl-org.cfd^
-||fraud-claims-esl-org.sbs^
 ||fraudmetrix.cn^
 ||fraudroom.com^
 ||fraudshostels.click^
@@ -33089,6 +33107,7 @@
 ||g1584674682.co^
 ||g1584674683.co^
 ||g1584674684.co^
+||g16e.top^
 ||g1782759015.co^
 ||g1980843350.co^
 ||g1f3k4l99.vip^
@@ -33169,6 +33188,7 @@
 ||galdiaccesorios.com^
 ||galeaeevovae.com^
 ||galefincal.cyou^
+||galermohur.cyou^
 ||galikbrekkygreeter.cyou^
 ||galileofx.com^
 ||galladashnak.shop^
@@ -35515,6 +35535,7 @@
 ||hqszwdormatma.com^
 ||hqwqnrtm.shop^
 ||hr13j.top^
+||hr18j.top^
 ||hr22j.top^
 ||hr24j.top^
 ||hr30j.top^
@@ -35716,10 +35737,18 @@
 ||hw53j.top^
 ||hw59j.top^
 ||hw60j.top^
+||hw63j.top^
 ||hw66j.top^
 ||hw67j.top^
 ||hw6j.top^
+||hw71j.top^
+||hw79j.top^
 ||hw81j.top^
+||hw82j.top^
+||hw83j.top^
+||hw87j.top^
+||hw92j.top^
+||hw93j.top^
 ||hw97j.top^
 ||hweaugtougwvv.online^
 ||hwieersidosaoek.com^
@@ -36272,6 +36301,7 @@
 ||info-578169.pro^
 ||info-8812132.pro^
 ||info-9726105.pro^
+||info-9726201.pro^
 ||info-9726217.pro^
 ||info-anpost.com^
 ||info-nl.blog^
@@ -40053,6 +40083,7 @@
 ||leavingaileen.com^
 ||lebanonmbstore.com^
 ||lebbekperjury.com^
+||leboncoin-74.fr^
 ||leboncoincrypto.fr^
 ||lebuxe.xyz^
 ||lecdozwnpa.com^
@@ -41720,7 +41751,6 @@
 ||meta.vn^
 ||meta-appeal-center.com^
 ||meta-data-shredding-cleanup-utility.wiki^
-||meta-meta.xyz^
 ||meta-support-page.com^
 ||meta-verifications.com^
 ||meta1x1.com^
@@ -42027,6 +42057,7 @@
 ||mjkvxpeychtfw.website^
 ||mk0d5qbdj.com^
 ||mk14q.top^
+||mk47w.top^
 ||mk71g.top^
 ||mk73f.top^
 ||mk74b.top^
@@ -42243,6 +42274,7 @@
 ||mondayrecalled.com^
 ||mondcasino-fr.fr^
 ||mondial-relais-locker.com^
+||mondialinfocustom.com^
 ||mondialrelayredirectioncolis.com^
 ||mondossier-annulation.com^
 ||monerise.com^
@@ -42592,6 +42624,7 @@
 ||muttrepeatedtusk.com^
 ||mutualdocs.com^
 ||mutuallyhugecod.shop^
+||mutuesandi.cyou^
 ||muz-tracker.net^
 ||muzenaudio.com^
 ||muzikguide.com^
@@ -42943,6 +42976,7 @@
 ||navigatingnautical.xyz^
 ||navijcoiendsadcwsx.com^
 ||navrcholu.cz^
+||navyfederall.us^
 ||navyrecentuproot.com^
 ||nawec.gm^
 ||nawhaurgoas.com^
@@ -44718,6 +44752,7 @@
 ||overtracking.com^
 ||overture.com^
 ||overwetpotline.qpon^
+||ovh-security.fr^
 ||ovidtatu.qpon^
 ||oviscurdoofencer.cyou^
 ||oviyhrfxhwm.com^
@@ -45740,6 +45775,7 @@
 ||plenistdizzies.cyou^
 ||plenistuva.qpon^
 ||plenumcap.com^
+||plesk-security.fr^
 ||plexop.com^
 ||plexop.net^
 ||plfahnzsohcri.space^
@@ -46528,6 +46564,7 @@
 ||pryzmads.com^
 ||przekazowy.top^
 ||przytulny.com^
+||ps-iniciaratendimenton.shop^
 ||psaithagomtasu.net^
 ||psaussasta.net^
 ||pscjpstkkqcmo.site^
@@ -51095,6 +51132,7 @@
 ||stereotypedsugar.com^
 ||sterich.online^
 ||sterivo.shop^
+||sterlingnational.org^
 ||sternobireme.qpon^
 ||steroide-medikamente.com^
 ||steropestashes.cfd^
@@ -51471,6 +51509,7 @@
 ||suproderistrai.com^
 ||supsuc.life^
 ||surbedchubbed.cyou^
+||sureconciliateprojection.com^
 ||surfacecarevisit.cfd^
 ||surfboard-pl.shop^
 ||surfboardoutlet-pl.shop^
@@ -51686,7 +51725,6 @@
 ||t5jg99ytkujltgnp.cfd^
 ||t64742-coinbase.com^
 ||t70f.top^
-||t70o.top^
 ||t74jx.top^
 ||t7cp4fldl.com^
 ||t84c3srgclc9.com^
@@ -52035,6 +52073,7 @@
 ||temvqzxlnd.click^
 ||temvqzxlnd.help^
 ||temzvqxlra.click^
+||temzvqxlra.help^
 ||temzvqxlra.shop^
 ||tencentapigw.com^
 ||tencheckit.org^
@@ -52264,6 +52303,7 @@
 ||tezqmvxnla.click^
 ||tezqvlpmrg.click^
 ||tezqvlxnpa.click^
+||tezway.net^
 ||tf4srv.com^
 ||tfdgdxwklxkxv.website^
 ||tfipost.com^
@@ -53016,10 +53056,35 @@
 ||tpv-analytics.com^
 ||tpvbcudkld.com^
 ||tpytt.com^
+||tqa10.top^
+||tqa24.top^
+||tqa35.top^
+||tqa52.top^
+||tqa53.top^
+||tqa56.top^
+||tqa61.top^
+||tqa62.top^
+||tqa63.top^
+||tqa69.top^
 ||tqjor.com^
 ||tqksqz.com^
 ||tqlkg.com^
 ||tqmwhptlrtmsl.space^
+||tqp49.top^
+||tqp84.top^
+||tqr58.top^
+||tqr92.top^
+||tqs17.top^
+||tqs20.top^
+||tqs21.top^
+||tqs32.top^
+||tqs36.top^
+||tqs40.top^
+||tqs41.top^
+||tqs43.top^
+||tqs48.top^
+||tqs58.top^
+||tqs63.top^
 ||tr-bouncer.com^
 ||tr-monday.xyz^
 ||tr-rollers.xyz^
@@ -54515,6 +54580,7 @@
 ||varietyproduction.com^
 ||varifybalas.cyou^
 ||varinovroepx.site^
+||variofireb.cyou^
 ||variousformatscontent.com^
 ||varmentgyroseioniser.qpon^
 ||varnolitara.com^
@@ -55201,6 +55267,7 @@
 ||volceapplog.com^
 ||volcom-store.shop^
 ||volhandelsburg.live^
+||volitionlabs.shop^
 ||volna.casino^
 ||volsnmapks.online^
 ||volsnmapks.site^
@@ -55957,6 +56024,7 @@
 ||willhaben-at-paylivery.info^
 ||willingcease.com^
 ||willinglygratefullemur.shop^
+||willipolec.cyou^
 ||willowstone.eu^
 ||wimdbvvl.com^
 ||win-tails-casino.fr^
@@ -56228,6 +56296,7 @@
 ||workshophub.shop^
 ||workshopscommunitycreators.com^
 ||workshopscommunitymode.com^
+||workspacegateway.com^
 ||workwithdrones.com^
 ||world--hand.com^
 ||world-daily-news.com^
@@ -56469,6 +56538,7 @@
 ||x18xj.top^
 ||x1abo.com^
 ||x21v.vip^
+||x29fm.top^
 ||x2tsa.com^
 ||x3m.biz^
 ||x3ntevtifiz4uf1465ktzufcu.cfd^
@@ -56740,6 +56810,7 @@
 ||xkbqmjyqbxb.com^
 ||xknbeelgddbg.com^
 ||xkoxkzcfoucvb.website^
+||xkpyulahmgwii.website^
 ||xkqszdwbmebkd.space^
 ||xkybsvfhjuznn.space^
 ||xl-ads.com^
@@ -57005,8 +57076,8 @@
 ||xzzonjfwjpfqv.space^
 ||y-track.com^
 ||y10xj.top^
-||y29h.top^
 ||y2vorexg2u.com^
+||y30j.top^
 ||y35xj.top^
 ||y40xj.top^
 ||y4iwbj.top^
@@ -57881,6 +57952,7 @@
 ||zoltravanix.site^
 ||zolviko.shop^
 ||zoly.tech^
+||zomgepaqvqrjk.site^
 ||zonafilmesonline.com^
 ||zonamanis89gamingworld.site^
 ||zondacrypto.com^
