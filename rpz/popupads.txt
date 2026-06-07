@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780826700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780850460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 10:05 UTC
-; Version: 2026.0607.1005.17
+; Last modified: 07 Jun 2026 16:41 UTC
+; Version: 2026.0607.1641.04
 ; Syntax: RPZ
-; Number of entries: 99190
+; Number of entries: 99196
 ;
 bonzai.ad CNAME .
 *.bonzai.ad CNAME .
@@ -15232,6 +15232,8 @@ aqczwowu.com CNAME .
 *.aqczwowu.com CNAME .
 aqdx2021.com CNAME .
 *.aqdx2021.com CNAME .
+aqiongxlma.com CNAME .
+*.aqiongxlma.com CNAME .
 aqkkoalfpz.com CNAME .
 *.aqkkoalfpz.com CNAME .
 aqle3.com CNAME .
@@ -26234,6 +26236,8 @@ decadencevalued.com CNAME .
 *.decadencevalued.com CNAME .
 decadenthandmadechocolates.com CNAME .
 *.decadenthandmadechocolates.com CNAME .
+decafeligiblyhad.com CNAME .
+*.decafeligiblyhad.com CNAME .
 gn.decafidsprug.com CNAME .
 *.gn.decafidsprug.com CNAME .
 ja.decalalawi.com CNAME .
@@ -69746,6 +69750,8 @@ yyjvimo.com CNAME .
 *.yyjvimo.com CNAME .
 yymenc.com CNAME .
 *.yymenc.com CNAME .
+yyottieqtt.com CNAME .
+*.yyottieqtt.com CNAME .
 yyselrqpyu.com CNAME .
 *.yyselrqpyu.com CNAME .
 yytlw.com CNAME .

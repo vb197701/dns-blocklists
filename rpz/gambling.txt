@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780828980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780853160 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 10:43 UTC
-; Version: 2026.0607.1043.06
+; Last modified: 07 Jun 2026 17:26 UTC
+; Version: 2026.0607.1726.01
 ; Syntax: RPZ
-; Number of entries: 465132
+; Number of entries: 465136
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -200632,6 +200632,8 @@ grandpashabetadi.com CNAME .
 *.grandpashabetadi.com CNAME .
 grandpashabets7482.com CNAME .
 *.grandpashabets7482.com CNAME .
+grandpashabett8201.com CNAME .
+*.grandpashabett8201.com CNAME .
 grandpashacasinobet.com CNAME .
 *.grandpashacasinobet.com CNAME .
 grandpasshabet8201.com CNAME .
@@ -422106,6 +422108,8 @@ casino4151.top CNAME .
 *.casino4151.top CNAME .
 casino44tropez.top CNAME .
 *.casino44tropez.top CNAME .
+casino49494.top CNAME .
+*.casino49494.top CNAME .
 casino4991.top CNAME .
 *.casino4991.top CNAME .
 casino5204.top CNAME .

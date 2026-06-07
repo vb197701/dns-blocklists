@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 10:43 UTC
-# Version: 2026.0607.1043.06
+# Last modified: 07 Jun 2026 17:26 UTC
+# Version: 2026.0607.1726.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 232566
+# Number of entries: 232568
 #
 local=/vip.039-vip6.com/
 local=/cdnapiif.039casinocdnhd.com/
@@ -97075,6 +97075,7 @@ local=/casino4945.cfd/
 local=/casino4946.sbs/
 local=/casino4948.buzz/
 local=/casino49482com.cyou/
+local=/casino49494.top/
 local=/casino495.cfd/
 local=/casino4952.cyou/
 local=/casino4955.cyou/
@@ -132668,6 +132669,7 @@ local=/grandpashabets.icu/
 local=/grandpashabets1.icu/
 local=/grandpashabets7482.com/
 local=/grandpashabetsitegirisi.vip/
+local=/grandpashabett8201.com/
 local=/grandpashacasinobet.com/
 local=/grandpasshabet8201.com/
 local=/grandplaycasino.com/

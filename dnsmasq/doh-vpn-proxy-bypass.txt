@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 10:46 UTC
-# Version: 2026.0607.1046.14
+# Last modified: 07 Jun 2026 16:39 UTC
+# Version: 2026.0607.1639.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16916
+# Number of entries: 16914
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -16895,14 +16895,12 @@ local=/zorlunet.ru/
 local=/zorrovpn.io/
 local=/zorvian.com/
 local=/zougloub.eu/
-local=/zpath.net/
 local=/zproxy.de/
 local=/zproxy.org/
 local=/zqazgydo.cc/
 local=/zqntvkud.cc/
 local=/zqxgfbtj.com/
 local=/zrackrmr.com/
-local=/zscalertwo.net/
 local=/zspeed-cdn.com/
 local=/zt.al/
 local=/ztpvqxcr.cc/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 10:46 UTC
-# Version: 2026.0607.1046.14
+# Last modified: 07 Jun 2026 16:39 UTC
+# Version: 2026.0607.1639.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 16916
+# Number of entries: 16914
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -16895,14 +16895,12 @@ zorlunet.ru
 zorrovpn.io
 zorvian.com
 zougloub.eu
-zpath.net
 zproxy.de
 zproxy.org
 zqazgydo.cc
 zqntvkud.cc
 zqxgfbtj.com
 zrackrmr.com
-zscalertwo.net
 zspeed-cdn.com
 zt.al
 ztpvqxcr.cc

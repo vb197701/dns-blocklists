@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 10:43 UTC
-# Version: 2026.0607.1043.06
+# Last modified: 07 Jun 2026 17:26 UTC
+# Version: 2026.0607.1726.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 232566
+# Number of entries: 232568
 #
 *.vip.039-vip6.com
 *.cdnapiif.039casinocdnhd.com
@@ -97075,6 +97075,7 @@
 *.casino4946.sbs
 *.casino4948.buzz
 *.casino49482com.cyou
+*.casino49494.top
 *.casino495.cfd
 *.casino4952.cyou
 *.casino4955.cyou
@@ -132668,6 +132669,7 @@
 *.grandpashabets1.icu
 *.grandpashabets7482.com
 *.grandpashabetsitegirisi.vip
+*.grandpashabett8201.com
 *.grandpashacasinobet.com
 *.grandpasshabet8201.com
 *.grandplaycasino.com
