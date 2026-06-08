@@ -323,6 +323,20 @@
       }
     },
     {
+      "PK": "azure.bcp.bingads.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "azure.tip.bingads.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "azurewatson.microsoft.com",
       "action": {
         "do": 0,
@@ -366,13 +380,6 @@
     },
     {
       "PK": "bingads.microsoft.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bingads.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -1226,6 +1233,13 @@
       }
     },
     {
+      "PK": "hme-live-loganalytics-namespace.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hme-uat-loganalytics-namespace.servicebus.windows.net",
       "action": {
         "do": 0,
@@ -2052,6 +2066,13 @@
       }
     },
     {
+      "PK": "prod.editor.ads.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "prod-eh-v1-analytics.servicebus.windows.net",
       "action": {
         "do": 0,
@@ -2556,6 +2577,13 @@
       }
     },
     {
+      "PK": "us-mesh-events-data-leafs.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "utm.sankei.jp.msn.com",
       "action": {
         "do": 0,
@@ -2634,6 +2662,13 @@
     },
     {
       "PK": "wayfinderanalytics.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "we-events-prod-1.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

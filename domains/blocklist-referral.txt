@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 06:47 UTC
-# Version: 2026.0607.0647.21
+# Last modified: 08 Jun 2026 06:45 UTC
+# Version: 2026.0608.0645.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2202
+# Number of entries: 2211
 #
 1-aclk.net
 1aurl.io
@@ -270,6 +270,7 @@ seu.cleverreach.com
 seu1.cleverreach.com
 170770.seu1.cleverreach.com
 176818.seu1.cleverreach.com
+220194.seu1.cleverreach.com
 235409.seu1.cleverreach.com
 288550.seu1.cleverreach.com
 40076.seu1.cleverreach.com
@@ -412,11 +413,13 @@ seu2.cleverreach.com
 262841.seu2.cleverreach.com
 265573.seu2.cleverreach.com
 267821.seu2.cleverreach.com
+271409.seu2.cleverreach.com
 272026.seu2.cleverreach.com
 273639.seu2.cleverreach.com
 276100.seu2.cleverreach.com
 276896.seu2.cleverreach.com
 278149.seu2.cleverreach.com
+278864.seu2.cleverreach.com
 283836.seu2.cleverreach.com
 284666.seu2.cleverreach.com
 287930.seu2.cleverreach.com
@@ -455,6 +458,8 @@ seu2.cleverreach.com
 326910.seu2.cleverreach.com
 328936.seu2.cleverreach.com
 332527.seu2.cleverreach.com
+333070.seu2.cleverreach.com
+335664.seu2.cleverreach.com
 335799.seu2.cleverreach.com
 337452.seu2.cleverreach.com
 341722.seu2.cleverreach.com
@@ -729,8 +734,6 @@ open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
 035df47c.open.convertkit-mail4.com
 042705c9.open.convertkit-mail4.com
-06dea2c1.open.convertkit-mail4.com
-07494aa4.open.convertkit-mail4.com
 088a5f37.open.convertkit-mail4.com
 0c7d4f8e.open.convertkit-mail4.com
 104ffb11.open.convertkit-mail4.com
@@ -745,10 +748,12 @@ open.convertkit-mail4.com
 74d7b16b.open.convertkit-mail4.com
 76ab7898.open.convertkit-mail4.com
 85fc37b1.open.convertkit-mail4.com
+8edb13d7.open.convertkit-mail4.com
 91e7efd1.open.convertkit-mail4.com
 9adb1e69.open.convertkit-mail4.com
 9dd0b3de.open.convertkit-mail4.com
 a01c829f.open.convertkit-mail4.com
+a4d65a79.open.convertkit-mail4.com
 b43d6384.open.convertkit-mail4.com
 b54e0fd7.open.convertkit-mail4.com
 bbdc1d35.open.convertkit-mail4.com
@@ -804,6 +809,7 @@ m-ll23a.custobar.com
 m-nvdxq.custobar.com
 m-nxt.custobar.com
 m-oszhr.custobar.com
+m-pwvgh.custobar.com
 m-qrl63.custobar.com
 m-rst.custobar.com
 m-s6iau.custobar.com
@@ -924,6 +930,7 @@ suite33-cf.emarsys.net
 suite34.emarsys.net
 suite35-cf.emarsys.net
 suite36.emarsys.net
+suite36-cf.emarsys.net
 suite38.emarsys.net
 suite4.emarsys.net
 suite4-cf.emarsys.net
@@ -987,13 +994,11 @@ click.s10.exacttarget.com
 image.s10.exacttarget.com
 mc.s10.exacttarget.com
 members.s10.exacttarget.com
-reply.s10.exacttarget.com
 s11.exacttarget.com
 bounce.s11.exacttarget.com
 mc.s11.exacttarget.com
 members.s11.exacttarget.com
 view.s11.exacttarget.com
-virt.s11.exacttarget.com
 click.virt.s11.exacttarget.com
 s12.exacttarget.com
 bounce.s12.exacttarget.com
@@ -1044,6 +1049,7 @@ csb-cdn.exponea.com
 dgl-cdn.exponea.com
 els-cdn.exponea.com
 cdn.eu1.exponea.com
+fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
@@ -1196,6 +1202,7 @@ sites.hscoscdn-eu1.net
 25261171.sites.hscoscdn-eu1.net
 25306451.sites.hscoscdn-eu1.net
 25311679.sites.hscoscdn-eu1.net
+25346069.sites.hscoscdn-eu1.net
 25357283.sites.hscoscdn-eu1.net
 25366811.sites.hscoscdn-eu1.net
 25377572.sites.hscoscdn-eu1.net
@@ -1229,6 +1236,7 @@ sites.hscoscdn-eu1.net
 26742987.sites.hscoscdn-eu1.net
 26743233.sites.hscoscdn-eu1.net
 26750902.sites.hscoscdn-eu1.net
+26759835.sites.hscoscdn-eu1.net
 26760064.sites.hscoscdn-eu1.net
 26826924.sites.hscoscdn-eu1.net
 26829280.sites.hscoscdn-eu1.net
@@ -1251,6 +1259,7 @@ group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
 144806018.group0.sites.hscoscdn-eu1.net
 144957281.group0.sites.hscoscdn-eu1.net
+145183596.group0.sites.hscoscdn-eu1.net
 145405416.group0.sites.hscoscdn-eu1.net
 145448462.group0.sites.hscoscdn-eu1.net
 145506091.group0.sites.hscoscdn-eu1.net

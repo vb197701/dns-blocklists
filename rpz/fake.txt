@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780850520 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780901760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 16:42 UTC
-; Version: 2026.0607.1642.59
+; Last modified: 08 Jun 2026 06:56 UTC
+; Version: 2026.0608.0656.50
 ; Syntax: RPZ
-; Number of entries: 31418
+; Number of entries: 31416
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -2934,6 +2934,8 @@ awaisms.com CNAME .
 *.awaisms.com CNAME .
 awanzi.com CNAME .
 *.awanzi.com CNAME .
+awesomeartifact.com CNAME .
+*.awesomeartifact.com CNAME .
 awirer.com CNAME .
 *.awirer.com CNAME .
 awishday.com CNAME .
@@ -17744,6 +17746,8 @@ trustedmedstore24.com CNAME .
 *.trustedmedstore24.com CNAME .
 trustednorx.com CNAME .
 *.trustednorx.com CNAME .
+trustedrxsolutions.com CNAME .
+*.trustedrxsolutions.com CNAME .
 trustedxshop.com CNAME .
 *.trustedxshop.com CNAME .
 trusteryai.com CNAME .
@@ -18614,8 +18618,6 @@ waveriderco.com CNAME .
 *.waveriderco.com CNAME .
 wayofwadeshoesuk.com CNAME .
 *.wayofwadeshoesuk.com CNAME .
-wayrates.com CNAME .
-*.wayrates.com CNAME .
 wbecrisfro.com CNAME .
 *.wbecrisfro.com CNAME .
 wealth-phantom.com CNAME .
@@ -22834,8 +22836,6 @@ heyewall.de CNAME .
 *.heyewall.de CNAME .
 hibote.de CNAME .
 *.hibote.de CNAME .
-hicity.de CNAME .
-*.hicity.de CNAME .
 hier-brennts.de CNAME .
 *.hier-brennts.de CNAME .
 hike-schuhware.de CNAME .
@@ -30022,8 +30022,6 @@ modellbahnshop-club.shop CNAME .
 *.modellbahnshop-club.shop CNAME .
 modernnestliving.shop CNAME .
 *.modernnestliving.shop CNAME .
-moderwear.shop CNAME .
-*.moderwear.shop CNAME .
 modvigil.shop CNAME .
 *.modvigil.shop CNAME .
 moedllbahnlippe.shop CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 16:42 UTC
-# Version: 2026.0607.1642.59
+# Last modified: 08 Jun 2026 06:56 UTC
+# Version: 2026.0608.0656.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15709
+# Number of entries: 15708
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -1650,6 +1650,7 @@ local=/avyara.de/
 local=/awaisms.com/
 local=/awanzi.com/
 local=/awc-of-berlin.de/
+local=/awesomeartifact.com/
 local=/awirer.com/
 local=/awishday.com/
 local=/awo-baumarkt.de/
@@ -6819,7 +6820,6 @@ local=/heyewall.de/
 local=/hezoposo.com/
 local=/hi-goeedoo.com/
 local=/hibote.de/
-local=/hicity.de/
 local=/hiddenbarandgrill.com/
 local=/hiddenhertz.com/
 local=/hidra-pool.com/
@@ -9630,7 +9630,6 @@ local=/modern-technik.de/
 local=/modernbedshop.com/
 local=/modernnestliving.shop/
 local=/modernoutdoorstandard.de/
-local=/moderwear.shop/
 local=/modeschulte.de/
 local=/modetalente.com/
 local=/modethermoskanne.com/
@@ -14333,6 +14332,7 @@ local=/trustedallovertheworld.com/
 local=/trustedconsumerreview.online/
 local=/trustedmedstore24.com/
 local=/trustednorx.com/
+local=/trustedrxsolutions.com/
 local=/trustedshops.store/
 local=/trustedtablets.online/
 local=/trustedxshop.com/
@@ -15097,7 +15097,6 @@ local=/waworld.de/
 local=/waxify.de/
 local=/wayofwade.at/
 local=/wayofwadeshoesuk.com/
-local=/wayrates.com/
 local=/wbecrisfro.com/
 local=/wbymall.store/
 local=/wealth-phantom.com/

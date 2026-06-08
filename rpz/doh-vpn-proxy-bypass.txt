@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780850340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780905960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 16:39 UTC
-; Version: 2026.0607.1639.25
+; Last modified: 08 Jun 2026 08:06 UTC
+; Version: 2026.0608.0806.44
 ; Syntax: RPZ
-; Number of entries: 33828
+; Number of entries: 33832
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -20863,6 +20863,8 @@ nrz.monster CNAME .
 *.nrz.monster CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
+tproxy.monster CNAME .
+*.tproxy.monster CNAME .
 vpn.monster CNAME .
 *.vpn.monster CNAME .
 rd-service.moscow CNAME .
@@ -33135,6 +33137,8 @@ kaiwu.xyz CNAME .
 *.kaiwu.xyz CNAME .
 kaldc.xyz CNAME .
 *.kaldc.xyz CNAME .
+karo-vpn.xyz CNAME .
+*.karo-vpn.xyz CNAME .
 keldrix.xyz CNAME .
 *.keldrix.xyz CNAME .
 dns.kerekes.xyz CNAME .

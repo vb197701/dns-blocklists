@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780856340 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780901640 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Pop-Up Ads DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 18:19 UTC
-; Version: 2026.0607.1819.49
+; Last modified: 08 Jun 2026 06:54 UTC
+; Version: 2026.0608.0654.43
 ; Syntax: RPZ
 ; Number of entries: 99198
 ;
@@ -15632,8 +15632,6 @@ asepourioter.com CNAME .
 *.asepourioter.com CNAME .
 asewlfjqwlflkew.com CNAME .
 *.asewlfjqwlflkew.com CNAME .
-asexcadrillom.com CNAME .
-*.asexcadrillom.com CNAME .
 asexy8.com CNAME .
 *.asexy8.com CNAME .
 asfazpwur.com CNAME .
@@ -15826,8 +15824,6 @@ assistimplemented.com CNAME .
 *.assistimplemented.com CNAME .
 asslfeqadv.com CNAME .
 *.asslfeqadv.com CNAME .
-assneaselchan.com CNAME .
-*.assneaselchan.com CNAME .
 assoc-amazon.com CNAME .
 *.assoc-amazon.com CNAME .
 associatedaft.com CNAME .
@@ -42554,6 +42550,8 @@ lcskincarecenter.com CNAME .
 *.lcskincarecenter.com CNAME .
 lcugatnuhfpo.com CNAME .
 *.lcugatnuhfpo.com CNAME .
+lcuijfiybks.com CNAME .
+*.lcuijfiybks.com CNAME .
 lcuozmosstcu.com CNAME .
 *.lcuozmosstcu.com CNAME .
 lcwfab1.com CNAME .
@@ -71128,6 +71126,8 @@ rarepepewtf.pages.dev CNAME .
 *.rarepepewtf.pages.dev CNAME .
 secure-57v.pages.dev CNAME .
 *.secure-57v.pages.dev CNAME .
+security-process.pages.dev CNAME .
+*.security-process.pages.dev CNAME .
 setkuttina.pages.dev CNAME .
 *.setkuttina.pages.dev CNAME .
 c066b573.smrta.pages.dev CNAME .

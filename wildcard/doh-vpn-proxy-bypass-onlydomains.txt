@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 16:39 UTC
-# Version: 2026.0607.1639.25
+# Last modified: 08 Jun 2026 08:06 UTC
+# Version: 2026.0608.0806.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 16914
+# Number of entries: 16916
 #
 ss.0001.xyz
 ilovethiswebsite.001-lab.space
@@ -11781,6 +11781,7 @@ kamberi.vip
 kanye-west.top
 kaomojiz.mom
 karnuvia.ru
+karo-vpn.xyz
 kastino.ru
 katakanachart.com
 kavkaz.monster
@@ -15254,6 +15255,7 @@ towersflowerss.com
 towervpn.com
 tproxy.ink
 tproxy.mom
+tproxy.monster
 tproxyru.live
 tq8izzzrqtktkdoarptl3u.online
 tqqzrbjd.com
