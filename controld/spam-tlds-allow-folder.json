@@ -4404,6 +4404,13 @@
       }
     },
     {
+      "PK": "passt.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "paste.lol",
       "action": {
         "do": 1,

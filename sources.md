@@ -270,6 +270,7 @@ https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
+https://siberguvenlik.gov.tr/zararli-baglantilar
 https://small.oisd.nl
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt

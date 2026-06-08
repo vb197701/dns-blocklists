@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780905240 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780915680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jun 2026 07:54 UTC
-; Version: 2026.0608.0754.56
+; Last modified: 08 Jun 2026 10:48 UTC
+; Version: 2026.0608.1048.40
 ; Syntax: RPZ
-; Number of entries: 48122
+; Number of entries: 48082
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -30100,8 +30100,6 @@ cb01.online CNAME .
 *.cb01.online CNAME .
 cb01net.online CNAME .
 *.cb01net.online CNAME .
-chisla-lordfilm.online CNAME .
-*.chisla-lordfilm.online CNAME .
 cineblog001.online CNAME .
 *.cineblog001.online CNAME .
 cinevision.online CNAME .
@@ -30166,8 +30164,6 @@ fzmovies.online CNAME .
 *.fzmovies.online CNAME .
 gogo-flix.online CNAME .
 *.gogo-flix.online CNAME .
-gomorra-lordfilms.online CNAME .
-*.gomorra-lordfilms.online CNAME .
 gomovies24.online CNAME .
 *.gomovies24.online CNAME .
 gostreamnow.online CNAME .
@@ -30188,18 +30184,12 @@ hdmovieworld.online CNAME .
 *.hdmovieworld.online CNAME .
 hdtoday-tv.online CNAME .
 *.hdtoday-tv.online CNAME .
-heilo-lordfilms.online CNAME .
-*.heilo-lordfilms.online CNAME .
 himovies.online CNAME .
 *.himovies.online CNAME .
 hoki178loe.online CNAME .
 *.hoki178loe.online CNAME .
-horoshiy-partner-lordfilm.online CNAME .
-*.horoshiy-partner-lordfilm.online CNAME .
 ilovekino.online CNAME .
 *.ilovekino.online CNAME .
-iprostotak-lordfilm.online CNAME .
-*.iprostotak-lordfilm.online CNAME .
 ita101.online CNAME .
 *.ita101.online CNAME .
 italia-film.online CNAME .
@@ -30208,8 +30198,6 @@ izvne-lordfilm.online CNAME .
 *.izvne-lordfilm.online CNAME .
 jkanime.online CNAME .
 *.jkanime.online CNAME .
-karnivalrou-lordfilms.online CNAME .
-*.karnivalrou-lordfilms.online CNAME .
 katmoviehdd.online CNAME .
 *.katmoviehdd.online CNAME .
 katmovieshd.online CNAME .
@@ -30238,8 +30226,6 @@ kinoxsu.online CNAME .
 *.kinoxsu.online CNAME .
 knigaudio.online CNAME .
 *.knigaudio.online CNAME .
-korollevstvo-lordfilm.online CNAME .
-*.korollevstvo-lordfilm.online CNAME .
 laroza-penza.online CNAME .
 *.laroza-penza.online CNAME .
 leftist.online CNAME .
@@ -30364,8 +30350,6 @@ multimovies.online CNAME .
 *.multimovies.online CNAME .
 multimoviesapp.online CNAME .
 *.multimoviesapp.online CNAME .
-mutnye-vody-lordfilm.online CNAME .
-*.mutnye-vody-lordfilm.online CNAME .
 myflix24.online CNAME .
 *.myflix24.online CNAME .
 myflixerto.online CNAME .
@@ -30376,10 +30360,6 @@ myflixerxs.online CNAME .
 *.myflixerxs.online CNAME .
 myfreesky.online CNAME .
 *.myfreesky.online CNAME .
-ncis-nachalo-lordfilm.online CNAME .
-*.ncis-nachalo-lordfilm.online CNAME .
-nekrasivaya-podruzhka-lordfilm.online CNAME .
-*.nekrasivaya-podruzhka-lordfilm.online CNAME .
 nextmovie.online CNAME .
 *.nextmovie.online CNAME .
 niulangshan.online CNAME .
@@ -30392,14 +30372,8 @@ olga-lordfilmus.online CNAME .
 *.olga-lordfilmus.online CNAME .
 onlyforscholarship.online CNAME .
 *.onlyforscholarship.online CNAME .
-otnoshenia-lordfilm.online CNAME .
-*.otnoshenia-lordfilm.online CNAME .
-parkiizony-otdykha-lordfilm.online CNAME .
-*.parkiizony-otdykha-lordfilm.online CNAME .
 pelisplus.online CNAME .
 *.pelisplus.online CNAME .
-pesochnyy-chelovek-lordfilm.online CNAME .
-*.pesochnyy-chelovek-lordfilm.online CNAME .
 pirate-bay.online CNAME .
 *.pirate-bay.online CNAME .
 piratv.online CNAME .
@@ -30408,24 +30382,18 @@ pirlotvhd.online CNAME .
 *.pirlotvhd.online CNAME .
 pkuedu.online CNAME .
 *.pkuedu.online CNAME .
-pokoleniyeq-lordfilm.online CNAME .
-*.pokoleniyeq-lordfilm.online CNAME .
 prmovies.online CNAME .
 *.prmovies.online CNAME .
 protonmovies.online CNAME .
 *.protonmovies.online CNAME .
 putlockerss.online CNAME .
 *.putlockerss.online CNAME .
-rassvet-lordfilms.online CNAME .
-*.rassvet-lordfilms.online CNAME .
 riper.online CNAME .
 *.riper.online CNAME .
 rojadirectahd.online CNAME .
 *.rojadirectahd.online CNAME .
 royal-drama.online CNAME .
 *.royal-drama.online CNAME .
-seksv-drugomgorode-lordfilm.online CNAME .
-*.seksv-drugomgorode-lordfilm.online CNAME .
 serialylordfilm.online CNAME .
 *.serialylordfilm.online CNAME .
 seriesflixapp.online CNAME .
@@ -30442,12 +30410,8 @@ seuedu.online CNAME .
 *.seuedu.online CNAME .
 shahidrazi.online CNAME .
 *.shahidrazi.online CNAME .
-skarlet-gertsog-lordfilm.online CNAME .
-*.skarlet-gertsog-lordfilm.online CNAME .
 skyember44.online CNAME .
 *.skyember44.online CNAME .
-slepaya-zona-lordfilms.online CNAME .
-*.slepaya-zona-lordfilms.online CNAME .
 soap2day-us.online CNAME .
 *.soap2day-us.online CNAME .
 soap2dayapk.online CNAME .
@@ -30482,12 +30446,8 @@ taraftarium24-amp.online CNAME .
 *.taraftarium24-amp.online CNAME .
 telohraniteli-lordfilm.online CNAME .
 *.telohraniteli-lordfilm.online CNAME .
-ten-ikost-lordfilm.online CNAME .
-*.ten-ikost-lordfilm.online CNAME .
 terbit21.online CNAME .
 *.terbit21.online CNAME .
-terror-lordfilms.online CNAME .
-*.terror-lordfilms.online CNAME .
 thepiratebaytorrent.online CNAME .
 *.thepiratebaytorrent.online CNAME .
 thunderleaf12.online CNAME .

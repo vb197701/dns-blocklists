@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Jun 2026 07:00 UTC
-! Version: 2026.0607.0700.42
+! Last modified: 08 Jun 2026 18:08 UTC
+! Version: 2026.0608.1808.55
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -1457,6 +1457,7 @@
 @@||aka0.com^
 @@||akademicevre.com^
 @@||aki.today^
+@@||aklam.io^
 @@||akm.works^
 @@||akr.gr^
 @@||akses.digital^

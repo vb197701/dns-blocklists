@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jun 2026 07:54 UTC
-! Version: 2026.0608.0754.25
+! Last modified: 08 Jun 2026 19:09 UTC
+! Version: 2026.0608.1909.04
 ! Syntax: AdBlock
-! Number of entries: 93519
+! Number of entries: 93554
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com^
@@ -191,6 +191,7 @@
 ||betgoodwin.co.uk^
 ||betifycasino.co.nl^
 ||betjets.co.za^
+||betkumi.co.ke^
 ||betkumi.co.zm^
 ||betlion.co.zm^
 ||betmaster.co.mz^
@@ -3740,6 +3741,7 @@
 ||1win-bet.com^
 ||1win-bet.ng^
 ||1win-betsitesi2026.icu^
+||1win-betting-online.com^
 ||1win-brpz.casino^
 ||1win-brv3.casino^
 ||1win-casino.fyi^
@@ -3821,6 +3823,7 @@
 ||1win-official-casino3.ru^
 ||1win-officialcasino.online^
 ||1win-officialsite-casino.online^
+||1win-online-betting-india.com^
 ||1win-onlinecasino.com^
 ||1win-onlinecasino-ni94.buzz^
 ||1win-oxbg.casino^
@@ -7333,6 +7336,7 @@
 ||1xbetq.site^
 ||1xbetrazilbonus.com^
 ||1xbetregistration.bet^
+||1xbetregistration.mobi^
 ||1xbetrs.site^
 ||1xbetrussia.com^
 ||1xbets.bet^
@@ -8316,6 +8320,7 @@
 ||29n.casino^
 ||29nv.casino^
 ||29spingranny77.com^
+||29twindor.com^
 ||2abet.org^
 ||2allrightcasino.com^
 ||2anadolucasinogiris.win^
@@ -9681,6 +9686,7 @@
 ||5688.casino^
 ||568sport.app^
 ||568sport.org^
+||5699.press^
 ||5699casino.net^
 ||56b1.com^
 ||56phfun.club^
@@ -11616,6 +11622,7 @@
 ||8290.casino^
 ||8293.casino^
 ||82acesuper.vip^
+||82bet.co^
 ||82l48.casino^
 ||82n.casino^
 ||82nv619.casino^
@@ -12956,7 +12963,6 @@
 ||9674.casino^
 ||9675.casino^
 ||9676.casino^
-||96768.xyz^
 ||9692.casino^
 ||969bets3.com^
 ||969v.casino^
@@ -15077,6 +15083,7 @@
 ||ar1xslots.com^
 ||ar2-17cc16f607a34317.com^
 ||ar3.casino^
+||ar5rs88.top^
 ||arab-army.com^
 ||arabcasinohex.com^
 ||arabcasinos.ink^
@@ -15511,6 +15518,7 @@
 ||asinocasino-ch.com^
 ||asinocasinoit.com^
 ||asinocasinos-au.com^
+||asinos.nz^
 ||askbonus.com^
 ||askgamblers.com^
 ||askmebets.fun^
@@ -23258,6 +23266,7 @@
 ||casher-official.casino^
 ||casher25casino.online^
 ||casher31.casino^
+||casher35.win^
 ||casher901.casino^
 ||cashercasino.de^
 ||cashercasino.nl^
@@ -48723,6 +48732,7 @@
 ||hashluckycasinonl.com^
 ||hashratebets.xyz^
 ||hashtag.casino^
+||hasil-hk.com^
 ||hasilkeluarantogelhongkong.com^
 ||hastingsracecoursecasino.ca^
 ||hatipoker.app^
@@ -49779,6 +49789,7 @@
 ||huuuge.cloud^
 ||huuuge.net^
 ||huverdecasino.com^
+||huvip8.com^
 ||huya66.cc^
 ||huzzlincasino-dk.com^
 ||hv-casino.pl^
@@ -54200,6 +54211,7 @@
 ||jun88w.net^
 ||jun88z3.com^
 ||jungleerummy.com^
+||junglehaan.vip^
 ||jungleraja.com^
 ||junglethemedslots.com^
 ||jungliwincasino.app^
@@ -54425,6 +54437,7 @@
 ||k8s.casino^
 ||k8vina1.net^
 ||k8y.casino^
+||k9h4s687y.com^
 ||k9m.casino^
 ||k9v.casino^
 ||k9win.com^
@@ -54664,6 +54677,7 @@
 ||kartaccasinoscz.com^
 ||kartel4d.org^
 ||kartikey247.com^
+||kartoosh.bet^
 ||kartoto.com^
 ||kartu66.app^
 ||kartubet.pro^
@@ -56661,6 +56675,7 @@
 ||lc1.casino^
 ||lc2.casino^
 ||lc247.asia^
+||lc88.men^
 ||lc88.quest^
 ||lc88.space^
 ||lc88.wiki^
@@ -57889,7 +57904,6 @@
 ||lodurcasino-online.com^
 ||lodurcasinoonl.com^
 ||loewen-play-casino.de^
-||loffesforetagstaxi.com^
 ||loft.casino^
 ||loft-casino.de^
 ||loganpaul.casino^
@@ -57939,6 +57953,7 @@
 ||lolajack1.com^
 ||lolajackcasino.ch^
 ||lolajackcasino.jetzt^
+||lolajackcasino-fr.com^
 ||lolajackcasino-nl.com^
 ||lolajackcasino-uk.uk^
 ||lolajackcasino1.com^
@@ -59514,7 +59529,6 @@
 ||madridbet-tekseriadres.com^
 ||madridbet-tg.com^
 ||madridbet-turkey.live^
-||madridbet-ui.icu^
 ||madridbet-vip-giris.icu^
 ||madridbet-vipgiris.icu^
 ||madridbet-yeni-site.icu^
@@ -62355,6 +62369,7 @@
 ||mb5casino.com^
 ||mb66.com^
 ||mb6642.com^
+||mb667.pro^
 ||mb6688.me^
 ||mb789.org^
 ||mb7896.com^
@@ -63956,6 +63971,7 @@
 ||modalnyatu.com^
 ||modaltangan.com^
 ||modalyuhu.com^
+||modellbahn-schildhauer.de^
 ||moderncasinostation.nl^
 ||moderneolg.ca^
 ||modernpokerhub.nl^
@@ -65287,6 +65303,7 @@
 ||na789slots.com^
 ||naadampoker.com^
 ||nabcasino.com^
+||nabnrlcaix.com^
 ||nacionalcasino.net^
 ||nacionalloteria.com^
 ||nada777.pro^
@@ -67504,6 +67521,8 @@
 ||okv.casino^
 ||okvip.fun^
 ||okvip1.mobi^
+||okviplinks.com^
+||okvipteamee.com^
 ||okwin-casino.net^
 ||ol1vodka-casino1.top^
 ||olaalfacasino.com^
@@ -71833,6 +71852,7 @@
 ||platincasino.pro^
 ||platincasino-de.org^
 ||platincasino-dk.com^
+||platincasino1.com^
 ||platincasinoclub.vip^
 ||platincasinoflow.com^
 ||platincasinoguide.info^
@@ -78128,6 +78148,7 @@
 ||rrrslots.com^
 ||rs2.casino^
 ||rs5.casino^
+||rs88.cyou^
 ||rsawin.com^
 ||rscasino.xyz^
 ||rslot77.net^
@@ -79018,6 +79039,15 @@
 ||sbs188.org^
 ||sbutoto.com^
 ||sbywin.app^
+||sc881.com^
+||sc881.net^
+||sc887.co^
+||sc887.com^
+||sc887.vip^
+||sc88a1.cc^
+||sc88a3.cc^
+||sc88a5.cc^
+||sc88h.vip^
 ||sc88vip.xyz^
 ||scamsino.casino^
 ||scamsino1.casino^
@@ -79892,6 +79922,7 @@
 ||situsgacor.life^
 ||situsgacor.one^
 ||situsgacor.tech^
+||situshokix417jp7x.site^
 ||situsidnpoker.com^
 ||situsidnpoker.net^
 ||situsjitu.app^
@@ -83737,6 +83768,7 @@
 ||superonnicasino-fi.com^
 ||superpg168.vip^
 ||superphcasino.site^
+||superpix.site^
 ||superpoker.co^
 ||superpokertournaments.com^
 ||superr-slots.site^
@@ -86693,6 +86725,7 @@
 ||u7x.casino^
 ||u813bet.com^
 ||u81kl1.com^
+||u88.watch^
 ||u88.website^
 ||u88-casino-official-au.com^
 ||u88-casino-online-au.com^
@@ -90920,6 +90953,7 @@
 ||winline.by^
 ||winline.ru^
 ||winlinebet.com^
+||winlion.com^
 ||winmachancecasino-fr.net^
 ||winmachancecasino-last.com^
 ||winmachancecasino-line.com^
@@ -91202,6 +91236,7 @@
 ||winspirit-casino-online-ca.com^
 ||winspirit-casinoofficial-au.com^
 ||winspirit-casinoonline-au.com^
+||winspirit-de.com^
 ||winspirit-onlinecasino.com^
 ||winspirit1.com^
 ||winspirit4.casino^
@@ -91444,6 +91479,7 @@
 ||wkbet.com^
 ||wkbet32.com^
 ||wklki.com^
+||wl2mn06s.com^
 ||wlatogel.app^
 ||wlc7pokerdomkz.com^
 ||wlh.casino^
@@ -92581,7 +92617,6 @@
 ||yinghua8r.net^
 ||yinghua9.wiki^
 ||yinghuaat.cc^
-||yinghuaav.icu^
 ||yinghuab.wiki^
 ||yinghuabb2.com^
 ||yinghuacrw.wiki^
