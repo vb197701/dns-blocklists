@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 08:21 UTC
-# Version: 2026.0609.0821.36
+# Last modified: 09 Jun 2026 14:42 UTC
+# Version: 2026.0609.1442.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 24473
+# Number of entries: 24474
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -780,6 +780,7 @@ local=/abufinzio.monocul.us/
 local=/zephir.monocul.us/
 local=/tracker.morethantv.me/
 local=/wg.mortis.me/
+local=/tracker.moviesdb.top/
 local=/mycima.movnet.site/
 local=/tracker.moxing.party/
 local=/bestsoft.moy.su/
@@ -6398,6 +6399,7 @@ local=/filmy4play.xyz/
 local=/filmy4wap.de/
 local=/filmyblend.com/
 local=/filmyentry.com/
+local=/filmyfly.cafe/
 local=/filmyfly.deals/
 local=/filmyfly.how/
 local=/filmyfly.republican/
@@ -23627,7 +23629,6 @@ local=/watchmovie.me/
 local=/watchmovierulz.army/
 local=/watchmovierulz.co/
 local=/watchmovierulz.dog/
-local=/watchmovierulz.fund/
 local=/watchmovierulz.haus/
 local=/watchmovierulz.kim/
 local=/watchmovierulz.lc/

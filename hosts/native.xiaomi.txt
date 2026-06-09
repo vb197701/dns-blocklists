@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Jun 2026 18:52 UTC
-# Version: 2026.0602.1852.42
+# Last modified: 09 Jun 2026 11:14 UTC
+# Version: 2026.0609.1114.51
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 470
+# Number of entries: 469
 #
 0.0.0.0 traffic-media.co.uk
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -190,7 +190,6 @@
 0.0.0.0 mitv.tracking.miui.com
 0.0.0.0 om.tracking.miui.com
 0.0.0.0 router.tracking.miui.com
-0.0.0.0 api.vip.miui.com
 0.0.0.0 www.miui.net
 0.0.0.0 intl.up.w.xk.miui.com
 0.0.0.0 traffic-media.co

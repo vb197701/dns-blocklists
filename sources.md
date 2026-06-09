@@ -166,8 +166,10 @@ https://raw.githubusercontent.com/hectorm/hmirror/refs/heads/master/data/moliner
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antimalware_domains_nopups.txt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
+https://raw.githubusercontent.com/Iqbalnoorkhan/Malicious/main/Domain%20Threat%20Intelligence%20Feed.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
+https://raw.githubusercontent.com/JRehbergCSK/Indicators-Blocklists/refs/heads/main/blocklist.csv
 https://raw.githubusercontent.com/kdkiss/online-sicher-blocklist/main/domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/admeasures-domains.txt

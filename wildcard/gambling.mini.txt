@@ -5,12 +5,13 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 08:21 UTC
-# Version: 2026.0609.0821.04
+# Last modified: 09 Jun 2026 18:59 UTC
+# Version: 2026.0609.1859.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 93162
+# Number of entries: 93161
 #
 *.web-119bet-2025-google-vip-119bet.119-hello.com
+*.images.1649348.com
 *.web-166betcom-vip-166betcc-166betvip-2025fa-east1.166tiger.com
 *.images.191829838.com
 *.k6b7.1stlvyou.com
@@ -2209,6 +2210,7 @@
 *.789betsecurity.pages.dev
 *.andanh.pages.dev
 *.grandbet88-link-gacor.pages.dev
+*.mm88-cd-links-mb.pages.dev
 *.qq888com.pages.dev
 *.topl.pages.dev
 *.media.playamopartners.com
@@ -2307,6 +2309,8 @@
 *.s1.what-on.com
 *.ww5.winuniquecasino-line.com
 *.jogoluck.cdn-83a.workers.dev
+*.shortlink.kjcpage.workers.dev
+*.pc-mm88-link.rr88tino.workers.dev
 *.cdn.y2cdn.com
 *.j9z5.y8r6m2.com
 *.coin.z.com
@@ -9258,6 +9262,7 @@
 *.4pw.casino
 *.4rabet.com
 *.4rabet.fun
+*.4rabet-web.com
 *.4rabet4.com
 *.4rabetcasino.de
 *.4rabetlux1.com
@@ -18356,6 +18361,7 @@
 *.betfusion.casino
 *.betgalaxycasino-au.com
 *.betgames.tv
+*.betgar1496.com
 *.betgaranti-yenigiris.vip
 *.betgiriscasino.com
 *.betgm11.com
@@ -21104,7 +21110,6 @@
 *.bmwcasino.sbs
 *.bmwcasinoapp.click
 *.bmwee.com
-*.bmx777.fun
 *.bmxads.lol
 *.bmy88.club
 *.bn5.casino
@@ -38885,6 +38890,7 @@
 *.competitii.ae
 *.competitionfox.com
 *.completecasinolist.com
+*.computerbetting.com
 *.comstockcasino.org
 *.comtriplfvesevefenstackfegfeoslotsde.xyz
 *.comunediladispoli.com
@@ -43006,7 +43012,6 @@
 *.erisim-matbetgir4.icu
 *.erisim-matbetgir5.icu
 *.erisim-matbetgir6.icu
-*.erisim-matbetgir7.icu
 *.erisimadresi-jojobet.icu
 *.erisimhemenjojobet.com
 *.erlingerer.com
@@ -52297,7 +52302,6 @@
 *.jojobet.lat
 *.jojobet.mov
 *.jojobet.work
-*.jojobet-0-girisler.com
 *.jojobet-10bin-bayram.chat
 *.jojobet-1175.com
 *.jojobet-1187.com
@@ -52439,7 +52443,6 @@
 *.jojobet-girisadresi.cam
 *.jojobet-girisguncell.vip
 *.jojobet-girishaziran.vip
-*.jojobet-girisi.icu
 *.jojobet-girisi.vip
 *.jojobet-girisi-guncel.com
 *.jojobet-girisiguncel.org
@@ -52643,7 +52646,6 @@
 *.jojobet-resrnikazanc2026.icu
 *.jojobet-sengiris.com
 *.jojobet-site.icu
-*.jojobet-site-girisiniz.vip
 *.jojobet-site2026.com
 *.jojobet-slot.vip
 *.jojobet-son-bonus.cam
@@ -52975,7 +52977,6 @@
 *.jojobetgunceladresiniz.vip
 *.jojobetgunceladresix.com
 *.jojobetguncelbayram.vip
-*.jojobetguncelburada.icu
 *.jojobetguncelerisim-2026.com
 *.jojobetguncelgiris.net
 *.jojobetguncelgiris.one
@@ -53065,7 +53066,6 @@
 *.jojobets2026.com
 *.jojobetsabittelegram.com
 *.jojobetsayfagirisi.com
-*.jojobetseribaglanti.com
 *.jojobetsgir.com
 *.jojobetsgirisleri.icu
 *.jojobetsite.co
@@ -61756,7 +61756,6 @@
 *.matbet-yeni-adresi.icu
 *.matbet-yeniadresi.icu
 *.matbet-yeniresmi.com
-*.matbet0963.com
 *.matbet1-resmi.com
 *.matbet1001giris.site
 *.matbet1026.com
@@ -61793,8 +61792,6 @@
 *.matbet9612.com
 *.matbet9613.com
 *.matbet9618.com
-*.matbet963.cam
-*.matbet9633.com
 *.matbet977.site
 *.matbet9800.com
 *.matbet9810.com
@@ -61808,7 +61805,6 @@
 *.matbet9930.com
 *.matbet9940.com
 *.matbet9960.com
-*.matbet9963.com
 *.matbet9980.com
 *.matbetadresin.vip
 *.matbetaktifadres.one
@@ -63600,6 +63596,7 @@
 *.mm77casino.com
 *.mm77casino.net
 *.mm88.city
+*.mm88.com
 *.mm88-poker.com
 *.mm999casino.com
 *.mm99casino.org
@@ -72082,6 +72079,7 @@
 *.playroulettex.casino
 *.playrummy.com
 *.playsala.casino
+*.playsala.com
 *.playsala-casino.net
 *.playsalacasinoonline.com
 *.playsbo.com
@@ -72936,6 +72934,7 @@
 *.pokerfd.com
 *.pokerfella.com
 *.pokerfi.xyz
+*.pokerfirma.com
 *.pokerflea.com
 *.pokerflower.com
 *.pokerfolio.app

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780993140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781031480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jun 2026 08:19 UTC
-; Version: 2026.0609.0819.41
+; Last modified: 09 Jun 2026 18:58 UTC
+; Version: 2026.0609.1858.50
 ; Syntax: RPZ
 ; Number of entries: 218224
 ;
@@ -12362,8 +12362,6 @@ matbet-xl-giris.cam CNAME .
 *.matbet-xl-giris.cam CNAME .
 matbet1072.cam CNAME .
 *.matbet1072.cam CNAME .
-matbet963.cam CNAME .
-*.matbet963.cam CNAME .
 matbetgirisi.cam CNAME .
 *.matbetgirisi.cam CNAME .
 matbetguncel.cam CNAME .
@@ -41904,6 +41902,8 @@ togelgame.150m.com CNAME .
 *.15winpkr.com CNAME .
 161betsl.com CNAME .
 *.161betsl.com CNAME .
+images.1649348.com CNAME .
+*.images.1649348.com CNAME .
 166bet.com CNAME .
 *.166bet.com CNAME .
 166bet31.com CNAME .
@@ -44964,6 +44964,8 @@ images.484930494.com CNAME .
 *.4nycbets.com CNAME .
 4rabet.com CNAME .
 *.4rabet.com CNAME .
+4rabet-web.com CNAME .
+*.4rabet-web.com CNAME .
 4rabet4.com CNAME .
 *.4rabet4.com CNAME .
 4rabetlux1.com CNAME .
@@ -53960,6 +53962,8 @@ betfurycasinoplay.com CNAME .
 *.betfurycasinoplay.com CNAME .
 betgalaxycasino-au.com CNAME .
 *.betgalaxycasino-au.com CNAME .
+betgar1496.com CNAME .
+*.betgar1496.com CNAME .
 betgiriscasino.com CNAME .
 *.betgiriscasino.com CNAME .
 betgm11.com CNAME .
@@ -68094,6 +68098,8 @@ competitionfox.com CNAME .
 *.competitionfox.com CNAME .
 completecasinolist.com CNAME .
 *.completecasinolist.com CNAME .
+computerbetting.com CNAME .
+*.computerbetting.com CNAME .
 comunediladispoli.com CNAME .
 *.comunediladispoli.com CNAME .
 concretetinyhouses.com CNAME .
@@ -76154,6 +76160,8 @@ godota2.com CNAME .
 *.godota2.com CNAME .
 godz131.com CNAME .
 *.godz131.com CNAME .
+godz515.com CNAME .
+*.godz515.com CNAME .
 godzcasino.com CNAME .
 *.godzcasino.com CNAME .
 godzcasino-au.com CNAME .
@@ -81404,8 +81412,6 @@ joiobets.com CNAME .
 *.joiobets.com CNAME .
 jojobet.com CNAME .
 *.jojobet.com CNAME .
-jojobet-0-girisler.com CNAME .
-*.jojobet-0-girisler.com CNAME .
 jojobet-1175.com CNAME .
 *.jojobet-1175.com CNAME .
 jojobet-1183.com CNAME .
@@ -82196,8 +82202,6 @@ jojobetsabittelegram.com CNAME .
 *.jojobetsabittelegram.com CNAME .
 jojobetsayfagirisi.com CNAME .
 *.jojobetsayfagirisi.com CNAME .
-jojobetseribaglanti.com CNAME .
-*.jojobetseribaglanti.com CNAME .
 jojobetsgir.com CNAME .
 *.jojobetsgir.com CNAME .
 jojobetson-giris.com CNAME .
@@ -91434,8 +91438,6 @@ matbet-tekcasinogiris.com CNAME .
 *.matbet-tekcasinogiris.com CNAME .
 matbet-yeniresmi.com CNAME .
 *.matbet-yeniresmi.com CNAME .
-matbet0963.com CNAME .
-*.matbet0963.com CNAME .
 matbet1-resmi.com CNAME .
 *.matbet1-resmi.com CNAME .
 matbet1026.com CNAME .
@@ -91512,8 +91514,6 @@ matbet9620.com CNAME .
 *.matbet9620.com CNAME .
 matbet9630.com CNAME .
 *.matbet9630.com CNAME .
-matbet9633.com CNAME .
-*.matbet9633.com CNAME .
 matbet9640.com CNAME .
 *.matbet9640.com CNAME .
 matbet9650.com CNAME .
@@ -91572,8 +91572,6 @@ matbet9950.com CNAME .
 *.matbet9950.com CNAME .
 matbet9960.com CNAME .
 *.matbet9960.com CNAME .
-matbet9963.com CNAME .
-*.matbet9963.com CNAME .
 matbet9980.com CNAME .
 *.matbet9980.com CNAME .
 matbetcasinogt.com CNAME .
@@ -93296,6 +93294,8 @@ mm33bet.com CNAME .
 *.mm33bet.com CNAME .
 mm77casino.com CNAME .
 *.mm77casino.com CNAME .
+mm88.com CNAME .
+*.mm88.com CNAME .
 mm88-poker.com CNAME .
 *.mm88-poker.com CNAME .
 mm999casino.com CNAME .
@@ -102230,6 +102230,8 @@ playrocket-casino.com CNAME .
 *.playrocket-casino.com CNAME .
 playrummy.com CNAME .
 *.playrummy.com CNAME .
+playsala.com CNAME .
+*.playsala.com CNAME .
 playsalacasinoonline.com CNAME .
 *.playsalacasinoonline.com CNAME .
 playsbo.com CNAME .
@@ -102724,6 +102726,8 @@ pokerfd.com CNAME .
 *.pokerfd.com CNAME .
 pokerfella.com CNAME .
 *.pokerfella.com CNAME .
+pokerfirma.com CNAME .
+*.pokerfirma.com CNAME .
 pokerflea.com CNAME .
 *.pokerflea.com CNAME .
 pokerflower.com CNAME .
@@ -128916,6 +128920,8 @@ andanh.pages.dev CNAME .
 *.andanh.pages.dev CNAME .
 grandbet88-link-gacor.pages.dev CNAME .
 *.grandbet88-link-gacor.pages.dev CNAME .
+mm88-cd-links-mb.pages.dev CNAME .
+*.mm88-cd-links-mb.pages.dev CNAME .
 qq888com.pages.dev CNAME .
 *.qq888com.pages.dev CNAME .
 topl.pages.dev CNAME .
@@ -128974,6 +128980,10 @@ winningpokernetwork.dev CNAME .
 *.winningpokernetwork.dev CNAME .
 jogoluck.cdn-83a.workers.dev CNAME .
 *.jogoluck.cdn-83a.workers.dev CNAME .
+shortlink.kjcpage.workers.dev CNAME .
+*.shortlink.kjcpage.workers.dev CNAME .
+pc-mm88-link.rr88tino.workers.dev CNAME .
+*.pc-mm88-link.rr88tino.workers.dev CNAME .
 xoilacz.dev CNAME .
 *.xoilacz.dev CNAME .
 yapoker.dev CNAME .
@@ -131510,8 +131520,6 @@ blitz-casino16.fun CNAME .
 *.blitz-casino16.fun CNAME .
 blitz-casino18.fun CNAME .
 *.blitz-casino18.fun CNAME .
-bmx777.fun CNAME .
-*.bmx777.fun CNAME .
 bola808.fun CNAME .
 *.bola808.fun CNAME .
 bolatoto.fun CNAME .
@@ -134928,8 +134936,6 @@ erisim-matbetgir5.icu CNAME .
 *.erisim-matbetgir5.icu CNAME .
 erisim-matbetgir6.icu CNAME .
 *.erisim-matbetgir6.icu CNAME .
-erisim-matbetgir7.icu CNAME .
-*.erisim-matbetgir7.icu CNAME .
 erisimadresi-jojobet.icu CNAME .
 *.erisimadresi-jojobet.icu CNAME .
 esascasinoguncel.icu CNAME .
@@ -135090,8 +135096,6 @@ jojobet-gir.icu CNAME .
 *.jojobet-gir.icu CNAME .
 jojobet-giris-guncel.icu CNAME .
 *.jojobet-giris-guncel.icu CNAME .
-jojobet-girisi.icu CNAME .
-*.jojobet-girisi.icu CNAME .
 jojobet-girisler-guncel.icu CNAME .
 *.jojobet-girisler-guncel.icu CNAME .
 jojobet-girisler101.icu CNAME .
@@ -135258,8 +135262,6 @@ jojobetgirisim.icu CNAME .
 *.jojobetgirisim.icu CNAME .
 jojobetgirs.icu CNAME .
 *.jojobetgirs.icu CNAME .
-jojobetguncelburada.icu CNAME .
-*.jojobetguncelburada.icu CNAME .
 jojobetguncelgirisleri.icu CNAME .
 *.jojobetguncelgirisleri.icu CNAME .
 jojobetguncels.icu CNAME .
@@ -210212,8 +210214,6 @@ jojobet-resmiigiris.vip CNAME .
 *.jojobet-resmiigiris.vip CNAME .
 jojobet-resmisports.vip CNAME .
 *.jojobet-resmisports.vip CNAME .
-jojobet-site-girisiniz.vip CNAME .
-*.jojobet-site-girisiniz.vip CNAME .
 jojobet-slot.vip CNAME .
 *.jojobet-slot.vip CNAME .
 jojobet-son-giris.vip CNAME .

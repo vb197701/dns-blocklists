@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780993260 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781016120 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jun 2026 08:21 UTC
-; Version: 2026.0609.0821.36
+; Last modified: 09 Jun 2026 14:42 UTC
+; Version: 2026.0609.1442.06
 ; Syntax: RPZ
-; Number of entries: 48946
+; Number of entries: 48948
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2072,6 +2072,8 @@ cinemalibero.cafe CNAME .
 *.cinemalibero.cafe CNAME .
 filmapik.cafe CNAME .
 *.filmapik.cafe CNAME .
+filmyfly.cafe CNAME .
+*.filmyfly.cafe CNAME .
 hdmovie2.cafe CNAME .
 *.hdmovie2.cafe CNAME .
 motchill.cafe CNAME .
@@ -13480,8 +13482,6 @@ yesmovies.fun CNAME .
 *.yesmovies.fun CNAME .
 streamingcommunityz.fund CNAME .
 *.streamingcommunityz.fund CNAME .
-watchmovierulz.fund CNAME .
-*.watchmovierulz.fund CNAME .
 altadefinizione01.fyi CNAME .
 *.altadefinizione01.fyi CNAME .
 dontorrent.fyi CNAME .
@@ -45226,6 +45226,8 @@ motv.top CNAME .
 *.motv.top CNAME .
 movies123.top CNAME .
 *.movies123.top CNAME .
+tracker.moviesdb.top CNAME .
+*.tracker.moviesdb.top CNAME .
 movietv1.top CNAME .
 *.movietv1.top CNAME .
 movietv10.top CNAME .

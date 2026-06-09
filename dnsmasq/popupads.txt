@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 02:05 UTC
-# Version: 2026.0609.0205.18
+# Last modified: 09 Jun 2026 18:05 UTC
+# Version: 2026.0609.1805.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 49612
+# Number of entries: 49606
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/c2c4aecf0a.0073a85a5d.com/
@@ -433,9 +433,6 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
-local=/chiyouranai.base.shop/
-local=/tokujiro.base.shop/
-local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -1810,15 +1807,6 @@ local=/qiejushuo.hirz.cn/
 local=/ko.hissesgestapo.com/
 local=/sl.hitchdong.com/
 local=/jt.hitchelunspun.com/
-local=/app-google-zh.hl.cn/
-local=/go-todesk.hl.cn/
-local=/google-google-chrome-google-com.hl.cn/
-local=/line-go.hl.cn/
-local=/qh-qishuiyinyue.hl.cn/
-local=/qishuimusic-cn.hl.cn/
-local=/todesk-web.hl.cn/
-local=/todesk-zh.hl.cn/
-local=/zh-todesk-cn.hl.cn/
 local=/map.hnchj.com/
 local=/dciclc.hnwuamu.top/
 local=/m10.hoes.tube/
@@ -2074,8 +2062,6 @@ local=/rq.kolhozclarain.com/
 local=/hh.koloaller.com/
 local=/mf.kotocolmar.com/
 local=/hl.koumyscampana.com/
-local=/lc.krgirls.beauty/
-local=/me.krgirls.beauty/
 local=/ym.kronionsuttas.com/
 local=/kp.kueunpick.com/
 local=/ms.kuugo.cc/
@@ -12002,6 +11988,7 @@ local=/assignedtwentiesmarshy.com/
 local=/assignlabor.com/
 local=/assignmentlonesome.com/
 local=/assimilatecigarettes.com/
+local=/assistedtogether.com/
 local=/assistimplemented.com/
 local=/assistirfilmes.org/
 local=/asslfeqadv.com/
@@ -12882,6 +12869,7 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
+local=/base.shop/
 local=/baseballletters.com/
 local=/basejudgementquizmaster.com/
 local=/basementunfamiliar.com/
@@ -25940,6 +25928,7 @@ local=/hkpjnieraypcn.site/
 local=/hkwrwuqlcpelq.site/
 local=/hkygalzumaqv.com/
 local=/hkzhongzhuangzhan.cc/
+local=/hl.cn/
 local=/hl2u.com/
 local=/hlbmaat.com/
 local=/hldijphcjszui.store/
@@ -29280,6 +29269,7 @@ local=/krenkzfiuzryw.store/
 local=/kreomfoq.com/
 local=/kreps.xyz/
 local=/krfqlrxvmoyrj.online/
+local=/krgirls.beauty/
 local=/krhmtdzuxxmsc.space/
 local=/krigiamisdeal.click/
 local=/krisydark.com/
@@ -31213,6 +31203,7 @@ local=/manhuan.com/
 local=/manifestoctavianapostrophe.com/
 local=/manipulationabolishmentblameless.com/
 local=/manipulationdisposal.com/
+local=/manipulativecommitment.com/
 local=/manjackphenol.com/
 local=/mankinddemocrat.com/
 local=/mankindflatten.com/
@@ -41228,6 +41219,7 @@ local=/singlewomenmeet.com/
 local=/singlyairview.com/
 local=/singtelmyconnect.com/
 local=/sinisterbatchoddly.com/
+local=/sinisterblare.com/
 local=/sinistercokeservice.com/
 local=/sinkagepandit.com/
 local=/sinmufar.com/
@@ -42675,6 +42667,7 @@ local=/studiouspresence.com/
 local=/studiousspareinfinite.com/
 local=/studiousyesterday.com/
 local=/studtwice.com/
+local=/studyingiodineproposal.com/
 local=/studyingmargaritacommunicated.com/
 local=/studyunharmedupscale.com/
 local=/stuffedbeforehand.com/
@@ -46346,6 +46339,7 @@ local=/videocdnmetrika.com/
 local=/videocdnmetrika60.com/
 local=/videocdnshop.com/
 local=/videochat-fan.com/
+local=/videoespece.com/
 local=/videoo.tv/
 local=/videoreal.org/
 local=/videoroll.net/
