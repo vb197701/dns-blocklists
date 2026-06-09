@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780942020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780990140 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jun 2026 18:07 UTC
-; Version: 2026.0608.1807.23
+; Last modified: 09 Jun 2026 07:29 UTC
+; Version: 2026.0609.0729.27
 ; Syntax: RPZ
-; Number of entries: 31420
+; Number of entries: 31416
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -3778,6 +3778,8 @@ bjmining.com CNAME .
 *.bjmining.com CNAME .
 black-shepp-gastroservice.com CNAME .
 *.black-shepp-gastroservice.com CNAME .
+blackfridaymegastore.com CNAME .
+*.blackfridaymegastore.com CNAME .
 blackgurlzsmagickloset.com CNAME .
 *.blackgurlzsmagickloset.com CNAME .
 bladebasics.com CNAME .
@@ -4980,6 +4982,8 @@ cosmeticshopcenter.com CNAME .
 *.cosmeticshopcenter.com CNAME .
 cosmoscrisp.com CNAME .
 *.cosmoscrisp.com CNAME .
+cosplayshow.com CNAME .
+*.cosplayshow.com CNAME .
 cosplayverkauf.com CNAME .
 *.cosplayverkauf.com CNAME .
 cottagoshop.com CNAME .
@@ -6656,8 +6660,6 @@ euvitafarm.com CNAME .
 *.euvitafarm.com CNAME .
 ev-farm.com CNAME .
 *.ev-farm.com CNAME .
-evagelidis.com CNAME .
-*.evagelidis.com CNAME .
 evanimo.com CNAME .
 *.evanimo.com CNAME .
 evansdplaw.com CNAME .
@@ -7940,8 +7942,6 @@ get-mens-meds.com CNAME .
 *.get-mens-meds.com CNAME .
 get-nuro.com CNAME .
 *.get-nuro.com CNAME .
-get-omnihear.com CNAME .
-*.get-omnihear.com CNAME .
 get-purisaki.com CNAME .
 *.get-purisaki.com CNAME .
 getalliny.com CNAME .
@@ -11658,8 +11658,6 @@ merrellbarbati.com CNAME .
 *.merrellbarbati.com CNAME .
 mersse.com CNAME .
 *.mersse.com CNAME .
-mesa-solar.com CNAME .
-*.mesa-solar.com CNAME .
 messer-online-de.com CNAME .
 *.messer-online-de.com CNAME .
 messerserie.com CNAME .
@@ -16264,6 +16262,8 @@ spimbey.com CNAME .
 *.spimbey.com CNAME .
 spinanga-no-online.com CNAME .
 *.spinanga-no-online.com CNAME .
+spiretime.com CNAME .
+*.spiretime.com CNAME .
 spirituelle-ecke.com CNAME .
 *.spirituelle-ecke.com CNAME .
 spirituosenfest.com CNAME .
@@ -23142,8 +23142,6 @@ isabellazce.de CNAME .
 *.isabellazce.de CNAME .
 isosmart.de CNAME .
 *.isosmart.de CNAME .
-iswanan.de CNAME .
-*.iswanan.de CNAME .
 it-marktblick.de CNAME .
 *.it-marktblick.de CNAME .
 it2-use.de CNAME .
@@ -26010,8 +26008,6 @@ sobipack-tech.de CNAME .
 *.sobipack-tech.de CNAME .
 socotree-tech.de CNAME .
 *.socotree-tech.de CNAME .
-sodela.de CNAME .
-*.sodela.de CNAME .
 soelker.de CNAME .
 *.soelker.de CNAME .
 sofologic.de CNAME .
@@ -28354,8 +28350,6 @@ herrenpillen.net CNAME .
 *.herrenpillen.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
-hongkongpools7.net CNAME .
-*.hongkongpools7.net CNAME .
 hqmed.net CNAME .
 *.hqmed.net CNAME .
 hunterbootsschweiz.net CNAME .
@@ -29064,6 +29058,8 @@ hexagonresources.org CNAME .
 *.hexagonresources.org CNAME .
 hindpharma.org CNAME .
 *.hindpharma.org CNAME .
+hotelsinvienna.org CNAME .
+*.hotelsinvienna.org CNAME .
 aul.hyperhorizon.org CNAME .
 *.aul.hyperhorizon.org CNAME .
 icego.org CNAME .

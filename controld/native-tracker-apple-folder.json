@@ -624,6 +624,13 @@
       }
     },
     {
+      "PK": "securemetrics-cn.v.aaplimg.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "securemetrics.v.aaplimg.com",
       "action": {
         "do": 0,

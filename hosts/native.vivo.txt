@@ -5,19 +5,23 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:05 UTC
-# Version: 2026.0605.1805.35
+# Last modified: 09 Jun 2026 06:55 UTC
+# Version: 2026.0609.0655.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 238
+# Number of entries: 244
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adlog.vivo.com.cn
+0.0.0.0 ads-marketing-vivofs.vivo.com.cn
+0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
 0.0.0.0 appstore-trace-h5sdk.vivo.com.cn
 0.0.0.0 dsplog-adnet.vivo.com.cn
+0.0.0.0 st-ads-jssdk.vivo.com.cn
 0.0.0.0 trace-h5sdk.vivo.com.cn
 0.0.0.0 tracking-adnet.vivo.com.cn
+0.0.0.0 ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 0.0.0.0 vhs.wwstat.com.ctdns.cn
 0.0.0.0 trackercollect.ddxq.mobi
 0.0.0.0 trackerfeed.ddxq.mobi
@@ -73,6 +77,7 @@
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
+0.0.0.0 co-domaincfg.vivoglobal.com
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
@@ -196,6 +201,7 @@
 0.0.0.0 sca-onrt-stsdk.vivoglobal.com
 0.0.0.0 sca-ort-stsdk.vivoglobal.com
 0.0.0.0 sca-p.vivoglobal.com
+0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
 0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 sca-st-sl.vivoglobal.com
 0.0.0.0 sca-stsdk.vivoglobal.com

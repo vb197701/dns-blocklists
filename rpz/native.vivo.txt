@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780682700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780988100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 18:05 UTC
-; Version: 2026.0605.1805.35
+; Last modified: 09 Jun 2026 06:55 UTC
+; Version: 2026.0609.0655.34
 ; Syntax: RPZ
-; Number of entries: 468
+; Number of entries: 480
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
@@ -20,6 +20,10 @@ vhs.wwstat.com.eo.unicomcdn.com.cn CNAME .
 *.vhs.wwstat.com.eo.unicomcdn.com.cn CNAME .
 adlog.vivo.com.cn CNAME .
 *.adlog.vivo.com.cn CNAME .
+ads-marketing-vivofs.vivo.com.cn CNAME .
+*.ads-marketing-vivofs.vivo.com.cn CNAME .
+adsdk.vivo.com.cn CNAME .
+*.adsdk.vivo.com.cn CNAME .
 adxlog-adnet.vivo.com.cn CNAME .
 *.adxlog-adnet.vivo.com.cn CNAME .
 az.appstore.vivo.com.cn CNAME .
@@ -28,10 +32,14 @@ appstore-trace-h5sdk.vivo.com.cn CNAME .
 *.appstore-trace-h5sdk.vivo.com.cn CNAME .
 dsplog-adnet.vivo.com.cn CNAME .
 *.dsplog-adnet.vivo.com.cn CNAME .
+st-ads-jssdk.vivo.com.cn CNAME .
+*.st-ads-jssdk.vivo.com.cn CNAME .
 trace-h5sdk.vivo.com.cn CNAME .
 *.trace-h5sdk.vivo.com.cn CNAME .
 tracking-adnet.vivo.com.cn CNAME .
 *.tracking-adnet.vivo.com.cn CNAME .
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn CNAME .
+*.ads-marketing-vivofs.vivo.com.cn.ctdns.cn CNAME .
 vhs.wwstat.com.ctdns.cn CNAME .
 *.vhs.wwstat.com.ctdns.cn CNAME .
 vhs.wwstat.com.eo.dnse0.com CNAME .
@@ -138,6 +146,8 @@ cname-in-ctdbonrt-stsdk.vivoglobal.com CNAME .
 *.cname-in-ctdbonrt-stsdk.vivoglobal.com CNAME .
 cname-sin01-stsdk09.vivoglobal.com CNAME .
 *.cname-sin01-stsdk09.vivoglobal.com CNAME .
+co-domaincfg.vivoglobal.com CNAME .
+*.co-domaincfg.vivoglobal.com CNAME .
 co-pnrt-stsdk.vivoglobal.com CNAME .
 *.co-pnrt-stsdk.vivoglobal.com CNAME .
 co-romsp-unifyconfig.vivoglobal.com CNAME .
@@ -384,6 +394,8 @@ sca-ort-stsdk.vivoglobal.com CNAME .
 *.sca-ort-stsdk.vivoglobal.com CNAME .
 sca-p.vivoglobal.com CNAME .
 *.sca-p.vivoglobal.com CNAME .
+sca-pnrt-stsdk.vivoglobal.com CNAME .
+*.sca-pnrt-stsdk.vivoglobal.com CNAME .
 sca-romsp-unifyconfig.vivoglobal.com CNAME .
 *.sca-romsp-unifyconfig.vivoglobal.com CNAME .
 sca-st-sl.vivoglobal.com CNAME .

@@ -5,19 +5,23 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:05 UTC
-# Version: 2026.0605.1805.35
+# Last modified: 09 Jun 2026 06:55 UTC
+# Version: 2026.0609.0655.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 234
+# Number of entries: 240
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
 local=/adlog.vivo.com.cn/
+local=/ads-marketing-vivofs.vivo.com.cn/
+local=/adsdk.vivo.com.cn/
 local=/adxlog-adnet.vivo.com.cn/
 local=/appstore-trace-h5sdk.vivo.com.cn/
 local=/dsplog-adnet.vivo.com.cn/
+local=/st-ads-jssdk.vivo.com.cn/
 local=/trace-h5sdk.vivo.com.cn/
 local=/tracking-adnet.vivo.com.cn/
+local=/ads-marketing-vivofs.vivo.com.cn.ctdns.cn/
 local=/vhs.wwstat.com.ctdns.cn/
 local=/trackercollect.ddxq.mobi/
 local=/trackerfeed.ddxq.mobi/
@@ -74,6 +78,7 @@ local=/cname-in-apport-stsdk.vivoglobal.com/
 local=/cname-in-bom01-nginxpool03.vivoglobal.com/
 local=/cname-in-ctdbonrt-stsdk.vivoglobal.com/
 local=/cname-sin01-stsdk09.vivoglobal.com/
+local=/co-domaincfg.vivoglobal.com/
 local=/co-pnrt-stsdk.vivoglobal.com/
 local=/co-romsp-unifyconfig.vivoglobal.com/
 local=/co-st-sl.vivoglobal.com/
@@ -197,6 +202,7 @@ local=/sca-err-up.vivoglobal.com/
 local=/sca-onrt-stsdk.vivoglobal.com/
 local=/sca-ort-stsdk.vivoglobal.com/
 local=/sca-p.vivoglobal.com/
+local=/sca-pnrt-stsdk.vivoglobal.com/
 local=/sca-romsp-unifyconfig.vivoglobal.com/
 local=/sca-st-sl.vivoglobal.com/
 local=/sca-stsdk.vivoglobal.com/

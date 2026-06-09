@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Jun 2026 08:06 UTC
-! Version: 2026.0608.0806.38
+! Last modified: 09 Jun 2026 08:28 UTC
+! Version: 2026.0609.0828.03
 ! Syntax: AdBlock
-! Number of entries: 264
+! Number of entries: 258
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -35,7 +35,6 @@
 ||nvi-dns.bitdefender.net^
 ||ore-dns.bitdefender.net^
 ||tky-dns.bitdefender.net^
-||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
@@ -62,7 +61,6 @@
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
 ||dns.gamban.com^
-||dns.geohide.ru^
 ||moph.go.th^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -121,16 +119,11 @@
 ||dns.rubyfish.cn^
 ||doh-01.spectrum.com^
 ||doh-02.spectrum.com^
-||dns.switch.ch^
 ||ibksturm.synology.me^
 ||dns.t-ipnet.de^
-||httpdns.danuoyi.tbcache.com^
 ||homenet.telecomitalia.it^
-||doh.tiar.app^
-||dot.tiar.app^
 ||sdkconfig.tlivedns.com^
 ||dns.twnic.tw^
-||my.ublockdns.com^
 ||dns.umbrella.com^
 ||doh.umbrella.com^
 ||adsl.viettel.vn^
@@ -138,6 +131,7 @@
 ||h4g3z1-doh.top.web.app^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
+||dns.weibo.cn^
 ||doh2.gslb2.xfinity.com^
 ||doh.xfinity.com^
 ||common.dot.dns.yandex.net^

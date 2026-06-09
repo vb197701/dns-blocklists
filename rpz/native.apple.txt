@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1776877380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1780987860 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Apple Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 22 Apr 2026 17:03 UTC
-; Version: 2026.0422.1703.24
+; Last modified: 09 Jun 2026 06:51 UTC
+; Version: 2026.0609.0651.01
 ; Syntax: RPZ
-; Number of entries: 208
+; Number of entries: 210
 ;
 h4g3z1-native.apple.web.app CNAME .
 *.h4g3z1-native.apple.web.app CNAME .
@@ -50,6 +50,8 @@ prod-news-notification-events.v.aaplimg.com CNAME .
 *.prod-news-notification-events.v.aaplimg.com CNAME .
 securemetrics.v.aaplimg.com CNAME .
 *.securemetrics.v.aaplimg.com CNAME .
+securemetrics-cn.v.aaplimg.com CNAME .
+*.securemetrics-cn.v.aaplimg.com CNAME .
 securemvt.v.aaplimg.com CNAME .
 *.securemvt.v.aaplimg.com CNAME .
 smoot-feedback.v.aaplimg.com CNAME .

@@ -106,6 +106,13 @@
       }
     },
     {
+      "PK": "adx-dra-op-hicloud-com-dra.region.dbankedge.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adx-drcn.op.dbankcloud.cn",
       "action": {
         "do": 0,

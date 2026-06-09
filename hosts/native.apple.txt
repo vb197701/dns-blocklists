@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Apr 2026 17:03 UTC
-# Version: 2026.0422.1703.24
+# Last modified: 09 Jun 2026 06:51 UTC
+# Version: 2026.0609.0651.01
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 110
+# Number of entries: 111
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -22,6 +22,7 @@
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
 0.0.0.0 securemetrics.v.aaplimg.com
+0.0.0.0 securemetrics-cn.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 supportmetrics.v.aaplimg.com

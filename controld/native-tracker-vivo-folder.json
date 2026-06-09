@@ -29,6 +29,27 @@
       }
     },
     {
+      "PK": "adsdk.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-marketing-vivofs.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ads-marketing-vivofs.vivo.com.cn.ctdns.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adxlog-adnet.vivo.com.cn",
       "action": {
         "do": 0,
@@ -387,6 +408,13 @@
     },
     {
       "PK": "cn-zh-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "co-domaincfg.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1268,6 +1296,13 @@
       }
     },
     {
+      "PK": "sca-pnrt-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "sca-p.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1325,6 +1360,13 @@
     },
     {
       "PK": "sg-cfg-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "st-ads-jssdk.vivo.com.cn",
       "action": {
         "do": 0,
         "status": 1
