@@ -46,6 +46,7 @@ jobs:
           applyToAll: true
           message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
     needs: release
+
   purge:
     runs-on: ubuntu-latest
     needs: [release, close-issues]
@@ -75,6 +76,11 @@ jobs:
           printf 'urls=' >> "$GITHUB_OUTPUT"
           printf '%s\n' "${files[@]}" | sed "s#^#${base}/#" | paste -sd, - >> "$GITHUB_OUTPUT"
 
+      - name: Wait before CDN purge
+        if: steps.purge_urls.outputs.urls != ''
+        run: sleep 120
+        shell: bash
+        
       - name: Purge CDN cache
         if: steps.purge_urls.outputs.urls != ''
         uses: hagezi/purge-jsdelivr-cache@v1.1.1
