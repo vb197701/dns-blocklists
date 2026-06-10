@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:51 UTC
-# Version: 2026.0610.0751.23
+# Last modified: 10 Jun 2026 10:55 UTC
+# Version: 2026.0610.1055.56
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 17003
+# Number of entries: 17009
 #
 *.ss.0001.xyz
 *.ilovethiswebsite.001-lab.space
@@ -2730,6 +2730,7 @@
 *.4littleducks.duckdns.org
 *.adfreemb.duckdns.org
 *.adgrm.duckdns.org
+*.adguardcalpena.duckdns.org
 *.andryk111.duckdns.org
 *.andrykarcew.duckdns.org
 *.appleishealthy.duckdns.org
@@ -7584,6 +7585,7 @@
 *.aceshandian.com
 *.aceshandian.net
 *.aceshanyang.com
+*.aceshendeng.com
 *.aceshendeng.net
 *.aceskyblue.com
 *.aceskyline.net
@@ -7636,6 +7638,7 @@
 *.actfordeal.com
 *.actipw3.online
 *.activitysforscience.space
+*.activpn.com
 *.actmobile.com
 *.adampowell.pro
 *.adblockersite.com
@@ -7671,6 +7674,7 @@
 *.adultproxy.men
 *.advanced.name
 *.advanceddataanalysiscenter.com
+*.advancedvpn.com
 *.aecd74796f0ff8d20255d3286ec5cd89bf989b12.com
 *.aecoe.xyz
 *.aeeesjxk.cc
@@ -7681,6 +7685,7 @@
 *.agambizleeyleniglottery.com
 *.agentsless.org
 *.aghdns.com
+*.ahaan.xyz
 *.ahaapi.com
 *.ahadns.net
 *.ahagad.com
@@ -14443,6 +14448,7 @@
 *.rusnet-android.click
 *.rustynailspace.com
 *.rusuojiasu.net
+*.rusvpn.com
 *.ruvexona.ru
 *.ruxelo.xyz
 *.rvpn.ws

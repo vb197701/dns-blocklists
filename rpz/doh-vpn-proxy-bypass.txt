@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781077860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781088900 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 07:51 UTC
-; Version: 2026.0610.0751.23
+; Last modified: 10 Jun 2026 10:55 UTC
+; Version: 2026.0610.1055.56
 ; Syntax: RPZ
-; Number of entries: 34006
+; Number of entries: 34018
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -4109,6 +4109,8 @@ aceshandian.com CNAME .
 *.aceshandian.com CNAME .
 aceshanyang.com CNAME .
 *.aceshanyang.com CNAME .
+aceshendeng.com CNAME .
+*.aceshendeng.com CNAME .
 aceskyblue.com CNAME .
 *.aceskyblue.com CNAME .
 aceskylineapp.com CNAME .
@@ -4167,6 +4169,8 @@ acrosslinehosting.com CNAME .
 *.acrosslinehosting.com CNAME .
 actfordeal.com CNAME .
 *.actfordeal.com CNAME .
+activpn.com CNAME .
+*.activpn.com CNAME .
 actmobile.com CNAME .
 *.actmobile.com CNAME .
 vpn-android.adbl0ck.com CNAME .
@@ -4217,6 +4221,8 @@ adsupportserver.com CNAME .
 *.adsupportserver.com CNAME .
 advanceddataanalysiscenter.com CNAME .
 *.advanceddataanalysiscenter.com CNAME .
+advancedvpn.com CNAME .
+*.advancedvpn.com CNAME .
 aecd74796f0ff8d20255d3286ec5cd89bf989b12.com CNAME .
 *.aecd74796f0ff8d20255d3286ec5cd89bf989b12.com CNAME .
 buy.aeroantenna.com CNAME .
@@ -13095,6 +13101,8 @@ research.rustyfoundation.com CNAME .
 *.research.rustyfoundation.com CNAME .
 rustynailspace.com CNAME .
 *.rustynailspace.com CNAME .
+rusvpn.com CNAME .
+*.rusvpn.com CNAME .
 rwq7uvuj88pied.com CNAME .
 *.rwq7uvuj88pied.com CNAME .
 rwzlsmyv.com CNAME .
@@ -26687,6 +26695,8 @@ adfreemb.duckdns.org CNAME .
 *.adfreemb.duckdns.org CNAME .
 adgrm.duckdns.org CNAME .
 *.adgrm.duckdns.org CNAME .
+adguardcalpena.duckdns.org CNAME .
+*.adguardcalpena.duckdns.org CNAME .
 andryk111.duckdns.org CNAME .
 *.andryk111.duckdns.org CNAME .
 andrykarcew.duckdns.org CNAME .
@@ -32949,6 +32959,8 @@ adsoasis.xyz CNAME .
 *.adsoasis.xyz CNAME .
 aecoe.xyz CNAME .
 *.aecoe.xyz CNAME .
+ahaan.xyz CNAME .
+*.ahaan.xyz CNAME .
 rdjdns.ajraspi.xyz CNAME .
 *.rdjdns.ajraspi.xyz CNAME .
 dns.albony.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781074560 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781086080 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 06:56 UTC
-; Version: 2026.0610.0656.46
+; Last modified: 10 Jun 2026 10:08 UTC
+; Version: 2026.0610.1008.45
 ; Syntax: RPZ
-; Number of entries: 31556
+; Number of entries: 31574
 ;
 prosperi.academy CNAME .
 *.prosperi.academy CNAME .
@@ -1864,6 +1864,8 @@ abodeare.com CNAME .
 *.abodeare.com CNAME .
 abodeena.com CNAME .
 *.abodeena.com CNAME .
+abodespot.com CNAME .
+*.abodespot.com CNAME .
 aboveallshop.com CNAME .
 *.aboveallshop.com CNAME .
 abrahamr.com CNAME .
@@ -1896,6 +1898,8 @@ acceptablt.com CNAME .
 *.acceptablt.com CNAME .
 log.acces-btpanda.com CNAME .
 *.log.acces-btpanda.com CNAME .
+acces-personnel.com CNAME .
+*.acces-personnel.com CNAME .
 contango-trading.acces-securise.com CNAME .
 *.contango-trading.acces-securise.com CNAME .
 accessorieschildren.com CNAME .
@@ -1960,6 +1964,10 @@ addblockcs.com CNAME .
 *.addblockcs.com CNAME .
 addedtechnology.com CNAME .
 *.addedtechnology.com CNAME .
+addictedtohandbagsapp.com CNAME .
+*.addictedtohandbagsapp.com CNAME .
+adfinanz-group.com CNAME .
+*.adfinanz-group.com CNAME .
 adidashrvatska.com CNAME .
 *.adidashrvatska.com CNAME .
 adidashungaryhu.com CNAME .
@@ -2022,6 +2030,8 @@ affordablerxmeds.com CNAME .
 *.affordablerxmeds.com CNAME .
 afonsopecasonline.com CNAME .
 *.afonsopecasonline.com CNAME .
+afripo.com CNAME .
+*.afripo.com CNAME .
 afterhourshobby.com CNAME .
 *.afterhourshobby.com CNAME .
 aftermarket-part.com CNAME .
@@ -11752,6 +11762,8 @@ mezzaninfintech.com CNAME .
 *.mezzaninfintech.com CNAME .
 mfsebike.com CNAME .
 *.mfsebike.com CNAME .
+acces.mfwgroupe.com CNAME .
+*.acces.mfwgroupe.com CNAME .
 mgaffaires.com CNAME .
 *.mgaffaires.com CNAME .
 mgmglobal.com CNAME .
@@ -19614,6 +19626,8 @@ adidasyeezyboost.de CNAME .
 *.adidasyeezyboost.de CNAME .
 adler-energie.de CNAME .
 *.adler-energie.de CNAME .
+adovin.de CNAME .
+*.adovin.de CNAME .
 adreim.de CNAME .
 *.adreim.de CNAME .
 advancesecurity.de CNAME .
@@ -19622,6 +19636,8 @@ adventamour.de CNAME .
 *.adventamour.de CNAME .
 aedexstore.de CNAME .
 *.aedexstore.de CNAME .
+aehesis.de CNAME .
+*.aehesis.de CNAME .
 aerialpics.de CNAME .
 *.aerialpics.de CNAME .
 aeromed-hamburg.de CNAME .
@@ -27758,6 +27774,8 @@ vow.foundation CNAME .
 *.vow.foundation CNAME .
 1m2.fr CNAME .
 *.1m2.fr CNAME .
+africapay-financement.fr CNAME .
+*.africapay-financement.fr CNAME .
 alfa-aesar.fr CNAME .
 *.alfa-aesar.fr CNAME .
 alter48.fr CNAME .
@@ -29086,6 +29104,8 @@ zertifikate24.online CNAME .
 *.zertifikate24.online CNAME .
 3sixteenonline.org CNAME .
 *.3sixteenonline.org CNAME .
+acrbulletin.org CNAME .
+*.acrbulletin.org CNAME .
 allforyourlife.org CNAME .
 *.allforyourlife.org CNAME .
 amffrance.org CNAME .
@@ -30350,8 +30370,6 @@ qidjrs.shop CNAME .
 *.qidjrs.shop CNAME .
 qidjrsgroup.shop CNAME .
 *.qidjrsgroup.shop CNAME .
-qievpfhz.shop CNAME .
-*.qievpfhz.shop CNAME .
 qnesz.shop CNAME .
 *.qnesz.shop CNAME .
 qnxxlg.shop CNAME .

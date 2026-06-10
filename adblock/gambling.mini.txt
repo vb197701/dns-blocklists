@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jun 2026 07:44 UTC
-! Version: 2026.0610.0744.20
+! Last modified: 10 Jun 2026 19:04 UTC
+! Version: 2026.0610.1904.47
 ! Syntax: AdBlock
-! Number of entries: 93448
+! Number of entries: 93523
 !
 ||web-119bet-2025-google-vip-119bet.119-hello.com^
 ||images.1649348.com^
@@ -8450,7 +8450,6 @@
 ||200jl.club^
 ||200poker.com^
 ||200tsars.com^
-||2017jojobet.com^
 ||2022casino.com^
 ||2023app.bet^
 ||2024fpslots.com^
@@ -11016,6 +11015,7 @@
 ||67mvip.com^
 ||67nbets.com^
 ||67o.casino^
+||67q555.com^
 ||67r.casino^
 ||67spinmama42.com^
 ||67yep318.casino^
@@ -14220,6 +14220,7 @@
 ||9ky.casino^
 ||9lineslotscasino.com^
 ||9m.games^
+||9nagalogin.com^
 ||9nbet.app^
 ||9nbet.bet^
 ||9nbet.casino^
@@ -14234,6 +14235,7 @@
 ||9nbet7.com^
 ||9nbet7slots.com^
 ||9nbet9.com^
+||9orca88.club^
 ||9p4.casino^
 ||9pz.casino^
 ||9q3.casino^
@@ -14250,6 +14252,7 @@
 ||9sslots.com^
 ||9st.casino^
 ||9sx.casino^
+||9sy.casino^
 ||9terawolf.com^
 ||9ti.casino^
 ||9to5casino.com^
@@ -14352,7 +14355,9 @@
 ||aa888.uk^
 ||aa888casino.org^
 ||aa888games.com^
+||aaa777.win^
 ||aaabets.org^
+||aaacasino.net^
 ||aaad.win^
 ||aaajili.app^
 ||aaajili.bid^
@@ -14383,6 +14388,7 @@
 ||aaajiliph.one^
 ||aaajl.vip^
 ||aaajlapp.shop^
+||aaaslot.vip^
 ||aabetcasino.com^
 ||aabets7.com^
 ||aabetss.com^
@@ -14410,6 +14416,7 @@
 ||ababet.ug^
 ||abadi126.vip^
 ||abadi4d.shop^
+||abadi55.com^
 ||abadislot99.org^
 ||abahiscasino.vip^
 ||abaybets.bet^
@@ -14443,15 +14450,20 @@
 ||abcslott.lat^
 ||abctoto.actor^
 ||abctoto.app^
+||abctoto.buzz^
+||abctoto.capital^
 ||abctoto.ceo^
 ||abctoto.click^
 ||abctoto.digital^
 ||abctoto.email^
 ||abctoto.expert^
+||abctoto.fans^
+||abctoto.fit^
 ||abctoto.fyi^
 ||abctoto.games^
 ||abctoto.guru^
 ||abctoto.ink^
+||abctoto.kim^
 ||abctoto.lol^
 ||abctoto.name^
 ||abctoto.plus^
@@ -14459,12 +14471,14 @@
 ||abctoto.run^
 ||abctoto.tech^
 ||abctoto.top^
+||abctoto.win^
 ||abctoto.wtf^
 ||abcvip.in^
 ||abditogel.vip^
 ||abetbb.com^
 ||abetstropsmeses.site^
 ||abg99.pro^
+||abgbet188.com^
 ||abigcandy.com^
 ||abigcandy-casino-official-au.com^
 ||abigcandy-casino-online-au.com^
@@ -14477,6 +14491,7 @@
 ||abn.casino^
 ||abo-casino.de^
 ||abobora777.net^
+||abogadosimg.com^
 ||about.casino^
 ||about-casinos.com^
 ||about-poker.org^
@@ -14493,11 +14508,13 @@
 ||abukingcasino-ca.com^
 ||abutogel.blog^
 ||abutogel.com^
+||abutogel.vip^
 ||abutoto.pro^
 ||abvsocial.com^
 ||ac3.casino^
 ||academiadeapuestas.es^
 ||academiadeapuestascolombia.com^
+||academiakpopschool.com^
 ||academypoker.ru^
 ||acak77.id^
 ||acak77.pro^
@@ -14508,6 +14525,7 @@
 ||acapulcocasino113.com^
 ||acasino.xyz^
 ||acbet.it^
+||accelerator.casino^
 ||access-xingkongcasino.com^
 ||accessbet.com^
 ||accidentaltaitai.com^
@@ -14523,6 +14541,7 @@
 ||ace1pokerlogin.com^
 ||ace23.ag^
 ||ace66.com^
+||ace77.xyz^
 ||ace99slot.net^
 ||acebet.cc^
 ||acebet.com^
@@ -14536,6 +14555,7 @@
 ||acecasino-offiziell.de^
 ||acecasinos.ca^
 ||acecasinoworld.com^
+||acedbet.com^
 ||aceflowcasino.com^
 ||acekingdomcasino.org^
 ||acekingdomcasino.uk^
@@ -14555,7 +14575,9 @@
 ||acgwin.org^
 ||achillescasino.vip^
 ||aci.casino^
+||acialaarx.com^
 ||acmwork.com^
+||acne-rimedi.xyz^
 ||acolourher.com^
 ||acornfun.com^
 ||acornridgecasino.org^
@@ -14583,6 +14605,7 @@
 ||acutogel.org^
 ||acutogel.vip^
 ||acv.casino^
+||acyclovirzvx.store^
 ||ada-casino.com^
 ||ada28.org^
 ||ada4djago.site^
@@ -14595,11 +14618,13 @@
 ||adaptcounselingservices.com^
 ||adat88.vip^
 ||adcasino1.com^
+||adcmix.xyz^
 ||adda52.com^
 ||addaslots.online^
 ||adexp.net^
 ||adhs-chaoten.net^
 ||adinrossslots.com^
+||adipatisloter.online^
 ||adivbois.org^
 ||adizcasino.best^
 ||adizcasino.life^
@@ -14610,6 +14635,12 @@
 ||adl.casino^
 ||adler.casino^
 ||adlerslots.com^
+||adm-agidel.info^
+||adm1ral-casino.club^
+||admartprinting.com^
+||admiiral-casino.biz^
+||admiiral-casino.xyz^
+||admintoto.biz^
 ||admintoto.org^
 ||admiral.ag^
 ||admiral.at^
@@ -14618,6 +14649,8 @@
 ||admiral.ro^
 ||admiral-777-casino.estate^
 ||admiral-777-casino.online^
+||admiral-casino.co^
+||admiral-casino.pro^
 ||admiral-casino-cz.cz^
 ||admiral-casino-cz-cz.com^
 ||admiral-casinos-cz.com^
@@ -14795,10 +14828,17 @@
 ||aduslots.biz^
 ||advantage-gambling.com^
 ||adventurethemedslots.com^
+||adz58win.top^
+||ae002.com^
+||ae005.com^
 ||ae388.vip^
 ||ae3888.top^
 ||ae888.com^
 ||ae888.io^
+||ae888.run^
+||ae88805.net^
+||ae888casino.click^
+||ae888vn.bet^
 ||aecasino.asia^
 ||aero-bets.com^
 ||aerobet-casino.nl^
@@ -14848,11 +14888,14 @@
 ||africa.casino^
 ||africa365.com^
 ||african-palace.casino^
+||africanlegends.info^
 ||afrinovacasino.com^
 ||afro.casino^
 ||afrobets365.com^
 ||afroditcasino.vip^
+||afroslots.com^
 ||afrsportsbetting.com^
+||after-movie.com^
 ||afternooncasino.com^
 ||afterpaycasino.org^
 ||afterwin88slot.com^
@@ -14860,6 +14903,7 @@
 ||afun.mx^
 ||afun-bets.com^
 ||afun-bets.org^
+||afun-casino.pl^
 ||ag-poker.com^
 ||ag-slots.com^
 ||ag-slotstar.com^
@@ -14874,6 +14918,7 @@
 ||agb77slot.com^
 ||agb99.homes^
 ||agb99.top^
+||agb99.win^
 ||agbetstation88.com^
 ||agbong88.com^
 ||agcasino-official.com^
@@ -14894,10 +14939,12 @@
 ||agcasinostar88.com^
 ||agcasinoworld.com^
 ||agcasinozone.com^
+||agelulife.xyz^
 ||agen-judi.com^
 ||agen-sbobet-terpercaya.com^
 ||agen126.org^
 ||agen126.vip^
+||agen126slot.com^
 ||agen168.vip^
 ||agen168slot.org^
 ||agen18a.com^
@@ -14910,7 +14957,9 @@
 ||agen69pro.com^
 ||agen69star.com^
 ||agen69world.com^
+||agen77.homes^
 ||agen77.vip^
+||agen777slot.net^
 ||agen88.art^
 ||agen888.id^
 ||agen88slot.com^
@@ -14919,10 +14968,15 @@
 ||agenbolasbobetonline.net^
 ||agencasino.info^
 ||agence-me.com^
+||agencuan.pro^
 ||agencuanvip.cfd^
+||agendarattogel.id^
+||agendarattogel.net^
 ||agendunia55.app^
+||agendunia55.vip^
 ||agenhoki88.org^
 ||agenjitu.net^
+||agenmbo-128.click^
 ||agenolx.casino^
 ||agenolxkunci.com^
 ||agenpaito.app^
@@ -14948,17 +15002,27 @@
 ||agentoto.life^
 ||agentoto.lol^
 ||agentoto.vip^
+||agentoto.website^
 ||agentoto88.actor^
+||agentoto88.bid^
+||agentoto88.capital^
+||agentoto88.cloud^
 ||agentoto88.cool^
+||agentoto88.energy^
 ||agentoto88.homes^
+||agentoto88.icu^
 ||agentoto88.ink^
 ||agentoto88.lat^
 ||agentoto88.love^
 ||agentoto88.name^
 ||agentoto88.rest^
 ||agentoto88.space^
+||agentoto88.top^
+||agentoto88.work^
+||agentoto88.wtf^
 ||agentoto88.yoga^
 ||agentotoplay.click^
+||agentotoplay.info^
 ||agentotoplay.pro^
 ||agentotoplay.shop^
 ||agentpokerroom.com^
@@ -14974,12 +15038,15 @@
 ||agjogo.com^
 ||aglbet.com^
 ||aglccasino.org^
+||aglivecasino.com^
 ||aglivecasino365.com^
 ||aglivecasino88.com^
 ||agn.la^
 ||agnes4d.net^
+||agodaslot.app^
 ||agplaycasino.com^
 ||agpokervip.com^
+||agra-sys.com^
 ||agraredco.com^
 ||agrealcasino.com^
 ||agrealslots.com^
@@ -14996,6 +15063,7 @@
 ||aguiaslots.bet^
 ||agustoto.org^
 ||agvipcasino.com^
+||agw087.com^
 ||agworldcasino88.com^
 ||agx.casino^
 ||agx88.pro^
@@ -15015,6 +15083,7 @@
 ||ahha4dgacor.com^
 ||ahjh.casino^
 ||ahli-badaiofc.com^
+||ahlibet.vip^
 ||ahlibet88.id^
 ||ahlibetslot.com^
 ||ahlicasino.app^
@@ -43913,7 +43982,6 @@
 ||erisim-matbetgir5.icu^
 ||erisim-matbetgir6.icu^
 ||erisim-matbetgir8.icu^
-||erisim-matbetgir9.icu^
 ||erisimadresi-jojobet.icu^
 ||erisimhemenjojobet.com^
 ||erlingerer.com^
@@ -48544,6 +48612,7 @@
 ||grandmondial-casino-online-ca.com^
 ||grandmondialcasino.win^
 ||grandparker.me^
+||grandpashabet-2026-tr.top^
 ||grandpashabet-8209.com^
 ||grandpashabet-erisimsaglayin2026.icu^
 ||grandpashabet-grandsites2026.vip^
@@ -48959,7 +49028,6 @@
 ||guncel-jojobet-mobil.cam^
 ||guncel-jojobetadresi.com^
 ||guncel-jojobetadresi.vip^
-||guncel-meritbet845.com^
 ||guncel-mobil-jojobet.cam^
 ||guncel-pasacasino.vip^
 ||gunceladres-pokerklas.vip^
@@ -53466,7 +53534,6 @@
 ||jojobet1670.co^
 ||jojobet16917.com^
 ||jojobet17111.com^
-||jojobet18270.com^
 ||jojobet1l72.com^
 ||jojobet2.cam^
 ||jojobet2026.icu^
@@ -59561,7 +59628,6 @@
 ||m-matbet-giris.net^
 ||m-matbet-resmi.com^
 ||m-matbet965.com^
-||m-matbet966.com^
 ||m-meritbet462.com^
 ||m-mobilcasino400.com^
 ||m-olaycasino486.com^
@@ -64266,6 +64332,7 @@
 ||mobet.info^
 ||mobielcasinoideal.org^
 ||mobiilcasino.com^
+||mobil.top^
 ||mobil-adres-jojobet.cam^
 ||mobil-adres-jojobet.vip^
 ||mobil-betsilin.com^
@@ -65121,6 +65188,7 @@
 ||mrgreencasino-ie.com^
 ||mrgreens-casino.com^
 ||mrjack.bet^
+||mrjackbet.app^
 ||mrjackbetcasino-br.com^
 ||mrjackvegas.com^
 ||mrjamescasino.com^
@@ -75690,6 +75758,7 @@
 ||radissonbet-2026guncellink.icu^
 ||radissonbet-bayram.com^
 ||radissonbet-betkazanclari2026.vip^
+||radissonbet-gercekgiris.com^
 ||radissonbetbiz.vip^
 ||rafaslotsora.website^
 ||raffi888login.com^
@@ -80200,6 +80269,7 @@
 ||skyhillscasinode.com^
 ||skyhillscasinos-nl.org^
 ||skyhillsonlinecasino.com^
+||skyinplay.club^
 ||skykings-casino.org^
 ||skylinecasino.org^
 ||skylineplayhublivecasinoapplivecasinohall.com^
@@ -82084,6 +82154,7 @@
 ||spinanga0081.com^
 ||spinanga2.gr^
 ||spinanga857637.com^
+||spinanga9314.com^
 ||spinangabetcasino.com^
 ||spinangacasino.fi^
 ||spinangacasino-ch.com^
@@ -82874,6 +82945,7 @@
 ||sportscasinos.us^
 ||sportsinteraction.com^
 ||sportsinteractioncasino.org^
+||sportskhelo.com^
 ||sportslibro.com^
 ||sportsmillions.com^
 ||sportsmillions-casino.vip^
@@ -83731,6 +83803,7 @@
 ||superbetin-casinoadresi.com^
 ||superbetin-casinogiris.com^
 ||superbetin1701.com^
+||superbetin2125.com^
 ||superbets.asia^
 ||superbets.tech^
 ||superbets.wtf^
@@ -83797,7 +83870,9 @@
 ||superonnicasino-fi.com^
 ||superpg168.vip^
 ||superphcasino.site^
+||superpix.io^
 ||superpix.site^
+||superpix1.bet^
 ||superpoker.co^
 ||superpokertournaments.com^
 ||superr-slots.site^
@@ -91726,7 +91801,6 @@
 ||www-guncel-jojobet-adres.com^
 ||www-guncel-jojobet-adresi.com^
 ||www-jojobet.cam^
-||www-jojobet.site^
 ||www-jojobet-aktif.com^
 ||www-jojobet-guncel-adres.com^
 ||www-jojobet-mobil-girisi.com^
@@ -93209,6 +93283,7 @@
 ||zombillioncasino-nl.nl^
 ||zombillioncasino-uk.com^
 ||zombillioncasinos.com^
+||zombillions.uk^
 ||zona66slot.com^
 ||zonacasinosar.com^
 ||zonadejogo.com^

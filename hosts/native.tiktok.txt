@@ -5,11 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 18:10 UTC
-# Version: 2026.0601.1810.39
+# Last modified: 10 Jun 2026 15:49 UTC
+# Version: 2026.0610.1549.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 389
+# Number of entries: 420
 #
+0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
+0.0.0.0 analytics.tiktok.com.bytewlb.akadns.net
+0.0.0.0 analytics.us.tiktok.com.bytewlb.akadns.net
+0.0.0.0 analytics.us.tiktok.com-row.bytewlb.akadns.net
 0.0.0.0 ads-sg.business-tiktok.com
 0.0.0.0 ads-va.business-tiktok.com
 0.0.0.0 frontier.byteoversea.com
@@ -86,9 +90,30 @@
 0.0.0.0 frontier.capcutw.us
 0.0.0.0 mon-i18n.tiktokv.com.dvaitas.lt
 0.0.0.0 mcs-ie2.tiktokw.eu.dvaitas.lt
+0.0.0.0 analytics.tiktok.com.edgekey.net
+0.0.0.0 analytics-attribution-va.tiktok.com.edgekey.net
+0.0.0.0 analytics-exp-i18n.tiktok.com.edgekey.net
+0.0.0.0 analytics-exp-sg.tiktok.com.edgekey.net
+0.0.0.0 analytics-i18n.tiktok.com.edgekey.net
+0.0.0.0 analytics-sg.tiktok.com.edgekey.net
 0.0.0.0 mon-boot.tiktokv.com.edgekey.net
+0.0.0.0 analytics-exp-ru.tiktok.com.edgesuite.net
+0.0.0.0 analytics-v6.tiktok.com.edgesuite.net
+0.0.0.0 analytics16-normal.tiktok.com.edgesuite.net
+0.0.0.0 analytics16-normal-alisg.tiktok.com.edgesuite.net
+0.0.0.0 analytics.us.tiktok.com.edgesuite.net
+0.0.0.0 analytics-exp.us.tiktok.com.edgesuite.net
+0.0.0.0 analytics-ttp2.us.tiktok.com.edgesuite.net
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
+0.0.0.0 analytics-exp-ttp2.tiktokw.eu.edgesuite.net
+0.0.0.0 analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net
+0.0.0.0 analytics-ttp2.tiktokw.eu.edgesuite.net
+0.0.0.0 analytics16-normal-no1a.tiktokw.eu.edgesuite.net
+0.0.0.0 analytics16-normal-useastred.tiktokw.eu.edgesuite.net
 0.0.0.0 frontier.capcutw.us.edgesuite.net
+0.0.0.0 analytics-ipv6.tiktokw.us.edgesuite.net
+0.0.0.0 analytics16-normal-useast5.tiktokw.us.edgesuite.net
+0.0.0.0 analytics16-normal-useast8.tiktokw.us.edgesuite.net
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
@@ -398,4 +423,10 @@
 0.0.0.0 mcs-ie2.tiktokw.eu
 0.0.0.0 mssdk.tiktokw.eu
 0.0.0.0 mssdk.tiktokw.us
+0.0.0.0 analytics.tiktok.com.ttdns2.com
+0.0.0.0 analytics-exp-ru.tiktok.com.ttdns2.com
+0.0.0.0 analytics-ru.tiktok.com.ttdns2.com
+0.0.0.0 analytics-v6.tiktok.com.ttdns2.com
+0.0.0.0 analytics-ie.tiktokw.eu.ttdns3.com
+0.0.0.0 analytics-ttp2.tiktokw.eu.ttdns3.com
 0.0.0.0 h4g3z1-native.tiktok.web.app

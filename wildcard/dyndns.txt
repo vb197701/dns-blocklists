@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:50 UTC
-# Version: 2026.0610.0750.10
+# Last modified: 10 Jun 2026 10:55 UTC
+# Version: 2026.0610.1055.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1493
+# Number of entries: 1495
 #
 *.dyn.addr.tools
 *.changeip.co.uk
@@ -285,6 +285,7 @@
 *.dhs.org
 *.digikabel.hu
 *.digitalgroupe.com
+*.dip.jp
 *.diskstation.eu
 *.diskstation.me
 *.diskstation.org
@@ -439,6 +440,7 @@
 *.dynnamn.ru
 *.dynns.com
 *.dyns.be
+*.dyns.cx
 *.dyns.net
 *.dynserv.org
 *.dynssl.com

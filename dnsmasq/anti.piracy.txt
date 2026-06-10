@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:44 UTC
-# Version: 2026.0610.0744.53
+# Last modified: 10 Jun 2026 14:46 UTC
+# Version: 2026.0610.1446.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 24715
+# Number of entries: 24720
 #
 local=/hichemtigsetorgy.0fees.net/
 local=/tracker.0x7c0.com/
@@ -445,6 +445,7 @@ local=/tracker.dutchtracking.com/
 local=/cloudstream-on-fleek-co.ipns.dweb.link/
 local=/irrenhaus.dyndns.dk/
 local=/tracker.dyne.org/
+local=/aam-bt.dyns.cx/
 local=/thitgaluoc.dynu.net/
 local=/bt.e-burg.org/
 local=/bittorrent-tracker.e-n-c-r-y-p-t.net/
@@ -2206,6 +2207,7 @@ local=/ad-nakolesakh-lordfilm.lol/
 local=/adams-familias-lordfilm.ru/
 local=/adams-familiau-lordfilm.ru/
 local=/adamsfile.com/
+local=/adboost.ro/
 local=/add0n.com/
 local=/addanetwork.net/
 local=/addone.ru/
@@ -2226,7 +2228,9 @@ local=/aeroinsta.app/
 local=/aerolite.dev/
 local=/aeromods.app/
 local=/aerotwitter.com/
+local=/aerowa.cc/
 local=/afdah.com/
+local=/afdah.info/
 local=/afdah.live/
 local=/afdah.org/
 local=/afdah.to/
@@ -24393,6 +24397,7 @@ local=/young-sheldonn-lordfilm.ru/
 local=/young-sheldons-lordfilm.ru/
 local=/youplex.site/
 local=/youpornbook.com/
+local=/youranimerank.com/
 local=/yourbittorrent.com/
 local=/youreasyip.tv/
 local=/yournetcommunications.net/

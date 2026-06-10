@@ -5,12 +5,16 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 18:11 UTC
-# Version: 2026.0601.1811.38
+# Last modified: 10 Jun 2026 15:50 UTC
+# Version: 2026.0610.1550.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 542
+# Number of entries: 573
 #
+local=/analytics.us.tiktok.com.bytedance.akadns.net/
 local=/p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net/
+local=/analytics.us.tiktok.com.bytewlb.akadns.net/
+local=/analytics.tiktok.com.bytewlb.akadns.net/
+local=/analytics.us.tiktok.com-row.bytewlb.akadns.net/
 local=/frontier23-normal-alisg.tiktokv.com.bpgslb.com/
 local=/ads-sg.business-tiktok.com/
 local=/ads-va.business-tiktok.com/
@@ -100,6 +104,12 @@ local=/mon16-normal-no1a.tiktokv.eu.dvaitas.lt/
 local=/mon16-normal-useastred.tiktokv.eu.dvaitas.lt/
 local=/mcs-ie2.tiktokw.eu.dvaitas.lt/
 local=/mcs16-normal-no1a.tiktokw.eu.dvaitas.lt/
+local=/analytics.tiktok.com.edgekey.net/
+local=/analytics-attribution-va.tiktok.com.edgekey.net/
+local=/analytics-exp-i18n.tiktok.com.edgekey.net/
+local=/analytics-exp-sg.tiktok.com.edgekey.net/
+local=/analytics-i18n.tiktok.com.edgekey.net/
+local=/analytics-sg.tiktok.com.edgekey.net/
 local=/mcs-i18n.tiktok.com.edgekey.net/
 local=/mcs-sg.tiktok.com.edgekey.net/
 local=/mcs-va.tiktok.com.edgekey.net/
@@ -110,8 +120,15 @@ local=/mcs-va.tiktokv.com.edgekey.net/
 local=/mcs-va-useast2a.tiktokv.com.edgekey.net/
 local=/mon-boot.tiktokv.com.edgekey.net/
 local=/mssdk-boot.tiktokv.com.edgekey.net/
+local=/analytics.us.tiktok.com.edgesuite.net/
+local=/analytics-exp.us.tiktok.com.edgesuite.net/
+local=/analytics-ttp2.us.tiktok.com.edgesuite.net/
 local=/mcs.us.tiktok.com.edgesuite.net/
 local=/mcs-ttp2.us.tiktok.com.edgesuite.net/
+local=/analytics-exp-ru.tiktok.com.edgesuite.net/
+local=/analytics-v6.tiktok.com.edgesuite.net/
+local=/analytics16-normal.tiktok.com.edgesuite.net/
+local=/analytics16-normal-alisg.tiktok.com.edgesuite.net/
 local=/p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net/
 local=/sf16-ads-format-sign.tiktokcdn.com.edgesuite.net/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
@@ -119,6 +136,11 @@ local=/mcs.us.tiktokv.com.edgesuite.net/
 local=/frontier.tiktokv-eu.com.edgesuite.net/
 local=/frontier16-normal-no1a.tiktokv.eu.edgesuite.net/
 local=/frontier16-normal-useastred.tiktokv.eu.edgesuite.net/
+local=/analytics-exp-ttp2.tiktokw.eu.edgesuite.net/
+local=/analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net/
+local=/analytics-ttp2.tiktokw.eu.edgesuite.net/
+local=/analytics16-normal-no1a.tiktokw.eu.edgesuite.net/
+local=/analytics16-normal-useastred.tiktokw.eu.edgesuite.net/
 local=/mcs-ie2.tiktokw.eu.edgesuite.net/
 local=/mcs16-normal-no1a.tiktokw.eu.edgesuite.net/
 local=/mcs16-normal-useastred.tiktokw.eu.edgesuite.net/
@@ -127,6 +149,9 @@ local=/frontier.tiktokv.us.edgesuite.net/
 local=/frontier-ttp2.tiktokv.us.edgesuite.net/
 local=/mcs.tiktokv.us.edgesuite.net/
 local=/mcs-ttp2.tiktokv.us.edgesuite.net/
+local=/analytics-ipv6.tiktokw.us.edgesuite.net/
+local=/analytics16-normal-useast5.tiktokw.us.edgesuite.net/
+local=/analytics16-normal-useast8.tiktokw.us.edgesuite.net/
 local=/mcs.tiktokw.us.edgesuite.net/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
@@ -544,11 +569,17 @@ local=/mcs16-normal-useastred.tiktokw.eu/
 local=/mssdk.tiktokw.eu/
 local=/mssdk.tiktokw.us/
 local=/mssdk16-normal-useastred.tiktokw.eu/
+local=/analytics.tiktok.com.ttdns2.com/
+local=/analytics-exp-ru.tiktok.com.ttdns2.com/
+local=/analytics-ru.tiktok.com.ttdns2.com/
+local=/analytics-v6.tiktok.com.ttdns2.com/
 local=/mcs-sg.tiktok.com.ttdns2.com/
 local=/mcs-va.tiktok.com.ttdns2.com/
 local=/mcs-va.tiktokv.com.ttdns2.com/
 local=/mcs-va-useast2a.tiktokv.com.ttdns2.com/
 local=/frontier.tiktokv-eu.com.ttdns3.com/
+local=/analytics-ie.tiktokw.eu.ttdns3.com/
+local=/analytics-ttp2.tiktokw.eu.ttdns3.com/
 local=/mcs-ie.tiktokw.eu.ttdns3.com/
 local=/mcs-ie2.tiktokw.eu.ttdns3.com/
 local=/h4g3z1-native.tiktok.extended.web.app/

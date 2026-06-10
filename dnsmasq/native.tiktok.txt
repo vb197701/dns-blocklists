@@ -5,11 +5,15 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 18:10 UTC
-# Version: 2026.0601.1810.39
+# Last modified: 10 Jun 2026 15:49 UTC
+# Version: 2026.0610.1549.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 387
+# Number of entries: 418
 #
+local=/analytics.us.tiktok.com.bytedance.akadns.net/
+local=/analytics.us.tiktok.com.bytewlb.akadns.net/
+local=/analytics.tiktok.com.bytewlb.akadns.net/
+local=/analytics.us.tiktok.com-row.bytewlb.akadns.net/
 local=/ads-sg.business-tiktok.com/
 local=/ads-va.business-tiktok.com/
 local=/frontier.byteoversea.com/
@@ -86,9 +90,30 @@ local=/tnc16-normal-us-ttp.capcutapi.us/
 local=/frontier.capcutw.us/
 local=/mon-i18n.tiktokv.com.dvaitas.lt/
 local=/mcs-ie2.tiktokw.eu.dvaitas.lt/
+local=/analytics.tiktok.com.edgekey.net/
+local=/analytics-attribution-va.tiktok.com.edgekey.net/
+local=/analytics-exp-i18n.tiktok.com.edgekey.net/
+local=/analytics-exp-sg.tiktok.com.edgekey.net/
+local=/analytics-i18n.tiktok.com.edgekey.net/
+local=/analytics-sg.tiktok.com.edgekey.net/
 local=/mon-boot.tiktokv.com.edgekey.net/
+local=/analytics.us.tiktok.com.edgesuite.net/
+local=/analytics-exp.us.tiktok.com.edgesuite.net/
+local=/analytics-ttp2.us.tiktok.com.edgesuite.net/
+local=/analytics-exp-ru.tiktok.com.edgesuite.net/
+local=/analytics-v6.tiktok.com.edgesuite.net/
+local=/analytics16-normal.tiktok.com.edgesuite.net/
+local=/analytics16-normal-alisg.tiktok.com.edgesuite.net/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
+local=/analytics-exp-ttp2.tiktokw.eu.edgesuite.net/
+local=/analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net/
+local=/analytics-ttp2.tiktokw.eu.edgesuite.net/
+local=/analytics16-normal-no1a.tiktokw.eu.edgesuite.net/
+local=/analytics16-normal-useastred.tiktokw.eu.edgesuite.net/
 local=/frontier.capcutw.us.edgesuite.net/
+local=/analytics-ipv6.tiktokw.us.edgesuite.net/
+local=/analytics16-normal-useast5.tiktokw.us.edgesuite.net/
+local=/analytics16-normal-useast8.tiktokw.us.edgesuite.net/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
 local=/applog.snssdk.com/
@@ -396,4 +421,10 @@ local=/mcs-ie.tiktokw.eu/
 local=/mcs-ie2.tiktokw.eu/
 local=/mssdk.tiktokw.eu/
 local=/mssdk.tiktokw.us/
+local=/analytics.tiktok.com.ttdns2.com/
+local=/analytics-exp-ru.tiktok.com.ttdns2.com/
+local=/analytics-ru.tiktok.com.ttdns2.com/
+local=/analytics-v6.tiktok.com.ttdns2.com/
+local=/analytics-ie.tiktokw.eu.ttdns3.com/
+local=/analytics-ttp2.tiktokw.eu.ttdns3.com/
 local=/h4g3z1-native.tiktok.web.app/

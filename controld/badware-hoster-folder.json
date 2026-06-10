@@ -99,6 +99,13 @@
       }
     },
     {
+      "PK": "0fees.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "0hna.com",
       "action": {
         "do": 0,
@@ -751,6 +758,13 @@
     },
     {
       "PK": "aba.ae",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aba.vg",
       "action": {
         "do": 0,
         "status": 1
@@ -1647,6 +1661,13 @@
     },
     {
       "PK": "ca.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cabanova.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3082,6 +3103,13 @@
     },
     {
       "PK": "gaming.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gearhostpreview.com",
       "action": {
         "do": 0,
         "status": 1

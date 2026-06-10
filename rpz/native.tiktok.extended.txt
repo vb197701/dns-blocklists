@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780337460 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781106600 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Jun 2026 18:11 UTC
-; Version: 2026.0601.1811.38
+; Last modified: 10 Jun 2026 15:50 UTC
+; Version: 2026.0610.1550.17
 ; Syntax: RPZ
-; Number of entries: 1084
+; Number of entries: 1146
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -838,6 +838,14 @@ frontier.tiktokv-eu.com CNAME .
 *.frontier.tiktokv-eu.com CNAME .
 log-snssdk.tiktokv-us.com CNAME .
 *.log-snssdk.tiktokv-us.com CNAME .
+analytics.tiktok.com.ttdns2.com CNAME .
+*.analytics.tiktok.com.ttdns2.com CNAME .
+analytics-exp-ru.tiktok.com.ttdns2.com CNAME .
+*.analytics-exp-ru.tiktok.com.ttdns2.com CNAME .
+analytics-ru.tiktok.com.ttdns2.com CNAME .
+*.analytics-ru.tiktok.com.ttdns2.com CNAME .
+analytics-v6.tiktok.com.ttdns2.com CNAME .
+*.analytics-v6.tiktok.com.ttdns2.com CNAME .
 mcs-sg.tiktok.com.ttdns2.com CNAME .
 *.mcs-sg.tiktok.com.ttdns2.com CNAME .
 mcs-va.tiktok.com.ttdns2.com CNAME .
@@ -848,6 +856,10 @@ mcs-va-useast2a.tiktokv.com.ttdns2.com CNAME .
 *.mcs-va-useast2a.tiktokv.com.ttdns2.com CNAME .
 frontier.tiktokv-eu.com.ttdns3.com CNAME .
 *.frontier.tiktokv-eu.com.ttdns3.com CNAME .
+analytics-ie.tiktokw.eu.ttdns3.com CNAME .
+*.analytics-ie.tiktokw.eu.ttdns3.com CNAME .
+analytics-ttp2.tiktokw.eu.ttdns3.com CNAME .
+*.analytics-ttp2.tiktokw.eu.ttdns3.com CNAME .
 mcs-ie.tiktokw.eu.ttdns3.com CNAME .
 *.mcs-ie.tiktokw.eu.ttdns3.com CNAME .
 mcs-ie2.tiktokw.eu.ttdns3.com CNAME .
@@ -956,12 +968,32 @@ mcs-ie2.tiktokw.eu.dvaitas.lt CNAME .
 *.mcs-ie2.tiktokw.eu.dvaitas.lt CNAME .
 mcs16-normal-no1a.tiktokw.eu.dvaitas.lt CNAME .
 *.mcs16-normal-no1a.tiktokw.eu.dvaitas.lt CNAME .
+analytics.us.tiktok.com.bytedance.akadns.net CNAME .
+*.analytics.us.tiktok.com.bytedance.akadns.net CNAME .
 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net CNAME .
 *.p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net CNAME .
+analytics.tiktok.com.bytewlb.akadns.net CNAME .
+*.analytics.tiktok.com.bytewlb.akadns.net CNAME .
+analytics.us.tiktok.com.bytewlb.akadns.net CNAME .
+*.analytics.us.tiktok.com.bytewlb.akadns.net CNAME .
+analytics.us.tiktok.com-row.bytewlb.akadns.net CNAME .
+*.analytics.us.tiktok.com-row.bytewlb.akadns.net CNAME .
 log-tiktok.byteoversea.net CNAME .
 *.log-tiktok.byteoversea.net CNAME .
 mcs-tiktok.byteoversea.net CNAME .
 *.mcs-tiktok.byteoversea.net CNAME .
+analytics.tiktok.com.edgekey.net CNAME .
+*.analytics.tiktok.com.edgekey.net CNAME .
+analytics-attribution-va.tiktok.com.edgekey.net CNAME .
+*.analytics-attribution-va.tiktok.com.edgekey.net CNAME .
+analytics-exp-i18n.tiktok.com.edgekey.net CNAME .
+*.analytics-exp-i18n.tiktok.com.edgekey.net CNAME .
+analytics-exp-sg.tiktok.com.edgekey.net CNAME .
+*.analytics-exp-sg.tiktok.com.edgekey.net CNAME .
+analytics-i18n.tiktok.com.edgekey.net CNAME .
+*.analytics-i18n.tiktok.com.edgekey.net CNAME .
+analytics-sg.tiktok.com.edgekey.net CNAME .
+*.analytics-sg.tiktok.com.edgekey.net CNAME .
 mcs-i18n.tiktok.com.edgekey.net CNAME .
 *.mcs-i18n.tiktok.com.edgekey.net CNAME .
 mcs-sg.tiktok.com.edgekey.net CNAME .
@@ -982,6 +1014,20 @@ mon-boot.tiktokv.com.edgekey.net CNAME .
 *.mon-boot.tiktokv.com.edgekey.net CNAME .
 mssdk-boot.tiktokv.com.edgekey.net CNAME .
 *.mssdk-boot.tiktokv.com.edgekey.net CNAME .
+analytics-exp-ru.tiktok.com.edgesuite.net CNAME .
+*.analytics-exp-ru.tiktok.com.edgesuite.net CNAME .
+analytics-v6.tiktok.com.edgesuite.net CNAME .
+*.analytics-v6.tiktok.com.edgesuite.net CNAME .
+analytics16-normal.tiktok.com.edgesuite.net CNAME .
+*.analytics16-normal.tiktok.com.edgesuite.net CNAME .
+analytics16-normal-alisg.tiktok.com.edgesuite.net CNAME .
+*.analytics16-normal-alisg.tiktok.com.edgesuite.net CNAME .
+analytics.us.tiktok.com.edgesuite.net CNAME .
+*.analytics.us.tiktok.com.edgesuite.net CNAME .
+analytics-exp.us.tiktok.com.edgesuite.net CNAME .
+*.analytics-exp.us.tiktok.com.edgesuite.net CNAME .
+analytics-ttp2.us.tiktok.com.edgesuite.net CNAME .
+*.analytics-ttp2.us.tiktok.com.edgesuite.net CNAME .
 mcs.us.tiktok.com.edgesuite.net CNAME .
 *.mcs.us.tiktok.com.edgesuite.net CNAME .
 mcs-ttp2.us.tiktok.com.edgesuite.net CNAME .
@@ -1000,6 +1046,16 @@ frontier16-normal-no1a.tiktokv.eu.edgesuite.net CNAME .
 *.frontier16-normal-no1a.tiktokv.eu.edgesuite.net CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
 *.frontier16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
+analytics-exp-ttp2.tiktokw.eu.edgesuite.net CNAME .
+*.analytics-exp-ttp2.tiktokw.eu.edgesuite.net CNAME .
+analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
+*.analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
+analytics-ttp2.tiktokw.eu.edgesuite.net CNAME .
+*.analytics-ttp2.tiktokw.eu.edgesuite.net CNAME .
+analytics16-normal-no1a.tiktokw.eu.edgesuite.net CNAME .
+*.analytics16-normal-no1a.tiktokw.eu.edgesuite.net CNAME .
+analytics16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
+*.analytics16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
 mcs-ie2.tiktokw.eu.edgesuite.net CNAME .
 *.mcs-ie2.tiktokw.eu.edgesuite.net CNAME .
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net CNAME .
@@ -1016,6 +1072,12 @@ mcs.tiktokv.us.edgesuite.net CNAME .
 *.mcs.tiktokv.us.edgesuite.net CNAME .
 mcs-ttp2.tiktokv.us.edgesuite.net CNAME .
 *.mcs-ttp2.tiktokv.us.edgesuite.net CNAME .
+analytics-ipv6.tiktokw.us.edgesuite.net CNAME .
+*.analytics-ipv6.tiktokw.us.edgesuite.net CNAME .
+analytics16-normal-useast5.tiktokw.us.edgesuite.net CNAME .
+*.analytics16-normal-useast5.tiktokw.us.edgesuite.net CNAME .
+analytics16-normal-useast8.tiktokw.us.edgesuite.net CNAME .
+*.analytics16-normal-useast8.tiktokw.us.edgesuite.net CNAME .
 mcs.tiktokw.us.edgesuite.net CNAME .
 *.mcs.tiktokw.us.edgesuite.net CNAME .
 mcs.tiktok-row.net CNAME .

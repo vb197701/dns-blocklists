@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781074680 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781086200 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 06:58 UTC
-; Version: 2026.0610.0658.28
+; Last modified: 10 Jun 2026 10:10 UTC
+; Version: 2026.0610.1010.57
 ; Syntax: RPZ
-; Number of entries: 19670
+; Number of entries: 19676
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3227,6 +3227,8 @@ adpaylink.com CNAME .
 *.adpaylink.com CNAME .
 adsmoker.com CNAME .
 *.adsmoker.com CNAME .
+advartiso.com CNAME .
+*.advartiso.com CNAME .
 advmyc.com CNAME .
 *.advmyc.com CNAME .
 advnutri.com CNAME .
@@ -11223,6 +11225,8 @@ zuitte.io CNAME .
 *.900r.ir CNAME .
 adr3.ir CNAME .
 *.adr3.ir CNAME .
+agbr.ir CNAME .
+*.agbr.ir CNAME .
 atpz.ir CNAME .
 *.atpz.ir CNAME .
 axees.ir CNAME .
@@ -11885,6 +11889,8 @@ yayin.la CNAME .
 *.yayin.la CNAME .
 thelegends.land CNAME .
 *.thelegends.land CNAME .
+add.lat CNAME .
+*.add.lat CNAME .
 buu.lat CNAME .
 *.buu.lat CNAME .
 kua.lat CNAME .

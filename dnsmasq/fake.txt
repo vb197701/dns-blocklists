@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 06:56 UTC
-# Version: 2026.0610.0656.46
+# Last modified: 10 Jun 2026 10:08 UTC
+# Version: 2026.0610.1008.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15778
+# Number of entries: 15787
 #
 local=/trader.212group.de/
 local=/eu.2bagsvalley.cn/
@@ -328,6 +328,7 @@ local=/larevuebeaute.marquessa.fr/
 local=/friwl.mega-preise.com/
 local=/ortoleicht.meinearbeitsschuhe.com/
 local=/adilizzz2748.mfuvis.shop/
+local=/acces.mfwgroupe.com/
 local=/hobyshoping.my.id/
 local=/portal.mybeautyplans.com/
 local=/mpreis-2023.myfreesites.net/
@@ -745,6 +746,7 @@ local=/abl-finance.com/
 local=/abm-industrie.com/
 local=/abodeare.com/
 local=/abodeena.com/
+local=/abodespot.com/
 local=/aboveallshop.com/
 local=/aboveinvesting.pro/
 local=/abrahamr.com/
@@ -763,6 +765,7 @@ local=/accbulk.com/
 local=/accelerateg.com/
 local=/acceleratet.com/
 local=/acceptablt.com/
+local=/acces-personnel.com/
 local=/accessories-world.club/
 local=/accessorieschildren.com/
 local=/accessoriessnow.com/
@@ -784,6 +787,7 @@ local=/acm-conseils.com/
 local=/acmesalehvqm.click/
 local=/acoryxgroup.com/
 local=/acquaintfy.com/
+local=/acrbulletin.org/
 local=/acs-pharmacy.com/
 local=/acsde.de/
 local=/act-financialsolutions.com/
@@ -808,9 +812,11 @@ local=/adaton.de/
 local=/addblockcs.com/
 local=/addedtechnology.com/
 local=/addicted2.at/
+local=/addictedtohandbagsapp.com/
 local=/addinno-kauf.de/
 local=/addmich.de/
 local=/adeliamode.de/
+local=/adfinanz-group.com/
 local=/adidas-campus.at/
 local=/adidas-samba.at/
 local=/adidas-spezial.at/
@@ -827,6 +833,7 @@ local=/admiralmarketsltd.com/
 local=/adolf.live/
 local=/adoreshe.com/
 local=/adour-combustibles.com/
+local=/adovin.de/
 local=/adreim.de/
 local=/advancedgaming.online/
 local=/advancesalesfunnel.com/
@@ -849,6 +856,7 @@ local=/aedexstore.de/
 local=/aeg-solutions.com/
 local=/aegis-at.com/
 local=/aegisxs.com/
+local=/aehesis.de/
 local=/aekcapital.ltd/
 local=/aeke-smart.com/
 local=/aeowe.com/
@@ -866,6 +874,8 @@ local=/affenzahne-de.shop/
 local=/affordablerxmeds.com/
 local=/affordableuniquepro.shop/
 local=/afonsopecasonline.com/
+local=/africapay-financement.fr/
+local=/afripo.com/
 local=/afroandbodyshop.de/
 local=/afterhourshobby.com/
 local=/aftermarket-part.com/
@@ -11659,7 +11669,6 @@ local=/qenova.com/
 local=/qgripsearwax.com/
 local=/qidjrs.shop/
 local=/qidjrsgroup.shop/
-local=/qievpfhz.shop/
 local=/qihaobuy.com/
 local=/qlepy.com/
 local=/qnesz.shop/

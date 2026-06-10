@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:51 UTC
-# Version: 2026.0610.0751.23
+# Last modified: 10 Jun 2026 10:55 UTC
+# Version: 2026.0610.1055.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17003
+# Number of entries: 17009
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -2730,6 +2730,7 @@ local=/1qudbw7oug.duckdns.org/
 local=/4littleducks.duckdns.org/
 local=/adfreemb.duckdns.org/
 local=/adgrm.duckdns.org/
+local=/adguardcalpena.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/andrykarcew.duckdns.org/
 local=/appleishealthy.duckdns.org/
@@ -7584,6 +7585,7 @@ local=/aceshadowsocks.com/
 local=/aceshandian.com/
 local=/aceshandian.net/
 local=/aceshanyang.com/
+local=/aceshendeng.com/
 local=/aceshendeng.net/
 local=/aceskyblue.com/
 local=/aceskyline.net/
@@ -7636,6 +7638,7 @@ local=/acsnet.co/
 local=/actfordeal.com/
 local=/actipw3.online/
 local=/activitysforscience.space/
+local=/activpn.com/
 local=/actmobile.com/
 local=/adampowell.pro/
 local=/adblockersite.com/
@@ -7671,6 +7674,7 @@ local=/adsvpn.help/
 local=/adultproxy.men/
 local=/advanced.name/
 local=/advanceddataanalysiscenter.com/
+local=/advancedvpn.com/
 local=/aecd74796f0ff8d20255d3286ec5cd89bf989b12.com/
 local=/aecoe.xyz/
 local=/aeeesjxk.cc/
@@ -7681,6 +7685,7 @@ local=/afilite.app/
 local=/agambizleeyleniglottery.com/
 local=/agentsless.org/
 local=/aghdns.com/
+local=/ahaan.xyz/
 local=/ahaapi.com/
 local=/ahadns.net/
 local=/ahagad.com/
@@ -14443,6 +14448,7 @@ local=/rushproxy.com/
 local=/rusnet-android.click/
 local=/rustynailspace.com/
 local=/rusuojiasu.net/
+local=/rusvpn.com/
 local=/ruvexona.ru/
 local=/ruxelo.xyz/
 local=/rvpn.ws/

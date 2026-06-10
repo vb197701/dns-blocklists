@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781076060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781115840 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 07:21 UTC
-; Version: 2026.0610.0721.03
+; Last modified: 10 Jun 2026 18:24 UTC
+; Version: 2026.0610.1824.46
 ; Syntax: RPZ
-; Number of entries: 1858
+; Number of entries: 1866
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -270,6 +270,8 @@ byethost31.com CNAME .
 *.byethost31.com CNAME .
 byethost7.com CNAME .
 *.byethost7.com CNAME .
+cabanova.com CNAME .
+*.cabanova.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
 cixx6.com CNAME .
@@ -404,6 +406,8 @@ freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
+gearhostpreview.com CNAME .
+*.gearhostpreview.com CNAME .
 gerentebr.com CNAME .
 *.gerentebr.com CNAME .
 godaddysites.com CNAME .
@@ -1834,6 +1838,8 @@ all.co.uk CNAME .
 *.all.co.uk CNAME .
 000free.us CNAME .
 *.000free.us CNAME .
+0fees.us CNAME .
+*.0fees.us CNAME .
 10h.us CNAME .
 *.10h.us CNAME .
 20m.us CNAME .
@@ -1846,6 +1852,8 @@ phpnet.us CNAME .
 *.phpnet.us CNAME .
 1.vg CNAME .
 *.1.vg CNAME .
+aba.vg CNAME .
+*.aba.vg CNAME .
 name.vg CNAME .
 *.name.vg CNAME .
 pro.vg CNAME .

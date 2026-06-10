@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:21 UTC
-# Version: 2026.0610.0721.03
+# Last modified: 10 Jun 2026 18:24 UTC
+# Version: 2026.0610.1824.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 929
+# Number of entries: 933
 #
 one4u.0lx.net
 free.bizhat.com
@@ -42,6 +42,7 @@ ishg.za.com
 028426.com
 0catch.com
 0fees.net
+0fees.us
 0hna.com
 0pe.kr
 1.vg
@@ -133,6 +134,7 @@ aa6.de
 aa8.de
 aa9.de
 aba.ae
+aba.vg
 abbremsen.de
 abfertigen.de
 abgeblasen.de
@@ -257,6 +259,7 @@ byto.de
 bz.tc
 c.pl
 ca.gp
+cabanova.com
 center.tl
 ch.gp
 ch.kg
@@ -459,6 +462,7 @@ fwh.is
 game.lc
 gamer.gd
 gaming.lc
+gearhostpreview.com
 gerentebr.com
 getenjoyment.net
 gg123.vip

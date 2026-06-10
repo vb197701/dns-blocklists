@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:50 UTC
-# Version: 2026.0610.0750.10
+# Last modified: 10 Jun 2026 10:55 UTC
+# Version: 2026.0610.1055.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1493
+# Number of entries: 1495
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -285,6 +285,7 @@ local=/dhis.org/
 local=/dhs.org/
 local=/digikabel.hu/
 local=/digitalgroupe.com/
+local=/dip.jp/
 local=/diskstation.eu/
 local=/diskstation.me/
 local=/diskstation.org/
@@ -439,6 +440,7 @@ local=/dynme.ovh/
 local=/dynnamn.ru/
 local=/dynns.com/
 local=/dyns.be/
+local=/dyns.cx/
 local=/dyns.net/
 local=/dynserv.org/
 local=/dynssl.com/

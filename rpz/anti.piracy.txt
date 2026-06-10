@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781077440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781102760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 07:44 UTC
-; Version: 2026.0610.0744.53
+; Last modified: 10 Jun 2026 14:46 UTC
+; Version: 2026.0610.1446.12
 ; Syntax: RPZ
-; Number of entries: 49430
+; Number of entries: 49440
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2288,6 +2288,8 @@ newalbumreleases.unblockit.cat CNAME .
 *.2embed.cc CNAME .
 7torrents.cc CNAME .
 *.7torrents.cc CNAME .
+aerowa.cc CNAME .
+*.aerowa.cc CNAME .
 alpharatio.cc CNAME .
 *.alpharatio.cc CNAME .
 altadefinizione01.cc CNAME .
@@ -11276,6 +11278,8 @@ younetu.com CNAME .
 *.younetu.com CNAME .
 youpornbook.com CNAME .
 *.youpornbook.com CNAME .
+youranimerank.com CNAME .
+*.youranimerank.com CNAME .
 yourbittorrent.com CNAME .
 *.yourbittorrent.com CNAME .
 torrents.yourexotic.com CNAME .
@@ -11584,6 +11588,8 @@ cineblog01.cx CNAME .
 *.cineblog01.cx CNAME .
 cinepulse.cx CNAME .
 *.cinepulse.cx CNAME .
+aam-bt.dyns.cx CNAME .
+*.aam-bt.dyns.cx CNAME .
 fmovies2.cx CNAME .
 *.fmovies2.cx CNAME .
 gidonline.cx CNAME .
@@ -16360,6 +16366,8 @@ hdmovie2.industries CNAME .
 *.9kmovies.info CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
+afdah.info CNAME .
+*.afdah.info CNAME .
 allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
@@ -35158,6 +35166,8 @@ zonestreaming.rip CNAME .
 *.zonestreaming.rip CNAME .
 0day.ro CNAME .
 *.0day.ro CNAME .
+adboost.ro CNAME .
+*.adboost.ro CNAME .
 audiostuff.ro CNAME .
 *.audiostuff.ro CNAME .
 blackrevolution.ro CNAME .

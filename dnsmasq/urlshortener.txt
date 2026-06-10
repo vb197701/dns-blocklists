@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 06:58 UTC
-# Version: 2026.0610.0658.28
+# Last modified: 10 Jun 2026 10:10 UTC
+# Version: 2026.0610.1010.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9835
+# Number of entries: 9838
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -1398,6 +1398,7 @@ local=/adaymag.co/
 local=/adbaw.com/
 local=/adbl.co/
 local=/adbly.co/
+local=/add.lat/
 local=/add-l.ink/
 local=/add2wallet.link/
 local=/addtr.ee/
@@ -1438,6 +1439,7 @@ local=/aduke.bio/
 local=/adurly.cc/
 local=/adv.li/
 local=/adv.pe/
+local=/advartiso.com/
 local=/advisable.link/
 local=/advmyc.com/
 local=/advnutri.com/
@@ -1454,6 +1456,7 @@ local=/afly.in/
 local=/afresh.link/
 local=/aftv.news/
 local=/aftvnews.com/
+local=/agbr.ir/
 local=/agentassistcrm.org/
 local=/agileurbia.com/
 local=/agirz.com/

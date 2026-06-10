@@ -133,6 +133,7 @@ https://raw.githubusercontent.com/dbertho/ioc/refs/heads/main/exacthire.csv
 https://raw.githubusercontent.com/dbertho/ioc/refs/heads/main/sneaky2fa.csv
 https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/refs/heads/master/Filters
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
+https://raw.githubusercontent.com/didikw/hashbd/refs/heads/main/jud0ll.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
@@ -167,6 +168,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antimalware_domains_nopups.txt
 https://raw.githubusercontent.com/Infinitum-IT/IOAs/master/domains.txt
 https://raw.githubusercontent.com/Iqbalnoorkhan/Malicious/main/Domain%20Threat%20Intelligence%20Feed.txt
+https://raw.githubusercontent.com/ITtoB/Main/refs/heads/main/DNSBL.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/jpgpi250/piholemanual/refs/heads/master/DOH/DOHadb.txt
 https://raw.githubusercontent.com/JRehbergCSK/Indicators-Blocklists/refs/heads/main/blocklist.csv
@@ -233,6 +235,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnel
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+https://raw.githubusercontent.com/sparksbenjamin/DNS_Blocking/main/security/recommended/security.txt
 https://raw.githubusercontent.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed/refs/heads/main/detected_urls.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-static-trails.txt
@@ -265,6 +268,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets//master/filters/ubol-filt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
+https://raw.githubusercontent.com/UTKAzureSentinelGithub/CheckPoint_IOCS_URL_FeedList/refs/heads/main/CERT_UA/domains.csv
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv

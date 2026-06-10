@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 06:58 UTC
-# Version: 2026.0610.0658.28
+# Last modified: 10 Jun 2026 10:10 UTC
+# Version: 2026.0610.1010.57
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9835
+# Number of entries: 9838
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -1398,6 +1398,7 @@
 *.adbaw.com
 *.adbl.co
 *.adbly.co
+*.add.lat
 *.add-l.ink
 *.add2wallet.link
 *.addtr.ee
@@ -1438,6 +1439,7 @@
 *.adurly.cc
 *.adv.li
 *.adv.pe
+*.advartiso.com
 *.advisable.link
 *.advmyc.com
 *.advnutri.com
@@ -1454,6 +1456,7 @@
 *.afresh.link
 *.aftv.news
 *.aftvnews.com
+*.agbr.ir
 *.agentassistcrm.org
 *.agileurbia.com
 *.agirz.com

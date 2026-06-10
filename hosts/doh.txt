@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 07:50 UTC
-# Version: 2026.0610.0750.49
+# Last modified: 10 Jun 2026 11:09 UTC
+# Version: 2026.0610.1109.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3856
+# Number of entries: 3857
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1374,6 +1374,7 @@
 0.0.0.0 yukito.duanzx.top
 0.0.0.0 adfreemb.duckdns.org
 0.0.0.0 adgrm.duckdns.org
+0.0.0.0 adguardcalpena.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
