@@ -78,7 +78,7 @@ jobs:
 
       - name: Wait before CDN purge
         if: steps.purge_urls.outputs.urls != ''
-        run: sleep 120
+        run: sleep 240
         shell: bash
         
       - name: Purge CDN cache
