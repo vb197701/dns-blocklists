@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:07 UTC
-# Version: 2026.0524.1007.58
+# Last modified: 10 Jun 2026 07:50 UTC
+# Version: 2026.0610.0750.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1490
+# Number of entries: 1493
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -28,6 +28,7 @@ local=/dynamicdns.org.uk/
 local=/limit.org.uk/
 local=/h4g3z1-dyndns.web.app/
 local=/0000000000000000000000.com/
+local=/0rg.us/
 local=/0x.no/
 local=/100mountain.com/
 local=/10dv.com/
@@ -359,6 +360,7 @@ local=/dsmynas.com/
 local=/dsmynas.net/
 local=/dsmynas.org/
 local=/dtdns.com/
+local=/dtdns.net/
 local=/dtdns.org/
 local=/dubya.info/
 local=/dubya.net/
@@ -1270,6 +1272,7 @@ local=/sexmistrz.pl/
 local=/sexxxy.biz/
 local=/shacknet.biz/
 local=/shacknet.us/
+local=/shadir.com/
 local=/sharkltd.com/
 local=/sheatfish.org/
 local=/sheepindonesia.org/

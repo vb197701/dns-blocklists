@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:07 UTC
-# Version: 2026.0524.1007.58
+# Last modified: 10 Jun 2026 07:50 UTC
+# Version: 2026.0610.0750.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 1490
+# Number of entries: 1493
 #
 dyn.addr.tools
 changeip.co.uk
@@ -28,6 +28,7 @@ dynamicdns.org.uk
 limit.org.uk
 h4g3z1-dyndns.web.app
 0000000000000000000000.com
+0rg.us
 0x.no
 100mountain.com
 10dv.com
@@ -359,6 +360,7 @@ dsmynas.com
 dsmynas.net
 dsmynas.org
 dtdns.com
+dtdns.net
 dtdns.org
 dubya.info
 dubya.net
@@ -1270,6 +1272,7 @@ sexmistrz.pl
 sexxxy.biz
 shacknet.biz
 shacknet.us
+shadir.com
 sharkltd.com
 sheatfish.org
 sheepindonesia.org

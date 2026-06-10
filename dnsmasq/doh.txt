@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 08:02 UTC
-# Version: 2026.0607.0802.01
+# Last modified: 10 Jun 2026 07:50 UTC
+# Version: 2026.0610.0750.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3407
+# Number of entries: 3408
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -240,6 +240,7 @@ local=/dns.applewebkit.dev/
 local=/doh.appliedprivacy.net/
 local=/dot1.appliedprivacy.net/
 local=/dns.aquilenet.fr/
+local=/dns.arapurayil.com/
 local=/doh.archuser.org/
 local=/dns.ares-taiwan.com/
 local=/dns.arkbotech.com/

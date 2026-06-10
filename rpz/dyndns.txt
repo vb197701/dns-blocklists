@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779617220 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781077800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 May 2026 10:07 UTC
-; Version: 2026.0524.1007.58
+; Last modified: 10 Jun 2026 07:50 UTC
+; Version: 2026.0610.0750.10
 ; Syntax: RPZ
-; Number of entries: 2980
+; Number of entries: 2986
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1318,6 +1318,8 @@ serveusers.com CNAME .
 *.serveusers.com CNAME .
 sexidude.com CNAME .
 *.sexidude.com CNAME .
+shadir.com CNAME .
+*.shadir.com CNAME .
 sharkltd.com CNAME .
 *.sharkltd.com CNAME .
 shekinahphotography.com CNAME .
@@ -2014,6 +2016,8 @@ dropfiles.net CNAME .
 *.dropfiles.net CNAME .
 dsmynas.net CNAME .
 *.dsmynas.net CNAME .
+dtdns.net CNAME .
+*.dtdns.net CNAME .
 dubya.net CNAME .
 *.dubya.net CNAME .
 duiadns.net CNAME .
@@ -2916,6 +2920,8 @@ dynamicdns.org.uk CNAME .
 *.dynamicdns.org.uk CNAME .
 limit.org.uk CNAME .
 *.limit.org.uk CNAME .
+0rg.us CNAME .
+*.0rg.us CNAME .
 4twenty.us CNAME .
 *.4twenty.us CNAME .
 atlantatruckdrivingschool.us CNAME .

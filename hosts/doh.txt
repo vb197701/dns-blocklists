@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 08:02 UTC
-# Version: 2026.0607.0802.01
+# Last modified: 10 Jun 2026 07:50 UTC
+# Version: 2026.0610.0750.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3854
+# Number of entries: 3856
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -355,6 +355,8 @@
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 dot1.appliedprivacy.net
 0.0.0.0 dns.aquilenet.fr
+0.0.0.0 dns.arapurayil.com
+0.0.0.0 2.dnscrypt-cert.dns.arapurayil.com
 0.0.0.0 arashi.solutions
 0.0.0.0 adguard.arashi.solutions
 0.0.0.0 invidious.arashi.solutions

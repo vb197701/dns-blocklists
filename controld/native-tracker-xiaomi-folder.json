@@ -365,13 +365,6 @@
       }
     },
     {
-      "PK": "api.vip.miui.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "api.xmpush.global.xiaomi.com",
       "action": {
         "do": 0,

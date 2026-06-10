@@ -134,6 +134,13 @@
       }
     },
     {
+      "PK": "100megsfree5.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "100webspace.com",
       "action": {
         "do": 0,
@@ -163,6 +170,13 @@
     },
     {
       "PK": "115.at",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "123freehost.co.uk",
       "action": {
         "do": 0,
         "status": 1
@@ -3320,6 +3334,13 @@
     },
     {
       "PK": "hostland.pro",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hostoi.com",
       "action": {
         "do": 0,
         "status": 1

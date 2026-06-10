@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780806420 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781076060 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Jun 2026 04:27 UTC
-; Version: 2026.0607.0427.49
+; Last modified: 10 Jun 2026 07:21 UTC
+; Version: 2026.0610.0721.03
 ; Syntax: RPZ
-; Number of entries: 1852
+; Number of entries: 1858
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -182,6 +182,8 @@ synergize.co CNAME .
 *.10001mb.com CNAME .
 100freemb.com CNAME .
 *.100freemb.com CNAME .
+100megsfree5.com CNAME .
+*.100megsfree5.com CNAME .
 100webspace.com CNAME .
 *.100webspace.com CNAME .
 110mb.com CNAME .
@@ -422,6 +424,8 @@ hostingersite.com CNAME .
 *.hostingersite.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
+hostoi.com CNAME .
+*.hostoi.com CNAME .
 hpage.com CNAME .
 *.hpage.com CNAME .
 hr-organization.com CNAME .
@@ -1824,6 +1828,8 @@ kl.com.ua CNAME .
 *.kl.com.ua CNAME .
 zzz.com.ua CNAME .
 *.zzz.com.ua CNAME .
+123freehost.co.uk CNAME .
+*.123freehost.co.uk CNAME .
 all.co.uk CNAME .
 *.all.co.uk CNAME .
 000free.us CNAME .

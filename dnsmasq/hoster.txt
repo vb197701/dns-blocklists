@@ -5,13 +5,14 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 04:27 UTC
-# Version: 2026.0607.0427.49
+# Last modified: 10 Jun 2026 07:21 UTC
+# Version: 2026.0610.0721.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 926
+# Number of entries: 929
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
+local=/123freehost.co.uk/
 local=/24.co.at/
 local=/all.co.uk/
 local=/thamboli.co.za/
@@ -46,6 +47,7 @@ local=/0pe.kr/
 local=/1.vg/
 local=/10001mb.com/
 local=/100freemb.com/
+local=/100megsfree5.com/
 local=/100webspace.com/
 local=/10h.us/
 local=/110mb.com/
@@ -492,6 +494,7 @@ local=/hostedforfree.com/
 local=/hostingersite.com/
 local=/hostingsiteforfree.com/
 local=/hostland.pro/
+local=/hostoi.com/
 local=/hot.lc/
 local=/hotshare.net/
 local=/hp.lc/

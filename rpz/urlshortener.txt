@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780942080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781074680 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Jun 2026 18:08 UTC
-; Version: 2026.0608.1808.55
+; Last modified: 10 Jun 2026 06:58 UTC
+; Version: 2026.0610.0658.28
 ; Syntax: RPZ
-; Number of entries: 19626
+; Number of entries: 19670
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -71,6 +71,8 @@ zim.ad CNAME .
 *.zim.ad CNAME .
 2h.ae CNAME .
 *.2h.ae CNAME .
+4i.ae CNAME .
+*.4i.ae CNAME .
 abre.ae CNAME .
 *.abre.ae CNAME .
 clic.ae CNAME .
@@ -133,6 +135,8 @@ tns.agency CNAME .
 *.2short.ai CNAME .
 4ja.ai CNAME .
 *.4ja.ai CNAME .
+77.ai CNAME .
+*.77.ai CNAME .
 abr.ai CNAME .
 *.abr.ai CNAME .
 abre.ai CNAME .
@@ -2177,6 +2181,8 @@ a.189.cn CNAME .
 *.2i1i.cn CNAME .
 3.cn CNAME .
 *.3.cn CNAME .
+7vd.cn CNAME .
+*.7vd.cn CNAME .
 athm.cn CNAME .
 *.athm.cn CNAME .
 c24.cn CNAME .
@@ -3101,6 +3107,8 @@ t.360scm.com CNAME .
 *.3ly.com CNAME .
 3name.com CNAME .
 *.3name.com CNAME .
+3qzr.com CNAME .
+*.3qzr.com CNAME .
 42jump.com CNAME .
 *.42jump.com CNAME .
 42url.com CNAME .
@@ -3129,10 +3137,14 @@ t.360scm.com CNAME .
 *.66biolinks.com CNAME .
 6url.com CNAME .
 *.6url.com CNAME .
+6urls.com CNAME .
+*.6urls.com CNAME .
 733s.com CNAME .
 *.733s.com CNAME .
 7c34.com CNAME .
 *.7c34.com CNAME .
+7clik.com CNAME .
+*.7clik.com CNAME .
 7kts.com CNAME .
 *.7kts.com CNAME .
 888df.com CNAME .
@@ -8683,6 +8695,8 @@ go.ford CNAME .
 *.go.ford CNAME .
 1un.fr CNAME .
 *.1un.fr CNAME .
+2la.fr CNAME .
+*.2la.fr CNAME .
 42l.fr CNAME .
 *.42l.fr CNAME .
 a0.fr CNAME .
@@ -10123,6 +10137,8 @@ go.zordo.in CNAME .
 *.go.zordo.in CNAME .
 1ink.info CNAME .
 *.1ink.info CNAME .
+1url.info CNAME .
+*.1url.info CNAME .
 2it.info CNAME .
 *.2it.info CNAME .
 2my.info CNAME .
@@ -10131,6 +10147,8 @@ go.zordo.in CNAME .
 *.2to.info CNAME .
 4extra.info CNAME .
 *.4extra.info CNAME .
+5rwv.info CNAME .
+*.5rwv.info CNAME .
 5z8.info CNAME .
 *.5z8.info CNAME .
 7link.info CNAME .
@@ -10327,6 +10345,8 @@ linkk.ing CNAME .
 *.linkk.ing CNAME .
 7a.ink CNAME .
 *.7a.ink CNAME .
+8n.ink CNAME .
+*.8n.ink CNAME .
 add-l.ink CNAME .
 *.add-l.ink CNAME .
 agll.ink CNAME .
@@ -11167,6 +11187,8 @@ zubbit.io CNAME .
 *.zubbit.io CNAME .
 zuitte.io CNAME .
 *.zuitte.io CNAME .
+1da.ir CNAME .
+*.1da.ir CNAME .
 1ea.ir CNAME .
 *.1ea.ir CNAME .
 1fy.ir CNAME .
@@ -13293,6 +13315,8 @@ xbx.lv CNAME .
 *.7.ly CNAME .
 8.ly CNAME .
 *.8.ly CNAME .
+9.ly CNAME .
+*.9.ly CNAME .
 abit.ly CNAME .
 *.abit.ly CNAME .
 adf.ly CNAME .
@@ -13499,10 +13523,14 @@ wb.md CNAME .
 *.1cl.me CNAME .
 1do.me CNAME .
 *.1do.me CNAME .
+1in.me CNAME .
+*.1in.me CNAME .
 1ty.me CNAME .
 *.1ty.me CNAME .
 2k1.me CNAME .
 *.2k1.me CNAME .
+2l2.me CNAME .
+*.2l2.me CNAME .
 2vu.me CNAME .
 *.2vu.me CNAME .
 2ww.me CNAME .
@@ -14703,6 +14731,8 @@ redsto.ne CNAME .
 *.153in.net CNAME .
 1bestlinks.net CNAME .
 *.1bestlinks.net CNAME .
+1vk.net CNAME .
+*.1vk.net CNAME .
 2doc.net CNAME .
 *.2doc.net CNAME .
 2tf.net CNAME .
@@ -15749,6 +15779,8 @@ sah.ooo CNAME .
 *.1nom.org CNAME .
 3dsecure.org CNAME .
 *.3dsecure.org CNAME .
+6ct.org CNAME .
+*.6ct.org CNAME .
 a.6mqw.org CNAME .
 *.a.6mqw.org CNAME .
 9g9.org CNAME .
@@ -16421,6 +16453,8 @@ ouo.press CNAME .
 *.123l.pro CNAME .
 7link.pro CNAME .
 *.7link.pro CNAME .
+99vpn.pro CNAME .
+*.99vpn.pro CNAME .
 ainurl.pro CNAME .
 *.ainurl.pro CNAME .
 bitli.pro CNAME .
@@ -16649,6 +16683,8 @@ thefp.pub CNAME .
 *.2u.pw CNAME .
 3c.pw CNAME .
 *.3c.pw CNAME .
+888b.pw CNAME .
+*.888b.pw CNAME .
 8u.pw CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
@@ -17165,6 +17201,8 @@ url.sg CNAME .
 *.072.sh CNAME .
 2pu.sh CNAME .
 *.2pu.sh CNAME .
+999.sh CNAME .
+*.999.sh CNAME .
 bigfi.sh CNAME .
 *.bigfi.sh CNAME .
 bsy.sh CNAME .
@@ -18697,8 +18735,12 @@ purdue.university CNAME .
 *.1fi.us CNAME .
 1ll.us CNAME .
 *.1ll.us CNAME .
+1tk.us CNAME .
+*.1tk.us CNAME .
 2pl.us CNAME .
 *.2pl.us CNAME .
+2tu.us CNAME .
+*.2tu.us CNAME .
 6nmd.us CNAME .
 *.6nmd.us CNAME .
 acrt.us CNAME .
@@ -19441,6 +19483,8 @@ wf0.xin CNAME .
 *.669988.xyz CNAME .
 71a.xyz CNAME .
 *.71a.xyz CNAME .
+7894.xyz CNAME .
+*.7894.xyz CNAME .
 aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
 alldomainwhois.xyz CNAME .
