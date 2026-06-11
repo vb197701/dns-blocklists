@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 11:09 UTC
-# Version: 2026.0610.1109.08
+# Last modified: 11 Jun 2026 08:00 UTC
+# Version: 2026.0611.0800.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3857
+# Number of entries: 3859
 #
 ss.0001.xyz
 003153.xyz
@@ -262,6 +262,7 @@ router.ahzol.com
 dns.aicreate360.com
 aicx99.shop
 adb.aiec.vn
+aihe.app
 doh.aipps.vip
 dns.airmaxcloud.uk
 dns.airns.net
@@ -533,6 +534,7 @@ dns2.bortus.io
 dns4.bortus.io
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
+botclassic.com
 dns.bovat.net
 adguard.boykevanvugt.nl
 adguard2.boykevanvugt.nl

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781106600 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781121420 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 15:50 UTC
-; Version: 2026.0610.1550.17
+; Last modified: 10 Jun 2026 19:57 UTC
+; Version: 2026.0610.1957.58
 ; Syntax: RPZ
-; Number of entries: 1146
+; Number of entries: 1158
 ;
 h4g3z1-native.tiktok.extended.web.app CNAME .
 *.h4g3z1-native.tiktok.extended.web.app CNAME .
@@ -856,6 +856,8 @@ mcs-va-useast2a.tiktokv.com.ttdns2.com CNAME .
 *.mcs-va-useast2a.tiktokv.com.ttdns2.com CNAME .
 frontier.tiktokv-eu.com.ttdns3.com CNAME .
 *.frontier.tiktokv-eu.com.ttdns3.com CNAME .
+ad-instantpage-ttp2.tiktokv.eu.ttdns3.com CNAME .
+*.ad-instantpage-ttp2.tiktokv.eu.ttdns3.com CNAME .
 analytics-ie.tiktokw.eu.ttdns3.com CNAME .
 *.analytics-ie.tiktokw.eu.ttdns3.com CNAME .
 analytics-ttp2.tiktokw.eu.ttdns3.com CNAME .
@@ -864,6 +866,8 @@ mcs-ie.tiktokw.eu.ttdns3.com CNAME .
 *.mcs-ie.tiktokw.eu.ttdns3.com CNAME .
 mcs-ie2.tiktokw.eu.ttdns3.com CNAME .
 *.mcs-ie2.tiktokw.eu.ttdns3.com CNAME .
+ad-instantpage.tiktokv.us.ttdns4.com CNAME .
+*.ad-instantpage.tiktokv.us.ttdns4.com CNAME .
 ad-instantpage-ttp2.tiktokv.eu CNAME .
 *.ad-instantpage-ttp2.tiktokv.eu CNAME .
 adinstantpage16-normal-useastred.tiktokv.eu CNAME .
@@ -1042,6 +1046,10 @@ mcs.us.tiktokv.com.edgesuite.net CNAME .
 *.mcs.us.tiktokv.com.edgesuite.net CNAME .
 frontier.tiktokv-eu.com.edgesuite.net CNAME .
 *.frontier.tiktokv-eu.com.edgesuite.net CNAME .
+ad-instantpage-ttp2.tiktokv.eu.edgesuite.net CNAME .
+*.ad-instantpage-ttp2.tiktokv.eu.edgesuite.net CNAME .
+adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
+*.adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net CNAME .
 *.frontier16-normal-no1a.tiktokv.eu.edgesuite.net CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
@@ -1064,6 +1072,10 @@ mcs16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
 *.mcs16-normal-useastred.tiktokw.eu.edgesuite.net CNAME .
 frontier.capcutw.us.edgesuite.net CNAME .
 *.frontier.capcutw.us.edgesuite.net CNAME .
+ad-instantpage.tiktokv.us.edgesuite.net CNAME .
+*.ad-instantpage.tiktokv.us.edgesuite.net CNAME .
+ad-instantpage-ttp2.tiktokv.us.edgesuite.net CNAME .
+*.ad-instantpage-ttp2.tiktokv.us.edgesuite.net CNAME .
 frontier.tiktokv.us.edgesuite.net CNAME .
 *.frontier.tiktokv.us.edgesuite.net CNAME .
 frontier-ttp2.tiktokv.us.edgesuite.net CNAME .

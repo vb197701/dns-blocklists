@@ -22,6 +22,13 @@
       }
     },
     {
+      "PK": "adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage-ru.tiktokv.com",
       "action": {
         "do": 0,
@@ -36,7 +43,28 @@
       }
     },
     {
+      "PK": "ad-instantpage-sg.tiktokv.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-instantpage.tiktokv.us.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-instantpage.tiktokv.us.ttdns4.com",
       "action": {
         "do": 0,
         "status": 1
@@ -50,7 +78,28 @@
       }
     },
     {
+      "PK": "ad-instantpage-ttp2.tiktokv.eu.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-instantpage-ttp2.tiktokv.eu.ttdns3.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ad-instantpage-ttp2.tiktokv.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad-instantpage-ttp2.tiktokv.us.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -190,7 +239,21 @@
       }
     },
     {
+      "PK": "analytics16-normal-alisg.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics16-normal-no1a.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics16-normal-no1a.tiktokw.eu.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -204,7 +267,21 @@
       }
     },
     {
+      "PK": "analytics16-normal.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics16-normal-useast5.tiktokw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics16-normal-useast5.tiktokw.us.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -218,7 +295,21 @@
       }
     },
     {
+      "PK": "analytics16-normal-useast8.tiktokw.us.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics16-normal-useastred.tiktokw.eu.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -239,7 +330,21 @@
       }
     },
     {
+      "PK": "analytics-attribution-va.tiktok.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-exp16-normal-useastred.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -253,7 +358,28 @@
       }
     },
     {
+      "PK": "analytics-exp-i18n.tiktok.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-exp-ru.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp-ru.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp-ru.tiktok.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1
@@ -267,7 +393,21 @@
       }
     },
     {
+      "PK": "analytics-exp-sg.tiktok.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-exp-ttp2.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-exp-ttp2.tiktokw.eu.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -281,7 +421,21 @@
       }
     },
     {
+      "PK": "analytics-exp.us.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-i18n.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-i18n.tiktok.com.edgekey.net",
       "action": {
         "do": 0,
         "status": 1
@@ -295,7 +449,21 @@
       }
     },
     {
+      "PK": "analytics-ie.tiktokw.eu.ttdns3.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-ipv6.tiktokw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-ipv6.tiktokw.us.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -309,7 +477,21 @@
       }
     },
     {
+      "PK": "analytics-ru.tiktok.com.ttdns2.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-sg.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-sg.tiktok.com.edgekey.net",
       "action": {
         "do": 0,
         "status": 1
@@ -337,6 +519,27 @@
       }
     },
     {
+      "PK": "analytics.tiktok.com.bytewlb.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.tiktok.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.tiktok.com.ttdns2.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-ttp2.tiktokw.eu",
       "action": {
         "do": 0,
@@ -344,7 +547,28 @@
       }
     },
     {
+      "PK": "analytics-ttp2.tiktokw.eu.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-ttp2.tiktokw.eu.ttdns3.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-ttp2.us.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-ttp2.us.tiktok.com.edgesuite.net",
       "action": {
         "do": 0,
         "status": 1
@@ -365,7 +589,49 @@
       }
     },
     {
+      "PK": "analytics.us.tiktok.com.bytedance.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.us.tiktok.com.bytewlb.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.us.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics.us.tiktok.com-row.bytewlb.akadns.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics-v6.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-v6.tiktok.com.edgesuite.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics-v6.tiktok.com.ttdns2.com",
       "action": {
         "do": 0,
         "status": 1

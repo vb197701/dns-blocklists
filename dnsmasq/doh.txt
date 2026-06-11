@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 11:09 UTC
-# Version: 2026.0610.1109.08
+# Last modified: 11 Jun 2026 08:00 UTC
+# Version: 2026.0611.0800.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3409
+# Number of entries: 3411
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -2969,6 +2969,7 @@ local=/ahadns.net/
 local=/ahcek.com/
 local=/ahoj.email/
 local=/aicx99.shop/
+local=/aihe.app/
 local=/alidns.com/
 local=/aliyunhttpdns.com/
 local=/alleesph.online/
@@ -3001,6 +3002,7 @@ local=/bluedns.xyz/
 local=/bluemood.me/
 local=/bobstrecansky.com/
 local=/borisov.page/
+local=/botclassic.com/
 local=/bravedns.com/
 local=/c-dns.com/
 local=/callbackping.net/

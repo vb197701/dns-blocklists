@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 10:55 UTC
-# Version: 2026.0610.1055.15
+# Last modified: 11 Jun 2026 07:59 UTC
+# Version: 2026.0611.0759.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1495
+# Number of entries: 1499
 #
 *.dyn.addr.tools
 *.changeip.co.uk
@@ -114,11 +114,13 @@
 *.ath.cx
 *.atlantatruckdrivingschool.us
 *.auraria.org
+*.australia.ai
 *.authorizeddns.net
 *.authorizeddns.org
 *.authorizeddns.us
 *.autoipset.com
 *.avandns.com
+*.awiki.org
 *.ax.lt
 *.b0tnet.com
 *.b33r.us
@@ -186,6 +188,7 @@
 *.changeip.biz
 *.changeip.co
 *.changeip.com
+*.changeip.me
 *.changeip.name
 *.changeip.net
 *.changeip.org
@@ -220,6 +223,7 @@
 *.cloudns.pro
 *.cloudwatch.net
 *.cloudxns.net
+*.cmirg.com
 *.cnstefancelmare.ro
 *.coalnet.ru
 *.codns.com

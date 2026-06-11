@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 18:24 UTC
-# Version: 2026.0610.1824.46
+# Last modified: 11 Jun 2026 07:27 UTC
+# Version: 2026.0611.0727.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 933
+# Number of entries: 943
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -42,7 +42,6 @@ local=/012webpages.com/
 local=/028426.com/
 local=/0catch.com/
 local=/0fees.net/
-local=/0fees.us/
 local=/0hna.com/
 local=/0pe.kr/
 local=/1.vg/
@@ -134,7 +133,6 @@ local=/aa6.de/
 local=/aa8.de/
 local=/aa9.de/
 local=/aba.ae/
-local=/aba.vg/
 local=/abbremsen.de/
 local=/abfertigen.de/
 local=/abgeblasen.de/
@@ -165,6 +163,7 @@ local=/an-erster-stelle.de/
 local=/and-friends.de/
 local=/and-you.de/
 local=/anfliegen.de/
+local=/angelcities.com/
 local=/angelfire.com/
 local=/anschauen.in/
 local=/anschiessen.de/
@@ -259,7 +258,6 @@ local=/byto.de/
 local=/bz.tc/
 local=/c.pl/
 local=/ca.gp/
-local=/cabanova.com/
 local=/center.tl/
 local=/ch.gp/
 local=/ch.kg/
@@ -290,11 +288,18 @@ local=/com-portal.de/
 local=/com0.de/
 local=/com24.at/
 local=/comeze.com/
+local=/comli.com/
+local=/comlu.com/
 local=/community.lc/
 local=/community24.eu/
+local=/comoj.com/
 local=/company.site/
+local=/comuf.com/
 local=/comule.com/
+local=/comuv.com/
 local=/comxa.com/
+local=/comyr.com/
+local=/comze.com/
 local=/convertri.com/
 local=/cool.hn/
 local=/cool.lc/
@@ -462,7 +467,6 @@ local=/fwh.is/
 local=/game.lc/
 local=/gamer.gd/
 local=/gaming.lc/
-local=/gearhostpreview.com/
 local=/gerentebr.com/
 local=/getenjoyment.net/
 local=/gg123.vip/
@@ -487,6 +491,7 @@ local=/h.gp/
 local=/hanefra7bikiemta.com/
 local=/hase.in/
 local=/healthyemployee.me/
+local=/herobo.com/
 local=/hexe.in/
 local=/hilfe24h.de/
 local=/home.lc/
@@ -494,6 +499,7 @@ local=/homemarker.com/
 local=/homepage.cx/
 local=/homepage.lc/
 local=/hop.ru/
+local=/host22.com/
 local=/hostedforfree.com/
 local=/hostingersite.com/
 local=/hostingsiteforfree.com/
@@ -650,6 +656,8 @@ local=/name.ac/
 local=/name.vg/
 local=/narod.ru/
 local=/neocities.org/
+local=/net63.net/
+local=/net84.net/
 local=/netai.net/
 local=/netfast.org/
 local=/nethouse.ru/
@@ -778,6 +786,7 @@ local=/shopping.cr/
 local=/shopping.hn/
 local=/shortenerword.com/
 local=/site123.me/
+local=/site90.com/
 local=/site90.net/
 local=/sitepalace.com/
 local=/skul.de/
@@ -887,6 +896,7 @@ local=/webatu.com/
 local=/webblog24.de/
 local=/webboss.site/
 local=/webcindario.com/
+local=/webege.com/
 local=/webgarden.com/
 local=/webn.cc/
 local=/webnode.com/

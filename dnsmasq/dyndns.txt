@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 10:55 UTC
-# Version: 2026.0610.1055.15
+# Last modified: 11 Jun 2026 07:59 UTC
+# Version: 2026.0611.0759.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1495
+# Number of entries: 1499
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -114,11 +114,13 @@ local=/at-band-camp.net/
 local=/ath.cx/
 local=/atlantatruckdrivingschool.us/
 local=/auraria.org/
+local=/australia.ai/
 local=/authorizeddns.net/
 local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
+local=/awiki.org/
 local=/ax.lt/
 local=/b0tnet.com/
 local=/b33r.us/
@@ -186,6 +188,7 @@ local=/cf.gs/
 local=/changeip.biz/
 local=/changeip.co/
 local=/changeip.com/
+local=/changeip.me/
 local=/changeip.name/
 local=/changeip.net/
 local=/changeip.org/
@@ -220,6 +223,7 @@ local=/cloudns.ph/
 local=/cloudns.pro/
 local=/cloudwatch.net/
 local=/cloudxns.net/
+local=/cmirg.com/
 local=/cnstefancelmare.ro/
 local=/coalnet.ru/
 local=/codns.com/

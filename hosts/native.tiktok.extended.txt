@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 15:50 UTC
-# Version: 2026.0610.1550.17
+# Last modified: 10 Jun 2026 19:57 UTC
+# Version: 2026.0610.1957.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 575
+# Number of entries: 581
 #
 0.0.0.0 analytics.us.tiktok.com.bytedance.akadns.net
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
@@ -134,6 +134,8 @@
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 0.0.0.0 mcs.us.tiktokv.com.edgesuite.net
 0.0.0.0 frontier.tiktokv-eu.com.edgesuite.net
+0.0.0.0 ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
+0.0.0.0 adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 0.0.0.0 frontier16-normal-no1a.tiktokv.eu.edgesuite.net
 0.0.0.0 frontier16-normal-useastred.tiktokv.eu.edgesuite.net
 0.0.0.0 analytics-exp-ttp2.tiktokw.eu.edgesuite.net
@@ -145,6 +147,8 @@
 0.0.0.0 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 0.0.0.0 mcs16-normal-useastred.tiktokw.eu.edgesuite.net
 0.0.0.0 frontier.capcutw.us.edgesuite.net
+0.0.0.0 ad-instantpage.tiktokv.us.edgesuite.net
+0.0.0.0 ad-instantpage-ttp2.tiktokv.us.edgesuite.net
 0.0.0.0 frontier.tiktokv.us.edgesuite.net
 0.0.0.0 frontier-ttp2.tiktokv.us.edgesuite.net
 0.0.0.0 mcs.tiktokv.us.edgesuite.net
@@ -580,8 +584,10 @@
 0.0.0.0 mcs-va.tiktokv.com.ttdns2.com
 0.0.0.0 mcs-va-useast2a.tiktokv.com.ttdns2.com
 0.0.0.0 frontier.tiktokv-eu.com.ttdns3.com
+0.0.0.0 ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 0.0.0.0 analytics-ie.tiktokw.eu.ttdns3.com
 0.0.0.0 analytics-ttp2.tiktokw.eu.ttdns3.com
 0.0.0.0 mcs-ie.tiktokw.eu.ttdns3.com
 0.0.0.0 mcs-ie2.tiktokw.eu.ttdns3.com
+0.0.0.0 ad-instantpage.tiktokv.us.ttdns4.com
 0.0.0.0 h4g3z1-native.tiktok.extended.web.app

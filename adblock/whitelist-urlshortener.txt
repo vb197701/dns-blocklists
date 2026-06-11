@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Jun 2026 10:10 UTC
-! Version: 2026.0610.1010.57
+! Last modified: 11 Jun 2026 07:04 UTC
+! Version: 2026.0611.0704.43
 ! Syntax: AdBlock
 !
 @@||a.189.cn^
@@ -38,6 +38,7 @@
 @@||go.acciojob.com^
 @@||s.accupass.com^
 @@||dbf.adalaj.org^
+@@||buy.adhitan.com^
 @@||y.ahoo.it^
 @@||mylink.ai.in^
 @@||go.aim.edu^
@@ -140,6 +141,7 @@
 @@||w.webicon.co.za^
 @@||1url.co.uk^
 @@||acsafrica.co.za^
+@@||aptly.co.za^
 @@||atpcf.co.uk^
 @@||biolinks.co.uk^
 @@||boostability.co.in^
@@ -633,6 +635,7 @@
 @@||view.robothumb.com^
 @@||bio.rocketapps.pro^
 @@||lets.rok.biz^
+@@||bio.rub3n.io^
 @@||short.ruksk.com^
 @@||s.sachiniyer.com^
 @@||url.sae.digital^
@@ -667,6 +670,7 @@
 @@||u.seva.id^
 @@||tts.sh.ph^
 @@||go.shell.com^
+@@||app.shorteneo.com^
 @@||go.shr.lc^
 @@||u.shxj.pw^
 @@||social.sigmaequipment.com^
@@ -1067,7 +1071,6 @@
 @@||2link.in^
 @@||2ly.link^
 @@||2my.info^
-@@||2no.co^
 @@||2nu.gs^
 @@||2one.in^
 @@||2pl.us^
@@ -1484,6 +1487,7 @@
 @@||aki.today^
 @@||aklam.io^
 @@||akm.works^
+@@||akoo.ir^
 @@||akr.gr^
 @@||akses.digital^
 @@||akses.gg^
@@ -1579,10 +1583,12 @@
 @@||amzn.com^
 @@||amzn.id^
 @@||amzn.pw^
+@@||an.fo^
 @@||an.to^
 @@||ana.ms^
 @@||anacon.org^
 @@||analyticslinker.ovh^
+@@||anbisu.com^
 @@||anch.co^
 @@||anchorurl.cloud^
 @@||ancstry.me^
@@ -1646,6 +1652,7 @@
 @@||aptsbyusu.com^
 @@||apurl.in^
 @@||aqariads.com^
+@@||aqva.pl^
 @@||ara.solutions^
 @@||arab.news^
 @@||arah.in^
@@ -1664,10 +1671,12 @@
 @@||arn.es^
 @@||arnogo.net^
 @@||arnolditkinclaims.com^
+@@||aroimak.link^
 @@||arolinks.com^
 @@||arpressllc.com^
 @@||arpy.in^
 @@||arrabet.link^
+@@||arshorten.com^
 @@||arsn.al^
 @@||artmo.app^
 @@||arurl.us^
@@ -1695,6 +1704,7 @@
 @@||at-home-show.me^
 @@||at0m.de^
 @@||ata.ink^
+@@||atag.pk^
 @@||ateng.me^
 @@||atglinks.com^
 @@||ath-web.com^
@@ -1706,6 +1716,7 @@
 @@||atm.tk^
 @@||atmilb.com^
 @@||atmlb.com^
+@@||atoor.net^
 @@||atpz.ir^
 @@||atqiv.org^
 @@||atres.red^
@@ -1717,6 +1728,7 @@
 @@||audiof.com^
 @@||augustinus.digital^
 @@||aur.li^
+@@||aurelus.link^
 @@||aus.md^
 @@||author.to^
 @@||autistic.training^
@@ -1732,6 +1744,7 @@
 @@||avhop.net^
 @@||avit.link^
 @@||avitlink.com^
+@@||avjosa.com^
 @@||avl.mx^
 @@||avlne.ws^
 @@||avlr.co^
@@ -1758,9 +1771,11 @@
 @@||ayt.fr^
 @@||ayuk.link^
 @@||ayzyu.com^
+@@||az6.ir^
 @@||azc.cc^
 @@||azipurl.app^
 @@||azipurl.com^
+@@||azl.one^
 @@||azlink.me^
 @@||azr.link^
 @@||azshrtr.com^
@@ -1792,6 +1807,7 @@
 @@||baba.bio^
 @@||babblecase.com^
 @@||babel.team^
+@@||bacc666.mobi^
 @@||bacn.me^
 @@||baggyrepackingrocky.com^
 @@||bagi.link^
@@ -1894,11 +1910,13 @@
 @@||biastonu.com^
 @@||bibl.es^
 @@||bidiurl.com^
+@@||bidly.cc^
 @@||bidsforkids.org^
 @@||bie.to^
 @@||bigbigwinjiliwin63.online^
 @@||bigcc.cc^
 @@||bigfi.sh^
+@@||bigfk.com^
 @@||biggiris.link^
 @@||biggo.tw^
 @@||bigurl.io^
@@ -1928,6 +1946,7 @@
 @@||biolinkpro.com^
 @@||biolinkr.app^
 @@||biolinks.link^
+@@||biolinks.ma^
 @@||biolinksplus.com^
 @@||biolinky.co^
 @@||biolnk.in^
@@ -1943,6 +1962,7 @@
 @@||biotap.io^
 @@||biotr.link^
 @@||biourl.link^
+@@||biourl.me^
 @@||biritr.com^
 @@||birkbtc.com^
 @@||bisadimasuk.in^
@@ -1957,6 +1977,7 @@
 @@||bitded.com^
 @@||bitesli.com^
 @@||bitfy.cc^
+@@||bitgg.co^
 @@||bitigee.com^
 @@||bitl.app^
 @@||bitl.to^
@@ -1984,6 +2005,8 @@
 @@||bitlyvi.com^
 @@||bitlz.cc^
 @@||bitq.link^
+@@||bitq.pw^
+@@||bitradex.net^
 @@||bitri.link^
 @@||bitshort.vip^
 @@||bitshrt.com^
@@ -2054,6 +2077,7 @@
 @@||bmai.cc^
 @@||bmr.li^
 @@||bn8.us^
+@@||bndfr.com^
 @@||bnds.in^
 @@||bnetwhk.com^
 @@||bnidigital.com^
@@ -2099,11 +2123,13 @@
 @@||boudie.link^
 @@||boudoirads.cc^
 @@||bovi.app^
+@@||boxoko.com^
 @@||boybu.com^
 @@||bp.cool^
 @@||bp-gc.in^
 @@||bpjames.com^
 @@||bpk.id^
+@@||bpkrlinks.com^
 @@||bpl.kr^
 @@||bpo.cloud^
 @@||br4.in^
@@ -2119,6 +2145,7 @@
 @@||bre.is^
 @@||brendan.fyi^
 @@||brev.ws^
+@@||breve.bio^
 @@||brevelink.com^
 @@||brever.link^
 @@||brevi.space^
@@ -2250,6 +2277,7 @@
 @@||cam.tips^
 @@||campaignware.com^
 @@||can.al^
+@@||can.si^
 @@||candicegilmerauthor.com^
 @@||canon.us^
 @@||canyonstudent.net^
@@ -2289,6 +2317,7 @@
 @@||catchl.ink^
 @@||cathaybk.tw^
 @@||cathaysec.tw^
+@@||cayim.by^
 @@||cb.click^
 @@||cb.com^
 @@||cb.io^
@@ -2309,6 +2338,7 @@
 @@||ccj.im^
 @@||cctor.link^
 @@||ccurl.in^
+@@||ccurl.net^
 @@||ccurl.xyz^
 @@||ccut.me^
 @@||ccx1.net^
@@ -2457,6 +2487,8 @@
 @@||cliczy.com^
 @@||clientlinks.net^
 @@||clik.now^
+@@||clik.rip^
+@@||clikk.in^
 @@||clikr.ir^
 @@||cliks.co^
 @@||clikx.net^
@@ -2490,6 +2522,7 @@
 @@||clktrack.com^
 @@||cllab.co^
 @@||clmp.me^
+@@||clockurl.com^
 @@||clotplaynews.live^
 @@||cloudfare.icu^
 @@||cloudku.click^
@@ -2522,7 +2555,9 @@
 @@||cnn.it^
 @@||cnnmon.ie^
 @@||cnvrge.co^
+@@||cnz.ir^
 @@||coachingtree.com^
+@@||coachstudio.org^
 @@||coba.la^
 @@||cockroa.ch^
 @@||cocn.in^
@@ -2596,6 +2631,7 @@
 @@||credicard.biz^
 @@||creeds.io^
 @@||creepylink.com^
+@@||crfe.top^
 @@||crisp.to^
 @@||critch.it^
 @@||crizons.pro^
@@ -5755,6 +5791,7 @@
 @@||neontools.io^
 @@||nepolls.com^
 @@||nerdleveltech.com^
+@@||net46.net^
 @@||netbrandly.com^
 @@||neti.cc^
 @@||netizen303.org^

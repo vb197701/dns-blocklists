@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781115840 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781162820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 18:24 UTC
-; Version: 2026.0610.1824.46
+; Last modified: 11 Jun 2026 07:27 UTC
+; Version: 2026.0611.0727.51
 ; Syntax: RPZ
-; Number of entries: 1866
+; Number of entries: 1886
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -228,6 +228,8 @@ admarketlocation.com CNAME .
 *.admarketlocation.com CNAME .
 amarillozoo.com CNAME .
 *.amarillozoo.com CNAME .
+angelcities.com CNAME .
+*.angelcities.com CNAME .
 angelfire.com CNAME .
 *.angelfire.com CNAME .
 arcadepages.com CNAME .
@@ -270,8 +272,6 @@ byethost31.com CNAME .
 *.byethost31.com CNAME .
 byethost7.com CNAME .
 *.byethost7.com CNAME .
-cabanova.com CNAME .
-*.cabanova.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
 cixx6.com CNAME .
@@ -280,10 +280,24 @@ cloudwaysapps.com CNAME .
 *.cloudwaysapps.com CNAME .
 comeze.com CNAME .
 *.comeze.com CNAME .
+comli.com CNAME .
+*.comli.com CNAME .
+comlu.com CNAME .
+*.comlu.com CNAME .
+comoj.com CNAME .
+*.comoj.com CNAME .
+comuf.com CNAME .
+*.comuf.com CNAME .
 comule.com CNAME .
 *.comule.com CNAME .
+comuv.com CNAME .
+*.comuv.com CNAME .
 comxa.com CNAME .
 *.comxa.com CNAME .
+comyr.com CNAME .
+*.comyr.com CNAME .
+comze.com CNAME .
+*.comze.com CNAME .
 convertri.com CNAME .
 *.convertri.com CNAME .
 sitebeat.crazydomains.com CNAME .
@@ -406,8 +420,6 @@ freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
-gearhostpreview.com CNAME .
-*.gearhostpreview.com CNAME .
 gerentebr.com CNAME .
 *.gerentebr.com CNAME .
 godaddysites.com CNAME .
@@ -420,8 +432,12 @@ greatnow.com CNAME .
 *.greatnow.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
+herobo.com CNAME .
+*.herobo.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
+host22.com CNAME .
+*.host22.com CNAME .
 hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
 hostingersite.com CNAME .
@@ -562,6 +578,8 @@ sharkserve.com CNAME .
 *.sharkserve.com CNAME .
 shortenerword.com CNAME .
 *.shortenerword.com CNAME .
+site90.com CNAME .
+*.site90.com CNAME .
 sitepalace.com CNAME .
 *.sitepalace.com CNAME .
 solidwebhost.com CNAME .
@@ -616,6 +634,8 @@ webatu.com CNAME .
 *.webatu.com CNAME .
 webcindario.com CNAME .
 *.webcindario.com CNAME .
+webege.com CNAME .
+*.webege.com CNAME .
 webgarden.com CNAME .
 *.webgarden.com CNAME .
 webnode.com CNAME .
@@ -1534,6 +1554,10 @@ myeweb.net CNAME .
 *.myeweb.net CNAME .
 myfreesites.net CNAME .
 *.myfreesites.net CNAME .
+net63.net CNAME .
+*.net63.net CNAME .
+net84.net CNAME .
+*.net84.net CNAME .
 netai.net CNAME .
 *.netai.net CNAME .
 onlinewebshop.net CNAME .
@@ -1838,8 +1862,6 @@ all.co.uk CNAME .
 *.all.co.uk CNAME .
 000free.us CNAME .
 *.000free.us CNAME .
-0fees.us CNAME .
-*.0fees.us CNAME .
 10h.us CNAME .
 *.10h.us CNAME .
 20m.us CNAME .
@@ -1852,8 +1874,6 @@ phpnet.us CNAME .
 *.phpnet.us CNAME .
 1.vg CNAME .
 *.1.vg CNAME .
-aba.vg CNAME .
-*.aba.vg CNAME .
 name.vg CNAME .
 *.name.vg CNAME .
 pro.vg CNAME .

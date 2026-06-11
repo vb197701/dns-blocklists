@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 06:44 UTC
-# Version: 2026.0610.0644.47
+# Last modified: 11 Jun 2026 06:49 UTC
+# Version: 2026.0611.0649.29
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2254
+# Number of entries: 2260
 #
 1-aclk.net
 1aurl.io
@@ -320,6 +320,7 @@ seu2.cleverreach.com
 113523.seu2.cleverreach.com
 114127.seu2.cleverreach.com
 114510.seu2.cleverreach.com
+115496.seu2.cleverreach.com
 116089.seu2.cleverreach.com
 120263.seu2.cleverreach.com
 121880.seu2.cleverreach.com
@@ -937,7 +938,6 @@ suite3.emarsys.net
 suite30.emarsys.net
 suite30-cdnnet.emarsys.net
 suite30-cf.emarsys.net
-suite32.emarsys.net
 suite33.emarsys.net
 suite33-cf.emarsys.net
 suite34.emarsys.net
@@ -1019,7 +1019,6 @@ bounce.s12.exacttarget.com
 click.s12.exacttarget.com
 mc.s12.exacttarget.com
 members.s12.exacttarget.com
-virt.s12.exacttarget.com
 s13.exacttarget.com
 bounce.s13.exacttarget.com
 click.s13.exacttarget.com
@@ -1050,7 +1049,6 @@ members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
 pub.s6.exacttarget.com
 view.s6.exacttarget.com
-virt.s6.exacttarget.com
 click.virt.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
@@ -1076,6 +1074,7 @@ fis-iittala-cdn.exponea.com
 fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 cdn.mie.exponea.com
+neoengage-va-cdn.exponea.com
 cdn.network.exponea.com
 pan-cdn.exponea.com
 puc-cdn.exponea.com
@@ -1304,9 +1303,11 @@ group0.sites.hscoscdn-eu1.net
 145935456.group0.sites.hscoscdn-eu1.net
 146229325.group0.sites.hscoscdn-eu1.net
 146233207.group0.sites.hscoscdn-eu1.net
+146273777.group0.sites.hscoscdn-eu1.net
 146290082.group0.sites.hscoscdn-eu1.net
 146325655.group0.sites.hscoscdn-eu1.net
 146447957.group0.sites.hscoscdn-eu1.net
+147054965.group0.sites.hscoscdn-eu1.net
 147134103.group0.sites.hscoscdn-eu1.net
 147239819.group0.sites.hscoscdn-eu1.net
 147339400.group0.sites.hscoscdn-eu1.net
@@ -1319,6 +1320,7 @@ group0.sites.hscoscdn-eu1.net
 24973737.group0.sites.hscoscdn-eu1.net
 24999507.group0.sites.hscoscdn-eu1.net
 25217365.group0.sites.hscoscdn-eu1.net
+25461990.group0.sites.hscoscdn-eu1.net
 25543059.group0.sites.hscoscdn-eu1.net
 25639721.group0.sites.hscoscdn-eu1.net
 25662839.group0.sites.hscoscdn-eu1.net
@@ -1593,6 +1595,7 @@ mkto-ab220178.com
 mkto-ab240112.com
 mkto-ab250068.com
 mkto-ab250105.com
+mkto-ab250167.com
 mkto-ab260164.com
 mkto-ab270090.com
 mkto-ab270109.com
@@ -1635,6 +1638,7 @@ mkto-ab470119.com
 mkto-ab470148.com
 mkto-ab480014.com
 mkto-ab480015.com
+mkto-ab480166.com
 mkto-ab530057.com
 mkto-ab530192.com
 mkto-ab540059.com
@@ -1642,6 +1646,7 @@ mkto-ab540143.com
 mkto-ab540186.com
 mkto-ab550041.com
 mkto-ab550140.com
+mkto-ab550144.com
 mkto-ab550184.com
 mkto-ab560068.com
 mkto-ab560119.com
@@ -2127,6 +2132,7 @@ link.sylikes.com
 t.co
 count.shopping.t-online.de
 redirect476.tagcommander.com
+redirect492.tagcommander.com
 tailtarget.com
 takmertok.com
 click.taobao.com

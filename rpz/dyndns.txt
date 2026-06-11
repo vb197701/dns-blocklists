@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781088900 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781164740 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,13 +9,15 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Jun 2026 10:55 UTC
-; Version: 2026.0610.1055.15
+; Last modified: 11 Jun 2026 07:59 UTC
+; Version: 2026.0611.0759.32
 ; Syntax: RPZ
-; Number of entries: 2990
+; Number of entries: 2998
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
+australia.ai CNAME .
+*.australia.ai CNAME .
 play.ai CNAME .
 *.play.ai CNAME .
 progr.am CNAME .
@@ -398,6 +400,8 @@ cjtooling.com CNAME .
 *.cjtooling.com CNAME .
 clawmap.com CNAME .
 *.clawmap.com CNAME .
+cmirg.com CNAME .
+*.cmirg.com CNAME .
 codns.com CNAME .
 *.codns.com CNAME .
 compuinter.com CNAME .
@@ -1852,6 +1856,8 @@ bine.me CNAME .
 *.bine.me CNAME .
 brasilia.me CNAME .
 *.brasilia.me CNAME .
+changeip.me CNAME .
+*.changeip.me CNAME .
 ddns.me CNAME .
 *.ddns.me CNAME .
 diskstation.me CNAME .
@@ -2352,6 +2358,8 @@ auraria.org CNAME .
 *.auraria.org CNAME .
 authorizeddns.org CNAME .
 *.authorizeddns.org CNAME .
+awiki.org CNAME .
+*.awiki.org CNAME .
 bagus.org CNAME .
 *.bagus.org CNAME .
 barbaforte.org CNAME .
