@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781164380 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781204700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 07:53 UTC
-; Version: 2026.0611.0753.50
+; Last modified: 11 Jun 2026 19:05 UTC
+; Version: 2026.0611.1905.46
 ; Syntax: RPZ
-; Number of entries: 50278
+; Number of entries: 50320
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -872,6 +872,8 @@ crickfree.be CNAME .
 *.crickfree.be CNAME .
 cytu.be CNAME .
 *.cytu.be CNAME .
+demoniak.be CNAME .
+*.demoniak.be CNAME .
 ettv.be CNAME .
 *.ettv.be CNAME .
 eurostreaming.be CNAME .
@@ -3294,6 +3296,8 @@ dizipal-mahsun2.click CNAME .
 *.dizipal-mahsun2.click CNAME .
 dizipal-mahsundizi.click CNAME .
 *.dizipal-mahsundizi.click CNAME .
+dizipal-mahsundizi1.click CNAME .
+*.dizipal-mahsundizi1.click CNAME .
 dizipalhd.click CNAME .
 *.dizipalhd.click CNAME .
 dizipalizlemh.click CNAME .
@@ -3682,6 +3686,8 @@ uakino.club CNAME .
 *.uakino.club CNAME .
 uaserial.club CNAME .
 *.uaserial.club CNAME .
+unblocked.club CNAME .
+*.unblocked.club CNAME .
 newalbumreleases.unblockit.club CNAME .
 *.newalbumreleases.unblockit.club CNAME .
 vegamovis.club CNAME .
@@ -4106,6 +4112,8 @@ hdmovie2.cologne CNAME .
 *.hdmovie2.cologne CNAME .
 blink-stresser.000webhostapp.com CNAME .
 *.blink-stresser.000webhostapp.com CNAME .
+ddos-ovh-v6.000webhostapp.com CNAME .
+*.ddos-ovh-v6.000webhostapp.com CNAME .
 00123moviess.com CNAME .
 *.00123moviess.com CNAME .
 0123456789nonexistent.com CNAME .
@@ -5758,6 +5766,8 @@ ddl2.com CNAME .
 *.ddl2.com CNAME .
 ddlbase.com CNAME .
 *.ddlbase.com CNAME .
+ddlcenter.com CNAME .
+*.ddlcenter.com CNAME .
 ddlicious.com CNAME .
 *.ddlicious.com CNAME .
 ddlsite.com CNAME .
@@ -5826,6 +5836,8 @@ desibbrg.com CNAME .
 *.desibbrg.com CNAME .
 desitorrents.com CNAME .
 *.desitorrents.com CNAME .
+desmaxgo.com CNAME .
+*.desmaxgo.com CNAME .
 exodus.desync.com CNAME .
 *.exodus.desync.com CNAME .
 deutschekanale.com CNAME .
@@ -6076,6 +6088,18 @@ dizipal2073.com CNAME .
 *.dizipal2073.com CNAME .
 dizipal2074.com CNAME .
 *.dizipal2074.com CNAME .
+dizipal2075.com CNAME .
+*.dizipal2075.com CNAME .
+dizipal2076.com CNAME .
+*.dizipal2076.com CNAME .
+dizipal2077.com CNAME .
+*.dizipal2077.com CNAME .
+dizipal2078.com CNAME .
+*.dizipal2078.com CNAME .
+dizipal2079.com CNAME .
+*.dizipal2079.com CNAME .
+dizipal2080.com CNAME .
+*.dizipal2080.com CNAME .
 dizipal2090.com CNAME .
 *.dizipal2090.com CNAME .
 dizipal3051.com CNAME .
@@ -16580,6 +16604,8 @@ vegamoviesw.com.in CNAME .
 *.vegamoviesw.com.in CNAME .
 comix-load.in CNAME .
 *.comix-load.in CNAME .
+crystal-warez.in CNAME .
+*.crystal-warez.in CNAME .
 uhdmovies.cs.in CNAME .
 *.uhdmovies.cs.in CNAME .
 9kmovies.delhi.in CNAME .
@@ -28760,6 +28786,8 @@ darksoftware.net CNAME .
 *.darksoftware.net CNAME .
 darkstresser.net CNAME .
 *.darkstresser.net CNAME .
+darkumbra.net CNAME .
+*.darkumbra.net CNAME .
 darkwarez.net CNAME .
 *.darkwarez.net CNAME .
 data-bg.net CNAME .
@@ -28802,6 +28830,8 @@ diginetbd.net CNAME .
 *.diginetbd.net CNAME .
 digitalboots.net CNAME .
 *.digitalboots.net CNAME .
+digitalduniya.net CNAME .
+*.digitalduniya.net CNAME .
 discoveryftp.net CNAME .
 *.discoveryftp.net CNAME .
 ditbd.net CNAME .
@@ -30610,6 +30640,8 @@ superflixapi.nexus CNAME .
 *.superflixapi.nexus CNAME .
 bestimes.fr.nf CNAME .
 *.bestimes.fr.nf CNAME .
+dl-area.fr.nf CNAME .
+*.dl-area.fr.nf CNAME .
 warez-mania.fr.nf CNAME .
 *.warez-mania.fr.nf CNAME .
 warez-wawa.fr.nf CNAME .
@@ -32294,6 +32326,8 @@ dimeadozen.org CNAME .
 *.dimeadozen.org CNAME .
 dirtywarez.org CNAME .
 *.dirtywarez.org CNAME .
+diwana.org CNAME .
+*.diwana.org CNAME .
 dizipal152.org CNAME .
 *.dizipal152.org CNAME .
 dizipalfilmizle.org CNAME .
@@ -35306,6 +35340,8 @@ tracker2.christianbro.pw CNAME .
 *.tracker2.christianbro.pw CNAME .
 cricfree.pw CNAME .
 *.cricfree.pw CNAME .
+cyber-hub.pw CNAME .
+*.cyber-hub.pw CNAME .
 demonoid.pw CNAME .
 *.demonoid.pw CNAME .
 fileupload.pw CNAME .
@@ -37058,6 +37094,8 @@ detective-deii-lordfilm.ru CNAME .
 *.detective-deii-lordfilm.ru CNAME .
 detective-iz-chinatown-lordfilm.ru CNAME .
 *.detective-iz-chinatown-lordfilm.ru CNAME .
+detective-lordfilm.ru CNAME .
+*.detective-lordfilm.ru CNAME .
 detecttuv-lordfilm.ru CNAME .
 *.detecttuv-lordfilm.ru CNAME .
 detektiv-di-lordfilm3.ru CNAME .
@@ -44690,8 +44728,6 @@ streamingcommunityz.store CNAME .
 *.streamingcommunityz.store CNAME .
 tantifilm.store CNAME .
 *.tantifilm.store CNAME .
-themoviesmod.store CNAME .
-*.themoviesmod.store CNAME .
 torrentech.store CNAME .
 *.torrentech.store CNAME .
 torrentgalaxy.store CNAME .
@@ -45162,6 +45198,8 @@ streamkiste.taxi CNAME .
 *.streamkiste.taxi CNAME .
 yomovies.taxi CNAME .
 *.yomovies.taxi CNAME .
+debrideur-free.fr.tc CNAME .
+*.debrideur-free.fr.tc CNAME .
 animeflix.team CNAME .
 *.animeflix.team CNAME .
 flemmix.team CNAME .
@@ -46030,6 +46068,8 @@ altadefinizione.tokyo CNAME .
 *.altadefinizione.tokyo CNAME .
 cineblog01.tokyo CNAME .
 *.cineblog01.tokyo CNAME .
+ddos.tools CNAME .
+*.ddos.tools CNAME .
 filesearch.tools CNAME .
 *.filesearch.tools CNAME .
 hdmovie2.tools CNAME .
@@ -48830,6 +48870,8 @@ cineby.wiki CNAME .
 *.cineby.wiki CNAME .
 coflix.wiki CNAME .
 *.coflix.wiki CNAME .
+dewpoint34.wiki CNAME .
+*.dewpoint34.wiki CNAME .
 eurostreaming.wiki CNAME .
 *.eurostreaming.wiki CNAME .
 eurostreamings.wiki CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 19:23 UTC
-# Version: 2026.0607.1923.08
+# Last modified: 11 Jun 2026 14:41 UTC
+# Version: 2026.0611.1441.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 388
+# Number of entries: 390
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -73,6 +73,7 @@ eurppc-word-telemetry.officeapps.live.com
 excel-telemetry.officeapps.live.com
 ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
+fgteu1-word-telemetry-vip.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 inc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
@@ -154,7 +155,6 @@ ssw.live.com
 watson.live.com
 pipe.aria.microsoft.com
 collector.azure.microsoft.cloud
-collector.azure.microsoft.scloud
 track.notif.careersppe.microsoft.com
 events.data.microsoft.com
 events-sandbox.data.microsoft.com
@@ -303,8 +303,6 @@ diagnostics-eudb.office.com
 measure.office.com
 measure.office.net
 prod.editor.ads.trafficmanager.net
-azure.bcp.bingads.trafficmanager.net
-azure.tip.bingads.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net
 vortex.data.trafficmanager.net
@@ -313,18 +311,22 @@ telemetry.eastus.trafficmanager.net
 euc-excel-telemetry.wac.trafficmanager.net
 euc-powerpoint-telemetry.wac.trafficmanager.net
 euc-word-telemetry.wac.trafficmanager.net
+eurffc-word-telemetry.wac.trafficmanager.net
 excel-telemetry.wac.trafficmanager.net
 powerpoint-telemetry.wac.trafficmanager.net
 ppc-excel-telemetry.wac.trafficmanager.net
 ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.wac.trafficmanager.net
 word-telemetry.wac.trafficmanager.net
+ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
 analytics-listener.trafficmanager.net
 beacons.trafficmanager.net
+bingads.trafficmanager.net
 ch-asimov-leafs-events-data.trafficmanager.net
+collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 dsp-ad-cache-tm.trafficmanager.net
 eventservice.trafficmanager.net

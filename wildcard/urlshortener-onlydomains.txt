@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 07:04 UTC
-# Version: 2026.0611.0704.43
+# Last modified: 11 Jun 2026 14:59 UTC
+# Version: 2026.0611.1459.09
 # Syntax: Domains (without subdomains)
-# Number of entries: 9876
+# Number of entries: 9887
 #
 a.189.cn
 t.2merkato.com
@@ -2683,6 +2683,7 @@ cshort.org
 csinc.bz
 csj.lol
 csmo.us
+csmp.nl
 csnode.com
 cstu.io
 csvcllc.com
@@ -2691,6 +2692,7 @@ ct.rocks
 cta.careers
 ctahire.com
 ctbc.tw
+ctc.im
 cte.li
 ctfl.io
 ctfn.cc
@@ -2705,6 +2707,7 @@ cu7.co
 cuanbio.com
 cuer.io
 cuk.one
+cukbaray.com
 cul.ke
 cultm.ac
 culy.top
@@ -2771,12 +2774,14 @@ cutt.pk
 cutt.us
 cuttgoo.com
 cutth.com
+cutthis.link
 cuttify.io
 cuttly.io
 cuttly.pro
 cutto.io
 cutts.in
 cutturl.xyz
+cutur.link
 cuturl.cloud
 cuturl.com
 cuturl.net
@@ -2801,6 +2806,7 @@ cybr.fr
 cybr.rocks
 cyrmp.com
 cyte.in
+cyunz.com
 d.pr
 d.to
 d-sh.io
@@ -2834,9 +2840,11 @@ dasb.io
 dat.bio
 data-linkup.com
 databrains.net
+datalisa.id
 datalotrk.com
 dataurbia.com
 datayi.cn
+datenami.tw
 dausel.co
 davidbombal.wiki
 davidepuzzo.cloud
@@ -2856,9 +2864,11 @@ dcps.co
 dcri.io
 dcshru.ru
 dd.ma
+ddbfx.com
 ddlsu.com
 ddot.click
 ddot.to
+ddp.net
 ddw.nu
 de2wa.com
 dealsfindersgroup.com
@@ -2955,6 +2965,7 @@ dky.bz
 dl.gl
 dl-protect.link
 dl100.cc
+dld.bz
 dlik.ch
 dlink.me
 dlsh.it

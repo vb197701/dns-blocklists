@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 07:27 UTC
-# Version: 2026.0611.0727.51
+# Last modified: 11 Jun 2026 18:26 UTC
+# Version: 2026.0611.1826.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 943
+# Number of entries: 953
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -42,6 +42,7 @@ local=/012webpages.com/
 local=/028426.com/
 local=/0catch.com/
 local=/0fees.net/
+local=/0fees.us/
 local=/0hna.com/
 local=/0pe.kr/
 local=/1.vg/
@@ -133,6 +134,7 @@ local=/aa6.de/
 local=/aa8.de/
 local=/aa9.de/
 local=/aba.ae/
+local=/aba.vg/
 local=/abbremsen.de/
 local=/abfertigen.de/
 local=/abgeblasen.de/
@@ -258,6 +260,7 @@ local=/byto.de/
 local=/bz.tc/
 local=/c.pl/
 local=/ca.gp/
+local=/cabanova.com/
 local=/center.tl/
 local=/ch.gp/
 local=/ch.kg/
@@ -439,6 +442,7 @@ local=/freehostia.com/
 local=/freehostingcloud.com/
 local=/freehostingking.com/
 local=/freehostyou.com/
+local=/freeiz.com/
 local=/freeoda.com/
 local=/freeservers.com/
 local=/freesite.org/
@@ -467,6 +471,7 @@ local=/fwh.is/
 local=/game.lc/
 local=/gamer.gd/
 local=/gaming.lc/
+local=/gearhostpreview.com/
 local=/gerentebr.com/
 local=/getenjoyment.net/
 local=/gg123.vip/
@@ -510,6 +515,7 @@ local=/hotshare.net/
 local=/hp.lc/
 local=/hpage.com/
 local=/hr-organization.com/
+local=/hr-rewards.com/
 local=/hst5.com/
 local=/html-5.me/
 local=/hu.gp/
@@ -656,6 +662,7 @@ local=/name.ac/
 local=/name.vg/
 local=/narod.ru/
 local=/neocities.org/
+local=/net16.net/
 local=/net63.net/
 local=/net84.net/
 local=/netai.net/
@@ -827,6 +834,7 @@ local=/tentbuildingservices.eu/
 local=/test.lc/
 local=/tggame.xyz/
 local=/th.gp/
+local=/the-finance-world.com/
 local=/tiiny.host/
 local=/tiiny.io/
 local=/tiiny.site/
@@ -870,6 +878,7 @@ local=/usrfiles.com/
 local=/uz.gp/
 local=/v.gp/
 local=/v0r.org/
+local=/vacau.com/
 local=/ve.gp/
 local=/verifypass.pw/
 local=/verkniffen.de/
@@ -900,6 +909,7 @@ local=/webege.com/
 local=/webgarden.com/
 local=/webn.cc/
 local=/webnode.com/
+local=/webnode.page/
 local=/webpages.one/
 local=/webs.com/
 local=/website.at/

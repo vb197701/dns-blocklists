@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781164860 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781193660 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 08:01 UTC
-; Version: 2026.0611.0801.56
+; Last modified: 11 Jun 2026 16:01 UTC
+; Version: 2026.0611.1601.52
 ; Syntax: RPZ
-; Number of entries: 34118
+; Number of entries: 34132
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -6305,6 +6305,8 @@ googla.cryodome.com CNAME .
 *.googla.cryodome.com CNAME .
 crypticvpn.com CNAME .
 *.crypticvpn.com CNAME .
+cryptohippie.com CNAME .
+*.cryptohippie.com CNAME .
 dns.cryptomize.com CNAME .
 *.dns.cryptomize.com CNAME .
 cryptovpn.com CNAME .
@@ -6357,6 +6359,8 @@ czrnavdk.com CNAME .
 *.czrnavdk.com CNAME .
 czwrlqpta.com CNAME .
 *.czwrlqpta.com CNAME .
+d4a6e688b23eaf8458fcc89ce6ec85199eb437bb.com CNAME .
+*.d4a6e688b23eaf8458fcc89ce6ec85199eb437bb.com CNAME .
 dabmix.com CNAME .
 *.dabmix.com CNAME .
 daddyproxy.com CNAME .
@@ -6481,6 +6485,8 @@ doh.denypradana.com CNAME .
 *.doh.denypradana.com CNAME .
 departlamb.com CNAME .
 *.departlamb.com CNAME .
+departsettle.com CNAME .
+*.departsettle.com CNAME .
 deproxyserver.com CNAME .
 *.deproxyserver.com CNAME .
 doh-primary-pool.detoxifypornblocker.com CNAME .
@@ -6499,6 +6505,8 @@ dgywzc.com CNAME .
 *.dgywzc.com CNAME .
 dialertoserver.com CNAME .
 *.dialertoserver.com CNAME .
+dicebolsa.com CNAME .
+*.dicebolsa.com CNAME .
 dicefan.com CNAME .
 *.dicefan.com CNAME .
 digibitdesign.com CNAME .
@@ -19121,6 +19129,8 @@ a5135324.csie.io CNAME .
 *.a5135324.csie.io CNAME .
 curd.io CNAME .
 *.curd.io CNAME .
+dailyvpn.io CNAME .
+*.dailyvpn.io CNAME .
 c9.dedyn.io CNAME .
 *.c9.dedyn.io CNAME .
 frank-web.dedyn.io CNAME .
@@ -26737,6 +26747,8 @@ diglet.org CNAME .
 *.diglet.org CNAME .
 dinoo.org CNAME .
 *.dinoo.org CNAME .
+dir-proxy.org CNAME .
+*.dir-proxy.org CNAME .
 dmvdriverseducation.org CNAME .
 *.dmvdriverseducation.org CNAME .
 dns8.org CNAME .
@@ -27157,6 +27169,8 @@ alpha.y.glenwaverleychurches.org CNAME .
 *.alpha.y.glenwaverleychurches.org CNAME .
 beta.y.glenwaverleychurches.org CNAME .
 *.beta.y.glenwaverleychurches.org CNAME .
+delta.y.glenwaverleychurches.org CNAME .
+*.delta.y.glenwaverleychurches.org CNAME .
 glintapp.org CNAME .
 *.glintapp.org CNAME .
 dns.api.globus.org CNAME .

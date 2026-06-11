@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781162820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781202360 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 07:27 UTC
-; Version: 2026.0611.0727.51
+; Last modified: 11 Jun 2026 18:26 UTC
+; Version: 2026.0611.1826.47
 ; Syntax: RPZ
-; Number of entries: 1886
+; Number of entries: 1906
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -272,6 +272,8 @@ byethost31.com CNAME .
 *.byethost31.com CNAME .
 byethost7.com CNAME .
 *.byethost7.com CNAME .
+cabanova.com CNAME .
+*.cabanova.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
 cixx6.com CNAME .
@@ -392,6 +394,8 @@ freehostingking.com CNAME .
 *.freehostingking.com CNAME .
 freehostyou.com CNAME .
 *.freehostyou.com CNAME .
+freeiz.com CNAME .
+*.freeiz.com CNAME .
 freeoda.com CNAME .
 *.freeoda.com CNAME .
 freeservers.com CNAME .
@@ -420,6 +424,8 @@ freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
+gearhostpreview.com CNAME .
+*.gearhostpreview.com CNAME .
 gerentebr.com CNAME .
 *.gerentebr.com CNAME .
 godaddysites.com CNAME .
@@ -450,6 +456,8 @@ hpage.com CNAME .
 *.hpage.com CNAME .
 hr-organization.com CNAME .
 *.hr-organization.com CNAME .
+hr-rewards.com CNAME .
+*.hr-rewards.com CNAME .
 hst5.com CNAME .
 *.hst5.com CNAME .
 hyderabadadda.com CNAME .
@@ -598,6 +606,8 @@ teamzonesports.com CNAME .
 *.teamzonesports.com CNAME .
 tempisite.com CNAME .
 *.tempisite.com CNAME .
+the-finance-world.com CNAME .
+*.the-finance-world.com CNAME .
 top8.com CNAME .
 *.top8.com CNAME .
 ftp.totallyanonymous.com CNAME .
@@ -622,6 +632,8 @@ usclargo.com CNAME .
 *.usclargo.com CNAME .
 usrfiles.com CNAME .
 *.usrfiles.com CNAME .
+vacau.com CNAME .
+*.vacau.com CNAME .
 w3spaces.com CNAME .
 *.w3spaces.com CNAME .
 webaccess-alert.com CNAME .
@@ -1554,6 +1566,8 @@ myeweb.net CNAME .
 *.myeweb.net CNAME .
 myfreesites.net CNAME .
 *.myfreesites.net CNAME .
+net16.net CNAME .
+*.net16.net CNAME .
 net63.net CNAME .
 *.net63.net CNAME .
 net84.net CNAME .
@@ -1676,6 +1690,8 @@ glide.page CNAME .
 *.glide.page CNAME .
 start.page CNAME .
 *.start.page CNAME .
+webnode.page CNAME .
+*.webnode.page CNAME .
 000.pe CNAME .
 *.000.pe CNAME .
 fun.pe CNAME .
@@ -1862,6 +1878,8 @@ all.co.uk CNAME .
 *.all.co.uk CNAME .
 000free.us CNAME .
 *.000free.us CNAME .
+0fees.us CNAME .
+*.0fees.us CNAME .
 10h.us CNAME .
 *.10h.us CNAME .
 20m.us CNAME .
@@ -1874,6 +1892,8 @@ phpnet.us CNAME .
 *.phpnet.us CNAME .
 1.vg CNAME .
 *.1.vg CNAME .
+aba.vg CNAME .
+*.aba.vg CNAME .
 name.vg CNAME .
 *.name.vg CNAME .
 pro.vg CNAME .

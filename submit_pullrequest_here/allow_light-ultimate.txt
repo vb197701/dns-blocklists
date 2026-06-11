@@ -1,6 +1,10 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# Videos on various sites, e.g.: 
+# https://sportklub.n1info.rs/video/fudbal-video/internet-bruji-o-ronaldovom-promasaju-ako-ce-ovako-i-na-sp/
+services.brid.tv
+
 # https://github.com/hagezi/dns-blocklists/issues/10456
 api.vip.miui.com
 

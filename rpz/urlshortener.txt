@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781161440 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781189940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 07:04 UTC
-; Version: 2026.0611.0704.43
+; Last modified: 11 Jun 2026 14:59 UTC
+; Version: 2026.0611.1459.09
 ; Syntax: RPZ
-; Number of entries: 19752
+; Number of entries: 19774
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1337,6 +1337,8 @@ deli.bz CNAME .
 *.deli.bz CNAME .
 dky.bz CNAME .
 *.dky.bz CNAME .
+dld.bz CNAME .
+*.dld.bz CNAME .
 egw.bz CNAME .
 *.egw.bz CNAME .
 egy.bz CNAME .
@@ -3937,6 +3939,8 @@ cuanbio.com CNAME .
 *.cuanbio.com CNAME .
 linkprotect.cudasvc.com CNAME .
 *.linkprotect.cudasvc.com CNAME .
+cukbaray.com CNAME .
+*.cukbaray.com CNAME .
 curlmin.com CNAME .
 *.curlmin.com CNAME .
 curryfielddistribution.com CNAME .
@@ -4013,6 +4017,8 @@ go.cynapto.com CNAME .
 *.go.cynapto.com CNAME .
 cyrmp.com CNAME .
 *.cyrmp.com CNAME .
+cyunz.com CNAME .
+*.cyunz.com CNAME .
 data-linkup.com CNAME .
 *.data-linkup.com CNAME .
 links.datalogics.com CNAME .
@@ -4031,6 +4037,8 @@ dbolc.com CNAME .
 *.dbolc.com CNAME .
 go.dbs.com CNAME .
 *.go.dbs.com CNAME .
+ddbfx.com CNAME .
+*.ddbfx.com CNAME .
 ddlsu.com CNAME .
 *.ddlsu.com CNAME .
 de2wa.com CNAME .
@@ -9395,6 +9403,8 @@ shorturl.co.id CNAME .
 *.shorturl.co.id CNAME .
 go.thamrin.co.id CNAME .
 *.go.thamrin.co.id CNAME .
+datalisa.id CNAME .
+*.datalisa.id CNAME .
 docmti.id CNAME .
 *.docmti.id CNAME .
 fileku.id CNAME .
@@ -9523,6 +9533,8 @@ brx.im CNAME .
 *.brx.im CNAME .
 ccj.im CNAME .
 *.ccj.im CNAME .
+ctc.im CNAME .
+*.ctc.im CNAME .
 curl.im CNAME .
 *.curl.im CNAME .
 due.im CNAME .
@@ -12439,6 +12451,10 @@ cute.link CNAME .
 *.cute.link CNAME .
 cutmy.link CNAME .
 *.cutmy.link CNAME .
+cutthis.link CNAME .
+*.cutthis.link CNAME .
+cutur.link CNAME .
+*.cutur.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -14909,6 +14925,8 @@ dafa07.net CNAME .
 *.dafa07.net CNAME .
 databrains.net CNAME .
 *.databrains.net CNAME .
+ddp.net CNAME .
+*.ddp.net CNAME .
 demolink.net CNAME .
 *.demolink.net CNAME .
 depedzn.net CNAME .
@@ -15515,6 +15533,8 @@ klik.ninja CNAME .
 *.klik.ninja CNAME .
 cl1.nl CNAME .
 *.cl1.nl CNAME .
+csmp.nl CNAME .
+*.csmp.nl CNAME .
 d1rk.nl CNAME .
 *.d1rk.nl CNAME .
 edu.nl CNAME .
@@ -18625,6 +18645,8 @@ url.hle.com.tw CNAME .
 *.url.hle.com.tw CNAME .
 ctbc.tw CNAME .
 *.ctbc.tw CNAME .
+datenami.tw CNAME .
+*.datenami.tw CNAME .
 dna360.tw CNAME .
 *.dna360.tw CNAME .
 go.edh.tw CNAME .

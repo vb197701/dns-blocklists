@@ -99,6 +99,13 @@
       }
     },
     {
+      "PK": "0fees.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "0hna.com",
       "action": {
         "do": 0,
@@ -751,6 +758,13 @@
     },
     {
       "PK": "aba.ae",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aba.vg",
       "action": {
         "do": 0,
         "status": 1
@@ -1654,6 +1668,13 @@
     },
     {
       "PK": "ca.gp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cabanova.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2941,6 +2962,13 @@
       }
     },
     {
+      "PK": "freeiz.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "freeoda.com",
       "action": {
         "do": 0,
@@ -3138,6 +3166,13 @@
     },
     {
       "PK": "gaming.lc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "gearhostpreview.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3446,6 +3481,13 @@
     },
     {
       "PK": "hr-organization.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hr-rewards.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4496,6 +4538,13 @@
     },
     {
       "PK": "neocities.org",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "net16.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5720,6 +5769,13 @@
       }
     },
     {
+      "PK": "the-finance-world.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tiiny.host",
       "action": {
         "do": 0,
@@ -6021,6 +6077,13 @@
       }
     },
     {
+      "PK": "vacau.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ve.gp",
       "action": {
         "do": 0,
@@ -6225,6 +6288,13 @@
     },
     {
       "PK": "webnode.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "webnode.page",
       "action": {
         "do": 0,
         "status": 1

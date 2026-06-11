@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 19:23 UTC
-# Version: 2026.0607.1923.08
+# Last modified: 11 Jun 2026 14:41 UTC
+# Version: 2026.0611.1441.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 388
+# Number of entries: 390
 #
 local=/c-bingapis-com.dual-a-0034.a-msedge.net/
 local=/measure.office.com.akamaized.net/
@@ -73,6 +73,7 @@ local=/eurppc-word-telemetry.officeapps.live.com/
 local=/excel-telemetry.officeapps.live.com/
 local=/ffc-excel-telemetry.officeapps.live.com/
 local=/ffc-word-telemetry.officeapps.live.com/
+local=/fgteu1-word-telemetry-vip.officeapps.live.com/
 local=/frc-visio-telemetry.officeapps.live.com/
 local=/inc-visio-telemetry.officeapps.live.com/
 local=/nexus.officeapps.live.com/
@@ -154,7 +155,6 @@ local=/ssw.live.com/
 local=/watson.live.com/
 local=/pipe.aria.microsoft.com/
 local=/collector.azure.microsoft.cloud/
-local=/collector.azure.microsoft.scloud/
 local=/track.notif.careersppe.microsoft.com/
 local=/events.data.microsoft.com/
 local=/events-sandbox.data.microsoft.com/
@@ -303,8 +303,6 @@ local=/diagnostics-eudb.office.com/
 local=/measure.office.com/
 local=/measure.office.net/
 local=/prod.editor.ads.trafficmanager.net/
-local=/azure.bcp.bingads.trafficmanager.net/
-local=/azure.tip.bingads.trafficmanager.net/
 local=/tracker.flightview.com.trafficmanager.net/
 local=/events.data.trafficmanager.net/
 local=/vortex.data.trafficmanager.net/
@@ -313,18 +311,22 @@ local=/telemetry.eastus.trafficmanager.net/
 local=/euc-excel-telemetry.wac.trafficmanager.net/
 local=/euc-powerpoint-telemetry.wac.trafficmanager.net/
 local=/euc-word-telemetry.wac.trafficmanager.net/
+local=/eurffc-word-telemetry.wac.trafficmanager.net/
 local=/excel-telemetry.wac.trafficmanager.net/
 local=/powerpoint-telemetry.wac.trafficmanager.net/
 local=/ppc-excel-telemetry.wac.trafficmanager.net/
 local=/ppc-powerpoint-telemetry.wac.trafficmanager.net/
 local=/ppc-word-telemetry.wac.trafficmanager.net/
 local=/word-telemetry.wac.trafficmanager.net/
+local=/ads-msn-com-profile.trafficmanager.net/
 local=/adsdk.trafficmanager.net/
 local=/agps-location-livenet.trafficmanager.net/
 local=/analytics.trafficmanager.net/
 local=/analytics-listener.trafficmanager.net/
 local=/beacons.trafficmanager.net/
+local=/bingads.trafficmanager.net/
 local=/ch-asimov-leafs-events-data.trafficmanager.net/
+local=/collection-location-livenet.trafficmanager.net/
 local=/collector-main.trafficmanager.net/
 local=/dsp-ad-cache-tm.trafficmanager.net/
 local=/eventservice.trafficmanager.net/

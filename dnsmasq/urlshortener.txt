@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 07:04 UTC
-# Version: 2026.0611.0704.43
+# Last modified: 11 Jun 2026 14:59 UTC
+# Version: 2026.0611.1459.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9876
+# Number of entries: 9887
 #
 local=/a.189.cn/
 local=/t.2merkato.com/
@@ -2683,6 +2683,7 @@ local=/cshort.org/
 local=/csinc.bz/
 local=/csj.lol/
 local=/csmo.us/
+local=/csmp.nl/
 local=/csnode.com/
 local=/cstu.io/
 local=/csvcllc.com/
@@ -2691,6 +2692,7 @@ local=/ct.rocks/
 local=/cta.careers/
 local=/ctahire.com/
 local=/ctbc.tw/
+local=/ctc.im/
 local=/cte.li/
 local=/ctfl.io/
 local=/ctfn.cc/
@@ -2705,6 +2707,7 @@ local=/cu7.co/
 local=/cuanbio.com/
 local=/cuer.io/
 local=/cuk.one/
+local=/cukbaray.com/
 local=/cul.ke/
 local=/cultm.ac/
 local=/culy.top/
@@ -2771,12 +2774,14 @@ local=/cutt.pk/
 local=/cutt.us/
 local=/cuttgoo.com/
 local=/cutth.com/
+local=/cutthis.link/
 local=/cuttify.io/
 local=/cuttly.io/
 local=/cuttly.pro/
 local=/cutto.io/
 local=/cutts.in/
 local=/cutturl.xyz/
+local=/cutur.link/
 local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -2801,6 +2806,7 @@ local=/cybr.fr/
 local=/cybr.rocks/
 local=/cyrmp.com/
 local=/cyte.in/
+local=/cyunz.com/
 local=/d.pr/
 local=/d.to/
 local=/d-sh.io/
@@ -2834,9 +2840,11 @@ local=/dasb.io/
 local=/dat.bio/
 local=/data-linkup.com/
 local=/databrains.net/
+local=/datalisa.id/
 local=/datalotrk.com/
 local=/dataurbia.com/
 local=/datayi.cn/
+local=/datenami.tw/
 local=/dausel.co/
 local=/davidbombal.wiki/
 local=/davidepuzzo.cloud/
@@ -2856,9 +2864,11 @@ local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
 local=/dd.ma/
+local=/ddbfx.com/
 local=/ddlsu.com/
 local=/ddot.click/
 local=/ddot.to/
+local=/ddp.net/
 local=/ddw.nu/
 local=/de2wa.com/
 local=/dealsfindersgroup.com/
@@ -2955,6 +2965,7 @@ local=/dky.bz/
 local=/dl.gl/
 local=/dl-protect.link/
 local=/dl100.cc/
+local=/dld.bz/
 local=/dlik.ch/
 local=/dlink.me/
 local=/dlsh.it/

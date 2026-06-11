@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jun 2026 08:01 UTC
-! Version: 2026.0611.0801.56
+! Last modified: 11 Jun 2026 16:01 UTC
+! Version: 2026.0611.1601.52
 ! Syntax: AdBlock
-! Number of entries: 17059
+! Number of entries: 17066
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -3517,6 +3517,7 @@
 ||kayleesickfern.gleeze.com^
 ||alpha.y.glenwaverleychurches.org^
 ||beta.y.glenwaverleychurches.org^
+||delta.y.glenwaverleychurches.org^
 ||dns.glf.wtf^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -9158,6 +9159,7 @@
 ||crypto.sx^
 ||crypto-college.cc^
 ||crypto2049.store^
+||cryptohippie.com^
 ||cryptostorm.is^
 ||cryptovpn.com^
 ||cryptroute.com^
@@ -9223,6 +9225,7 @@
 ||d16.net^
 ||d3vy.ru^
 ||d4.re^
+||d4a6e688b23eaf8458fcc89ce6ec85199eb437bb.com^
 ||d807c4.cn^
 ||dabache.top^
 ||dabai.in^
@@ -9233,6 +9236,7 @@
 ||dageyun.net^
 ||dageyunpro.com^
 ||dagljcdy.com^
+||dailyvpn.io^
 ||daishujiasu.club^
 ||daishujiasuapp.com^
 ||daneshvardost.com^
@@ -9300,6 +9304,7 @@
 ||demy.name^
 ||denstro.ru^
 ||departlamb.com^
+||departsettle.com^
 ||deproxyserver.com^
 ||deqyutix.online^
 ||der-lino.ru^
@@ -9320,6 +9325,7 @@
 ||dgy02.com^
 ||dgywzc.com^
 ||dialertoserver.com^
+||dicebolsa.com^
 ||dicefan.com^
 ||dichvusocks.net^
 ||difficultycrossing.org^
@@ -9334,6 +9340,7 @@
 ||dinoo.org^
 ||dinqul.com^
 ||dinuxcloud.com^
+||dir-proxy.org^
 ||directconnect.fyi^
 ||dirproxy.biz^
 ||dirproxy.net^

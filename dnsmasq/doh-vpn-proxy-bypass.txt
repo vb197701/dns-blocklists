@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 08:01 UTC
-# Version: 2026.0611.0801.56
+# Last modified: 11 Jun 2026 16:01 UTC
+# Version: 2026.0611.1601.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 17059
+# Number of entries: 17066
 #
 local=/ss.0001.xyz/
 local=/ilovethiswebsite.001-lab.space/
@@ -3516,6 +3516,7 @@ local=/fr33ze.gleeze.com/
 local=/kayleesickfern.gleeze.com/
 local=/alpha.y.glenwaverleychurches.org/
 local=/beta.y.glenwaverleychurches.org/
+local=/delta.y.glenwaverleychurches.org/
 local=/dns.glf.wtf/
 local=/dns.api.globus.org/
 local=/dns.api.preview.globus.org/
@@ -9157,6 +9158,7 @@ local=/crypticvpn.com/
 local=/crypto.sx/
 local=/crypto-college.cc/
 local=/crypto2049.store/
+local=/cryptohippie.com/
 local=/cryptostorm.is/
 local=/cryptovpn.com/
 local=/cryptroute.com/
@@ -9222,6 +9224,7 @@ local=/czwrlqpta.com/
 local=/d16.net/
 local=/d3vy.ru/
 local=/d4.re/
+local=/d4a6e688b23eaf8458fcc89ce6ec85199eb437bb.com/
 local=/d807c4.cn/
 local=/dabache.top/
 local=/dabai.in/
@@ -9232,6 +9235,7 @@ local=/dageyun.info/
 local=/dageyun.net/
 local=/dageyunpro.com/
 local=/dagljcdy.com/
+local=/dailyvpn.io/
 local=/daishujiasu.club/
 local=/daishujiasuapp.com/
 local=/daneshvardost.com/
@@ -9299,6 +9303,7 @@ local=/demonzero.xyz/
 local=/demy.name/
 local=/denstro.ru/
 local=/departlamb.com/
+local=/departsettle.com/
 local=/deproxyserver.com/
 local=/deqyutix.online/
 local=/der-lino.ru/
@@ -9319,6 +9324,7 @@ local=/dgloong.com/
 local=/dgy02.com/
 local=/dgywzc.com/
 local=/dialertoserver.com/
+local=/dicebolsa.com/
 local=/dicefan.com/
 local=/dichvusocks.net/
 local=/difficultycrossing.org/
@@ -9333,6 +9339,7 @@ local=/dingdangnao.com/
 local=/dinoo.org/
 local=/dinqul.com/
 local=/dinuxcloud.com/
+local=/dir-proxy.org/
 local=/directconnect.fyi/
 local=/dirproxy.biz/
 local=/dirproxy.net/
