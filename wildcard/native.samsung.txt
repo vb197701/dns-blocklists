@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:07 UTC
-# Version: 2026.0605.1807.46
+# Last modified: 12 Jun 2026 19:24 UTC
+# Version: 2026.0612.1924.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 197
+# Number of entries: 199
 #
 *.samsung-com.112.2o7.net
 *.metric.account-samsung.com
@@ -61,6 +61,7 @@
 *.samsung.ecorebates.com
 *.samsung.telemetry.eyeo.com
 *.ehg-samsungusa.hitbox.com
+*.ureca.samsungapps.com.ad.mexnet.de
 *.samsung.com.ssl.sc.omtrdc.net
 *.samsungcard.sc.omtrdc.net
 *.samsungnorthamerica.sc.omtrdc.net
@@ -131,6 +132,7 @@
 *.prderrordumphsm.samsungcloudsolution.com
 *.prderrordumpssm.samsungcloudsolution.net
 *.report.gras.samsungdm.com
+*.us-report.gras.samsungdm.com
 *.diagmon-policy.samsungdm.com
 *.diagmon-serviceapi.samsungdm.com
 *.dev-apigw.samsungdmroute.com

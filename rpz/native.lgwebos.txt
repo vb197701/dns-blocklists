@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780682640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781291820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's LG webOS Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 18:04 UTC
-; Version: 2026.0605.1804.22
+; Last modified: 12 Jun 2026 19:17 UTC
+; Version: 2026.0612.1917.59
 ; Syntax: RPZ
-; Number of entries: 678
+; Number of entries: 680
 ;
 h4g3z1-native.lgwebos.web.app CNAME .
 *.h4g3z1-native.lgwebos.web.app CNAME .
@@ -684,6 +684,8 @@ zw-ad-lgsmartad-com.aws-prd.net CNAME .
 *.zw-ad-lgsmartad-com.aws-prd.net CNAME .
 eic-ngfts.lge.com.edgekey.net CNAME .
 *.eic-ngfts.lge.com.edgekey.net CNAME .
+eic-qt2-ngfts.lge.com.edgekey.net CNAME .
+*.eic-qt2-ngfts.lge.com.edgekey.net CNAME .
 kic-ngfts.lge.com.edgekey.net CNAME .
 *.kic-ngfts.lge.com.edgekey.net CNAME .
 qt2-ngfts.lge.com.edgekey.net CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2026 07:56 UTC
-# Version: 2026.0612.0756.14
+# Last modified: 12 Jun 2026 15:41 UTC
+# Version: 2026.0612.1541.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1505
+# Number of entries: 1506
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -760,6 +760,7 @@ local=/ip-dynamic.org/
 local=/ipnodns.ru/
 local=/ipq.co/
 local=/iprowave.com/
+local=/ipupdater.com/
 local=/ipv64.de/
 local=/ipv64.net/
 local=/is-a-anarchist.com/

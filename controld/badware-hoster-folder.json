@@ -3970,6 +3970,20 @@
       }
     },
     {
+      "PK": "just-allen.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "justicewasgreen.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "justns.ru",
       "action": {
         "do": 0,
@@ -4643,6 +4657,13 @@
     },
     {
       "PK": "nethouse.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "netne.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5518,6 +5539,13 @@
     },
     {
       "PK": "shortenerword.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "site11.com",
       "action": {
         "do": 0,
         "status": 1

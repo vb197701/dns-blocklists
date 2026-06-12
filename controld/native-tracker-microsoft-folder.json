@@ -2570,13 +2570,6 @@
       }
     },
     {
-      "PK": "upload.fp.measure.office.com.corp.mmco.int.cardano.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "usc-onenote-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -2676,13 +2669,6 @@
     },
     {
       "PK": "wayfinderanalytics.servicebus.windows.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "we-events-prod-1.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

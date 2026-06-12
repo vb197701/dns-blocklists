@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781248980 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781294100 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jun 2026 07:23 UTC
-; Version: 2026.0612.0723.45
+; Last modified: 12 Jun 2026 19:55 UTC
+; Version: 2026.0612.1955.19
 ; Syntax: RPZ
-; Number of entries: 1928
+; Number of entries: 1936
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -498,6 +498,10 @@ janhost.com CNAME .
 *.janhost.com CNAME .
 jcmemoryscan.com CNAME .
 *.jcmemoryscan.com CNAME .
+just-allen.com CNAME .
+*.just-allen.com CNAME .
+justicewasgreen.com CNAME .
+*.justicewasgreen.com CNAME .
 kesug.com CNAME .
 *.kesug.com CNAME .
 kiluweb.com CNAME .
@@ -600,6 +604,8 @@ sharkserve.com CNAME .
 *.sharkserve.com CNAME .
 shortenerword.com CNAME .
 *.shortenerword.com CNAME .
+site11.com CNAME .
+*.site11.com CNAME .
 site90.com CNAME .
 *.site90.com CNAME .
 sitepalace.com CNAME .
@@ -1592,6 +1598,8 @@ netai.net CNAME .
 *.netai.net CNAME .
 netau.net CNAME .
 *.netau.net CNAME .
+netne.net CNAME .
+*.netne.net CNAME .
 onlinewebshop.net CNAME .
 *.onlinewebshop.net CNAME .
 pktriot.net CNAME .

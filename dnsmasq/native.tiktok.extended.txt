@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jun 2026 19:57 UTC
-# Version: 2026.0610.1957.58
+# Last modified: 12 Jun 2026 19:17 UTC
+# Version: 2026.0612.1917.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 579
+# Number of entries: 577
 #
 local=/analytics.us.tiktok.com.bytedance.akadns.net/
 local=/p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net/
@@ -193,7 +193,6 @@ local=/ug.snssdk.com/
 local=/vas-hl-x.snssdk.com/
 local=/vcl-brain.snssdk.com/
 local=/xlog.snssdk.com/
-local=/url4077.ads-service.tiktok.com/
 local=/ads.us.tiktok.com/
 local=/ads-ttp2.us.tiktok.com/
 local=/analytics.us.tiktok.com/
@@ -208,7 +207,6 @@ local=/ads.tiktok.in/
 local=/ads.tiktok.tv/
 local=/ads-api.tiktok.com/
 local=/ads-frontier.tiktok.com/
-local=/ads-ru.tiktok.com/
 local=/ads-sg.tiktok.com/
 local=/analytics.tiktok.com/
 local=/analytics-attribution.tiktok.com/

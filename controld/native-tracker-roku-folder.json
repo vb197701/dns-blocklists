@@ -155,6 +155,13 @@
       }
     },
     {
+      "PK": "ad.qa.ap.int.roku.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads-aka-us-east-1.delivery.roku.com",
       "action": {
         "do": 0,
@@ -247,6 +254,13 @@
     },
     {
       "PK": "ads-us-west-2.delivery.roku.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ad.usw2.qa.ap.int.roku.com",
       "action": {
         "do": 0,
         "status": 1

@@ -351,6 +351,13 @@
       }
     },
     {
+      "PK": "aax-us-east-dtb-mobile-events.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-us-east-ott.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -443,13 +450,6 @@
     },
     {
       "PK": "aax-us-pdx-rtb.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aax-us-west-2-ott.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1

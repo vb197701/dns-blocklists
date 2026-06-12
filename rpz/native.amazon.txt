@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780682400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781291580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 18:00 UTC
-; Version: 2026.0605.1800.28
+; Last modified: 12 Jun 2026 19:13 UTC
+; Version: 2026.0612.1913.39
 ; Syntax: RPZ
 ; Number of entries: 696
 ;
@@ -104,8 +104,6 @@ aax-us-east-1-ott.amazon-adsystem.amazon.com CNAME .
 *.aax-us-east-1-ott.amazon-adsystem.amazon.com CNAME .
 aax-us-ott.amazon-adsystem.amazon.com CNAME .
 *.aax-us-ott.amazon-adsystem.amazon.com CNAME .
-aax-us-west-2-ott.amazon-adsystem.amazon.com CNAME .
-*.aax-us-west-2-ott.amazon-adsystem.amazon.com CNAME .
 vaes.amazon-adsystem.amazon.com CNAME .
 *.vaes.amazon-adsystem.amazon.com CNAME .
 applab-sdk.amazon.com CNAME .
@@ -216,6 +214,8 @@ aax-us-east-dtb.amazon-adsystem.com CNAME .
 *.aax-us-east-dtb.amazon-adsystem.com CNAME .
 aax-us-east-dtb-mobile.amazon-adsystem.com CNAME .
 *.aax-us-east-dtb-mobile.amazon-adsystem.com CNAME .
+aax-us-east-dtb-mobile-events.amazon-adsystem.com CNAME .
+*.aax-us-east-dtb-mobile-events.amazon-adsystem.com CNAME .
 aax-us-east-ott.amazon-adsystem.com CNAME .
 *.aax-us-east-ott.amazon-adsystem.com CNAME .
 aax-us-east-rtb.amazon-adsystem.com CNAME .

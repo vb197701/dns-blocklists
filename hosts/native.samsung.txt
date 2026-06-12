@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:07 UTC
-# Version: 2026.0605.1807.46
+# Last modified: 12 Jun 2026 19:24 UTC
+# Version: 2026.0612.1924.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 269
+# Number of entries: 273
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -87,6 +87,7 @@
 0.0.0.0 samsung.ecorebates.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
+0.0.0.0 ureca.samsungapps.com.ad.mexnet.de
 0.0.0.0 moai-dev-samsung.com
 0.0.0.0 www.moai-dev-samsung.com
 0.0.0.0 samsungcard.sc.omtrdc.net
@@ -134,6 +135,7 @@
 0.0.0.0 eumarketing.event-tracking.samsung.com
 0.0.0.0 europe.event-tracking.samsung.com
 0.0.0.0 marketing.event-tracking.samsung.com
+0.0.0.0 us.event-tracking.samsung.com
 0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 analytics.mpay.samsung.com
@@ -158,6 +160,7 @@
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 target-us.samsung.com
 0.0.0.0 samsungacr.com
+0.0.0.0 log-1.samsungacr.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ingestion-ap2.samsungacr.com
@@ -207,6 +210,7 @@
 0.0.0.0 diagmon-policy.samsungdm.com
 0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 report.gras.samsungdm.com
+0.0.0.0 us-report.gras.samsungdm.com
 0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 analytics.samsungedo.com

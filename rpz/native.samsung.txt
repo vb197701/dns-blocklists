@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780682820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781292240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Jun 2026 18:07 UTC
-; Version: 2026.0605.1807.46
+; Last modified: 12 Jun 2026 19:24 UTC
+; Version: 2026.0612.1924.36
 ; Syntax: RPZ
-; Number of entries: 394
+; Number of entries: 398
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -146,6 +146,8 @@ diagmon-serviceapi.samsungdm.com CNAME .
 *.diagmon-serviceapi.samsungdm.com CNAME .
 report.gras.samsungdm.com CNAME .
 *.report.gras.samsungdm.com CNAME .
+us-report.gras.samsungdm.com CNAME .
+*.us-report.gras.samsungdm.com CNAME .
 dev-apigw.samsungdmroute.com CNAME .
 *.dev-apigw.samsungdmroute.com CNAME .
 stg-apigw.samsungdmroute.com CNAME .
@@ -276,6 +278,8 @@ samsungusa.api.useinsider.com CNAME .
 *.samsungusa.api.useinsider.com CNAME .
 samsungvn.api.useinsider.com CNAME .
 *.samsungvn.api.useinsider.com CNAME .
+ureca.samsungapps.com.ad.mexnet.de CNAME .
+*.ureca.samsungapps.com.ad.mexnet.de CNAME .
 samsung-com.112.2o7.net CNAME .
 *.samsung-com.112.2o7.net CNAME .
 samsungcard.data.adobedc.net CNAME .

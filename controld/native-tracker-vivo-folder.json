@@ -365,6 +365,13 @@
       }
     },
     {
+      "PK": "cname-de-stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cname-in-apport-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -492,13 +499,6 @@
     },
     {
       "PK": "err.up.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eu-album-api.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -702,13 +702,6 @@
     },
     {
       "PK": "in-appprt-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "in-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1268,97 +1261,6 @@
       }
     },
     {
-      "PK": "sca-domaincfg.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-err-up.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-onrt-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-ort-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-pnrt-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-p.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-romsp-unifyconfig.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-stsdk.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-st-sl.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-timesync.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-vcode-api.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-vcode-od.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-vcode-or.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sg-cfg-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1423,13 +1325,6 @@
     },
     {
       "PK": "tr-domaincfg.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "tr-err-up.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1570,13 +1465,6 @@
     },
     {
       "PK": "vhs.wwstat.com.eo.unicomcdn.com.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "xn--ex-adreq-asa-c5b.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

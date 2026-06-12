@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 06:55 UTC
-# Version: 2026.0609.0655.34
+# Last modified: 12 Jun 2026 19:20 UTC
+# Version: 2026.0612.1920.19
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 240
+# Number of entries: 224
 #
 *.vhs.wwstat.com.eo.unicomcdn.com.cn
 *.az.appstore.vivo.com.cn
@@ -74,6 +74,7 @@
 *.cname-asia-st-exappupgrade.vivoglobal.com
 *.cname-asia-stsdk09.vivoglobal.com
 *.cname-asia02-stsdk.vivoglobal.com
+*.cname-de-stsdk.vivoglobal.com
 *.cname-in-apport-stsdk.vivoglobal.com
 *.cname-in-bom01-nginxpool03.vivoglobal.com
 *.cname-in-ctdbonrt-stsdk.vivoglobal.com
@@ -88,7 +89,6 @@
 *.co-vcode-od.vivoglobal.com
 *.de-gdpr-err-up.vivoglobal.com
 *.err-up.vivoglobal.com
-*.eu-album-api.vivoglobal.com
 *.eu-cota.vivoglobal.com
 *.eu-domaincfg.vivoglobal.com
 *.eu-errup.vivoglobal.com
@@ -117,7 +117,6 @@
 *.in-apport-stsdk.vivoglobal.com
 *.in-apppnrt-stsdk.vivoglobal.com
 *.in-appprt-stsdk.vivoglobal.com
-*.in-cfg-stsdk.vivoglobal.com
 *.in-cota.vivoglobal.com
 *.in-ctdbonrt-stsdk.vivoglobal.com
 *.in-ctdbort-stsdk.vivoglobal.com
@@ -197,25 +196,11 @@
 *.ru-vcode-api.vivoglobal.com
 *.ru-vcode-od.vivoglobal.com
 *.ru-vcode-or.vivoglobal.com
-*.sca-domaincfg.vivoglobal.com
-*.sca-err-up.vivoglobal.com
-*.sca-onrt-stsdk.vivoglobal.com
-*.sca-ort-stsdk.vivoglobal.com
-*.sca-p.vivoglobal.com
-*.sca-pnrt-stsdk.vivoglobal.com
-*.sca-romsp-unifyconfig.vivoglobal.com
-*.sca-st-sl.vivoglobal.com
-*.sca-stsdk.vivoglobal.com
-*.sca-timesync.vivoglobal.com
-*.sca-vcode-api.vivoglobal.com
-*.sca-vcode-od.vivoglobal.com
-*.sca-vcode-or.vivoglobal.com
 *.sg-cfg-stsdk.vivoglobal.com
 *.stsdk.vivoglobal.com
 *.tr-album-api.vivoglobal.com
 *.tr-cota.vivoglobal.com
 *.tr-domaincfg.vivoglobal.com
-*.tr-err-up.vivoglobal.com
 *.tr-gdpr-vgc-datacenter.vivoglobal.com
 *.tr-onrt-stsdk.vivoglobal.com
 *.tr-ort-stsdk.vivoglobal.com
@@ -232,7 +217,6 @@
 *.tr-vcode-or.vivoglobal.com
 *.tr-weather.vivoglobal.com
 *.uk-timesync.vivoglobal.com
-*.xn--ex-adreq-asa-c5b.vivoglobal.com
 *.xn-ex-adreq-asa-c5b.vivoglobal.com
 *.za-p.vivoglobal.com
 *.zasc-cota.vivoglobal.com

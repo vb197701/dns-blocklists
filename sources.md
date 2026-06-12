@@ -189,6 +189,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domain
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/toradvertising-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/videoadex-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/refs/heads/main/filters/adshield-domains.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
@@ -268,7 +269,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets//master/filters/ubol-filt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
-https://raw.githubusercontent.com/UTKAzureSentinelGithub/CheckPoint_IOCS_URL_FeedList/refs/heads/main/CERT_UA/domains.csv
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/yous/YousList/master/youslist.txt
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv

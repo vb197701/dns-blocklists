@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jun 2026 06:58 UTC
-! Version: 2026.0612.0658.48
+! Last modified: 12 Jun 2026 19:01 UTC
+! Version: 2026.0612.1901.37
 ! Syntax: AdBlock
-! Number of entries: 9925
+! Number of entries: 9966
 !
 ||a.189.cn^
 ||t.2merkato.com^
@@ -4099,6 +4099,7 @@
 ||hurl.me^
 ||hurl.ws^
 ||husband92.com^
+||hutbz.com^
 ||hutmat.in^
 ||hux.link^
 ||huxley.social^
@@ -4129,6 +4130,7 @@
 ||ibelocal.com^
 ||ibest.in^
 ||ibf.tw^
+||ibio.app^
 ||ibis.li^
 ||ibit.ly^
 ||ibitsy.com^
@@ -4167,6 +4169,7 @@
 ||ifix.gd^
 ||ift.cx^
 ||ift.tt^
+||ifwni.com^
 ||ige.li^
 ||igit.me^
 ||ignitetraining.media^
@@ -4194,6 +4197,7 @@
 ||ikwer.com^
 ||iky.fr^
 ||ilang.in^
+||ild.info^
 ||iligstein.com^
 ||ilink-to.net^
 ||ilix.in^
@@ -4234,6 +4238,7 @@
 ||infa.ltd^
 ||info.ms^
 ||infobaepe.com^
+||infs.site^
 ||infy.com^
 ||ingatdomainku.org^
 ||ingnm.eu^
@@ -4273,6 +4278,7 @@
 ||intwitspin.motorcycles^
 ||intx.ltd^
 ||inui.in^
+||invata-acum.ro^
 ||invent.ge^
 ||invest.tr^
 ||invisioncode.com^
@@ -4308,11 +4314,13 @@
 ||irbaz.ir^
 ||irng.ca^
 ||irohi.com^
+||irop.top^
 ||is.am^
 ||is.gd^
 ||is-gd.link^
 ||is3.co^
 ||isabi.click^
+||isang.click^
 ||isc-vn.com^
 ||isc-vn.org^
 ||iscool.net^
@@ -4361,6 +4369,7 @@
 ||iurl.us^
 ||iuu.ro^
 ||ivtshort.com^
+||iwo.ir^
 ||iwr.link^
 ||iwwlink.org^
 ||ix.sk^
@@ -4385,6 +4394,7 @@
 ||jaga.link^
 ||jaglil.com^
 ||jagoan-hosting.online^
+||jalanku.me^
 ||jalanpintas4d.com^
 ||jalurvip.co^
 ||jalurwild.win^
@@ -4420,6 +4430,7 @@
 ||jeso.life^
 ||jetzt.work^
 ||jevilink.com^
+||jewhate.info^
 ||jeya.li^
 ||jh7.uk^
 ||jhu.li^
@@ -4452,6 +4463,7 @@
 ||jobscity24.com^
 ||jog690.org^
 ||join-id.info^
+||joiner.co^
 ||joinzee.com^
 ||jomblo.org^
 ||jonty.link^
@@ -4504,6 +4516,7 @@
 ||kabuzzle.com^
 ||kagca.link^
 ||kagk.top^
+||kaileevllocmki.space^
 ||kaitect.com^
 ||kamo.es^
 ||kamozshomecatalog.com^
@@ -4585,6 +4598,7 @@
 ||kkstre.am^
 ||kku.digital^
 ||kku.world^
+||kl.am^
 ||kla.me^
 ||klas.ws^
 ||klck.me^
@@ -4616,6 +4630,8 @@
 ||kmi.mobi^
 ||kmr1.org^
 ||kn-t.net^
+||knext.in^
+||knf.md^
 ||knnt.me^
 ||knpp.online^
 ||knw.one^
@@ -4651,7 +4667,9 @@
 ||kro.kr^
 ||krohne.link^
 ||krpp.me^
+||krunchd.com^
 ||kryvon.live^
+||kslink.co^
 ||kslnk.com^
 ||ksni.my^
 ||ktbs.in^
@@ -4661,6 +4679,7 @@
 ||kuc.cz^
 ||kuhlinks.de^
 ||kuic.io^
+||kuik.li^
 ||kuiklink.com^
 ||kuku.lu^
 ||kulink.me^
@@ -4669,6 +4688,8 @@
 ||kurv.gr^
 ||kurz.jetzt^
 ||kurzelinks.de^
+||kuta.ir^
+||kutlink.com^
 ||kutt.in^
 ||kutt.it^
 ||kutt.to^
@@ -4682,8 +4703,10 @@
 ||kwurl.com^
 ||kwx.fyi^
 ||kxb.me^
+||kyaa.info^
 ||kyb101.link^
 ||kyk.it^
+||kylynk.com^
 ||l.tl^
 ||l-i-nk.me^
 ||l-ink.me^
@@ -4692,6 +4715,7 @@
 ||l-n.app^
 ||l00p.eu^
 ||l138.co^
+||l1k.ir^
 ||l1nk.fr^
 ||l1nk.me^
 ||l1nx.ai^
@@ -4810,6 +4834,7 @@
 ||lihipro.com^
 ||lihivip.com^
 ||liii.ink^
+||liink.ir^
 ||liinkee.com^
 ||liip.to^
 ||likelink.cz^
@@ -4817,12 +4842,15 @@
 ||likifi.com^
 ||lil.ee^
 ||lil.ge^
+||lil.so^
 ||lilbt.com^
 ||lillink.net^
 ||lillink.xyz^
 ||lilllil.ru^
 ||lilnk.to^
+||liltext.com^
 ||lilurl.run^
+||lin.cr^
 ||lin.ee^
 ||lin.io^
 ||lin.kiwi^
@@ -4835,6 +4863,7 @@
 ||linc.li^
 ||lincarx.com^
 ||lincat.co^
+||linck.ir^
 ||lincyt.com^
 ||linea.link^
 ||lined.cloud^
@@ -4890,6 +4919,7 @@
 ||linkbag.co^
 ||linkbby.com^
 ||linkbear.me^
+||linkbee.com^
 ||linkbee.me^
 ||linkbeton.com^
 ||linkbio.ch^
@@ -4912,6 +4942,7 @@
 ||linkcomposer.com^
 ||linkcrafter.com^
 ||linkcrypter.com^
+||linkcut.net^
 ||linkcut.tr^
 ||linkcutt.com^
 ||linkd.in^
@@ -4931,6 +4962,7 @@
 ||linkezurl.com^
 ||linkf.su^
 ||linkfast.me^
+||linkfat.com^
 ||linkfly.app^
 ||linkfly.me^
 ||linkfly.to^
@@ -4962,6 +4994,7 @@
 ||linkio.it^
 ||linkiq.co^
 ||linkis.co^
+||linkis.xyz^
 ||linkit.net^
 ||linkit4.me^
 ||linkiti.com^
@@ -4973,6 +5006,7 @@
 ||linkjitu.site^
 ||linkjoy.io^
 ||linkjoy.org^
+||linkjp.org^
 ||linkjust.com^
 ||linkk.ing^
 ||linkkece.com^
@@ -5053,11 +5087,13 @@
 ||links4money.com^
 ||linksa.me^
 ||linksable.to^
+||linksc.click^
 ||linkscop.me^
 ||linksdr.com^
 ||linksdude.com^
 ||linksehat.net^
 ||linkseo.live^
+||linksero.com^
 ||linksfire.net^
 ||linksflow.bio^
 ||linksfly.net^
@@ -5151,7 +5187,9 @@
 ||linqry.com^
 ||linqup.in^
 ||lintlink.com^
+||linux.mom^
 ||linxonly.com^
+||linxy.pro^
 ||lionl.ink^
 ||liquid.loans^
 ||liscr.info^
@@ -5167,6 +5205,7 @@
 ||little-link.co^
 ||littlelinkapp.com^
 ||littlelnk.com^
+||littleurl.app^
 ||littleurl.in^
 ||littly.fr^
 ||litty.in^
@@ -5215,6 +5254,7 @@
 ||lnk.direct^
 ||lnk.do^
 ||lnk.gd^
+||lnk.in^
 ||lnk.ink^
 ||lnk.jo^
 ||lnk.ke^
@@ -5241,6 +5281,7 @@
 ||lnks.city^
 ||lnks.es^
 ||lnks.fr^
+||lnkshk.com^
 ||lnkshort.com^
 ||lnktee.com^
 ||lnkup.us^

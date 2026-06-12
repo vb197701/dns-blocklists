@@ -785,6 +785,13 @@
       }
     },
     {
+      "PK": "tokyo",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "trading",
       "action": {
         "do": 0,

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781251020 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781290800 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jun 2026 07:57 UTC
-; Version: 2026.0612.0757.49
+; Last modified: 12 Jun 2026 19:00 UTC
+; Version: 2026.0612.1900.19
 ; Syntax: RPZ
-; Number of entries: 34258
+; Number of entries: 34292
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -3729,6 +3729,8 @@ dns.73zls.com CNAME .
 *.789vpnapp.com CNAME .
 7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com CNAME .
 *.7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com CNAME .
+idk.7btech.com CNAME .
+*.idk.7btech.com CNAME .
 7c45b8ee2a19601f023836f7e22bae70ac80ca7f.com CNAME .
 *.7c45b8ee2a19601f023836f7e22bae70ac80ca7f.com CNAME .
 7f8a85466c4219fa725c511ec0a32b15707710b1.com CNAME .
@@ -9831,6 +9833,8 @@ ipnproxy.com CNAME .
 *.ipnproxy.com CNAME .
 ipracevpn.com CNAME .
 *.ipracevpn.com CNAME .
+iprivatevpn.com CNAME .
+*.iprivatevpn.com CNAME .
 iprovpn.com CNAME .
 *.iprovpn.com CNAME .
 iproyal.com CNAME .
@@ -9971,6 +9975,8 @@ hk.janebooom.com CNAME .
 *.hk.janebooom.com CNAME .
 janetvill.com CNAME .
 *.janetvill.com CNAME .
+javascriptproxy.com CNAME .
+*.javascriptproxy.com CNAME .
 edu-kko38.jawvinit.com CNAME .
 *.edu-kko38.jawvinit.com CNAME .
 jaxpulse.com CNAME .
@@ -10693,6 +10699,8 @@ kuailian-apps.com CNAME .
 *.kuailian-apps.com CNAME .
 kuailian-chine.com CNAME .
 *.kuailian-chine.com CNAME .
+kuailian-cn.com CNAME .
+*.kuailian-cn.com CNAME .
 kuailian-hk.com CNAME .
 *.kuailian-hk.com CNAME .
 kuailian-inst.com CNAME .
@@ -10957,6 +10965,8 @@ letsejavpn.com CNAME .
 *.letsejavpn.com CNAME .
 letsiesvpn.com CNAME .
 *.letsiesvpn.com CNAME .
+letsilvpn.com CNAME .
+*.letsilvpn.com CNAME .
 letslian.com CNAME .
 *.letslian.com CNAME .
 letslvpn.com CNAME .
@@ -11017,6 +11027,8 @@ letsyuivpn.com CNAME .
 *.letsyuivpn.com CNAME .
 letvpna.com CNAME .
 *.letvpna.com CNAME .
+levsvpn.com CNAME .
+*.levsvpn.com CNAME .
 art.lexvoip.com CNAME .
 *.art.lexvoip.com CNAME .
 br2.lezainski.com CNAME .
@@ -24419,6 +24431,8 @@ ns2.level3.net CNAME .
 *.ns2.level3.net CNAME .
 dns.liberador.net CNAME .
 *.dns.liberador.net CNAME .
+libertyvpn.net CNAME .
+*.libertyvpn.net CNAME .
 liebaojiasu.net CNAME .
 *.liebaojiasu.net CNAME .
 linbei.net CNAME .
@@ -27271,6 +27285,10 @@ delta.y.glenwaverleychurches.org CNAME .
 *.delta.y.glenwaverleychurches.org CNAME .
 epsilon.y.glenwaverleychurches.org CNAME .
 *.epsilon.y.glenwaverleychurches.org CNAME .
+kappa.y.glenwaverleychurches.org CNAME .
+*.kappa.y.glenwaverleychurches.org CNAME .
+lambda.y.glenwaverleychurches.org CNAME .
+*.lambda.y.glenwaverleychurches.org CNAME .
 glintapp.org CNAME .
 *.glintapp.org CNAME .
 dns.api.globus.org CNAME .
@@ -29073,6 +29091,8 @@ about.izenimplant.ro CNAME .
 *.about.izenimplant.ro CNAME .
 raiseyouryayaya.katan.ro CNAME .
 *.raiseyouryayaya.katan.ro CNAME .
+learnfrench.ktx.ro CNAME .
+*.learnfrench.ktx.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 hr.picinel.ro CNAME .
@@ -29213,6 +29233,8 @@ agriculture.arts.bastaff.ru CNAME .
 *.agriculture.arts.bastaff.ru CNAME .
 galaxy-glint.bastaff.ru CNAME .
 *.galaxy-glint.bastaff.ru CNAME .
+leave-school.bastaff.ru CNAME .
+*.leave-school.bastaff.ru CNAME .
 smack.bastaff.ru CNAME .
 *.smack.bastaff.ru CNAME .
 tacobelljobs.bastaff.ru CNAME .
@@ -30357,6 +30379,8 @@ welcome-to-learning.fredrikkivi.se CNAME .
 *.welcome-to-learning.fredrikkivi.se CNAME .
 dns.haka.se CNAME .
 *.dns.haka.se CNAME .
+ipredator.se CNAME .
+*.ipredator.se CNAME .
 kokesh.se CNAME .
 *.kokesh.se CNAME .
 leap.se CNAME .
@@ -30763,6 +30787,8 @@ tui5515.site CNAME .
 *.tui5515.site CNAME .
 tunxray.site CNAME .
 *.tunxray.site CNAME .
+jrdn.tutoringservices.site CNAME .
+*.jrdn.tutoringservices.site CNAME .
 twhd.site CNAME .
 *.twhd.site CNAME .
 uboost.site CNAME .
@@ -32235,6 +32261,8 @@ doh.zhongbr.uk CNAME .
 *.doh.zhongbr.uk CNAME .
 unblockit.uno CNAME .
 *.unblockit.uno CNAME .
+lmaozev.0rg.us CNAME .
+*.lmaozev.0rg.us CNAME .
 weloverobert.1ax.us CNAME .
 *.weloverobert.1ax.us CNAME .
 2fastsurfer.us CNAME .
@@ -32969,6 +32997,8 @@ dns.glf.wtf CNAME .
 *.dns.glf.wtf CNAME .
 hakoda.wtf CNAME .
 *.hakoda.wtf CNAME .
+hydroxide.wtf CNAME .
+*.hydroxide.wtf CNAME .
 ja3dery.oops.wtf CNAME .
 *.ja3dery.oops.wtf CNAME .
 wof.wtf CNAME .
@@ -33535,12 +33565,16 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 px.jarnus.xyz CNAME .
 *.px.jarnus.xyz CNAME .
+jessehome.xyz CNAME .
+*.jessehome.xyz CNAME .
 jialeconvertv.xyz CNAME .
 *.jialeconvertv.xyz CNAME .
 jitudh.xyz CNAME .
 *.jitudh.xyz CNAME .
 jiying.xyz CNAME .
 *.jiying.xyz CNAME .
+jjcloud.xyz CNAME .
+*.jjcloud.xyz CNAME .
 jongserver.xyz CNAME .
 *.jongserver.xyz CNAME .
 journeywalkdrive.xyz CNAME .

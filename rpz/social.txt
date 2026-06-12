@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1779973080 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781291460 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 May 2026 12:58 UTC
-; Version: 2026.0528.1258.11
+; Last modified: 12 Jun 2026 19:11 UTC
+; Version: 2026.0612.1911.00
 ; Syntax: RPZ
-; Number of entries: 1780
+; Number of entries: 1798
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -200,6 +200,8 @@ cms-twdigitalassets.com CNAME .
 *.cms-twdigitalassets.com CNAME .
 como-hackearfacebook.com CNAME .
 *.como-hackearfacebook.com CNAME .
+crowdtangle.com CNAME .
+*.crowdtangle.com CNAME .
 dacebook.com CNAME .
 *.dacebook.com CNAME .
 discord.com CNAME .
@@ -350,6 +352,8 @@ facebook.com CNAME .
 *.facebook.com CNAME .
 facebook-corp.com CNAME .
 *.facebook-corp.com CNAME .
+facebook-covid-19.com CNAME .
+*.facebook-covid-19.com CNAME .
 facebook-ebook.com CNAME .
 *.facebook-ebook.com CNAME .
 facebook-forum.com CNAME .
@@ -400,6 +404,8 @@ facebookcom.com CNAME .
 *.facebookcom.com CNAME .
 facebookconnect.com CNAME .
 *.facebookconnect.com CNAME .
+facebookcoronavirus.com CNAME .
+*.facebookcoronavirus.com CNAME .
 facebookdevelopergarage.com CNAME .
 *.facebookdevelopergarage.com CNAME .
 facebookemail.com CNAME .
@@ -624,6 +630,8 @@ fbboostyourbusiness.com CNAME .
 *.fbboostyourbusiness.com CNAME .
 fbcdn.com CNAME .
 *.fbcdn.com CNAME .
+fbf8.com CNAME .
+*.fbf8.com CNAME .
 fbfeedback.com CNAME .
 *.fbfeedback.com CNAME .
 fbhome.com CNAME .
@@ -642,8 +650,12 @@ fbmessenger.com CNAME .
 *.fbmessenger.com CNAME .
 fbredex.com CNAME .
 *.fbredex.com CNAME .
+fbreg.com CNAME .
+*.fbreg.com CNAME .
 fbrell.com CNAME .
 *.fbrell.com CNAME .
+fbrpms.com CNAME .
+*.fbrpms.com CNAME .
 fbsbx.com CNAME .
 *.fbsbx.com CNAME .
 fbthirdpartypixel.com CNAME .
@@ -758,6 +770,8 @@ hackfacebookid.com CNAME .
 *.hackfacebookid.com CNAME .
 hhvm.com CNAME .
 *.hhvm.com CNAME .
+howtohackfacebook-account.com CNAME .
+*.howtohackfacebook-account.com CNAME .
 hsfacebook.com CNAME .
 *.hsfacebook.com CNAME .
 httpfacebook.com CNAME .
@@ -782,24 +796,20 @@ p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
 *.p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
 p16-tiktok-group-icon-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-group-icon-sign-sg.ibyteimg.com CNAME .
-p16-tiktok-group-icon-sign-va.ibyteimg.com CNAME .
-*.p16-tiktok-group-icon-sign-va.ibyteimg.com CNAME .
 p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
 *.p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
-p16-tiktok-ls-product-sign-sg.ibyteimg.com CNAME .
-*.p16-tiktok-ls-product-sign-sg.ibyteimg.com CNAME .
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
-p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
-*.p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
 p16-tiktok-va.ibyteimg.com CNAME .
 *.p16-tiktok-va.ibyteimg.com CNAME .
-p16-tiktok-web-ads-sg.ibyteimg.com CNAME .
-*.p16-tiktok-web-ads-sg.ibyteimg.com CNAME .
+igcdn.com CNAME .
+*.igcdn.com CNAME .
 igsonar.com CNAME .
 *.igsonar.com CNAME .
+igtv.com CNAME .
+*.igtv.com CNAME .
 imstagram.com CNAME .
 *.imstagram.com CNAME .
 imtagram.com CNAME .
@@ -1332,6 +1342,10 @@ discordapp.net CNAME .
 *.discordapp.net CNAME .
 dotfacebook.net CNAME .
 *.dotfacebook.net CNAME .
+cs1404.wpc.epsiloncdn.net CNAME .
+*.cs1404.wpc.epsiloncdn.net CNAME .
+cs767.wpc.epsiloncdn.net CNAME .
+*.cs767.wpc.epsiloncdn.net CNAME .
 facebook.net CNAME .
 *.facebook.net CNAME .
 facebook-pmdcenter.net CNAME .
@@ -1378,6 +1392,10 @@ fbcdn.net CNAME .
 *.fbcdn.net CNAME .
 fbsbx.net CNAME .
 *.fbsbx.net CNAME .
+fbsupport-covid.net CNAME .
+*.fbsupport-covid.net CNAME .
+fbthirdpartypixel.net CNAME .
+*.fbthirdpartypixel.net CNAME .
 fecebook.net CNAME .
 *.fecebook.net CNAME .
 fishki.net CNAME .

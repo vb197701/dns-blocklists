@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:00 UTC
-# Version: 2026.0605.1800.28
+# Last modified: 12 Jun 2026 19:13 UTC
+# Version: 2026.0612.1913.39
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 348
 #
@@ -53,6 +53,7 @@ local=/aax-ott-sdk.amazon-adsystem.com/
 local=/aax-ott.amazon-adsystem.amazon.com/
 local=/aax-ott.amazon-adsystem.com/
 local=/aax-us-east-1-ott.amazon-adsystem.amazon.com/
+local=/aax-us-east-dtb-mobile-events.amazon-adsystem.com/
 local=/aax-us-east-dtb-mobile.amazon-adsystem.com/
 local=/aax-us-east-dtb.amazon-adsystem.com/
 local=/aax-us-east-ott.amazon-adsystem.com/
@@ -70,7 +71,6 @@ local=/aax-us-ott.amazon-adsystem.amazon.com/
 local=/aax-us-pdx-rtb-adx.amazon-adsystem.com/
 local=/aax-us-pdx-rtb.amazon-adsystem.com/
 local=/aax-us-pdx.amazon-adsystem.com/
-local=/aax-us-west-2-ott.amazon-adsystem.amazon.com/
 local=/aax-us-west-dtb-mobile-events.amazon-adsystem.com/
 local=/aax-us-west-dtb-mobile.amazon-adsystem.com/
 local=/aax-us-west-ott-events.amazon-adsystem.com/

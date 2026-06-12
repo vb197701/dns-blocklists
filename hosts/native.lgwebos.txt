@@ -5,15 +5,17 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Jun 2026 18:04 UTC
-# Version: 2026.0605.1804.22
+# Last modified: 12 Jun 2026 19:17 UTC
+# Version: 2026.0612.1917.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1657
+# Number of entries: 1698
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
 0.0.0.0 aeihat46.alphonso.tv
+0.0.0.0 afaprrnbzl1.alphonso.tv
 0.0.0.0 aknbxhzyd1.alphonso.tv
+0.0.0.0 alb-ais-prod-lb.alphonso.tv
 0.0.0.0 aqvqsekdpw89.alphonso.tv
 0.0.0.0 atzcxw9.alphonso.tv
 0.0.0.0 bbhobjaopy4.alphonso.tv
@@ -23,6 +25,7 @@
 0.0.0.0 bkhwgq8.alphonso.tv
 0.0.0.0 bl-server.alphonso.tv
 0.0.0.0 bmkoqxogtv40.alphonso.tv
+0.0.0.0 bnkis3.alphonso.tv
 0.0.0.0 bnwhgdi66.alphonso.tv
 0.0.0.0 bphcuxntp31.alphonso.tv
 0.0.0.0 bsdvjjug6.alphonso.tv
@@ -42,26 +45,33 @@
 0.0.0.0 clockskew.alphonso.tv
 0.0.0.0 config-overlay-ads.alphonso.tv
 0.0.0.0 config-overlay-ads-staging.alphonso.tv
+0.0.0.0 crmjqv9.alphonso.tv
 0.0.0.0 crpsh8.alphonso.tv
 0.0.0.0 cssmps40.alphonso.tv
 0.0.0.0 csxnc89.alphonso.tv
 0.0.0.0 cxlqmxzemg54.alphonso.tv
 0.0.0.0 cyijq72.alphonso.tv
 0.0.0.0 dar-pix-prod-lb.alphonso.tv
+0.0.0.0 degea.alphonso.tv
 0.0.0.0 dkpae73.alphonso.tv
 0.0.0.0 dmkfppbdav49.alphonso.tv
 0.0.0.0 dnkdidh2.alphonso.tv
+0.0.0.0 dqfui3.alphonso.tv
 0.0.0.0 dqtcg35.alphonso.tv
 0.0.0.0 dqzljjhryn04.alphonso.tv
 0.0.0.0 dtsif22.alphonso.tv
+0.0.0.0 dtyjiik06.alphonso.tv
 0.0.0.0 dueypce56.alphonso.tv
 0.0.0.0 dufqih18.alphonso.tv
+0.0.0.0 dzhsiasru67.alphonso.tv
 0.0.0.0 dzqkrgamr75.alphonso.tv
 0.0.0.0 ebgyjue7.alphonso.tv
 0.0.0.0 ecbmtltfbu47.alphonso.tv
 0.0.0.0 edqsadx4.alphonso.tv
 0.0.0.0 eekghd98.alphonso.tv
+0.0.0.0 egmfuqki23.alphonso.tv
 0.0.0.0 ennef96.alphonso.tv
+0.0.0.0 eoydhe10.alphonso.tv
 0.0.0.0 eqdrews7.alphonso.tv
 0.0.0.0 erafukhaie3.alphonso.tv
 0.0.0.0 eu-acr-gpu1.alphonso.tv
@@ -217,9 +227,11 @@
 0.0.0.0 eu-clockskew.alphonso.tv
 0.0.0.0 eu-prov-lb.alphonso.tv
 0.0.0.0 eu-prov2.alphonso.tv
+0.0.0.0 ewqwvq9.alphonso.tv
 0.0.0.0 eyndphse57.alphonso.tv
 0.0.0.0 favann0.alphonso.tv
 0.0.0.0 fddan03.alphonso.tv
+0.0.0.0 fhkex91.alphonso.tv
 0.0.0.0 fjzlz5.alphonso.tv
 0.0.0.0 fkflly0.alphonso.tv
 0.0.0.0 fltqq84.alphonso.tv
@@ -240,14 +252,17 @@
 0.0.0.0 hooftnl76.alphonso.tv
 0.0.0.0 hrnwnuobza7.alphonso.tv
 0.0.0.0 hsfhfh95.alphonso.tv
+0.0.0.0 hvqjcycemh5.alphonso.tv
 0.0.0.0 hzcecjl9.alphonso.tv
 0.0.0.0 hzcjehtc7.alphonso.tv
 0.0.0.0 ibniwvetq1.alphonso.tv
 0.0.0.0 icoxpv90.alphonso.tv
+0.0.0.0 idkjv31.alphonso.tv
 0.0.0.0 ieufd1.alphonso.tv
 0.0.0.0 insights.alphonso.tv
 0.0.0.0 ioaoyyl3.alphonso.tv
 0.0.0.0 iqzjhctm4.alphonso.tv
+0.0.0.0 irmchav36.alphonso.tv
 0.0.0.0 iwwwvsed59.alphonso.tv
 0.0.0.0 iytopqvcp0.alphonso.tv
 0.0.0.0 jcntvzwcu59.alphonso.tv
@@ -260,6 +275,7 @@
 0.0.0.0 jokeg7.alphonso.tv
 0.0.0.0 jqqqiife69.alphonso.tv
 0.0.0.0 jrtwcm90.alphonso.tv
+0.0.0.0 jzbznqbz81.alphonso.tv
 0.0.0.0 jzzuvzq98.alphonso.tv
 0.0.0.0 kfkggmwj1.alphonso.tv
 0.0.0.0 kjvhhi2.alphonso.tv
@@ -382,6 +398,7 @@
 0.0.0.0 krishnaw369.alphonso.tv
 0.0.0.0 krishnaw370.alphonso.tv
 0.0.0.0 krishnaw371.alphonso.tv
+0.0.0.0 krishnaw372.alphonso.tv
 0.0.0.0 krishnaw374.alphonso.tv
 0.0.0.0 krishnaw375.alphonso.tv
 0.0.0.0 krishnaw377.alphonso.tv
@@ -431,7 +448,6 @@
 0.0.0.0 krishnaw437.alphonso.tv
 0.0.0.0 krishnaw438.alphonso.tv
 0.0.0.0 krishnaw439.alphonso.tv
-0.0.0.0 krishnaw440.alphonso.tv
 0.0.0.0 krishnaw441.alphonso.tv
 0.0.0.0 krishnaw445.alphonso.tv
 0.0.0.0 krishnaw446.alphonso.tv
@@ -494,6 +510,7 @@
 0.0.0.0 lfzdqsvwx8.alphonso.tv
 0.0.0.0 lglbfle6.alphonso.tv
 0.0.0.0 lizmjtlnix16.alphonso.tv
+0.0.0.0 ljjsajcuwf67.alphonso.tv
 0.0.0.0 llohtzbd55.alphonso.tv
 0.0.0.0 lmhnduqing0.alphonso.tv
 0.0.0.0 lmlfikv7.alphonso.tv
@@ -514,6 +531,7 @@
 0.0.0.0 mogrs74.alphonso.tv
 0.0.0.0 mopezmv99.alphonso.tv
 0.0.0.0 mpfml72.alphonso.tv
+0.0.0.0 mrhcmybeao1.alphonso.tv
 0.0.0.0 mutnc1.alphonso.tv
 0.0.0.0 mwuvclbed2.alphonso.tv
 0.0.0.0 myjfricv2.alphonso.tv
@@ -522,6 +540,7 @@
 0.0.0.0 nmjvt6.alphonso.tv
 0.0.0.0 nqzwjhj7.alphonso.tv
 0.0.0.0 ntkfbsqfxy2.alphonso.tv
+0.0.0.0 ntmonou0.alphonso.tv
 0.0.0.0 nxlfrrqk07.alphonso.tv
 0.0.0.0 nzbglro8.alphonso.tv
 0.0.0.0 oabvftvdl78.alphonso.tv
@@ -533,6 +552,7 @@
 0.0.0.0 okgbuy7.alphonso.tv
 0.0.0.0 olktn60.alphonso.tv
 0.0.0.0 omyzsk8.alphonso.tv
+0.0.0.0 onvshoi4.alphonso.tv
 0.0.0.0 ooefrrv5.alphonso.tv
 0.0.0.0 optout.alphonso.tv
 0.0.0.0 oqqqhfehq0.alphonso.tv
@@ -558,6 +578,7 @@
 0.0.0.0 prov-lg.alphonso.tv
 0.0.0.0 pwojexjma1.alphonso.tv
 0.0.0.0 qarawx1.alphonso.tv
+0.0.0.0 qcduuw89.alphonso.tv
 0.0.0.0 qdlmwrluk95.alphonso.tv
 0.0.0.0 qhaciv57.alphonso.tv
 0.0.0.0 qinvc14.alphonso.tv
@@ -1084,6 +1105,7 @@
 0.0.0.0 ubescyza51.alphonso.tv
 0.0.0.0 ugelxexv9.alphonso.tv
 0.0.0.0 ugiys71.alphonso.tv
+0.0.0.0 ujdcipvr0.alphonso.tv
 0.0.0.0 ujuyhix2.alphonso.tv
 0.0.0.0 ujzkkj8.alphonso.tv
 0.0.0.0 uk-ad-inserter.alphonso.tv
@@ -1095,21 +1117,27 @@
 0.0.0.0 uwysugvwcb5.alphonso.tv
 0.0.0.0 uzfsfnxy61.alphonso.tv
 0.0.0.0 valkxt74.alphonso.tv
+0.0.0.0 vbpfpbmodz9.alphonso.tv
 0.0.0.0 vewxchtqs1.alphonso.tv
 0.0.0.0 vfqtgvx0.alphonso.tv
 0.0.0.0 vgflwz29.alphonso.tv
 0.0.0.0 vinwpdk4.alphonso.tv
 0.0.0.0 vllychnv92.alphonso.tv
 0.0.0.0 voexk5.alphonso.tv
+0.0.0.0 vofpr7.alphonso.tv
 0.0.0.0 vokpmgsfi48.alphonso.tv
+0.0.0.0 vqglui0.alphonso.tv
 0.0.0.0 vwvrl11.alphonso.tv
+0.0.0.0 vwwpcztjfx1.alphonso.tv
 0.0.0.0 vxbirwzxli95.alphonso.tv
 0.0.0.0 vzdqozmtzj9.alphonso.tv
 0.0.0.0 vzxysu18.alphonso.tv
 0.0.0.0 wdnhhcrvaj4.alphonso.tv
 0.0.0.0 wdvqypb4.alphonso.tv
 0.0.0.0 web2.alphonso.tv
+0.0.0.0 wfaxl94.alphonso.tv
 0.0.0.0 whxrqzhg26.alphonso.tv
+0.0.0.0 wtayth56.alphonso.tv
 0.0.0.0 wtjnvg4.alphonso.tv
 0.0.0.0 wucywemewn2.alphonso.tv
 0.0.0.0 wuxsec36.alphonso.tv
@@ -1124,10 +1152,16 @@
 0.0.0.0 xksxqur0.alphonso.tv
 0.0.0.0 xovsoot4.alphonso.tv
 0.0.0.0 xpmbuxhl9.alphonso.tv
+0.0.0.0 xqkhxmkoxa6.alphonso.tv
 0.0.0.0 xqqyx2.alphonso.tv
 0.0.0.0 xrxtkwnz4.alphonso.tv
 0.0.0.0 xsbyyik52.alphonso.tv
+0.0.0.0 xvrjoiw71.alphonso.tv
+0.0.0.0 xwoveqhs3.alphonso.tv
+0.0.0.0 xxnddqoplr5.alphonso.tv
 0.0.0.0 xxpaz5.alphonso.tv
+0.0.0.0 yalcvrn0.alphonso.tv
+0.0.0.0 ybskbpp84.alphonso.tv
 0.0.0.0 ycqniap3.alphonso.tv
 0.0.0.0 ycveqoogp09.alphonso.tv
 0.0.0.0 ygebzkorfi7.alphonso.tv
@@ -1140,15 +1174,21 @@
 0.0.0.0 yygzydzs13.alphonso.tv
 0.0.0.0 zbzcbkflw2.alphonso.tv
 0.0.0.0 zcesm62.alphonso.tv
+0.0.0.0 zdptgxxqzy2.alphonso.tv
 0.0.0.0 zeokb1.alphonso.tv
 0.0.0.0 zhalit66.alphonso.tv
+0.0.0.0 zmcfztc2.alphonso.tv
 0.0.0.0 zmepmwhey7.alphonso.tv
+0.0.0.0 zoklwxuo66.alphonso.tv
+0.0.0.0 zonbpmtibc27.alphonso.tv
 0.0.0.0 zpvvb87.alphonso.tv
 0.0.0.0 zqsyp37.alphonso.tv
 0.0.0.0 zsqnv4.alphonso.tv
 0.0.0.0 zsrznel7.alphonso.tv
+0.0.0.0 ztbiazom15.alphonso.tv
 0.0.0.0 zumqanh0.alphonso.tv
 0.0.0.0 zycigxwpgv8.alphonso.tv
+0.0.0.0 zzoxjxat57.alphonso.tv
 0.0.0.0 ae-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 af-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ag-ad-lgsmartad-com.aws-prd.net
@@ -1313,6 +1353,7 @@
 0.0.0.0 zm-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 zw-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 eic-ngfts.lge.com.edgekey.net
+0.0.0.0 eic-qt2-ngfts.lge.com.edgekey.net
 0.0.0.0 kic-ngfts.lge.com.edgekey.net
 0.0.0.0 qt2-ngfts.lge.com.edgekey.net
 0.0.0.0 lgads.tv

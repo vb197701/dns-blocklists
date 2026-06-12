@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Jun 2026 07:57 UTC
-! Version: 2026.0612.0757.49
+! Last modified: 12 Jun 2026 19:00 UTC
+! Version: 2026.0612.1900.19
 ! Syntax: AdBlock
-! Number of entries: 17129
+! Number of entries: 17146
 !
 ||ss.0001.xyz^
 ||ilovethiswebsite.001-lab.space^
@@ -20,6 +20,7 @@
 ||www-666.020202.best^
 ||dns.080590.xyz^
 ||dns.0ooo.icu^
+||lmaozev.0rg.us^
 ||1.0rz.space^
 ||2.0rz.space^
 ||auroraurweird.0x.no^
@@ -140,6 +141,7 @@
 ||ayman-dns.731my.com^
 ||dns.73zls.com^
 ||ns.77ll.ru^
+||idk.7btech.com^
 ||hopethishelps.7geo7.ru^
 ||noad.800216.xyz^
 ||ad.800801.xyz^
@@ -703,6 +705,7 @@
 ||agriculture.arts.bastaff.ru^
 ||aphistorytutoring.bastaff.ru^
 ||galaxy-glint.bastaff.ru^
+||leave-school.bastaff.ru^
 ||smack.bastaff.ru^
 ||tacobelljobs.bastaff.ru^
 ||we-hate-school.bastaff.ru^
@@ -3526,6 +3529,8 @@
 ||beta.y.glenwaverleychurches.org^
 ||delta.y.glenwaverleychurches.org^
 ||epsilon.y.glenwaverleychurches.org^
+||kappa.y.glenwaverleychurches.org^
+||lambda.y.glenwaverleychurches.org^
 ||dns.glf.wtf^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -4439,6 +4444,7 @@
 ||dns.krol.cloud^
 ||kryptovpn.kryptotel.net^
 ||hdns.ksyun.com^
+||learnfrench.ktx.ro^
 ||orbit.craft.kuede.info^
 ||learn.kugya.com^
 ||dns.kukal.cz^
@@ -6658,6 +6664,7 @@
 ||justdoit.tuquy.com^
 ||vpn.turbofast.io^
 ||xtbfsr.turbofast.io^
+||jrdn.tutoringservices.site^
 ||nat64.tuxis.nl^
 ||adguard.tver-tech.ru^
 ||blackattacker.tvjumbleanswers.com^
@@ -11544,6 +11551,7 @@
 ||hxwnkrnn.cc^
 ||hxxxxx.name^
 ||hxy.name^
+||hydroxide.wtf^
 ||hyeeypad.cc^
 ||hykdwzgw.online^
 ||hyper0.xyz^
@@ -11690,6 +11698,8 @@
 ||iportal.me^
 ||ipprotectionauth.goog^
 ||ipracevpn.com^
+||ipredator.se^
+||iprivatevpn.com^
 ||iprovpn.com^
 ||iprovpn.dev^
 ||iproxy.blog^
@@ -11775,6 +11785,7 @@
 ||jaltrix.ru^
 ||jamesisbald.xyz^
 ||janetvill.com^
+||javascriptproxy.com^
 ||jaxpulse.com^
 ||jbmcxmpx.cc^
 ||jcbb.cc^
@@ -11785,6 +11796,7 @@
 ||jegovpn.com^
 ||jellypop.org^
 ||jellyvpn.com^
+||jessehome.xyz^
 ||jet-noria.ru^
 ||jetbean.com^
 ||jetnoria.ru^
@@ -11841,6 +11853,7 @@
 ||jiying.xyz^
 ||jiyygsat.com^
 ||jj-speed.net^
+||jjcloud.xyz^
 ||jjjj.loan^
 ||jjjxgc.com^
 ||jjs-bbq.space^
@@ -12325,6 +12338,7 @@
 ||kuailian-app-cn.com^
 ||kuailian-apps.com^
 ||kuailian-chine.com^
+||kuailian-cn.com^
 ||kuailian-hk.com^
 ||kuailian-inst.com^
 ||kuailian-it.com^
@@ -12525,6 +12539,7 @@
 ||letseaivpn.com^
 ||letsejavpn.com^
 ||letsiesvpn.com^
+||letsilvpn.com^
 ||letslian.com^
 ||letslvpn.com^
 ||letsoifvpn.com^
@@ -12576,6 +12591,7 @@
 ||letsyuivpn.com^
 ||letvpn.net^
 ||letvpna.com^
+||levsvpn.com^
 ||lewsha.lol^
 ||leyfxjlv.cc^
 ||lfmreko.cn^
@@ -12583,6 +12599,7 @@
 ||liangyuandian.club^
 ||liberator.one^
 ||libertyvpn.app^
+||libertyvpn.net^
 ||libertyvpn.org^
 ||libredns.gr^
 ||librevpn.org^

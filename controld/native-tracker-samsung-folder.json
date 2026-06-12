@@ -1331,6 +1331,20 @@
       }
     },
     {
+      "PK": "ureca.samsungapps.com.ad.mexnet.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "us-report.gras.samsungdm.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "xpu.samsungelectronics.com",
       "action": {
         "do": 0,

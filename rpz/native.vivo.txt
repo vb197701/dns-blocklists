@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1780988100 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781292000 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Vivo Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Jun 2026 06:55 UTC
-; Version: 2026.0609.0655.34
+; Last modified: 12 Jun 2026 19:20 UTC
+; Version: 2026.0612.1920.19
 ; Syntax: RPZ
-; Number of entries: 480
+; Number of entries: 448
 ;
 h4g3z1-native.vivo.web.app CNAME .
 *.h4g3z1-native.vivo.web.app CNAME .
@@ -138,6 +138,8 @@ cname-asia-stsdk09.vivoglobal.com CNAME .
 *.cname-asia-stsdk09.vivoglobal.com CNAME .
 cname-asia02-stsdk.vivoglobal.com CNAME .
 *.cname-asia02-stsdk.vivoglobal.com CNAME .
+cname-de-stsdk.vivoglobal.com CNAME .
+*.cname-de-stsdk.vivoglobal.com CNAME .
 cname-in-apport-stsdk.vivoglobal.com CNAME .
 *.cname-in-apport-stsdk.vivoglobal.com CNAME .
 cname-in-bom01-nginxpool03.vivoglobal.com CNAME .
@@ -166,8 +168,6 @@ de-gdpr-err-up.vivoglobal.com CNAME .
 *.de-gdpr-err-up.vivoglobal.com CNAME .
 err-up.vivoglobal.com CNAME .
 *.err-up.vivoglobal.com CNAME .
-eu-album-api.vivoglobal.com CNAME .
-*.eu-album-api.vivoglobal.com CNAME .
 eu-cota.vivoglobal.com CNAME .
 *.eu-cota.vivoglobal.com CNAME .
 eu-domaincfg.vivoglobal.com CNAME .
@@ -224,8 +224,6 @@ in-apppnrt-stsdk.vivoglobal.com CNAME .
 *.in-apppnrt-stsdk.vivoglobal.com CNAME .
 in-appprt-stsdk.vivoglobal.com CNAME .
 *.in-appprt-stsdk.vivoglobal.com CNAME .
-in-cfg-stsdk.vivoglobal.com CNAME .
-*.in-cfg-stsdk.vivoglobal.com CNAME .
 in-cota.vivoglobal.com CNAME .
 *.in-cota.vivoglobal.com CNAME .
 in-ctdbonrt-stsdk.vivoglobal.com CNAME .
@@ -384,32 +382,6 @@ ru-vcode-od.vivoglobal.com CNAME .
 *.ru-vcode-od.vivoglobal.com CNAME .
 ru-vcode-or.vivoglobal.com CNAME .
 *.ru-vcode-or.vivoglobal.com CNAME .
-sca-domaincfg.vivoglobal.com CNAME .
-*.sca-domaincfg.vivoglobal.com CNAME .
-sca-err-up.vivoglobal.com CNAME .
-*.sca-err-up.vivoglobal.com CNAME .
-sca-onrt-stsdk.vivoglobal.com CNAME .
-*.sca-onrt-stsdk.vivoglobal.com CNAME .
-sca-ort-stsdk.vivoglobal.com CNAME .
-*.sca-ort-stsdk.vivoglobal.com CNAME .
-sca-p.vivoglobal.com CNAME .
-*.sca-p.vivoglobal.com CNAME .
-sca-pnrt-stsdk.vivoglobal.com CNAME .
-*.sca-pnrt-stsdk.vivoglobal.com CNAME .
-sca-romsp-unifyconfig.vivoglobal.com CNAME .
-*.sca-romsp-unifyconfig.vivoglobal.com CNAME .
-sca-st-sl.vivoglobal.com CNAME .
-*.sca-st-sl.vivoglobal.com CNAME .
-sca-stsdk.vivoglobal.com CNAME .
-*.sca-stsdk.vivoglobal.com CNAME .
-sca-timesync.vivoglobal.com CNAME .
-*.sca-timesync.vivoglobal.com CNAME .
-sca-vcode-api.vivoglobal.com CNAME .
-*.sca-vcode-api.vivoglobal.com CNAME .
-sca-vcode-od.vivoglobal.com CNAME .
-*.sca-vcode-od.vivoglobal.com CNAME .
-sca-vcode-or.vivoglobal.com CNAME .
-*.sca-vcode-or.vivoglobal.com CNAME .
 sg-cfg-stsdk.vivoglobal.com CNAME .
 *.sg-cfg-stsdk.vivoglobal.com CNAME .
 stsdk.vivoglobal.com CNAME .
@@ -420,8 +392,6 @@ tr-cota.vivoglobal.com CNAME .
 *.tr-cota.vivoglobal.com CNAME .
 tr-domaincfg.vivoglobal.com CNAME .
 *.tr-domaincfg.vivoglobal.com CNAME .
-tr-err-up.vivoglobal.com CNAME .
-*.tr-err-up.vivoglobal.com CNAME .
 tr-gdpr-vgc-datacenter.vivoglobal.com CNAME .
 *.tr-gdpr-vgc-datacenter.vivoglobal.com CNAME .
 tr-onrt-stsdk.vivoglobal.com CNAME .
@@ -456,8 +426,6 @@ uk-timesync.vivoglobal.com CNAME .
 *.uk-timesync.vivoglobal.com CNAME .
 err.up.vivoglobal.com CNAME .
 *.err.up.vivoglobal.com CNAME .
-xn--ex-adreq-asa-c5b.vivoglobal.com CNAME .
-*.xn--ex-adreq-asa-c5b.vivoglobal.com CNAME .
 xn-ex-adreq-asa-c5b.vivoglobal.com CNAME .
 *.xn-ex-adreq-asa-c5b.vivoglobal.com CNAME .
 za-p.vivoglobal.com CNAME .

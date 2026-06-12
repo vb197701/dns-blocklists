@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 May 2026 12:58 UTC
-# Version: 2026.0528.1258.11
+# Last modified: 12 Jun 2026 19:11 UTC
+# Version: 2026.0612.1911.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 890
+# Number of entries: 899
 #
 local=/2ch.org/
 local=/4cdn.org/
@@ -72,6 +72,9 @@ local=/clubhouseapi.com/
 local=/cms-twdigitalassets.com/
 local=/como-hackearfacebook.com/
 local=/componentkit.org/
+local=/crowdtangle.com/
+local=/cs1404.wpc.epsiloncdn.net/
+local=/cs767.wpc.epsiloncdn.net/
 local=/cupoftea.social/
 local=/cyberplace.social/
 local=/dacebook.com/
@@ -169,6 +172,7 @@ local=/facebooik.com/
 local=/facebooik.org/
 local=/facebooj.com/
 local=/facebook-corp.com/
+local=/facebook-covid-19.com/
 local=/facebook-ebook.com/
 local=/facebook-forum.com/
 local=/facebook-hardware.com/
@@ -222,6 +226,7 @@ local=/facebookclub.com/
 local=/facebookcom.com/
 local=/facebookconnect.com/
 local=/facebookconsultant.org/
+local=/facebookcoronavirus.com/
 local=/facebookcovers.org/
 local=/facebookcredits.info/
 local=/facebookdating.net/
@@ -375,6 +380,7 @@ local=/fbbmarket.com/
 local=/fbboostyourbusiness.com/
 local=/fbcdn.com/
 local=/fbcdn.net/
+local=/fbf8.com/
 local=/fbfeedback.com/
 local=/fbhome.com/
 local=/fbidb.io/
@@ -385,10 +391,14 @@ local=/fblitho.com/
 local=/fbmarketing.com/
 local=/fbmessenger.com/
 local=/fbredex.com/
+local=/fbreg.com/
 local=/fbrell.com/
+local=/fbrpms.com/
 local=/fbsbx.com/
 local=/fbsbx.net/
+local=/fbsupport-covid.net/
 local=/fbthirdpartypixel.com/
+local=/fbthirdpartypixel.net/
 local=/fbthirdpartypixel.org/
 local=/fburl.com/
 local=/fbwat.ch/
@@ -469,6 +479,7 @@ local=/hessen.social/
 local=/hhvm.com/
 local=/hifacebook.info/
 local=/hostux.social/
+local=/howtohackfacebook-account.com/
 local=/hsfacebook.com/
 local=/httpfacebook.com/
 local=/httpsfacebook.com/
@@ -479,7 +490,9 @@ local=/huoshanzhibo.com/
 local=/i.org/
 local=/ieji.de/
 local=/ig.me/
+local=/igcdn.com/
 local=/igsonar.com/
+local=/igtv.com/
 local=/imgsmail.ru/
 local=/impala-media-production.s3.amazonaws.com/
 local=/imstagram.com/
@@ -678,14 +691,10 @@ local=/p16-tiktok-dm-sticker-sign-sg.ibyteimg.com/
 local=/p16-tiktok-dm-sticker-sign-useast2a.ibyteimg.com/
 local=/p16-tiktok-dm-sticker-sign-va.ibyteimg.com/
 local=/p16-tiktok-group-icon-sign-sg.ibyteimg.com/
-local=/p16-tiktok-group-icon-sign-va.ibyteimg.com/
 local=/p16-tiktok-livestudio-asset-sg.ibyteimg.com/
 local=/p16-tiktok-ls-merchant-sign-sg.ibyteimg.com/
-local=/p16-tiktok-ls-product-sign-sg.ibyteimg.com/
 local=/p16-tiktok-poi-picture-sign-sg.ibyteimg.com/
-local=/p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com/
 local=/p16-tiktok-va.ibyteimg.com/
-local=/p16-tiktok-web-ads-sg.ibyteimg.com/
 local=/p16-tiktokcdn-com.akamaized.net/
 local=/parse.com/
 local=/periscope.tv/

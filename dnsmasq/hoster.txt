@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2026 07:23 UTC
-# Version: 2026.0612.0723.45
+# Last modified: 12 Jun 2026 19:55 UTC
+# Version: 2026.0612.1955.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 964
+# Number of entries: 968
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -583,6 +583,8 @@ local=/jixx.de/
 local=/jixx.net/
 local=/job.ec/
 local=/jp.gp/
+local=/just-allen.com/
+local=/justicewasgreen.com/
 local=/justns.ru/
 local=/k.gp/
 local=/k1.cx/
@@ -677,6 +679,7 @@ local=/netai.net/
 local=/netau.net/
 local=/netfast.org/
 local=/nethouse.ru/
+local=/netne.net/
 local=/netten.ru/
 local=/netz.tl/
 local=/newmail.ru/
@@ -801,6 +804,7 @@ local=/shop2.de/
 local=/shopping.cr/
 local=/shopping.hn/
 local=/shortenerword.com/
+local=/site11.com/
 local=/site123.me/
 local=/site50.net/
 local=/site88.net/

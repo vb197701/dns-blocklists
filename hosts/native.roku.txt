@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Feb 2026 16:13 UTC
-# Version: 2026.0206.1613.40
+# Last modified: 12 Jun 2026 19:18 UTC
+# Version: 2026.0612.1918.52
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 156
+# Number of entries: 158
 #
 0.0.0.0 ravm.tv
 0.0.0.0 cdn.ravm.tv
@@ -83,6 +83,8 @@
 0.0.0.0 us-east4.ads.gcp.roku.com
 0.0.0.0 adeng-staging-device.us-east4.ads.gcp.roku.com
 0.0.0.0 us-west1.ads.gcp.roku.com
+0.0.0.0 ad.qa.ap.int.roku.com
+0.0.0.0 ad.usw2.qa.ap.int.roku.com
 0.0.0.0 ad.prod.rpay.int.roku.com
 0.0.0.0 ad-bl.prod.rpay.int.roku.com
 0.0.0.0 ad-eng.prod.rpay.int.roku.com

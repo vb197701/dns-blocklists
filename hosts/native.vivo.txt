@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Jun 2026 06:55 UTC
-# Version: 2026.0609.0655.34
+# Last modified: 12 Jun 2026 19:20 UTC
+# Version: 2026.0612.1920.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 244
+# Number of entries: 228
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 adlog.vivo.com.cn
@@ -73,6 +73,7 @@
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-asia-stsdk09.vivoglobal.com
 0.0.0.0 cname-asia02-stsdk.vivoglobal.com
+0.0.0.0 cname-de-stsdk.vivoglobal.com
 0.0.0.0 cname-in-apport-stsdk.vivoglobal.com
 0.0.0.0 cname-in-bom01-nginxpool03.vivoglobal.com
 0.0.0.0 cname-in-ctdbonrt-stsdk.vivoglobal.com
@@ -87,7 +88,6 @@
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
-0.0.0.0 eu-album-api.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
@@ -116,7 +116,6 @@
 0.0.0.0 in-apport-stsdk.vivoglobal.com
 0.0.0.0 in-apppnrt-stsdk.vivoglobal.com
 0.0.0.0 in-appprt-stsdk.vivoglobal.com
-0.0.0.0 in-cfg-stsdk.vivoglobal.com
 0.0.0.0 in-cota.vivoglobal.com
 0.0.0.0 in-ctdbonrt-stsdk.vivoglobal.com
 0.0.0.0 in-ctdbort-stsdk.vivoglobal.com
@@ -196,19 +195,6 @@
 0.0.0.0 ru-vcode-api.vivoglobal.com
 0.0.0.0 ru-vcode-od.vivoglobal.com
 0.0.0.0 ru-vcode-or.vivoglobal.com
-0.0.0.0 sca-domaincfg.vivoglobal.com
-0.0.0.0 sca-err-up.vivoglobal.com
-0.0.0.0 sca-onrt-stsdk.vivoglobal.com
-0.0.0.0 sca-ort-stsdk.vivoglobal.com
-0.0.0.0 sca-p.vivoglobal.com
-0.0.0.0 sca-pnrt-stsdk.vivoglobal.com
-0.0.0.0 sca-romsp-unifyconfig.vivoglobal.com
-0.0.0.0 sca-st-sl.vivoglobal.com
-0.0.0.0 sca-stsdk.vivoglobal.com
-0.0.0.0 sca-timesync.vivoglobal.com
-0.0.0.0 sca-vcode-api.vivoglobal.com
-0.0.0.0 sca-vcode-od.vivoglobal.com
-0.0.0.0 sca-vcode-or.vivoglobal.com
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
@@ -218,7 +204,6 @@
 0.0.0.0 tr-album-api.vivoglobal.com
 0.0.0.0 tr-cota.vivoglobal.com
 0.0.0.0 tr-domaincfg.vivoglobal.com
-0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
@@ -236,7 +221,6 @@
 0.0.0.0 tr-weather.vivoglobal.com
 0.0.0.0 uk-timesync.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
-0.0.0.0 xn--ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 za-p.vivoglobal.com
 0.0.0.0 zasc-cota.vivoglobal.com
