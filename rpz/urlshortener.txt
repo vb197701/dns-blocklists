@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781189940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781247480 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 14:59 UTC
-; Version: 2026.0611.1459.09
+; Last modified: 12 Jun 2026 06:58 UTC
+; Version: 2026.0612.0658.48
 ; Syntax: RPZ
-; Number of entries: 19774
+; Number of entries: 19850
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -363,6 +363,8 @@ findmini.app CNAME .
 *.findmini.app CNAME .
 grey-sphere-536600.framer.app CNAME .
 *.grey-sphere-536600.framer.app CNAME .
+gacor.app CNAME .
+*.gacor.app CNAME .
 gigbridge.app CNAME .
 *.gigbridge.app CNAME .
 gosnip.app CNAME .
@@ -1035,6 +1037,8 @@ elinks.bio CNAME .
 *.elinks.bio CNAME .
 exi.bio CNAME .
 *.exi.bio CNAME .
+followmy.bio CNAME .
+*.followmy.bio CNAME .
 gera.bio CNAME .
 *.gera.bio CNAME .
 golink.bio CNAME .
@@ -1339,6 +1343,8 @@ dky.bz CNAME .
 *.dky.bz CNAME .
 dld.bz CNAME .
 *.dld.bz CNAME .
+dte.bz CNAME .
+*.dte.bz CNAME .
 egw.bz CNAME .
 *.egw.bz CNAME .
 egy.bz CNAME .
@@ -1629,6 +1635,8 @@ dl100.cc CNAME .
 *.dl100.cc CNAME .
 ez1.cc CNAME .
 *.ez1.cc CNAME .
+ezurl.cc CNAME .
+*.ezurl.cc CNAME .
 famu.cc CNAME .
 *.famu.cc CNAME .
 fbook.cc CNAME .
@@ -4175,6 +4183,8 @@ s.ea-bank.com CNAME .
 *.s.ea-bank.com CNAME .
 earnestwiles.com CNAME .
 *.earnestwiles.com CNAME .
+earnshorter.com CNAME .
+*.earnshorter.com CNAME .
 earnshortly.com CNAME .
 *.earnshortly.com CNAME .
 earnwithlink.com CNAME .
@@ -4219,6 +4229,8 @@ eiwebs.com CNAME .
 *.eiwebs.com CNAME .
 el1nk.com CNAME .
 *.el1nk.com CNAME .
+el32.com CNAME .
+*.el32.com CNAME .
 elfdirect.com CNAME .
 *.elfdirect.com CNAME .
 eliasbrickner.com CNAME .
@@ -4263,6 +4275,8 @@ ex-foary.com CNAME .
 *.ex-foary.com CNAME .
 exploreosv.com CNAME .
 *.exploreosv.com CNAME .
+eyemakeu.com CNAME .
+*.eyemakeu.com CNAME .
 ezcashlink.com CNAME .
 *.ezcashlink.com CNAME .
 ezilinks.com CNAME .
@@ -4329,8 +4343,12 @@ linksmanager.fivedollarsaas.com CNAME .
 *.linksmanager.fivedollarsaas.com CNAME .
 fjr24.com CNAME .
 *.fjr24.com CNAME .
+fklit.com CNAME .
+*.fklit.com CNAME .
 fl-y.com CNAME .
 *.fl-y.com CNAME .
+flameurl.com CNAME .
+*.flameurl.com CNAME .
 flashwombat.com CNAME .
 *.flashwombat.com CNAME .
 flashylink.com CNAME .
@@ -4339,6 +4357,8 @@ flattools.com CNAME .
 *.flattools.com CNAME .
 flbox.com CNAME .
 *.flbox.com CNAME .
+flexjetcareers.com CNAME .
+*.flexjetcareers.com CNAME .
 flextrig.com CNAME .
 *.flextrig.com CNAME .
 flickerlink.com CNAME .
@@ -4405,6 +4425,8 @@ g-linkly.com CNAME .
 *.g-linkly.com CNAME .
 gacortangandewa.com CNAME .
 *.gacortangandewa.com CNAME .
+gamegift24.com CNAME .
+*.gamegift24.com CNAME .
 gamegta.com CNAME .
 *.gamegta.com CNAME .
 gamerzchoices.com CNAME .
@@ -4419,6 +4441,8 @@ go.gcash.com CNAME .
 *.go.gcash.com CNAME .
 gclnk.com CNAME .
 *.gclnk.com CNAME .
+gdurl.com CNAME .
+*.gdurl.com CNAME .
 gempixel.com CNAME .
 *.gempixel.com CNAME .
 links.geneasens.com CNAME .
@@ -4473,6 +4497,8 @@ glincker.com CNAME .
 *.glincker.com CNAME .
 glintsurvey.com CNAME .
 *.glintsurvey.com CNAME .
+globargains.com CNAME .
+*.globargains.com CNAME .
 glolin.com CNAME .
 *.glolin.com CNAME .
 go2ln.com CNAME .
@@ -4485,6 +4511,8 @@ goatcodes.com CNAME .
 *.goatcodes.com CNAME .
 link.goglogo.com CNAME .
 *.link.goglogo.com CNAME .
+gohostd.com CNAME .
+*.gohostd.com CNAME .
 golnkz.com CNAME .
 *.golnkz.com CNAME .
 gomakethings.com CNAME .
@@ -4571,6 +4599,8 @@ heilynk.com CNAME .
 *.heilynk.com CNAME .
 st.hellogil.com CNAME .
 *.st.hellogil.com CNAME .
+hellotxt.com CNAME .
+*.hellotxt.com CNAME .
 help-on.com CNAME .
 *.help-on.com CNAME .
 app.helpline-app.com CNAME .
@@ -4583,6 +4613,8 @@ shorrtener.herokuapp.com CNAME .
 *.shorrtener.herokuapp.com CNAME .
 heykamu.com CNAME .
 *.heykamu.com CNAME .
+hibastyle.com CNAME .
+*.hibastyle.com CNAME .
 hibfox.com CNAME .
 *.hibfox.com CNAME .
 hicider.com CNAME .
@@ -8443,6 +8475,8 @@ epochtim.es CNAME .
 *.epochtim.es CNAME .
 fnk.es CNAME .
 *.fnk.es CNAME .
+gurl.es CNAME .
+*.gurl.es CNAME .
 kamo.es CNAME .
 *.kamo.es CNAME .
 liu.es CNAME .
@@ -8539,6 +8573,8 @@ golnk.eu CNAME .
 *.golnk.eu CNAME .
 halloit.eu CNAME .
 *.halloit.eu CNAME .
+hepsipay.eu CNAME .
+*.hepsipay.eu CNAME .
 url.hilberg.eu CNAME .
 *.url.hilberg.eu CNAME .
 bit.ignifi.eu CNAME .
@@ -9413,6 +9449,8 @@ gjk.id CNAME .
 *.gjk.id CNAME .
 s.bnpb.go.id CNAME .
 *.s.bnpb.go.id CNAME .
+goads.id CNAME .
+*.goads.id CNAME .
 goitb.id CNAME .
 *.goitb.id CNAME .
 hilink.id CNAME .
@@ -9829,6 +9867,8 @@ gowes.in CNAME .
 *.gowes.in CNAME .
 hi4.in CNAME .
 *.hi4.in CNAME .
+href.in CNAME .
+*.href.in CNAME .
 hutmat.in CNAME .
 *.hutmat.in CNAME .
 i09.in CNAME .
@@ -10663,6 +10703,8 @@ doturl.io CNAME .
 *.doturl.io CNAME .
 dsgfs.io CNAME .
 *.dsgfs.io CNAME .
+dsn.io CNAME .
+*.dsn.io CNAME .
 dti.io CNAME .
 *.dti.io CNAME .
 dtsx.io CNAME .
@@ -10717,6 +10759,8 @@ greyhive.io CNAME .
 *.greyhive.io CNAME .
 gruntwork.io CNAME .
 *.gruntwork.io CNAME .
+hex.io CNAME .
+*.hex.io CNAME .
 link.hexlet.io CNAME .
 *.link.hexlet.io CNAME .
 hhbw.io CNAME .
@@ -11305,12 +11349,16 @@ ebbco.ir CNAME .
 *.ebbco.ir CNAME .
 ee9.ir CNAME .
 *.ee9.ir CNAME .
+fi9.ir CNAME .
+*.fi9.ir CNAME .
 fna.ir CNAME .
 *.fna.ir CNAME .
 go2l.ir CNAME .
 *.go2l.ir CNAME .
 h3x.ir CNAME .
 *.h3x.ir CNAME .
+harmonyurl.ir CNAME .
+*.harmonyurl.ir CNAME .
 amirhossein.id.ir CNAME .
 *.amirhossein.id.ir CNAME .
 ilk.ir CNAME .
@@ -12511,6 +12559,8 @@ f-n.link CNAME .
 *.f-n.link CNAME .
 f24.link CNAME .
 *.f24.link CNAME .
+f44.link CNAME .
+*.f44.link CNAME .
 fandom.link CNAME .
 *.fandom.link CNAME .
 faras.link CNAME .
@@ -12543,6 +12593,8 @@ gek.link CNAME .
 *.gek.link CNAME .
 gemy.link CNAME .
 *.gemy.link CNAME .
+generating.link CNAME .
+*.generating.link CNAME .
 gfl2exilium.link CNAME .
 *.gfl2exilium.link CNAME .
 gfmt.link CNAME .
@@ -13091,6 +13143,8 @@ eurl.live CNAME .
 *.eurl.live CNAME .
 facebookid.live CNAME .
 *.facebookid.live CNAME .
+fenomen.live CNAME .
+*.fenomen.live CNAME .
 forsakenx.live CNAME .
 *.forsakenx.live CNAME .
 fpis.live CNAME .
@@ -13813,6 +13867,8 @@ ezbio.me CNAME .
 *.ezbio.me CNAME .
 ezbz.me CNAME .
 *.ezbz.me CNAME .
+ezclick.me CNAME .
+*.ezclick.me CNAME .
 f-ast.me CNAME .
 *.f-ast.me CNAME .
 fandw.me CNAME .
@@ -14591,6 +14647,8 @@ prvt.mobi CNAME .
 *.prvt.mobi CNAME .
 tinyurl.mobi CNAME .
 *.tinyurl.mobi CNAME .
+go.westco.mobi CNAME .
+*.go.westco.mobi CNAME .
 ytxt.mobi CNAME .
 *.ytxt.mobi CNAME .
 aaa.moda CNAME .
@@ -14723,6 +14781,8 @@ esa.my CNAME .
 *.esa.my CNAME .
 filmygallery1.my CNAME .
 *.filmygallery1.my CNAME .
+gir.my CNAME .
+*.gir.my CNAME .
 goto.my CNAME .
 *.goto.my CNAME .
 grm.my CNAME .
@@ -15973,6 +16033,8 @@ gacortexas.org CNAME .
 *.gacortexas.org CNAME .
 gbod.org CNAME .
 *.gbod.org CNAME .
+getadsnow.org CNAME .
+*.getadsnow.org CNAME .
 givecharleston.org CNAME .
 *.givecharleston.org CNAME .
 gosite.org CNAME .
@@ -16961,6 +17023,8 @@ curl.ro CNAME .
 *.curl.ro CNAME .
 damoro.ro CNAME .
 *.damoro.ro CNAME .
+fi.ro CNAME .
+*.fi.ro CNAME .
 fsu.ro CNAME .
 *.fsu.ro CNAME .
 icks.ro CNAME .
@@ -17233,6 +17297,8 @@ zz.sd CNAME .
 *.7i.se CNAME .
 benes.se CNAME .
 *.benes.se CNAME .
+eclip.se CNAME .
+*.eclip.se CNAME .
 ecra.se CNAME .
 *.ecra.se CNAME .
 grnh.se CNAME .
@@ -17393,6 +17459,8 @@ djarum88.shop CNAME .
 *.djarum88.shop CNAME .
 g2h7.shop CNAME .
 *.g2h7.shop CNAME .
+hoki108.shop CNAME .
+*.hoki108.shop CNAME .
 imo-call.shop CNAME .
 *.imo-call.shop CNAME .
 indahnyaberbagi.shop CNAME .
@@ -17475,6 +17543,8 @@ firelinks.site CNAME .
 *.firelinks.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
+glowin88.site CNAME .
+*.glowin88.site CNAME .
 hisweb.site CNAME .
 *.hisweb.site CNAME .
 islinks.site CNAME .
@@ -18083,6 +18153,8 @@ edm.to CNAME .
 *.edm.to CNAME .
 escape.to CNAME .
 *.escape.to CNAME .
+fanlink.to CNAME .
+*.fanlink.to CNAME .
 fff.to CNAME .
 *.fff.to CNAME .
 ffm.to CNAME .
@@ -18913,6 +18985,8 @@ ewed.us CNAME .
 *.ewed.us CNAME .
 exx.us CNAME .
 *.exx.us CNAME .
+flpl.us CNAME .
+*.flpl.us CNAME .
 flq.us CNAME .
 *.flq.us CNAME .
 fuxx.us CNAME .
@@ -19501,6 +19575,8 @@ brev.ws CNAME .
 *.brev.ws CNAME .
 cbsn.ws CNAME .
 *.cbsn.ws CNAME .
+droid.ws CNAME .
+*.droid.ws CNAME .
 ficken.ws CNAME .
 *.ficken.ws CNAME .
 fly2.ws CNAME .

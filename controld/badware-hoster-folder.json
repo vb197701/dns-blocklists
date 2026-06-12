@@ -2402,6 +2402,13 @@
       }
     },
     {
+      "PK": "educatorpage.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "educatorpages.com",
       "action": {
         "do": 0,
@@ -2738,6 +2745,13 @@
       }
     },
     {
+      "PK": "financial-offer.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "firm.nu",
       "action": {
         "do": 0,
@@ -2913,6 +2927,13 @@
       }
     },
     {
+      "PK": "freecyberzone.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "freehomepage.com",
       "action": {
         "do": 0,
@@ -2998,6 +3019,13 @@
     },
     {
       "PK": "freevar.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "freewaywebhost.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3417,7 +3445,21 @@
       }
     },
     {
+      "PK": "host56.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "hostedforfree.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hostei.com",
       "action": {
         "do": 0,
         "status": 1
@@ -3446,6 +3488,13 @@
     },
     {
       "PK": "hostoi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hostzi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4558,6 +4607,13 @@
       }
     },
     {
+      "PK": "net76.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "net84.net",
       "action": {
         "do": 0,
@@ -4566,6 +4622,13 @@
     },
     {
       "PK": "netai.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "netau.net",
       "action": {
         "do": 0,
         "status": 1
@@ -5462,6 +5525,20 @@
     },
     {
       "PK": "site123.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "site50.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "site88.net",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781164800 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781250960 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 08:00 UTC
-; Version: 2026.0611.0800.32
+; Last modified: 12 Jun 2026 07:56 UTC
+; Version: 2026.0612.0756.49
 ; Syntax: RPZ
-; Number of entries: 6822
+; Number of entries: 6862
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -573,6 +573,8 @@ dohsg.goitoi.co CNAME .
 *.dohsg.goitoi.co CNAME .
 adguard.mapor.co CNAME .
 *.adguard.mapor.co CNAME .
+dns.oszx.co CNAME .
+*.dns.oszx.co CNAME .
 blokuj.ujwie.co CNAME .
 *.blokuj.ujwie.co CNAME .
 nitter.ujwie.co CNAME .
@@ -1367,6 +1369,8 @@ ss.microbaidu.com CNAME .
 *.ss.microbaidu.com CNAME .
 mikewaddick.com CNAME .
 *.mikewaddick.com CNAME .
+dns.mipauns.com CNAME .
+*.dns.mipauns.com CNAME .
 httpdns.browser.miui.com CNAME .
 *.httpdns.browser.miui.com CNAME .
 dns.miyun1.com CNAME .
@@ -1553,6 +1557,28 @@ dns.pgnhatrang.com CNAME .
 *.dns.pgnhatrang.com CNAME .
 philqoo.com CNAME .
 *.philqoo.com CNAME .
+doh.centraleu.pi-dns.com CNAME .
+*.doh.centraleu.pi-dns.com CNAME .
+dot.centraleu.pi-dns.com CNAME .
+*.dot.centraleu.pi-dns.com CNAME .
+doh.pi-dns.com CNAME .
+*.doh.pi-dns.com CNAME .
+doh.eastas.pi-dns.com CNAME .
+*.doh.eastas.pi-dns.com CNAME .
+dot.eastas.pi-dns.com CNAME .
+*.dot.eastas.pi-dns.com CNAME .
+doh.eastau.pi-dns.com CNAME .
+*.doh.eastau.pi-dns.com CNAME .
+dot.eastau.pi-dns.com CNAME .
+*.dot.eastau.pi-dns.com CNAME .
+doh.eastus.pi-dns.com CNAME .
+*.doh.eastus.pi-dns.com CNAME .
+doh.northeu.pi-dns.com CNAME .
+*.doh.northeu.pi-dns.com CNAME .
+dot.northeu.pi-dns.com CNAME .
+*.dot.northeu.pi-dns.com CNAME .
+doh.westeu.pi-dns.com CNAME .
+*.doh.westeu.pi-dns.com CNAME .
 dns.pieterdherde.com CNAME .
 *.dns.pieterdherde.com CNAME .
 helios.plan9-dns.com CNAME .
@@ -2009,6 +2035,8 @@ dukun.de CNAME .
 *.dukun.de CNAME .
 atlantic.dyn1.de CNAME .
 *.atlantic.dyn1.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 dns.internal.espresso-tasse.de CNAME .
 *.dns.internal.espresso-tasse.de CNAME .
 opennic1.eth-services.de CNAME .
@@ -3855,6 +3883,8 @@ flyloadguard.dynu.net CNAME .
 *.flyloadguard.dynu.net CNAME .
 quangdo92.dynu.net CNAME .
 *.quangdo92.dynu.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 dnscache.e-utp.net CNAME .
 *.dnscache.e-utp.net CNAME .
 adguard.easez.net CNAME .
@@ -4541,6 +4571,8 @@ dns.mahiro.online CNAME .
 *.dns.mahiro.online CNAME .
 ddns.martinmore.online CNAME .
 *.ddns.martinmore.online CNAME .
+dns.mathewakhil.online CNAME .
+*.dns.mathewakhil.online CNAME .
 dns.mymachinepanda.online CNAME .
 *.dns.mymachinepanda.online CNAME .
 n8nmegapixar.online CNAME .
@@ -4771,6 +4803,8 @@ resolver.dns.eban.eu.org CNAME .
 *.resolver.dns.eban.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 *.doh.excdn.eu.org CNAME .
+futuredns.eu.org CNAME .
+*.futuredns.eu.org CNAME .
 doh.greenwood.eu.org CNAME .
 *.doh.greenwood.eu.org CNAME .
 sweethome.in.eu.org CNAME .
@@ -4903,6 +4937,8 @@ fwgw.orangepipc.mywire.org CNAME .
 *.fwgw.orangepipc.mywire.org CNAME .
 nelsonleung.org CNAME .
 *.nelsonleung.org CNAME .
+dns.neutopia.org CNAME .
+*.dns.neutopia.org CNAME .
 dns.ninhs.org CNAME .
 *.dns.ninhs.org CNAME .
 daemonhunt.no-ip.org CNAME .
@@ -5123,6 +5159,8 @@ cober-sky.pro CNAME .
 *.cober-sky.pro CNAME .
 drahonn.pro CNAME .
 *.drahonn.pro CNAME .
+dns.dynx.pro CNAME .
+*.dns.dynx.pro CNAME .
 gl33tch.pro CNAME .
 *.gl33tch.pro CNAME .
 httpdns.pro CNAME .
@@ -6701,6 +6739,8 @@ agent.frankutils.xyz CNAME .
 *.agent.frankutils.xyz CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
+dns.haoxuan.xyz CNAME .
+*.dns.haoxuan.xyz CNAME .
 v2-1.huwenqiang.xyz CNAME .
 *.v2-1.huwenqiang.xyz CNAME .
 opennic.i2pd.xyz CNAME .

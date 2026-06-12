@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jun 2026 16:01 UTC
-! Version: 2026.0611.1601.07
+! Last modified: 12 Jun 2026 07:56 UTC
+! Version: 2026.0612.0756.14
 ! Syntax: AdBlock
-! Number of entries: 1500
+! Number of entries: 1505
 !
 ||dyn.addr.tools^
 ||changeip.co.uk^
@@ -28,6 +28,7 @@
 ||dynamicdns.org.uk^
 ||limit.org.uk^
 ||h4g3z1-dyndns.web.app^
+||dyndns.za.org^
 ||0000000000000000000000.com^
 ||0rg.us^
 ||0x.no^
@@ -354,6 +355,7 @@
 ||doomdns.com^
 ||doomdns.org^
 ||dougtreadwell.com^
+||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
 ||dray-dns.de^
@@ -503,6 +505,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||expired-dns.com^
 ||ez-dns.com^
 ||ez-ip.net^
@@ -542,6 +545,7 @@
 ||fortiddns.com^
 ||forumz.info^
 ||fragmentary.info^
+||free-ddns.com^
 ||freeddns.com^
 ||freeddns.org^
 ||freeddns.uk^
@@ -617,6 +621,7 @@
 ||game-host.org^
 ||game-server.cc^
 ||garmanage.com^
+||garypatel.com^
 ||gastright.com^
 ||geekgalaxy.com^
 ||geobattery.com^

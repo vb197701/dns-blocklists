@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 08:00 UTC
-# Version: 2026.0611.0800.32
+# Last modified: 12 Jun 2026 07:56 UTC
+# Version: 2026.0612.0756.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3859
+# Number of entries: 3882
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1311,6 +1311,7 @@
 0.0.0.0 de-ber.doh.sb
 0.0.0.0 de-dus.doh.sb
 0.0.0.0 de-fra.doh.sb
+0.0.0.0 dns.doh.best
 0.0.0.0 ee-tll.doh.sb
 0.0.0.0 eu.doh.sb
 0.0.0.0 europe.doh.sb
@@ -1440,6 +1441,7 @@
 0.0.0.0 duyyen.tk
 0.0.0.0 dvgarm.com
 0.0.0.0 atlantic.dyn1.de
+0.0.0.0 dns.dyn1.de
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
@@ -1448,6 +1450,8 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
+0.0.0.0 gustamadh.dynv6.net
+0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1530,6 +1534,9 @@
 0.0.0.0 clic.eu.org
 0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
+0.0.0.0 futuredns.eu.org
+0.0.0.0 dns.de.futuredns.eu.org
+0.0.0.0 dns.us.futuredns.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
 0.0.0.0 kaiser.int.eu.org
@@ -1814,6 +1821,7 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
+0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
@@ -2410,6 +2418,7 @@
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 www.masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2468,6 +2477,7 @@
 0.0.0.0 dns.millernetwork.uk
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
+0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 mistasinresolver.ru
@@ -2672,6 +2682,7 @@
 0.0.0.0 dns.netvpn.net
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
+0.0.0.0 dns.neutopia.org
 0.0.0.0 doh.nexen.cloud
 0.0.0.0 doh.luigi.nexific.it
 0.0.0.0 dns.nextdns.io
@@ -2857,6 +2868,7 @@
 0.0.0.0 dns.osmenoga.com
 0.0.0.0 wireguard.osmenoga.com
 0.0.0.0 dns.ostfriese.org
+0.0.0.0 dns.oszx.co
 0.0.0.0 adguard.ota.moe
 0.0.0.0 adguard2.ota.moe
 0.0.0.0 adguard3.ota.moe
@@ -2915,6 +2927,17 @@
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
 0.0.0.0 phongg.vn
+0.0.0.0 doh.centraleu.pi-dns.com
+0.0.0.0 dot.centraleu.pi-dns.com
+0.0.0.0 doh.pi-dns.com
+0.0.0.0 doh.eastas.pi-dns.com
+0.0.0.0 dot.eastas.pi-dns.com
+0.0.0.0 doh.eastau.pi-dns.com
+0.0.0.0 dot.eastau.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 dot.northeu.pi-dns.com
+0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl
 0.0.0.0 dns.pieterdherde.com

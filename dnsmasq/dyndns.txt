@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 16:01 UTC
-# Version: 2026.0611.1601.07
+# Last modified: 12 Jun 2026 07:56 UTC
+# Version: 2026.0612.0756.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1500
+# Number of entries: 1505
 #
 local=/dyn.addr.tools/
 local=/changeip.co.uk/
@@ -27,6 +27,7 @@ local=/d-n-s.org.uk/
 local=/dynamicdns.org.uk/
 local=/limit.org.uk/
 local=/h4g3z1-dyndns.web.app/
+local=/dyndns.za.org/
 local=/0000000000000000000000.com/
 local=/0rg.us/
 local=/0x.no/
@@ -353,6 +354,7 @@ local=/dontexist.org/
 local=/doomdns.com/
 local=/doomdns.org/
 local=/dougtreadwell.com/
+local=/doyleandprendergast.com/
 local=/dp76.com/
 local=/dpcube.com/
 local=/dray-dns.de/
@@ -502,6 +504,7 @@ local=/etitrans.com/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
+local=/evils.in/
 local=/expired-dns.com/
 local=/ez-dns.com/
 local=/ez-ip.net/
@@ -541,6 +544,7 @@ local=/forss.to/
 local=/fortiddns.com/
 local=/forumz.info/
 local=/fragmentary.info/
+local=/free-ddns.com/
 local=/freeddns.com/
 local=/freeddns.org/
 local=/freeddns.uk/
@@ -616,6 +620,7 @@ local=/gally.jp/
 local=/game-host.org/
 local=/game-server.cc/
 local=/garmanage.com/
+local=/garypatel.com/
 local=/gastright.com/
 local=/geekgalaxy.com/
 local=/geobattery.com/

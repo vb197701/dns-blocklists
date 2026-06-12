@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1781202360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1781248980 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Jun 2026 18:26 UTC
-; Version: 2026.0611.1826.47
+; Last modified: 12 Jun 2026 07:23 UTC
+; Version: 2026.0612.0723.45
 ; Syntax: RPZ
-; Number of entries: 1906
+; Number of entries: 1928
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -336,6 +336,8 @@ ecrater.com CNAME .
 *.ecrater.com CNAME .
 edoctransfer.com CNAME .
 *.edoctransfer.com CNAME .
+educatorpage.com CNAME .
+*.educatorpage.com CNAME .
 educatorpages.com CNAME .
 *.educatorpages.com CNAME .
 elementfx.com CNAME .
@@ -374,6 +376,8 @@ filesusr.com CNAME .
 *.filesusr.com CNAME .
 financecryptoworld.com CNAME .
 *.financecryptoworld.com CNAME .
+financial-offer.com CNAME .
+*.financial-offer.com CNAME .
 firstcloudit.com CNAME .
 *.firstcloudit.com CNAME .
 flazio.com CNAME .
@@ -384,6 +388,8 @@ fourthwall.com CNAME .
 *.fourthwall.com CNAME .
 freecities.com CNAME .
 *.freecities.com CNAME .
+freecyberzone.com CNAME .
+*.freecyberzone.com CNAME .
 freehomepage.com CNAME .
 *.freehomepage.com CNAME .
 freehostia.com CNAME .
@@ -404,6 +410,8 @@ freetzi.com CNAME .
 *.freetzi.com CNAME .
 freevar.com CNAME .
 *.freevar.com CNAME .
+freewaywebhost.com CNAME .
+*.freewaywebhost.com CNAME .
 freewebhosting4u.com CNAME .
 *.freewebhosting4u.com CNAME .
 freewebhostingarea.com CNAME .
@@ -444,14 +452,20 @@ homemarker.com CNAME .
 *.homemarker.com CNAME .
 host22.com CNAME .
 *.host22.com CNAME .
+host56.com CNAME .
+*.host56.com CNAME .
 hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
+hostei.com CNAME .
+*.hostei.com CNAME .
 hostingersite.com CNAME .
 *.hostingersite.com CNAME .
 hostingsiteforfree.com CNAME .
 *.hostingsiteforfree.com CNAME .
 hostoi.com CNAME .
 *.hostoi.com CNAME .
+hostzi.com CNAME .
+*.hostzi.com CNAME .
 hpage.com CNAME .
 *.hpage.com CNAME .
 hr-organization.com CNAME .
@@ -1570,10 +1584,14 @@ net16.net CNAME .
 *.net16.net CNAME .
 net63.net CNAME .
 *.net63.net CNAME .
+net76.net CNAME .
+*.net76.net CNAME .
 net84.net CNAME .
 *.net84.net CNAME .
 netai.net CNAME .
 *.netai.net CNAME .
+netau.net CNAME .
+*.netau.net CNAME .
 onlinewebshop.net CNAME .
 *.onlinewebshop.net CNAME .
 pktriot.net CNAME .
@@ -1582,6 +1600,10 @@ ql4h.net CNAME .
 *.ql4h.net CNAME .
 serv00.net CNAME .
 *.serv00.net CNAME .
+site50.net CNAME .
+*.site50.net CNAME .
+site88.net CNAME .
+*.site88.net CNAME .
 site90.net CNAME .
 *.site90.net CNAME .
 sportsontheweb.net CNAME .

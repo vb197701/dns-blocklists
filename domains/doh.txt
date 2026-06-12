@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 08:00 UTC
-# Version: 2026.0611.0800.32
+# Last modified: 12 Jun 2026 07:56 UTC
+# Version: 2026.0612.0756.49
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3859
+# Number of entries: 3882
 #
 ss.0001.xyz
 003153.xyz
@@ -1311,6 +1311,7 @@ ca-yyz.doh.sb
 de-ber.doh.sb
 de-dus.doh.sb
 de-fra.doh.sb
+dns.doh.best
 ee-tll.doh.sb
 eu.doh.sb
 europe.doh.sb
@@ -1440,6 +1441,7 @@ www.dupatruwi22.fun
 duyyen.tk
 dvgarm.com
 atlantic.dyn1.de
+dns.dyn1.de
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
 roucious.dyndns-remote.com
@@ -1448,6 +1450,8 @@ ccadguard.dynu.net
 adguard.ekhozie.dynu.net
 flyloadguard.dynu.net
 quangdo92.dynu.net
+gustamadh.dynv6.net
+dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
 dns.dzkji.cn
@@ -1530,6 +1534,9 @@ jp.dns.bliod.eu.org
 clic.eu.org
 resolver.dns.eban.eu.org
 doh.excdn.eu.org
+futuredns.eu.org
+dns.de.futuredns.eu.org
+dns.us.futuredns.eu.org
 doh.greenwood.eu.org
 sweethome.in.eu.org
 kaiser.int.eu.org
@@ -1814,6 +1821,7 @@ hanniel.tech
 dns.hannielzhang.com
 jp.hannielzhang.com
 d.hansj.cc
+dns.haoxuan.xyz
 resolver.haringstad.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
@@ -2410,6 +2418,7 @@ mastergad.me
 masters-of-cloud.de
 www.masters-of-cloud.de
 dns.mateo.ovh
+dns.mathewakhil.online
 rasp.matthias-iwer.de
 dns.matthias-prost.com
 maxfong.cc
@@ -2468,6 +2477,7 @@ rwkdwpwsyv48.mikopono.nl
 dns.millernetwork.uk
 aitkcrev.minhduc.pw
 minilla.store
+dns.mipauns.com
 guard.miracloud.fr
 netcup.mismat.ch
 mistasinresolver.ru
@@ -2672,6 +2682,7 @@ resolv2.nettplus.net
 dns.netvpn.net
 cube.neubsi.at
 dns.neubsi.at
+dns.neutopia.org
 doh.nexen.cloud
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -2857,6 +2868,7 @@ oscnl.site
 dns.osmenoga.com
 wireguard.osmenoga.com
 dns.ostfriese.org
+dns.oszx.co
 adguard.ota.moe
 adguard2.ota.moe
 adguard3.ota.moe
@@ -2915,6 +2927,17 @@ dns.phillipjberry.net
 philqoo.com
 dns.philqoo.com
 phongg.vn
+doh.centraleu.pi-dns.com
+dot.centraleu.pi-dns.com
+doh.pi-dns.com
+doh.eastas.pi-dns.com
+dot.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+dot.eastau.pi-dns.com
+doh.eastus.pi-dns.com
+doh.northeu.pi-dns.com
+dot.northeu.pi-dns.com
+doh.westeu.pi-dns.com
 adguard.piekacz.pl
 dns.pierzchlewicz.pl
 dns.pieterdherde.com

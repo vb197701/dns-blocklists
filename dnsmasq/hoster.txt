@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jun 2026 18:26 UTC
-# Version: 2026.0611.1826.47
+# Last modified: 12 Jun 2026 07:23 UTC
+# Version: 2026.0612.0723.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 953
+# Number of entries: 964
 #
 local=/one4u.0lx.net/
 local=/free.bizhat.com/
@@ -364,6 +364,7 @@ local=/edgeone.app/
 local=/edgeone.dev/
 local=/edoctransfer.com/
 local=/edu.eu/
+local=/educatorpage.com/
 local=/educatorpages.com/
 local=/efacturas.net/
 local=/eg.gp/
@@ -411,6 +412,7 @@ local=/filelu.com/
 local=/filesusr.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
+local=/financial-offer.com/
 local=/firm.nu/
 local=/firstcloudit.com/
 local=/flashbuilder.net/
@@ -435,6 +437,7 @@ local=/free.cr/
 local=/free.lc/
 local=/free.nf/
 local=/freecities.com/
+local=/freecyberzone.com/
 local=/freehomepage.com/
 local=/freehost.ag/
 local=/freehoster.ch/
@@ -448,6 +451,7 @@ local=/freeservers.com/
 local=/freesite.org/
 local=/freetzi.com/
 local=/freevar.com/
+local=/freewaywebhost.com/
 local=/freeweb.me/
 local=/freewebhosting4u.com/
 local=/freewebhostingarea.com/
@@ -505,11 +509,14 @@ local=/homepage.cx/
 local=/homepage.lc/
 local=/hop.ru/
 local=/host22.com/
+local=/host56.com/
 local=/hostedforfree.com/
+local=/hostei.com/
 local=/hostingersite.com/
 local=/hostingsiteforfree.com/
 local=/hostland.pro/
 local=/hostoi.com/
+local=/hostzi.com/
 local=/hot.lc/
 local=/hotshare.net/
 local=/hp.lc/
@@ -664,8 +671,10 @@ local=/narod.ru/
 local=/neocities.org/
 local=/net16.net/
 local=/net63.net/
+local=/net76.net/
 local=/net84.net/
 local=/netai.net/
+local=/netau.net/
 local=/netfast.org/
 local=/nethouse.ru/
 local=/netten.ru/
@@ -793,6 +802,8 @@ local=/shopping.cr/
 local=/shopping.hn/
 local=/shortenerword.com/
 local=/site123.me/
+local=/site50.net/
+local=/site88.net/
 local=/site90.com/
 local=/site90.net/
 local=/sitepalace.com/

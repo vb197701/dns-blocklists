@@ -4928,6 +4928,13 @@
       }
     },
     {
+      "PK": "moddedmc.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "modding.wiki",
       "action": {
         "do": 1,

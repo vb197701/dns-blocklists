@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Jun 2026 08:01 UTC
-! Version: 2026.0611.0801.52
+! Last modified: 12 Jun 2026 07:57 UTC
+! Version: 2026.0612.0757.46
 ! Syntax: AdBlock
-! Number of entries: 260
+! Number of entries: 258
 !
 ||httpdns.music.163.com^
 ||doh.360.cn^
@@ -105,6 +105,7 @@
 ||sandbox.opendns.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
+||dns.oszx.co^
 ||pluton.plan9-dns.com^
 ||httpdns.kg.qq.com^
 ||dns.weixin.qq.com^
@@ -196,7 +197,6 @@
 ||doh.sb^
 ||domain.name^
 ||dot.pub^
-||edgy-dns.com^
 ||eth.link^
 ||farewellkou.click^
 ||fidelius.top^
@@ -254,7 +254,6 @@
 ||tecdrive.site^
 ||tlz.asia^
 ||toaster.lol^
-||tri-dns.net^
 ||tujenasnaszato.xyz^
 ||tuskythehusky.tech^
 ||typaza.com^
@@ -267,7 +266,6 @@
 ||xbox-dns.ru^
 ||xenergy.cc^
 ||xie.ke^
-||xn--durhre-yxa.de^
 ||yovbak.com^
 ||zdn.ro^
 ||zougloub.eu^

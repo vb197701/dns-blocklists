@@ -134,6 +134,13 @@
       }
     },
     {
+      "PK": "ads-msn-com-profile.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adstore.response.gcp.eastus.trafficmanager.net",
       "action": {
         "do": 0,
@@ -323,20 +330,6 @@
       }
     },
     {
-      "PK": "azure.bcp.bingads.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "azure.tip.bingads.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "azurewatson.microsoft.com",
       "action": {
         "do": 0,
@@ -380,6 +373,13 @@
     },
     {
       "PK": "bingads.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "bingads.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1
@@ -743,6 +743,13 @@
       }
     },
     {
+      "PK": "collection-location-livenet.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "collector.azure.cn",
       "action": {
         "do": 0,
@@ -758,13 +765,6 @@
     },
     {
       "PK": "collector.azure.microsoft.cloud",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "collector.azure.microsoft.scloud",
       "action": {
         "do": 0,
         "status": 1
@@ -1030,6 +1030,13 @@
       }
     },
     {
+      "PK": "eurffc-word-telemetry.wac.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eurppc-excel-telemetry.officeapps.live.com",
       "action": {
         "do": 0,
@@ -1136,6 +1143,13 @@
     },
     {
       "PK": "ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "fgteu1-word-telemetry-vip.officeapps.live.com",
       "action": {
         "do": 0,
         "status": 1
